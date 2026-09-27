@@ -1,0 +1,557 @@
+Termos e condições
+1. INTRODUÇÃO
+1.1. Estes Termos e Condições (“Termos”) constituem um contrato legalmente vinculante entre você e a KTO. Se você não concordar com estes Termos, não deverá acessar ou usar nossa plataforma e/ou serviços. Ao usar e/ou acessar qualquer seção deste Site e/ou serviços, ou ao abrir uma conta neste Site, você concorda em estar vinculado a:
+1.2. Não podemos fornecer quaisquer serviços de apostas esportivas ou jogos on-line até que o processo de verificação de identidade seja concluído com sucesso. Você pode retomar o processo de registro a qualquer momento. No entanto, o acesso aos serviços permanecerá restrito até que o processo de verificação seja finalizado.
+1.3. Ao aceitar estes Termos e Condições e concluir com sucesso o processo de verificação de identidade para obter acesso aos serviços de apostas esportivas e jogos on-line, você declara que leu, compreendeu e concorda em estar vinculado ao seguinte:
+1.1.1. Os Termos e Condições Gerais, nesta página.
+1.1.2. A Política de Privacidade.     
+1.1.3. A Política de Jogo Responsável.
+1.1.4. As Regras Esportivas. 
+1.1.5. As Regras de Jogos On-line
+1.3.6. Quaisquer outros Termos e Condições aplicáveis relacionados a quaisquer jogos, promoções, prêmios e ofertas que possam ser encontrados atualmente no Site.
+1.4. Leia atentamente os Termos antes de aceitá-los. Caso não concorde em aceitar e se vincular aos Termos, solicitamos que não registre uma conta conosco ou deixe de acessar e usar nosso Site e nossos serviços. O uso contínuo do Site e/ou dos serviços constitui sua aceitação incondicional e inequívoca dos Termos e Condições, bem como de nosso Aviso de Privacidade, Política de Jogo Responsável, Regras do Esporte, Regras de Jogos On-line e quaisquer outros termos e condições aplicáveis relacionados a quaisquer jogos, promoções, recompensas ou ofertas.
+1.5. Reservamo-nos o direito de recusar o registro de qualquer jogador que não aceite nossos Termos e Condições e/ou não forneça as informações necessárias para concluir o processo de verificação de identidade.
+1.6. Ao acessar este Site e/ou utilizar nossos serviços, você declara expressamente que não se enquadra nas Categorias Restritas, conforme definidas pela Lei nº 14.790, de 29 de dezembro de 2023. Para mais informações sobre tais categorias, consulte a Seção 4 – ABERTURA DE SUA CONTA E VERIFICAÇÃO destes Termos e Condições.
+1.7. É estritamente proibido acessar ou utilizar os serviços fornecidos sob estes Termos e Condições utilizando recursos, total ou parcialmente, provenientes dos programas Bolsa Família, Benefício de Prestação Continuada -LOAS ou de qualquer outro programa governamental de assistência social similar.
+2. SOBRE NÓS 
+2.1. A KTO oferece a você um site de jogos seguro, licenciado e confiável. Nossa plataforma foi criada por especialistas do setor de apostas focados em entregar nossa visão, que é proporcionar a você a melhor experiência de jogo.
+2.2. A KTO é operada pela APOLLO OPERATIONS LTDA., inscrita no CNPJ sob o nº 54.923.003/0001-26, com endereço na Rua Venâncio Aires, 387, 6º andar, bairro Centro, na cidade de Santa Cruz do Sul/RS, CEP 96810-204, Brasil.
+2.3. A KTO é autorizada e regulamentada pelo Governo Brasileiro de acordo com a Portaria SPA/MF nº 2.093, de 30 de dezembro de 2024 da Secretaria de Prêmios e Apostas (“SPA”) do Ministério da Fazenda.
+2.4. Ao longo destes Termos e Condições, sempre que mencionarmos “KTO.bet.br”, “KTO”, “nós” e “nosso”, estaremos nos referindo à APOLLO OPERATIONS LTDA.
+3. DEFINIÇÕES
+3.1. Para os fins destes Termos e Condições, aplicam-se as seguintes definições:
+Afiliados: Pessoas físicas ou jurídicas que fazem publicidade para agente operador de apostas, mediante compensação, ainda que não financeira, atrelada a resultados, tais como o número de apostadores captados ou os valores depositados ou gastos.
+Aplicativos de Internet: Um conjunto de funcionalidades acessíveis por meio de um terminal conectado à Internet, incluindo portais de vídeo, redes sociais, mecanismos de pesquisa e plataformas para inteligência artificial ou publicidade programática.
+Apostador: Um indivíduo (pessoa natural) que realiza uma aposta, um cliente.
+Apostas: O ato de apostar uma determinada quantia com a expectativa de ganhar um prêmio.
+Aposta aberta/em aberto: Uma aposta em um evento esportivo real ou em um evento de jogo virtual on-line que ainda não foi liquidada financeiramente pelo operador.
+Aposta virtual: Uma aposta feita diretamente pelo apostador por meio de um canal eletrônico, antes ou durante o evento que está sendo apostado.
+Autenticação: O processo de verificação de identidade para cadastro ou acesso do apostador ao sistema de apostas de quota fixa.
+Bolsa de apostas (betting exchange): Uma categoria em que os apostadores apostam uns contra os outros, e o valor multiplicador da aposta – odd – é definido entre eles e não pelo agente operador de apostas, o qual pode cobrar comissão sobre o lucro líquido da aposta vencedora.
+Canal eletrônico: Uma plataforma, que pode ser sítio eletrônico, aplicação de internet, ou ambas, de propriedade ou sob administração do agente operador de apostas, que viabiliza a realização de aposta por meio exclusivamente virtual.
+Conheça seu cliente (“KYC”): KYC é o processo que seguimos para verificar a identidade de nossos usuários, o que envolve a captura, a atualização, o armazenamento e a comparação das informações que coletamos.
+Consumidor: Refere-se a qualquer pessoa física que utilize os serviços da KTO como destinatário final.
+Conta cadastrada/registrada: Conta de depósito ou de pagamento pré-paga mantida pelo apostador em uma instituição financeira ou de pagamento autorizada a operar pelo Banco Central do Brasil, utilizada como origem dos aportes financeiros e como destino dos prêmios recebidos e dos saques de recursos financeiros feitos pelos apostadores com a KTO.
+Conta inativa: Conta de apostador junto a agente operador de apostas de quota fixa que fica sem realizar apostas pelo prazo de 90 (noventa) dias.
+Conta gráfica: Uma conta virtual disponibilizada pela KTO em seu sistema de apostas, que permite que cada apostador gerencie suas apostas e recursos financeiros.
+Conta proprietária: Uma conta de depósito ou pagamento pré-paga, de titularidade do agente operador e livremente operada por ele, mantida em uma instituição financeira ou de pagamento autorizada a operar pelo Banco Central do Brasil, usada para cobrir despesas operacionais e gerenciamento de liquidez.
+Conta transacional: Uma conta de depósito ou pagamento pré-paga mantida pelo agente operador em uma instituição financeira ou de pagamento autorizada a operar pelo Banco Central do Brasil, usada como destino dos aportes financeiros realizados pelos apostadores, para manter valores relativos a apostas abertas ou, por opção do apostador, para manter prêmios recebidos.
+Entidade certificadora: Pessoa jurídica com capacidade operacional reconhecida pela Secretaria de Prêmios e Apostas do Ministério da Fazenda do Brasil para testar e certificar equipamentos, programas, instrumentos e dispositivos que compõem os sistemas de apostas, estúdios de jogo ao vivo e jogos on-line utilizados pelas operadoras da modalidade lotérica de apostas de quota fixa, observados os requisitos técnicos estabelecidos em regulamentação específica.
+Estúdio de jogos ao vivo: Um ambiente físico que utiliza tecnologia de transmissão de vídeo ao vivo para oferecer jogos on-line ao vivo para um dispositivo de jogo remoto integrado ao sistema de apostas que permite que o apostador participe de jogos ao vivo e interaja com os atendentes do jogo.
+Evento virtual de um jogo on-line: Um evento, competição ou ação em jogos on-line com um resultado desconhecido no momento da aposta.
+Fantasy sport: Um esporte eletrônico em que as disputas ocorrem em um ambiente virtual, com base no desempenho de pessoas reais.
+Fornecedor: Operador de apostas.
+Intermediário de apostas: Um usuário registrado em sistema de apostas que faz apostas para terceiros usando sua própria conta, liquidando as apostas fora do sistema fornecido pelo operador de apostas.
+Jogos multiapostador: Jogos em que as ações do apostador ou os resultados obtidos por ele são influenciados pelo resultado ou ação de qualquer outro apostador.
+Jogo on-line: Uma plataforma eletrônica que permite apostas virtuais em um jogo em que o resultado é determinado por um evento aleatório, como um gerador de números aleatórios ou símbolos predefinidos.
+Mercado primário de apostas esportivas: Apostas feitas no resultado final ou na diferença de pontuação de um evento esportivo.
+Mercado secundário de apostas esportivas: Todos os tipos de apostas relacionadas a um evento esportivo que não se enquadram no mercado primário.
+Operador de apostas: Pessoa jurídica que recebe autorização do Ministério da Fazenda do Brasil para explorar apostas de quota fixa.
+Patrocínio: Uma ação de comunicação que envolve a aquisição do direito de associar a marca, os produtos ou os serviços do patrocinador a um projeto iniciado por um terceiro por meio de um contrato oneroso.
+Plataforma de apostas: Um canal eletrônico integrado ao sistema de apostas usado para oferecer apostas esportivas e jogos on-line aos apostadores. Plataforma de apostas é sinônimo de site de apostas. Nestes Termos e Condições, toda vez que mencionarmos “o Site” estaremos nos referindo à plataforma de apostas operada pela KTO.
+Processo de apuração/investigação: Um processo iniciado pelo operador de apostas para investigar possíveis infrações legais ou regulatórias cometidas pelo apostador contra o operador, ou pelo operador contra o apostador, o regulador ou alguma autoridade pública, ou de qualquer um desses dois contra a integridade esportiva.
+Provedor/fornecedor de jogos on-line: Uma pessoa jurídica que fornece, direta ou indiretamente, conteúdo como jogos on-line para operadores de apostas.
+Quota fixa: Um multiplicador do valor da aposta que determina os ganhos para o apostador, em caso de premiação, por cada unidade da moeda nacional apostada.
+Recompensas: Qualquer tipo de prêmio, como dinheiro, pontos, apostas grátis ou outras formas legais de premiação, como parte de um programa de fidelidade ou para recompensar o comportamento pré-estabelecido do apostador.
+Regulador: O órgão responsável por regulamentar, autorizar e supervisionar as atividades relacionadas a apostas de quota fixa (apostas esportivas e jogos on-line), correspondente à Secretaria de Prêmios e Apostas do Ministério da Fazenda do Brasil.
+Retirada antecipada (Cashout): Forma de antecipar o encerramento da aposta, por iniciativa do apostador, fazendo ele jus a uma fração do prêmio.
+Retorno teórico ao jogador (theoretical return to player – RTP): A porcentagem do total de apostas que é programada pelo operador de apostas para ser devolvida aos apostadores em um período fixo ou número de eventos, servindo como uma medida do retorno agregado e teórico do sistema de apostas. Não deve ser interpretado como o ganho individual esperado para cada aposta.
+Serviços: Serviços de aposta de quota fixa (apostas esportivas e jogos on-line).
+Sessão de jogo on-line: O período entre o início do jogo on-line que é objeto de uma aposta e seu encerramento, que é caracterizado pelo fato de o apostador sair do jogo on-line ou ficar inativo nesse jogo por dois minutos ou mais.
+Sistema de apostas: O sistema informatizado gerido e disponibilizado pelo agente operador de apostas aos apostadores, que possibilita o cadastro dos apostadores, o gerenciamento de suas carteiras virtuais e outras funcionalidades necessárias para gerenciamento, operação e comercialização das apostas de quota fixa.
+Termos e Condições: Um documento que compila as regras que regem a relação contratual entre o operador de apostas e o apostador.
+Textos-foguete: Mensagens de curta duração usadas para publicidade, com o objetivo de promover uma marca comercial.
+4. ABERTURA DE SUA CONTA E VERIFICAÇÃO
+4.1. Abertura de uma conta na KTO
+4.1.1. Para fazer uma aposta ou usar qualquer um de nossos serviços por meio do Site, você precisará abrir uma conta no Site. Ao abrir sua conta no Site e usar nossos serviços, você declara que atende a todos os critérios a seguir:
+(i) você tem pelo menos 18 (dezoito) anos de idade.
+(ii) você atualmente não possui uma conta conosco.
+(iii) você não é proprietário, administrador, diretor, pessoa com influência significativa, gerente ou funcionário da KTO.
+(iv) você não é cônjuge, parceiro e/ou parentes em linha direta ou colateral até o segundo grau de proprietários, administradores, diretores, pessoas com influência significativa, gerentes ou funcionários da KTO.
+(v) você não é um agente público com atribuições diretamente relacionadas à regulamentação, controle e supervisão da atividade.
+(vi) você não é um indivíduo que tem ou pode ter acesso aos sistemas informatizados da modalidade lotérica de apostas de quota fixa.
+(vii) você não é cônjuge, companheiro(a) e/ou parente em linha direta ou colateral até o segundo grau de indivíduos que tenham ou possam ter acesso aos sistemas informatizados da modalidade lotérica de apostas de quota fixa.
+(viii) você não é um indivíduo que tem ou pode ter qualquer influência no resultado de eventos reais de temática esportiva sujeitos a modalidade lotérica de apostas de quota fixa, incluídos:
+a. Diretores esportivos, técnicos desportivos, treinadores e integrantes de comissão técnica.
+b. Árbitros ou assistentes de árbitro de modalidade desportiva ou funções equivalentes, empresários esportivos, agentes ou representantes de atletas, e técnicos ou membros de comissão técnica.
+c. Membros de órgãos administrativos ou de fiscalização de organizações que gerenciam e/ou organizam competições ou eventos esportivos.
+d. Atletas participantes de competições organizadas por entidades integrantes do Sistema Nacional do Esporte.
+(ix) você não é cônjuge, parceiro e/ou está em linha direta ou colateral até o segundo grau de indivíduos listados nos itens a), b), c) e d) acima, que tenham ou possam ter qualquer influência no resultado de eventos reais de temática esportiva sujeitos a modalidade lotérica de apostas de quota fixa.
+(x) você não é um indivíduo diagnosticado com jogo patológico (ludopatia), comprovado por laudo de um profissional de saúde mental habilitado.
+(xi) você não é um indivíduo sujeito à exclusão administrativa ou judicial.
+(xii) você não é beneficiário do Bolsa Família, Benefício de Prestação Continuada -LOAS ou qualquer outro programa governamental de assistência social similar.
+4.1.1.1. Todas as categorias listadas acima serão coletivamente denominadas “Categorias Restritas” ao longo destes Termos e Condições.
+4.1.2 Para fazer uma aposta ou usar qualquer um de nossos serviços, você deverá estar localizado no Brasil.
+4.1.3. Você não deverá usar o Site e/ou os Serviços se estiver localizado em uma jurisdição que não seja o Brasil. O fato de o Site ser acessível em uma jurisdição proibida não deverá ser interpretado como justificativa legal para o uso do Site em tal jurisdição proibida. Qualquer tentativa de burlar essa restrição (por exemplo, usando uma VPN, proxy ou serviço semelhante que oculte ou manipule a identificação de sua localização real, ou fornecendo informações falsas ou enganosas com relação à sua localização, cidadania ou local de residência, ou fazendo apostas esportivas ou apostas em jogos on-line usando o Site por meio de um terceiro ou em nome de um terceiro localizado em uma jurisdição proibida) é uma violação destes Termos e da Lei de Apostas de Quota Fixa no Brasil.
+4.1.3.1. Se ficar evidente, ou se tivermos motivos razoáveis para suspeitar que você está localizado em outras jurisdições, poderemos suspender sua Conta enquanto conduzimos um Processo de Apuração, congelando os fundos nela contidos e fornecendo os detalhes aplicáveis a quaisquer autoridades relevantes. Caso os indícios de descumprimento se confirmem, você também será responsável por compensar os danos ou perdas resultantes disso.
+4.1.4. Para abrir uma conta, é necessário fornecer seus dados pessoais e estar ciente de que verificaremos sua identidade durante o registro. Para obter informações detalhadas sobre os dados que tratamos , consulte nosso Aviso de Privacidade.
+4.1.4.1. As informações da conta do Usuário, bem como seus dados pessoais, são confidenciais e de uso exclusivo do próprio usuário, não devendo ser compartilhados com terceiros. Em razão dessa confidencialidade, a KTO somente prestará informações, suporte ou esclarecimentos diretamente ao usuário ou nas hipóteses expressamente previstas na legislação aplicável.
+4.1.5. Em razão de obrigação regulatória, no ato de abertura da conta, o usuário deverá definir limites prudenciais de apostas por tempo transcorrido e por perda financeira, os quais poderão ser vinculados a períodos diários, semanais, mensais ou a outros períodos eventualmente disponibilizados pela KTO.
+4.1.5.1. Ao utilizar a Plataforma, o Usuário declara e confirma que não possui diagnóstico de transtorno do jogo (jogo patológico). Para mais informações sobre nossa Política de Jogo Responsável, consulte a Seção 9 – JOGO RESPONSÁVEL destes Termos e Condições.
+4.1.6. Por meio deste documento, você reconhece e aceita que, ao usar os serviços fornecidos no Site, você poderá ganhar e/ou perder dinheiro. O resultado de qualquer aposta é aleatório, não havendo garantia ou legítima expectativa de lucro ou retorno financeiro e não gerando qualquer direito à indenização, reembolso ou reparação de perdas por parte da KTO.
+4.1.7. Todas as informações usadas para processar transações em nosso site devem ser de sua titularidade. Você só poderá ter uma Conta conosco por vez. Contas Duplicadas (quando mais de uma conta é operada ou registrada por um mesmo usuário) são estritamente proibidas.
+4.1.8. Se for constatado que você tem mais de uma conta, as seguintes ações poderão ser tomadas, se necessário:
+(i) Todas as Contas Duplicadas serão fechadas, com exceção de uma conta que permitimos que permaneça aberta.
+(ii) Se o valor total depositado na Conta Duplicada for jogado e perdido, você concorda em renunciar a qualquer reivindicação sobre os valores depositados na respectiva Conta Duplicada;
+(iii) Se um valor depositado na Conta Duplicada não tiver sido usado para fazer apostas, o referido valor será reembolsado;
+(iv) Se o seu depósito mais recente na Conta Duplicada tiver gerado ganhos, as transações, incluindo os ganhos, serão declaradas nulas e sem efeito, e o valor depositado será reembolsado;
+(v) Quaisquer retornos, ganhos ou recompensas obtidos ou acumulados enquanto a Conta Duplicada estiver ativa serão declarados nulos e inválidos e reivindicados por nós. Você nos devolverá, mediante solicitação, quaisquer fundos que possam ter sido retirados da Conta Duplicada.
+4.1.9. Se desejar abrir outra conta, você poderá fazê-lo entrando em contato com o Atendimento ao Cliente, por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA destes Termos e Condições. Se uma nova conta for aberta, a conta antiga será fechada.
+4.1.10 Os dados informados no momento do registro de sua conta deverão ser mantidos atualizados. Caso alguma alteração afete os dados da sua conta atual na plataforma, você deverá atualizá-los o mais rápido possível.
+4.1.11. Se desejar encerrar sua conta, você poderá fazê-lo acessando seu Perfil no menu “Minha Conta” ou mediante o envio de uma solicitação ao Atendimento ao Cliente, por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA . Ao encerrar sua Conta, você reconhece e consente em perder quaisquer recompensas, prêmios ou benefícios promocionais que possa ter adquirido.
+4.1.11.1. Se desejar autoexcluir sua conta, você poderá fazê-lo por uma das seguintes formas: (i) Autoexclusão Específica e; (ii) Autoexclusão Centralizada.
+(i) A Autoexclusão Específica aplica-se exclusivamente à KTO. Essa modalidade poderá ser solicitada entrando em contato com nossa equipe de Atendimento ao Cliente por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA ou utilizando as ferramentas de autoexclusão na sua conta gráfica.
+(ii) A Autoexclusão Centralizada poderá ser solicitada por meio da Plataforma Centralizada de Autoexclusão disponibilizado pelo Governo Federal, acessível pelo link: https://autoexclusaoapostas.fazenda.gov.br/. Essa modalidade produz efeitos perante todos os operadores de apostas de quota fixa devidamente autorizados, e não apenas perante a KTO.
+4.1.11.2. A Autoexclusão Centralizada e a Autoexclusão Específica poderão ser solicitadas por prazo determinado ou indeterminado, a exclusivo critério do Usuário, observadas as condições abaixo:
+(a) Autoexclusão Centralizada por prazo determinado poderá ser solicitada pelos períodos de 1 (um), 3 (três), 6 (seis), 9 (nove) ou 12 (doze) meses. Decorrido o prazo escolhido, o Usuário poderá voltar a utilizar as plataformas de apostas sem necessidade de qualquer ação adicional.
+(b) Autoexclusão Centralizada por prazo indeterminado não possui período previamente definido. Nessa hipótese, o Usuário que desejar retornar a utilizar plataformas de apostas deverá solicitar a revogação da autoexclusão diretamente por meio da Plataforma Centralizada de Autoexclusão do Governo Federal, conforme as orientações disponíveis no link:
+https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas/autoexclusao.
+(c) A Autoexclusão Específica por prazo determinado poderá ser solicitada pelo Usuário pelo período de 3 (três) meses, 6 (seis) meses, 1 (um) ano ou 2 (dois) anos, utilizando as ferramentas de autoexclusão ou mediante solicitação ao Atendimento ao Cliente da KTO.
+(d) A Autoexclusão Específica por prazo indeterminado não possui prazo definido. Nessa hipótese, o retorno à utilização da Plataforma da KTO ocorrerá mediante solicitação expressa do Usuário e em conformidade com nossa Política de Jogo Responsável.
+4.1.12. No caso de encerramento da sua Conta devido a preocupações relacionadas ao jogo responsável ou se a sua conta tiver sido encerrada em decorrência do descumprimento de disposições legais e regulamentares e/ou destes Termos e Condições, você reconhece e declara estar ciente que está proibido de abrir uma nova conta em nossa plataforma. Não seremos responsáveis se você conseguir abrir uma nova conta adulterando nossos controles, por tal ação nem por quaisquer danos diretos ou indiretos consequentes. Teremos o direito de encerrar uma nova conta aberta em violação às exigências aqui estabelecidas.
+4.2 VERIFICAÇÃO DE SUA IDENTIDADE   
+4.2.1. Você garante que tem 18 (dezoito) anos de idade ou mais. Você deve garantir que todos os dados fornecidos ao criar sua Conta estão corretos e atualizados, podendo ser devidamente verificados. Além disso, você declara que:
+4.2.1.1. Você é o legítimo proprietário do dinheiro em sua Conta.
+4.2.1.2. Você é residente no Brasil.
+4.2.1.3. O dinheiro depositado em sua Conta não é proveniente de nenhuma atividade ilegal.
+4.2.2. Cumprimos as leis e os regulamentos do Brasil, incluindo suas diretrizes para a prevenção de lavagem de dinheiro, financiamento do terrorismo e financiamento da proliferação de armas de destruição em massa. As atividades suspeitas serão investigadas e, se necessário, um relatório de atividade suspeita será feito e compartilhado com as autoridades competentes. Em qualquer um desses casos, estamos proibidos de informar quaisquer jogadores ou terceiros envolvidos.
+4.2.3. Todas as transações de pagamento feitas em nosso site são verificadas para prevenir a lavagem de dinheiro, financiamento de terrorismo, financiamento da proliferação de armas de destruição em massa e quaisquer outros crimes ou atividades ilegais.
+4.2.4. Ao concordar com estes Termos, você reconhece que está ciente da realização do processo de verificação de identidade, bem como da necessidade de conclusão de tal processo para acesso aos nossos Serviços. Adicionalmente, você declara estar ciente de que podemos solicitar, ou podemos ser solicitados por terceiros (inclusive órgãos reguladores), a confirmação da sua identidade e detalhes de contato, em conformidade com nossas obrigações legais e/ou regulatórias.
+4.2.5. Também poderemos solicitar que você forneça informações relacionadas à origem de seus recursos e/ou patrimônio. Isso inclui o fornecimento de uma declaração de renda, acompanhada da respectiva documentação comprobatória, incluindo, entre outros, mas não se limitando a extratos bancários e comprovantes de remuneração. Reservamo-nos o direito de suspender sua conta e quaisquer depósitos adicionais se você não nos fornecer as informações e a documentação solicitadas. Também poderemos suspender as transações de saque de sua Conta para cumprir nossas obrigações legais e regulatórias.
+4.2.6. Mesmo após Processo de Apuração referente à suspeita de uso ilegal da conta por menor de idade, se não pudermos verificar que você atingiu a idade legal mínima exigida para participar de atividades de apostas, encerraremos sua conta. O acesso de menores de idade à nossa plataforma é estritamente proibido por lei.
+4.2.7. Caso seja demonstrado que o usuário se envolveu em, ou recebeu assistência para se envolver em, qualquer atividade fraudulenta com a intenção de contornar nossos controles e restrições relacionados à idade no momento em que qualquer aposta ou transação de aposta foi conduzida, as seguintes ações serão aplicadas:
+(i) Sua conta será encerrada;
+(ii) Todas as transações realizadas serão anuladas;
+(iii) Quaisquer fundos relacionados depositados nessa conta, limitados exclusivamente ao saldo remanescente dos valores efetivamente depositados, serão devolvidos a seus pais ou responsável legal, seguindo os procedimentos exigidos para tal restituição.
+4.2.8. A KTO exige a confirmação da identidade do apostador por meio dos canais de comunicação fornecidos durante o registro do usuário, como e-mail, serviço de mensagens curtas (SMS) ou aplicativos de mensagens, nas seguintes situações:
+(i) Ao solicitar informações pessoais e fiscais, como uma declaração de renda anual;
+(ii) Se a conta estiver inativa por 90 (noventa) dias; e
+(iii) Após 3 (três) tentativas sem sucesso de autenticar a identidade do apostador.
+4.2.9. Em razão de obrigação regulatória, a KTO deverá exigir de você a atualização ou a validação de seus dados cadastrais de forma anual. Caso você não realize a atualização ou validação do cadastro quando solicitado, a KTO, nos termos da regulamentação, deverá suspender a utilização da conta até que a referida atualização ou validação seja devidamente efetivada.
+4.3 VERIFICAÇÃO DE CONTA
+4.3.1. Esteja ciente de que temos a obrigação legal e regulatória de realizar verificações em sua conta para confirmar sua identidade e as informações que você nos forneceu, incluindo, entre outras, informações financeiras, endereço e localização. Ao se registrar em nosso Site, você reconhece e concorda que, para cumprir nossas obrigações legais e regulatórias, seremos obrigados a realizar verificações em sua conta. Essas verificações poderão ocorrer, inclusive, mas não se limitando ao registro de uma conta conosco, solicitações de informações pessoais e fiscais; inatividade da conta por noventa dias; três tentativas falhas durante o processo de autenticação da identidade do apostador; atualização das informações de registro; retirada de recursos financeiros a pedido do apostador; confirmação periódica do registro; ou encerramento da conta.
+4.3.2. Para verificar sua identidade, a confirmação deve ser realizada usando os canais de comunicação que você forneceu durante o registro, como:
+E-mail
+Serviço de mensagens curtas (SMS)
+Aplicativos de mensagens
+4.3.3. Para fins de verificação, poderá ser solicitado a você um ou mais dos seguintes documentos:
+(i) Documentos de identificação: Carteira de Identidade Nacional – CIN, Registro Geral – RG, Cadastro de Pessoa Física – CPF, Carteira Nacional de Habilitação – CNH, passaporte e dados biométricos (inclusive reconhecimento facial, com prova de vida). Os documentos devem estar totalmente visíveis, e precisamos ver a frente e o verso do documento, quando aplicável; uma selfie também pode ser solicitada.
+(ii) Comprovante de endereço: O documento precisa ser uma foto ou PDF de uma conta de serviços públicos (por exemplo, celular, gás, eletricidade, água, internet ou TV) emitida nos últimos 6 (seis) meses ou um extrato bancário emitido nos últimos 6 (seis) meses. Certifique-se de que possamos ver o documento inteiro na foto, com todos os quatro cantos visíveis.
+(iii) Comprovante de origem dos recursos e/ou patrimônio: Declaração de Imposto de Renda (DIRPF), extrato bancário emitido nos últimos 6 (seis) meses, comprovante de remuneração, contracheque/holerite atualizado, entre outros documentos. Certifique-se de que possamos ver o documento inteiro na foto, com todos os quatro cantos visíveis.
+4.3.4. Se não estivermos satisfeitos com a legibilidade e a qualidade dos documentos fornecidos pelo cliente, ou se o cliente não os fornecer, poderemos suspender sua conta e congelar quaisquer fundos disponíveis enquanto aguardamos o processo de investigação adicional.
+4.3.5. A verificação por e-mail e SMS é, às vezes, parte de nosso procedimento para confirmar seus dados pessoais, transações e atividades com relação ao uso de nossos serviços.
+4.3.6. Informamos que podemos compartilhar suas informações com autoridades competentes para garantir a conformidade com requisitos legais ou regulatórios. Para obter informações detalhadas sobre os dados que compartilhamos, consulte nosso Aviso de Privacidade.
+5. TRANSAÇÕES DE PAGAMENTOS
+5.1 DEPÓSITOS EM SUA CONTA
+5.1.1 Os aportes financeiros e os saques realizados pelos apostadores, bem como o pagamento de prêmios pela KTO, deverão ser feitos exclusivamente por meio de transferência eletrônica entre uma conta registrada do apostador e a conta transacional da KTO, ambas mantidas em instituições financeiras ou de pagamento autorizadas a operar pelo Banco Central do Brasil. Por transferência eletrônica, entende-se ordens de transferência de fundos por meio de Pagamento Instantâneo – PIX, Transferência Eletrônica Disponível – TED, cartão de débito ou pré-pago e transferência nos próprios livros (book transfer), no caso de contas mantidas na mesma instituição.
+5.1.2. Se desejar participar de apostas esportivas ou jogos on-line usando o Site, você deverá depositar dinheiro da sua Conta registrada, que poderá ser usada para fazer apostas e/ou jogar.
+5.1.3. Reservamo-nos o direito de realizar verificações básicas de KYC dentro de um prazo razoável sobre os depósitos dos jogadores para verificar a conformidade. A fim de cumprir nossas obrigações legais e/ou regulatórias, bem como para auxiliar na prevenção de lavagem de dinheiro, combate ao financiamento do terrorismo e combate ao financiamento da proliferação de armas de destruição em massa:
+(i) Não serão aceitos pagamentos em dinheiro para financiar qualquer Conta de Jogador.
+(ii) Nenhuma retirada substancial/e ou excepcional, individual ou cumulativamente, será feita a menos que uma cópia autenticada dos seguintes documentos seja recebida:
+(a) Extrato bancário mais recente da conta bancária da qual sua atividade de apostas foi paga;
+(b) Cadastro de Pessoa Física / CPF; Registro Geral – RG; Carteira Nacional de Habilitação – CNH; Carteira de Identidade Nacional – CIN; e/ou Passaporte atual;
+(c) Uma conta de serviços públicos (por exemplo, gás, água ou eletricidade) com seu nome e endereço registrado, emitida nos últimos 6 (seis) meses.
+5.1.4. Além do acima exposto, reservamo-nos o direito de solicitar, a qualquer momento, qualquer um dos documentos acima para verificação de identidade.
+5.1.5. A KTO não garante a disponibilidade ininterrupta dos métodos de pagamento, uma vez que o processamento de transações depende de sistemas de provedores. A plataforma não se responsabiliza por instabilidades técnicas, manutenções ou suspensões de serviços dos provedores, não cabendo qualquer indenização por eventuais oportunidades de aposta não concretizadas devido a essas indisponibilidades.
+5.1.6. O depósito deve ser feito a partir de uma conta registrada em seu nome e CPF (conta registrada). Não aceitamos depósitos de terceiros (por exemplo, de um amigo, parente ou parceiro em seu nome) ou depósitos feitos por contas comerciais ou institucionais. Se descobrirmos que houve fraude em relação a esta cláusula, todos os ganhos serão declarados nulos e o valor do depósito original será devolvido à conta de origem. Se for necessária uma transferência bancária para devolver o dinheiro, quaisquer encargos serão cobrados do destinatário.
+5.1.7. Ao depositar dinheiro da conta registrada, você concorda em não fazer estornos, reversões ou cancelar quaisquer depósitos em sua Conta.
+5.1.8. Em determinadas circunstâncias, podemos creditar na conta de um jogador o dinheiro de recompensas de uma promoção ou prêmio. Para ver as promoções atuais, acesse este link.
+5.1.9. Poderemos, a qualquer momento, compensar eventual saldo positivo existente em sua conta com qualquer valor por você devido quando liquidarmos novamente quaisquer apostas relacionadas a práticas de conluio, trapaça, fraude ou outras atividades criminosas, conforme nossos Termos e Condições.
+5.1.10. É estritamente proibido realizar depósitos utilizando recursos, total ou parcialmente, provenientes dos programas Bolsa Família, Benefício de Prestação Continuada -LOAS, ou de qualquer outro programa governamental de assistência social similar.
+5.2. SAQUES DE SUA CONTA
+5.2.1. Nossa Política de Retirada esclarece e delineia os requisitos e procedimentos para quaisquer retiradas solicitadas:
+(i) Depósitos e saques de recursos financeiros por apostadores, bem como o pagamento de prêmios pela KTO, devem ser realizados exclusivamente por meio de transferências eletrônicas entre a conta transacional da KTO e a conta de um apostador registrado, ambas mantidas em instituições financeiras ou de pagamento autorizadas a operar pelo Banco Central do Brasil;
+(ii) Os saques serão permitidos somente para contas registradas;
+(iii) Não cobramos nenhuma tarifa de saque;
+(iv) É de sua responsabilidade notificar-nos imediatamente sobre qualquer atividade suspeita encontrada em relação à sua conta. O não fornecimento dessa notificação imediata ficará a seu critério, e não seremos responsabilizados por quaisquer danos ou perdas causadas.
+5.2.2. A KTO exige o reconhecimento facial para verificação de identidade ao solicitar a retirada de recursos financeiros de acordo com a lei. No caso de três (3) tentativas mal sucedidas de autenticar a identidade do apostador, a conta permanecerá bloqueada até que a autenticação necessária seja concluída com êxito.
+5.2.3. Lembre-se de que as retiradas só poderão ser processadas quando as seguintes condições forem atendidas:
+(i) Os procedimentos de verificação necessários foram devidamente concluídos;
+(ii) As transações feitas em sua conta gráfica foram totalmente concluídas e confirmadas, sem terem sido canceladas ou revertidas por qualquer meio;
+(iii) Não tivermos nenhuma obrigação legal ou regulamentar de reter quaisquer transações ou ganhos devido a regulamentações aplicáveis ou decisões emitidas por autoridades competentes;
+(iv) Não houver nenhuma investigação em andamento.
+5.3 LIMITAÇÕES
+5.3.1. Como medida para proteger todos os nossos jogadores contra fraudes on-line, exigimos a verificação de identidade.
+5.3.2. Suas transações e informações financeiras são protegidas por tecnologia avançada de segurança e criptografia. Para obter assistência com retiradas ou qualquer outro assunto, não hesite em entrar em contato conosco por meio dos canais de atendimento disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA.
+5.3.3. Como parte de nosso procedimento de verificação de identidade (KYC), poderá haver solicitações de documentos de identificação ou outros documentos sobre os quais você será devidamente informado. Poderemos suspender sua conta e/ou impedi-lo de fazer outras apostas até que tenha concluído satisfatoriamente essas verificações de identidade.
+5.3.4. Se considerarmos que ocorreu um jogo irregular, reservamo-nos o direito de suspender quaisquer saques e declarar nulos todos os ganhos do saldo de sua conta.
+5.3.5. Você poderá solicitar o saque de fundos de sua Conta a qualquer momento, desde que:
+(i) Todos os pagamentos feitos em sua Conta foram confirmados como compensados/concluídos, e nenhum foi estornado, revertido ou cancelado de outra forma;
+(ii) Todas as verificações mencionadas nestes Termos e Condições foram concluídas.
+5.3.6. As retiradas serão enviadas somente para a conta registrada.
+5.3.7. Você só deve depositar dinheiro em sua conta para apostar em nossos serviços. Poderemos suspender contas que sejam usadas sem atividade de jogo, de acordo com os termos da legislação, da regulamentação aplicável e da cláusula 15 destes Termos e Condições.
+5.3.8. Você é responsável por declarar seus ganhos e perdas às autoridades fiscais competentes.
+5.3.8.1. Quaisquer tributos que, nos termos da legislação tributária brasileira, sejam de responsabilidade dos clientes não serão arcados ou pagos pela KTO, seja em decorrência do acesso direto aos serviços, seja em decorrência de atividades promocionais.
+5.3.9. Antes do saque de fundos não usados para apostas, os documentos para verificação de identidade (KYC) deverão ser solicitados no caso de jogadores sem atividade de apostas. O saque dependerá da entrega dessa documentação.
+5.3.10. Se o cliente solicitar o saque de fundos que ainda não tenham sido usados para apostas e a conta do cliente não tiver nenhuma atividade de apostas, poderemos exigir uma verificação adicional antes de prosseguirmos. O saque dependerá da entrega dessa documentação (KYC).
+5.3.11. Ao processar uma retirada, reservamo-nos o direito de aplicar uma dedução se houver alguma taxa de processamento de transação envolvida.
+6. SUSPENSÃO, LIMITAÇÃO E ENCERRAMENTO DA CONTA PELA KTO
+6.1 EM CONSONÂNCIA COM AS PRÁTICAS COMERCIAIS E OPERACIONAIS ADOTADAS NA INDÚSTRIA DE APOSTAS ESPORTIVAS E JOGOS ON-LINE, TODAS AS APOSTAS E MERCADOS OFERTADOS NA PLATAFORMA KTO ESTÃO SUJEITOS A CRITÉRIOS INTERNOS DE CLASSIFICAÇÃO, SEGMENTAÇÃO E GESTÃO DE RESPONSABILIDADES. NO ÂMBITO DA ESTRUTURA DE GERENCIAMENTO DE RISCOS DA KTO, O VALOR MÁXIMO ACEITO POR APOSTA INDIVIDUAL PODERÁ VARIAR DE FORMA DINÂMICA, EM RAZÃO DE LIMITES DE EXPOSIÇÃO, PREVENÇÃO À LAVAGEM DE DINHEIRO, PREVENÇÃO À FRAUDE, PROTEÇÃO DA INTEGRIDADE NAS APOSTAS ESPORTIVAS, LIQUIDEZ DO MERCADO, PERFIL CONCORRENCIAL, PERFIL DO MERCADO E CONSIDERAÇÕES RELACIONADAS À RESPONSABILIDADE AGREGADA. A ACEITAÇÃO, ACEITAÇÃO PARCIAL OU RECUSA DE QUALQUER APOSTA SERÁ SEMPRE REALIZADA COM BASE EM TAIS CRITÉRIOS, COM VISTAS À MANUTENÇÃO DE UMA EXPOSIÇÃO PRUDENTE AO RISCO RELACIONADO AOS PROGRAMAS DE CONFORMIDADE E À PROTEÇÃO DA INTEGRIDADE FINANCEIRA DA OPERAÇÃO. AO REALIZAR APOSTAS EM NOSSA PLATAFORMA, VOCÊ DECLARA ESTAR CIENTE DESSES CRITÉRIOS E CONSENTE EXPRESSAMENTE COM AS POLÍTICAS TÉCNICAS, COMERCIAIS E DE GESTÃO DE RISCOS DA KTO. PARA MAIORES INFORMAÇÕES, CONSULTE NOSSAS “REGRAS DO ESPORTE”. CASO DESEJE REGISTRAR MANIFESTAÇÕES, VOCÊ PODERÁ FAZÊ-LO POR MEIO DO NOSSO SUPORTE AO CLIENTE, UTILIZANDO OS CANAIS OFICIAIS DISPONIBILIZADOS NA SEÇÃO 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA DESTES TERMOS E CONDIÇÕES.
+
+6.2. Nos termos da legislação e regulamentação aplicáveis, caso haja indícios ou suspeitas de: (i) manipulação de resultados, conluio, trapaça ou fraude; e/ou (ii) descumprimento de quaisquer disposições destes Termos ou de normas legais e/ou regulamentares aplicáveis, a KTO poderá iniciar um Processo de Apuração para verificação dos fatos.
+
+6.2.1. A instauração do Processo de Apuração será comunicada ao apostador por meio de notificação enviada pela KTO.No recebimento da notificação, será assegurado ao usuário prazo para apresentar esclarecimentos, informações ou defesa que entender pertinentes, sendo garantidos, na forma da lei, o contraditório e a ampla defesa.
+
+6.2.2. Se no âmbito do Processo de Apuração qualquer conluio, trapaça, fraude e/ou violação dos Termos ou de normas legais e/ou regulamentares aplicáveis for devidamente comprovada, reservamo-nos o direito de:
+suspender e/ou limitar sua conta em nosso Site a qualquer momento; e/ou
+encerrar sua conta de forma permanente.
+
+6.3 Também podemos ser obrigados por lei ou por órgãos reguladores a suspender ou confiscar fundos, limitar o acesso e/ou encerrar sua conta, incluindo, entre outros, casos decorrentes de solicitações de juízes ou autoridades competentes.
+
+6.4 A KTO se isenta expressamente de qualquer responsabilidade ou obrigação decorrente das ações ou decisões das autoridades públicas. Nesses casos, a KTO deverá agir em estrita conformidade com as diretrizes ou ordens legalmente emitidas por tais autoridades, conforme exigido pelos regulamentos aplicáveis. Isso inclui, mas não se limita à aplicação de decisões judiciais, administrativas ou regulatórias, com total adesão ao Estado de Direito.
+6.5 CONLUIO, TRAPAÇA, FRAUDE E ATIVIDADE CRIMINOSA
+6.5.1. As atividades a seguir não são permitidas em nosso Site e são reconhecidas como descumprimento/violações de nossos Termos e Condições:
+(i) Conluio com terceiros;
+(ii) Usar vantagem ou influência injusta, incluindo a exploração de uma falha, brecha ou erro descoberto em nosso software;
+(iii) O uso de jogadores automatizados (às vezes conhecidos como bots), e/ou a exploração de erros;
+(iv) Realização de atividades fraudulentas em seu benefício, inclusive falsificação de identidade e uso de um cartão de débito roubado, clonado ou não autorizado como fonte de recursos;
+(v) Participar de quaisquer atividades criminosas, incluindo lavagem de dinheiro, financiamento do terrorismo e financiamento da proliferação de armas de destruição em massa e/ou corrupção, suborno ou qualquer outro delito com repercussões criminais;
+(vi) Usar ou tentar usar um VPN ou qualquer tecnologia semelhante com a intenção de ocultar ou alterar sua verdadeira localização;
+(vii) Tentativa de burlar nossas políticas e procedimentos de Jogo Responsável;
+(viii) Fornecer informações falsas, incompletas ou enganosas no momento do registro de sua Conta ou em qualquer momento posterior;
+(ix) Usar um método de pagamento que não corresponda ao nome registrado em sua Conta para fazer depósitos;
+(x) Criar ou usar uma ou mais Contas Duplicadas por meios fraudulentos;
+(xi) Permitir ou possibilitar que terceiros acessem ou façam uso de sua Conta;
+(xii) Uso indevido de recompensas, inclusive quando tivermos motivos para acreditar que você está tirando vantagem, explorando ou manipulando injustamente quaisquer recompensas ou violando os Termos de Recompensa de qualquer forma;
+(xiii) Interferir, interromper ou manipular a operação de nosso Site ou sua funcionalidade normal;
+(xiv) Envolver-se em comportamento difamatório, abusivo, obsceno, discriminatório ou de outra forma inadequado em relação a outros usuários do Site, à nossa equipe de Suporte ao Cliente e/ou a qualquer um de nossos funcionários ou representantes;
+(xv) Violação de nossos direitos de propriedade intelectual;
+(xvi) Violar nossos Termos e Condições por meio de qualquer outra violação substancial.
+6.5.1.1. Se sua conta estiver vinculada a qualquer uma das atividades mencionadas acima, estamos autorizados a suspendê-la enquanto investigamos. Essas questões poderão ser relatadas às autoridades competentes se as atividades forem graves o suficiente para violar obrigações legais e/ou regulatórias.
+6.5.2. Tomaremos todas as medidas razoáveis para evitar tais atividades e lidaremos com os jogadores de forma apropriada. Não nos responsabilizaremos por qualquer perda ou dano que você ou qualquer outro jogador possa sofrer como resultado de atividade colusiva, fraudulenta ou ilegal, inclusive trapaça.
+6.5.3. Se você suspeitar que uma pessoa está conspirando, trapaceando ou realizando uma atividade fraudulenta, denuncie por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA.
+6.5.4. Reservamo-nos o direito de informar quaisquer autoridades relevantes, associações de apostas de integridade, outros operadores de apostas, outros provedores de serviços on-line e bancos, empresas de cartão de débito, provedores de pagamento eletrônico e/ou outras instituições financeiras, sobre sua identidade e sobre qualquer suspeita de atividade ilegal, fraudulenta ou imprópria.
+6.5.5. Em referência aos nossos serviços de apostas esportivas, reservamo-nos o direito de reter o pagamento e declarar as apostas nulas e sem efeito se tivermos provas de que:
+(i) A integridade do evento foi examinada por associações de integridade ou pelas autoridades;
+(ii) O(s) preço(s) ou probabilidades (odds) foi(ram) manipulado(s);
+(iii) Houve manipulação ou correção da partida;
+(iv) O jogo ou evento não chegou à sua conclusão natural;
+(v) Corrupção, suborno, conluio ou crimes relacionados foram denunciados por associações de integridade esportiva ou pelas autoridades.
+6.5.6. Reservamo-nos o direito de encerrar as apostas de qualquer jogador em qualquer outra instância em que for detectado qualquer tipo de abuso, incluindo, mas não se limitando:
+(i) a prática de arbitragem de apostas (também conhecida como surebet), caracterizada pela realização de apostas de forma padronizada e sistemática, com o objetivo de garantir lucro e eliminar o risco inerente à atividade de apostar;
+(ii) a prática de realizar, de forma deliberada e reiterada, apostas tardias, com a finalidade de se beneficiar de eventuais discrepâncias entre os acontecimentos do evento realizado ao vivo e a atualização das odds em nosso Site, decorrente da natureza dinâmica e em tempo real do evento objeto da aposta.
+6.5.6.1. As evidências acima serão baseadas no tamanho, volume, número ou padrão das apostas feitas em nossa plataforma e/ou se uma decisão tiver sido anunciada por um órgão governamental relevante.
+6.5.7. Os depósitos feitos em sua conta devem ser destinados ao uso em nossos serviços. Se houver suspeita de abuso (por exemplo, quando um valor depositado não for usado para um nível adequado de jogo e for feita uma solicitação de saque do valor depositado), reservamo-nos o direito de cancelar parcial ou totalmente as respectivas transações, de retirar quaisquer custos de processamento incorridos por essa atividade, e de suspender a sua conta enquanto conduzimos o Processo de Apuração.
+6.6 OUTRAS ATIVIDADES PROIBIDAS
+6.6.1. Você não deve usar o Site para qualquer finalidade que seja considerada difamatória, abusiva, obscena, racista, sexista, discriminatória ou ofensiva. Você não deve usar nenhuma linguagem ou imagem abusiva ou agressiva; xingar, ameaçar, assediar ou abusar de qualquer outra pessoa, inclusive outros usuários, ou se comportar de tal maneira em relação a qualquer membro da nossa equipe.
+6.6.2. Você não deverá corromper o Site, inundar o Site com informações de modo a fazer com que o Site não funcione, nem usar quaisquer recursos que possam afetar a função do Site de qualquer forma, por exemplo (mas não se limitando a) liberar ou propagar vírus, worms, bombas lógicas ou similares. Quaisquer envios múltiplos são estritamente proibidos. O usuário não deve interferir ou adulterar, remover ou alterar de qualquer forma qualquer informação, sob qualquer forma, no Site.
+6.6.3. Você deverá usar o Site somente para entretenimento pessoal e não terá permissão para recriar o Site ou qualquer parte dele, de qualquer forma, sem o nosso consentimento expresso.
+6.6.4. Você não deve tentar obter acesso não autorizado ao Site, aos servidores nos quais o Site está armazenado ou a qualquer servidor, computador ou banco de dados conectado ao Site. Você não deve atacar o Site por meio de um ataque de negação de serviço ou similar. Denunciaremos qualquer violação desse tipo às autoridades policiais relevantes e cooperaremos com essas autoridades divulgando sua identidade a elas. No caso de tal violação, seu direito de usar o Site e o acesso à sua conta serão interrompidos.
+6.6.5. Não seremos responsáveis por qualquer perda ou dano causado por um ataque distribuído de negação de serviço, vírus ou outro material tecnologicamente prejudicial que possa infectar seu equipamento de computador, programas de computador, dados ou outro material proprietário devido ao seu uso do Site ou ao download de qualquer material publicado nesse Site ou em qualquer site vinculado ao Site.
+6.6.6. É proibido vender, transferir e/ou adquirir contas de outros jogadores.
+7. SUSPENSÃO, LIMITAÇÃO E ENCERRAMENTO DA CONTA PELO CLIENTE
+7.1 Você tem a opção de suspender, estabelecer limites ou encerrar sua conta a qualquer momento. Todas as transações em andamento no momento de sua decisão serão concluídas como de costume e processaremos sua solicitação prontamente. Você pode definir vários limites para o uso da sua conta a fim de promover o jogo responsável. Para obter mais detalhes sobre como definir limites ou suspender o uso de sua conta, consulte a Seção 9 – JOGO RESPONSÁVEL destes Termos e Condições.
+8. DIREITOS E DEVERES DO APOSTADOR
+8.1. Esteja ciente de que, como cliente, você possui determinados direitos que o protegem e resguardam. De acordo com a Lei nº 8.078, de 11 de setembro de 1990, e a Portaria SPA/MF nº 1.231, de 31 de julho de 2024, seus direitos são os seguintes:
+•	O direito de fazer apostas livremente, sem coerção, de forma segura e responsável, em conformidade com as disposições legais e regulamentares. Esse direito não exclui a prerrogativa da KTO de recusar, restringir ou limitar apostas de acordo com os requisitos legais e/ou regulatórios;
+•	O direito de expressar consentimento em relação ao tratamento de dados pessoais pela KTO no momento do registro da conta;
+•	O direito de ter acesso fácil e transparente ao Serviço de Atendimento ao Cliente (SAC), fornecido pela KTO;
+•	O direito de receber informações sobre a quota fixa de eventos esportivos e jogos on-line oferecidos;
+•	O direito de acessar o histórico de transações financeiras com a KTO;
+•	O direito de encerrar sua conta de apostas;
+•	O direito de escolher livremente entre opções como alertas, limites prudenciais, períodos de intervalo e autoexclusão;
+•	O direito de ser informado sobre as regras de uso do serviço, especialmente com relação ao depósito e à retirada de recursos financeiros;
+•	O direito de retirar seu saldo financeiro disponível mantido na conta transacional, com registro na conta gráfica. Esse direito não exclui a prerrogativa da KTO de restringir temporariamente os saques nos casos em que houver evidência de fraude ou outros crimes, incluindo, mas não se limitando a, crimes financeiros, garantindo o direito do apostador a uma investigação e defesa justas;
+•	O direito de solicitar a autoexclusão específica no sistema da KTO, por prazo determinado ou indeterminado; e solicitar a autoexclusão centralizada, por prazo determinado ou indeterminado:
+a) por meio da plataforma mantida pela Secretaria de Prêmios e Apostas diretamente pelo apostador; ou
+b) por meio de link para a plataforma mantida pela Secretaria de Prêmios e Apostas, disponibilizado pela KTO;
+•	O direito de receber informações claras e abrangentes sobre as regras e os procedimentos para usar os serviços de apostas e os canais eletrônicos;
+•	O direito de obter termos e condições para fazer previsões de apostas e verificar prêmios;
+•	O direito de ser informado sobre os riscos de perder quantias apostadas, bem como sobre os perigos do jogo problemático e do jogo patológico;
+•	O direito à proteção de informações pessoais;
+•	O direito de receber informações transparentes;
+•	O direito à proteção contra a propaganda enganosa e táticas coercitivas;
+•	O direito de receber informações transparentes que evitem termos contratuais que resultem em benefícios desproporcionais para a empresa ou ônus excessivos para o cliente devido a circunstâncias imprevistas;
+•	O direito de ser protegido contra riscos à vida, à saúde e à segurança decorrentes de práticas perigosas ou prejudiciais na prestação de serviços de apostas esportivas e jogos on-line;
+•	O direito de acessar educação e informações sobre o consumo responsável de serviços de apostas esportivas e jogos on-line, garantindo a liberdade de escolha;
+•	O direito de garantir a prevenção e a resolução eficazes de danos materiais e morais individuais, coletivos e generalizados;
+•	O direito de acessar os canais judiciais e administrativos para tratar das violações desses direitos sem obstrução;
+•	O direito à defesa simplificada dos direitos do consumidor;
+•	O direito a ser reconhecido como usuário de serviço público para fins do disposto na Lei número 13.460 de 26 de junho de 2017.
+8.2. Ao acessar e/ou usar nossa plataforma e nossos serviços, você concorda e reconhece que tem determinados deveres que deverá cumprir. Essas obrigações incluem, mas não se limitam a:
+•	Identificar-se para nós, fornecendo informações precisas sempre que solicitado, inclusive documentos de identificação;
+•	Registrar um número de telefone e um endereço de e-mail que permitam uma comunicação direta e eficaz entre você e nós;
+•	Fornecimento de detalhes e registro de até três contas de depósito ou pagamento pré-pago em seu nome, mantidas em instituições financeiras ou provedores de pagamento autorizados a operar pelas autoridades competentes;
+•	Ler e, de acordo com sua conveniência, aceitar ou recusar nosso Aviso de Privacidade e nossos Termos e Condições no momento do registro e sempre que houver alterações em seu conteúdo. Esteja ciente de que, se não concordar com estes Termos, você não deverá acessar ou usar nosso Site e/ou Serviços;
+•	Utilizar sua conta somente para fazer apostas, em conformidade com as normas legais e regulamentares aplicáveis.
+•	Informar ao agente operador de aposta se está enquadrado em quaisquer hipóteses previstas no art. 26 de Lei número 14.790 de 29 de dezembro de 2023.
+•	Adotar limites prudenciais de aposta por perda financeira e por tempo transcorrido,
+vinculando tais limites a períodos diário, semanal, mensal ou outros períodos.
+8.3. Ao aceitar estes Termos e Condições, você afirma que não pertence a nenhuma das Categorias Restritas descritas na Seção 4 – ABERTURA DE SUA CONTA E VERIFICAÇÃO, deste Termos e Condições. Se você atender a qualquer um dos critérios descritos nas Categorias Restritas, deverá abster-se de usar nossos Serviços. Além disso, se você passar a fazer parte de uma Categoria Restrita durante o seu relacionamento com a KTO, será obrigado a nos notificar imediatamente sobre essa alteração.
+8.4. Além disso, esteja ciente de que, ao aceitar estes Termos e Condições, você declara que seu cônjuge, parceiros ou parentes até o segundo grau não se enquadram em nenhuma das circunstâncias a seguir:
+a. Diretores esportivos, técnicos desportivos, treinadores e integrantes de comissão técnica.
+b. Árbitros ou assistentes de árbitro de modalidade desportiva, ou funções equivalentes, empresários esportivos, agentes ou representantes de atletas, e técnicos ou membros de comissão técnica.
+c. Membros de órgãos administrativos ou de fiscalização de organizações que gerenciam e/ou organizam competições ou eventos esportivos.
+d. Atletas participantes de competições organizadas por entidades integrantes do Sistema Nacional do Esporte.
+8.5. Se você, seu cônjuge, parceiros ou parentes até o segundo grau atenderem a qualquer um dos critérios listados acima, você não deverá usar nossos Serviços e será obrigado a nos informar imediatamente.
+8.6. Você não deve divulgar (deliberada ou acidentalmente) os detalhes de sua Conta a qualquer outra pessoa. Se tiver perdido ou esquecido os detalhes da sua Conta, entre em contato com o suporte ao cliente, por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA .
+8.6.1. Qualquer atividade na sua conta será considerada legítima se o seu nome de usuário, endereço de e-mail, senha, dados biométricos e/ou código PIN tiverem sido usados para fazer login com êxito.
+8.7. Esteja ciente de que você tem o dever de manter as credenciais de acesso à sua conta em nosso Site confidenciais e seguras, e não deve compartilhá-las com ninguém. Você é responsável por todas as transações feitas por meio de sua conta e por todas as atividades conduzidas em sua conta quando as credenciais de acesso tiverem sido inseridas corretamente.
+9. JOGO RESPONSÁVEL
+9.1. Temos o compromisso de endossar o jogo responsável como uma política de atendimento ao cliente e responsabilidade social. Acreditamos ser nossa responsabilidade garantir que nossos clientes desfrutem da experiência de apostar em nosso site enquanto permanecem totalmente cientes dos danos sociais e financeiros do jogo problemático.
+
+9.2 Se quiser adotar medidas de jogo responsável, você tem as seguintes opções:
+
+(i) adoção de limites prudenciais de apostas com base no tempo decorrido, na perda financeira, no valor total depositado ou no número de apostas, com a opção de vincular esses limites a períodos diários, semanais, mensais ou outros;
+
+(ii) implementação de recursos do sistema que permitem programar alertas ou bloqueios de uso com base no tempo decorrido durante uma sessão de apostas;
+
+(iii) introdução de períodos de pausa, durante os quais você terá acesso à sua conta, mas não poderá fazer apostas;
+
+(iv) autoexclusão específica, por prazo determinado ou prazo indeterminado, durante o qual sua conta será fechada e só poderá ser reativada após o término do prazo determinado ou, nos casos de autoexclusão por prazo indeterminado, mediante sua solicitação expressa, em conformidade com nossa Política de Jogo Responsável;
+
+(v) autoexclusão centralizada, por prazo determinado ou por prazo indeterminado, a qual deverá ser realizada diretamente no site do Governo Federal através do seguinte link: https://autoexclusaoapostas.fazenda.gov.br/
+
+9.2.1. Informamos que a autoexclusão centralizada é realizada por meio da Plataforma Centralizada de Autoexclusão, um serviço público e gratuito disponibilizado pelo Governo Federal. Uma vez solicitada a autoexclusão centralizada, sua conta será encerrada em nossa plataforma ou você ficará impedido de realizar cadastro em nosso site, caso ainda não possua conta ativa. Para eventuais dúvidas relacionadas a esse serviço, recomendamos a consulta ao site da Secretaria de Prêmios e Apostas do Ministério da Fazenda, por meio do seguinte link: https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas
+
+9.2.2. Uma vez solicitada a autoexclusão centralizada, seja por prazo determinado ou indeterminado, a KTO procederá ao bloqueio da conta assim que receber a respectiva informação por meio de consulta à base de dados do Governo Federal. Nos termos da regulamentação aplicável, as consultas à referida base de dados são realizadas obrigatoriamente no momento da abertura de cadastro, na efetivação do primeiro login diário e a cada 15 (quinze) dias. O encerramento da conta será realizado no prazo de até 3 (três) dias após o recebimento da informação.
+
+9.2.2.1. Durante o período compreendido entre a solicitação de autoexclusão centralizada e o efetivo recebimento da informação, até o início do procedimento de encerramento da conta, você reconhece e concorda que a KTO não poderá ser responsabilizada por eventuais transações realizadas em sua conta, considerando que a autoexclusão ainda estará em processamento dentro do prazo aplicável.
+
+9.2.3. Você pode definir limites financeiros relacionados a depósitos, apostas e/ou perdas entrando em contato com nosso Serviço de Atendimento ao Cliente ou acessando o menu Minha Conta ou menu Gerencie seus limites. Uma vez definidos, você não poderá exceder os limites estabelecidos.
+
+9.2.4. Você pode definir limites máximos de tempo de sessão entrando em contato com nosso Serviço de Atendimento ao Cliente ou acessando o menu Minha Conta ou o menu Gerencie seus Limites. Quando esses limites forem definidos, você não poderá continuar jogando além do limite de tempo predefinido em uma única sessão.
+
+9.3. Os limites podem ser alterados a qualquer momento. Uma redução no limite de depósito entrará em vigor imediatamente, mas um aumento só poderá ocorrer após um período de reflexão de 24 (vinte e quatro) horas. Se precisar de mais informações ou assistência com relação ao jogo responsável, entre em contato com nosso Serviço de Atendimento ao Cliente por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA.
+
+9.3.1. Qualquer redução na rigidez de um limite será acompanhada de um período de 24 (vinte e quatro) horas em que os limites anteriores permanecerão em vigor.
+
+9.4. Se você acredita que está tendo dificuldades com seus hábitos de jogo, oferecemos uma opção de autoexclusão específica que pode ser ativada acessando o menu Minha Conta ou entrando em contato com o nosso Serviço de Atendimento ao Cliente.
+
+9.5. A autoexclusão significa que sua conta permanecerá fechada durante todo o período de autoexclusão, o qual poderá ser estabelecido por prazo determinado ou por prazo indeterminado. Essa é a principal diferença em relação a uma solicitação padrão de encerramento de conta, pois o acesso não será permitido ou alterado depois que a autoexclusão for definida. Quaisquer fundos restantes em sua conta serão imediatamente devolvidos a você, com uma dedução aplicada equivalente às taxas de processamento da transação.
+
+9.6. Se você tiver apostas pendentes em uma conta autoexcluída, essas apostas serão liquidadas seguindo os procedimentos habituais. Quaisquer ganhos adquiridos durante um período de autoexclusão específica podem ser retirados entrando em contato com nosso Serviço de Atendimento ao Cliente Suporte por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA.9.7. Caso você se autoexclua e, posteriormente, durante o período de autoexclusão aplicável, consiga abrir uma conta para depositar e jogar novamente, todas as suas apostas serão anuladas e todos os valores correspondentes a depósitos não utilizados serão devolvidos a você. Você declara estar ciente e concorda em renunciar a quaisquer reivindicações relacionadas aos respectivos valores.
+
+9.8. Em determinados eventos de autoexclusão, poderemos entrar em contato com você para transferir os fundos pendentes da sua conta de jogador. Poderemos solicitar que você forneça detalhes da conta ou detalhes do método de pagamento (como detalhes da conta bancária ou outros métodos aplicáveis) para realizar o reembolso. Certifique-se de que todos os detalhes de sua conta, como endereço de e-mail, nome completo, número de telefone, etc., estejam sempre atualizados e corretos.
+
+9.9. Serão adotadas medidas razoáveis para manter sua autoexclusão. No entanto, você reconhece que a responsabilidade principal pelo seu comportamento é exclusivamente sua e, portanto, concorda e aceita que não seremos responsabilizados caso você continue a jogar e/ou tente utilizar o Site, sem que seja possível identificar ou impedir tal conduta.Também recomendamos que você considere a instalação de um software que permita o bloqueio do acesso a sites de apostas na Internet.
+
+9.10. É ilegal que qualquer pessoa com menos de 18 (dezoito) anos de idade abra uma conta ou aposte em nosso site. Caso seja identificado que uma pessoa menor de 18 (dezoito) anos utilizou o Site, quaisquer ganhos eventualmente obtidos serão declarados nulos e sem efeito, sem prejuízo da adoção das medidas legais cabíveis, inclusive comunicação às autoridades competentes.
+
+9.11. Recomendamos a utilização de sistemas de filtragem parental caso você compartilhe seu computador ou dispositivo com pessoas que não possuam idade legal para se cadastrar ou apostar em nosso Site ou que tenham solicitado autoexclusão. Tais soluções de filtragem permitem que pais ou responsáveis controlem o acesso à internet com base em critérios previamente definidos, podendo ser utilizadas para impedir, entre outros, o acesso a sites de apostas esportivas e jogos on-line.
+
+9.12. Não nos responsabilizaremos por quaisquer reclamações feitas em decorrência de erros resultantes de seu e-mail de registro, inclusive por não conseguirmos receber sua solicitação. Se não respondermos dentro de um prazo razoável, verifique seu e-mail de registro e certifique-se de que seu e-mail foi enviado com sucesso. Você reconhece que é sua responsabilidade garantir que recebemos sua solicitação, caso não receba uma resposta ou confirmação de recebimento do e-mail de nossa parte.
+
+9.13. Por meio de nossa Política de Jogo Responsável, disponibilizamos um autoteste para que você possa avaliar e refletir sobre sua relação com apostas esportivas e jogos on-line. Esclarecemos que o referido autoteste não constitui instrumento de diagnóstico e recomendamos que, caso entenda necessário, busque orientação de profissional de saúde devidamente habilitado. Para acessar o autoteste, consulte a página de Jogo Responsável disponível em nosso Site: https://www.kto.bet.br/jogo-responsavel/
+
+9.14. O Governo Federal, por intermédio do Ministério da Saúde, também disponibiliza um autoteste para avaliação da relação com apostas, que pode ser acessado por meio do seguinte link: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental/nao-aposte-sua-saude/autoteste
+
+9.15. Também é disponibilizado em nosso Site um questionário de autoavaliação, cujo objetivo é auxiliar na análise do impacto financeiro das apostas. O referido questionário poderá ser acessado por meio do seguinte link: https://www.kto.bet.br/autoavaliacao-financeira-kto/
+
+9.16. Temos o compromisso de apoiar as iniciativas de Jogo Responsável e incentivamos você a se manter informado sobre o assunto. Recomendamos que reveja nossa política de Jogo Responsável e consulte os sites das seguintes organizações:
+
+(a) A Gambling Therapy é um serviço on-line global gratuito que oferece aconselhamento prático e apoio emocional a pessoas afetadas pelo problema do jogo. A terapia para problemas com apostas esportivas e jogos on-line é oferecida por Gordon Moody, fornecendo orientação prática e apoio emocional gratuitos a qualquer pessoa afetada pelo jogo. Todas as informações podem ser acessadas em https://www.gamblingtherapy.org/about-us/what-is-gambling-therapy/.
+
+(b) Jogadores Anônimos (JA) é uma irmandade de indivíduos que compartilham suas experiências, força e esperança com o objetivo de parar de jogar, manter o afastamento e ajudar outros jogadores patológicos a fazerem o mesmo.O JA utiliza apoio de grupo para orientar os indivíduos por meio de um programa de recuperação em 12 (doze) etapas (https://jogadoresanonimos.com.br/g-12-passos-de-recuperacao/).
+Visite o site do JA para obter mais informações:https://jogadoresanonimos.com.br/.
+
+Os telefones de contato são os seguintes::
+
+Rio de Janeiro: (21) 997503174
+São Paulo: (11) 995716942
+Rio Grande do Sul: 51 98030-2002
+Bahia: 71 986240512
+Paraná: 41 996848004
+Mato Grosso do Sul: 67 984731321
+Minas Gerais: 31 992062501
+Santa Catarina: 48 984142208
+
+Você pode encontrar informações sobre as reuniões por meio do seguinte link:
+https://jogadoresanonimos.com.br/g-reunioes-presenciais/
+
+Jogadores Anônimos Online (JAonline) chega a áreas onde não há grupos locais de Jogadores Anônimos, oferecendo apoio e compartilhando experiências com indivíduos que não têm acesso a reuniões locais. O JAonline é um grupo de Jogadores Anônimos que utiliza o aplicativo Skype para realizar reuniões regulares. Além das interações por meio dessas reuniões virtuais, os participantes também têm a oportunidade de trocar experiências de recuperação por e-mail.
+Todas as informações relevantes podem ser acessadas em: http://www.grupojaonline.com.br/. As pessoas também podem entrar em contato com eles enviando uma mensagem para contato@grupojaonline.com.br
+
+(c) Dependentes de Internet e Tecnologia Anônimos/ Internet and Technology Addicts Anonymous (ITAA) é uma associação de Doze Passos baseada nos princípios pioneiros de Alcoólicos Anônimos. A associação é totalmente não profissional e autossustentável, e o único requisito para ser membro da ITAA é o desejo de parar de usar a Internet e a tecnologia compulsivamente. Eles compartilham sua experiência, força e esperança uns com os outros por meio de reuniões de grupo e relacionamentos individuais, trabalhando em um programa de recuperação baseado nos Doze Passos de Alcoólicos Anônimos. Seu objetivo é abster-se do uso compulsivo da Internet e da tecnologia e ajudar outras pessoas a se libertarem desse problema. Todas as informações relevantes podem ser acessadas em: https://internetaddictsanonymous.org/
+
+(d) O JOG-ANON é um grupo formado por cônjuges, parceiros, familiares e amigos íntimos de pessoas afetadas por problemas relacionados ao jogo. O JOG-ANON fornece diretrizes para que os parentes de jogadores com problemas de jogo patológico possam lidar com os desafios que essa situação pode trazer. Todas as informações relevantes podem ser acessadas em: https://www.jog-anon.com.br/index.html
+
+9.16.1. Para mais informações relacionadas à saúde mental, recomendamos que você entre em contato com a Ouvidoria-Geral do SUS, por meio do telefone 136, ou acesse o Sistema OuvidorSUS pelo seguinte link: https://www.gov.br/saude/pt-br/canais-de-atendimento/ouvsus
+
+9.17. Caso você seja um tutor legal, pessoa de apoio ou curador, forneceremos o acesso permitido pela legislação aplicável, com base em sua função, de acordo com a Lei nº 13.146/2015. Para obter assistência adicional, entre em contato conosco por meio de nossos canais de atendimento disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA.
+
+9.18. Em razão de obrigação regulatória, você deverá, obrigatoriamente, estabelecer limites prudenciais de apostas por perda financeira e por tempo de transcorrido, no momento do seu cadastro em nossa Plataforma, podendo tais limites ser vinculados a períodos diários, semanais, mensais ou a outros períodos disponibilizados. Os limites serão definidos conforme seu exclusivo critério.
+
+9.18.1. Caso você já seja cliente da KTO, no momento em que realizar alguma atualização de seus dados cadastrais em nossa Plataforma, será obrigatória a definição dos limites prudenciais acima mencionados. Na hipótese de não haver atualização cadastral, a definição de tais limites será exigida no processo de atualização anual de cadastro.
+
+9.19. Ao acessar ou utilizar nosso Site, você declara estar ciente e de acordo com nossa Política de Jogo Responsável. Caso sejam identificadas condutas que indiquem indícios de jogo problemático, poderemos adotar as medidas cabíveis, incluindo o eventual encerramento de sua conta. Para mais informações, consulte a página de Jogo Responsável disponível por meio do seguinte link: https://www.kto.bet.br/jogo-responsavel/
+10. TIPOS E FORMAS DE APOSTAS
+10.1. Você poderá realizar apostas em nosso Site sobre eventos de temática esportiva e/ou eventos virtuais de jogos on-line. Todas as transações realizadas em nosso Site estão sujeitas aos nossos Termos e Condições, bem como aos Termos e Condições específicos aplicáveis a cada evento esportivo e evento de jogo virtual. Para obter mais informações, consulte nossas Regras do Esportee as Regras de Jogos On-line.
+10.1.1. Todas as transações serão realizadas em português.
+10.1.2. É de sua responsabilidade garantir que os detalhes de qualquer transação estejam corretos.
+10.1.3. Você pode acessar o histórico de transações realizadas em sua conta por meio do menu “Minha Conta”. O histórico de suas apostas esportivas está disponível no menu “Minhas Apostas”. Caso deseje acessar o histórico de jogos on-line, entre em contato com o Serviço de Atendimento ao Cliente, por meio dos canais disponibilizados na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA.
+10.2. Nenhuma aposta será confirmada como aceita até que seja enviada uma confirmação para você. Se não receber uma confirmação, você deverá informar nossa equipe de Atendimento ao Cliente.
+10.2.1. Todas as apostas realizadas em nossa plataforma, inclusive aquelas que dependem de aprovação manual, poderão estar sujeitas a demora antes de sua aceitação, sendo que o prazo de aceitação poderá variar.
+10.3. Após a confirmação da sua aposta, não será possível cancelar a transação sem nosso consentimento prévio e expresso, concedido por escrito.
+10.4. Informações sobre o processo de apostas feitas em eventos cancelados, suspensos ou anulados podem ser encontradas na seção Regras do Esporte do nosso site.
+10.5. Esteja ciente de que é de sua exclusiva responsabilidade garantir que todas as transações feitas em nossa plataforma sejam precisas. Uma vez concluídas, as transações não poderão ser canceladas pelo usuário.
+10.6. As transações serão inválidas se (i) não houver fundos suficientes em sua conta para cobri-las ou (ii) não recebermos a confirmação de que a transação foi totalmente concluída. Lembre-se de que as transações serão automaticamente canceladas se não recebermos sua confirmação antes do início do evento e/ou jogo.
+10.7 As apostas ofertadas em nossa plataforma estão sujeitas a critérios de classificação e segmentação. Tais critérios podem impactar diretamente na disponibilização de determinados tipos de apostas e mercados, de modo que algumas opções, tanto do mercado primário quanto do mercado secundário de apostas esportivas, assim como em jogos on-line, poderão não estar acessíveis em nossa plataforma. Ao aceitar nossos Termos e Condições, você está ciente e concorda expressamente com os critérios técnicos e comerciais estabelecidos.
+10.8. A KTO mantém mecanismos de controle robustos, concebidos para garantir a precisão e a confiabilidade de suas operações. Em circunstâncias raras e excepcionais em que possam ocorrer erros, mecanismos de nova tentativa podem ser aplicados para corrigir o problema. Apenas como último recurso é considerado o encerramento de rodadas.
+10.9. Qualquer rodada de jogo que permaneça inacabada será automaticamente encerrada, no prazo máximo, de trinta (30) dias a partir da data em que a rodada foi iniciada. É responsabilidade do jogador concluir suas transações dentro dos prazos aplicáveis a esta atividade recreativa, conforme determinados pelo próprio jogador; consulte, por favor, a cláusula 8.2.
+10.10. Caso um bônus que inclua múltiplos giros esteja associado a uma rodada específica e essa rodada não seja concluída após o período máximo de trinta (30) dias, a rodada poderá ser liquidada com base no estado do jogo na data e hora exatas da última atividade registrada do jogador.
+11. RETIRADA ANTECIPADA (CASHOUT)
+11.1. A funcionalidade Cashout (“Cash Out” ou “retirada antecipada”) permite que os apostadores liquidem suas apostas antes da conclusão do evento. Essa opção pode estar disponível para eventos selecionados em pré-jogo ou ao vivo, bem como para apostas simples ou múltiplas. Para obter mais detalhes sobre o Cashout, por favor consulte nossas Regras do Esporte.
+11.2. A funcionalidade Cash Out não pode ser usada em apostas grátis. Pedidos de Cash Out podem estar sujeitos ao mesmo processo de demora, tal como estabelecido na Seção 10 – TIPOS E FORMAS DE APOSTAS destes Termos e Condições. Caso, durante esta demora, a oferta seja removida ou as odds flutuem, o pedido de Cash Out não será aceito e você será notificado com uma mensagem na tela.
+11.3. A KTO se reserva o direito de oferecer tal funcionalidade a seu exclusivo critério e não reconhece ou aceita qualquer responsabilização caso a funcionalidade Cash Out não esteja disponível.
+11.4. Caso um pedido de Cash Out tenha sucesso, a aposta será liquidada imediatamente e quaisquer eventos subsequentes à aposta não serão considerados. No evento de uma aposta cashed out (paga) ter sido alvo de um erro técnico, de cotação ou de liquidação em qualquer período entre o momento da colocação da aposta e do Cash Out, a KTO reserva-se o direito de adotar as medidas necessárias, dentro dos limites regulatórios aplicáveis, para ajustar o saldo.
+11.5. O valor do Cashout é calculado automaticamente em tempo real de acordo com as probabilidades.
+11.6. Observe que as apostas que foram liquidadas com a opção de Cashout são excluídas de qualquer procedimento de rolagem de prêmios.
+12.  CANCELAMENTO OU INTERRUPÇÃO DE EVENTOS NOS QUAIS AS APOSTAS TENHAM SIDO FEITAS
+12.1. O cancelamento ou a interrupção de eventos nos quais foram feitas apostas é regido por regras específicas de cada esporte. Para facilitar a compreensão destes Termos e Condições, as regras detalhadas aplicáveis a cada esporte, incluindo os prazos e condições sob os quais os cancelamentos ou interrupções podem ocorrer, podem ser acessadas por meio do seguinte link: Regras do Esporte.
+12.2. Lembre-se de que as transações serão automaticamente canceladas se não recebermos sua confirmação antes do início do evento e/ou jogo.
+12.3. Reservamo-nos o direito de suspender a oferta de qualquer evento esportivo em qualquer um dos mercados fornecidos em nosso site, bem como de reter a liquidação de apostas e declarar as transações nulas e sem efeito se tivermos provas de que qualquer uma das seguintes situações ocorreu em relação a tais eventos:
+(i) Ocorreram casos de manipulação de resultados;
+(ii) Foram detectados padrões de apostas incomuns ou irregulares;
+(iii) Há informações imprecisas sobre o(s) evento(s);
+(iv) Houve manipulação de probabilidades ou grupos de apostas;
+(v) Há motivos para acreditar que sistemas ou jogadores automatizados fizeram as apostas;
+(vi) A credibilidade do(s) evento(s) foi questionada devido à corrupção, suborno ou falta de integridade.
+12.4. Também nos reservamos o direito de anular transações ou reter o pagamento de ganhos enquanto aguardamos o resultado de qualquer Processo de Apuração subsequente, caso seja detectada uma série de transações que contenha a mesma seleção e seja feita pelo mesmo indivíduo ou por um grupo de indivíduos.
+13. MAU FUNCIONAMENTO, ERROS E INTERRUPÇÕES DA PLATAFORMA DE APOSTAS
+13.1 ERROS OU OMISSÕES
+13.1.1. Em algumas circunstâncias, podemos aceitar uma aposta ou pagamento por engano. Esforços razoáveis são empreendidos para evitar tais erros, no entanto, problemas de sistema ou erro humano podem levar a tais circunstâncias. Tais circunstâncias podem incluir, sem se limitar a:
+(i) Aceitação de uma aposta em um preço significativamente diferente daqueles disponíveis no mercado no momento em que a aposta foi feita;
+(ii) Erro de cálculo (inclusive devido a erro humano) de recompensas, ganhos ou devoluções pagas ao usuário;
+(iii) As informações sobre probabilidades ou termos de uma aposta podem ter sido inseridas incorretamente como consequência de erro humano ou mau funcionamento do computador;
+(iv) Erros ou omissões resultantes de Atividades Proibidas;
+(v) Erros ou omissões que resultem em ganhos visivelmente incorretos ou diferentes do que é comercializado;
+(vi) Continuação da aceitação de apostas em um mercado ou evento que já tenha sido fechado ou suspenso.
+13.1.2. Nós nos reservamos o direito de optar por:
+(i) Corrigir qualquer erro cometido em uma aposta e redefini-la com o preço e/ou termos corretos que deveriam estar disponíveis no momento em que a aposta foi feita.
+(ii) Anular e reembolsar a participação nos casos em que a correção ou a redefinição não forem possíveis.
+13.1.3. Nem os funcionários ou agentes da empresa, nem nossos parceiros ou fornecedores serão responsáveis por qualquer perda, inclusive perda de ganhos, resultante de qualquer erro cometido por nós ou por você.
+13.1.4. A KTO não se responsabiliza pela precisão, completude e atualidade dos serviços de informação propostos, incluindo dados sobre os eventos ao vivo (“Live”) e os serviços de correspondência.
+13.1.5. A KTO se esforça ao máximo para que as informações sobre eventos ao vivo (como resultados, hora do jogo e estatísticas da equipe/do jogador) sejam precisas. Entretanto, esses dados são exibidos apenas para fins informativos. A KTO não é responsável em caso de erros nesses dados.
+13.1.6. Caso os ganhos sejam creditados em sua conta devido a erros e/ou omissões, reservamo-nos o direito de cancelar quaisquer transações relacionadas e reter os ganhos correspondentes decorrentes de tais erros e/ou omissões. Caso já tenha retirado tais ganhos, o usuário concorda em reembolsá-los mediante nossa solicitação.
+13.1.7. Se os erros e/ou omissões se tornarem aparentes para você, ou se você suspeitar que algum deles esteja ocorrendo, entre em contato conosco e com o nosso Atendimento ao Cliente por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA destes Termos e Condições.
+13.2 MAU FUNCIONAMENTO E FALHA TÉCNICA
+13.2.1. Quando ocorrer uma falha inesperada no sistema, tomaremos todas as medidas razoáveis para reparar quaisquer falhas ou erros relacionados ao software ou hardware assim que for razoavelmente possível. Na eventualidade de tal erro ou falha ter causado a interrupção de um jogo, de modo que o jogo não possa ser retomado da mesma posição, tomaremos todas as medidas razoáveis para resolver o problema da maneira mais justa possível. Isso pode incluir o restabelecimento do saldo em sua Conta.
+13.2.2. No caso de uma desconexão durante um jogo on-line, você poderá retomar a sessão assim que se reconectar. Se ocorrerem outros problemas, entre em contato com nosso Serviço de Atendimento ao Cliente para obter mais orientações.
+13.2.3. Como os jogos ao vivo são concluídos em tempo real, eles constituem uma exceção ao disposto acima, e a inatividade do usuário será considerada como sua escolha, e o jogo será concluído. Para jogos on-line em que nenhuma ação adicional é exigida do usuário após a realização de uma aposta, por exemplo, nos slots, o usuário pode verificar o resultado da aposta verificando o histórico de apostas, que pode ser visualizado quando o usuário estiver conectado à sua conta. A desconexão não terá afetado o jogo e você terá a mesma chance de ganhar como se tivesse assistido ao resultado ao vivo.
+13.2.4. Ao acessar o Site, você deve estar ciente de que sua conexão com a Internet pode não ser tão segura quanto a de outros jogadores. Isso pode afetar seu desempenho em eventos ao vivo com tempo crítico oferecidos em nosso Site.
+13.2.5. Não aceitamos nenhuma responsabilidade por falhas técnicas que estejam fora do nosso controle, inclusive quando o seu próprio equipamento falhar ou se o problema for devido ao seu provedor de serviços de Internet.
+13.2.6. Caso os ganhos sejam creditados em sua conta devido a uma falha técnica (erro ou mau funcionamento), reservamo-nos o direito de cancelar quaisquer transações relacionadas e reter os ganhos correspondentes decorrentes de tal falha técnica. Caso já tenha retirado tais ganhos, o usuário concorda em reembolsá-los mediante nossa solicitação.
+13.2.7. Se uma falha técnica se tornar aparente para você, ou se você suspeitar que ela esteja ocorrendo, entre em contato conosco imediatamente por meio do nosso Atendimento ao Cliente por meio dos canais disponíveis na Seção 19 – ATENDIMENTO AO CLIENTE E OUVIDORIA.
+13.3. RESPONSABILIDADE
+13.3.1. Seu acesso e uso dos produtos oferecidos por meio de nosso Site são de sua exclusiva opção, discrição e risco.
+13.3.2. Garantimos o fornecimento de nosso Site com a máxima precisão e atenção descritas ao longo dos Termos. Não fazemos quaisquer outras promessas ou garantias no Site (incluindo os produtos oferecidos por meio do Site) e, por meio deste, excluímos (até o limite permitido por lei) todas as garantias implícitas com relação ao mesmo.
+13.3.3. Não seremos responsáveis perante você por contrato, ato ilícito (inclusive negligência) ou de outra forma por quaisquer perdas, incluindo, mas não se limitando a, perda de dados, lucros, receita, negócios, oportunidades, boa vontade, reputação ou interrupção de negócios ou por quaisquer perdas que não sejam atualmente previsíveis por nós, decorrentes dos Termos e Condições ou do seu uso do Site.
+13.3.4. Esteja ciente de que não seremos responsáveis perante você ou terceiros por quaisquer danos, responsabilidades ou perdas supostamente decorrentes de ou relacionados ao nosso Site e/ou serviços, inclusive aqueles resultantes de ou relacionados a:
+(i) Transações incompletas, perdidas ou atrasadas;
+(ii) Seu uso e/ou acesso ao nosso Site em violação das leis locais aplicáveis;
+(iii) Sua evasão intencional de quaisquer medidas de jogo responsável implementadas;
+(iv) Quaisquer informações, conteúdo e/ou comentários feitos por terceiros;
+(v) Danos ao seu equipamento ou qualquer perda ou corrupção de dados resultantes do seu uso do Site;
+(vi) Quaisquer falhas técnicas, erros ou omissões;
+(vii) O fechamento, a restrição, a limitação ou a suspensão de sua Conta de acordo com estes Termos;
+(viii) Quaisquer atrasos no desempenho ou falha no cumprimento de nossas obrigações devido a eventos, circunstâncias ou causas além de nosso controle razoável;
+(ix) Crimes ou fraudes.
+13.4 VIOLAÇÃO DOS TERMOS E CONDIÇÕES
+13.4.1. Você deverá nos indenizar integralmente por quaisquer reivindicações, responsabilidades, custos, despesas (inclusive honorários advocatícios) e quaisquer outros encargos que possam surgir como resultado de sua violação destes Termos e Condições.
+13.4.2. Se o usuário violar substancialmente os Termos e Condições, reservamo-nos o direito de:
+(i) Fornecer aviso (usando seus Dados de Contato) de que você está violando os Termos, exigindo que você interrompa a ação ou a omissão correspondente;
+(ii) Suspender sua Conta para que você não possa fazer apostas ou jogar no Site enquanto conduzimos um Processo de Apuração;
+(iii) Encerrar sua conta.
+14.SUSPENSÃO DE MERCADOS OU CANCELAMENTO DE TRANSAÇÕES
+14.1. Reservamo-nos o direito de suspender a oferta de qualquer evento esportivo em qualquer um dos mercados fornecidos em nosso site, bem como de reter a liquidação de apostas e declarar as transações nulas e sem efeito se tivermos provas de que qualquer uma das seguintes situações ocorreu em relação a tais eventos:
+(i) Ocorreram casos de manipulação de resultados;
+(ii) Foram detectados padrões de apostas incomuns ou irregulares;
+(iii) Há informações imprecisas sobre o(s) evento(s);
+(iv) Houve manipulação de probabilidades ou grupos de apostas;
+(v) Há motivos para acreditar que sistemas ou jogadores automatizados fizeram as apostas;
+(vi) A credibilidade do(s) evento(s) foi questionada devido à corrupção, suborno ou falta de integridade.
+14.2. Também nos reservamos o direito de anular transações ou reter o pagamento de ganhos enquanto aguardamos o resultado de qualquer Processo de Apuração , caso seja detectada uma série de transações que contenham a mesma seleção e seja feita pelo mesmo indivíduo ou por um grupo de indivíduos.
+14.3. A KTO mantém mecanismos de controle robustos, concebidos para garantir a precisão e a confiabilidade de suas operações. Em circunstâncias raras e excepcionais em que possam ocorrer erros, mecanismos de nova tentativa podem ser aplicados para corrigir o problema. Apenas como último recurso é considerado o encerramento de rodadas de jogos on-line.
+14.4. Qualquer rodada de jogo que permaneça inacabada será automaticamente encerrada, no máximo, até trinta (30) dias a partir da data em que a rodada foi iniciada. É responsabilidade do jogador concluir suas transações dentro dos prazos aplicáveis a esta atividade recreativa, conforme determinados pelo próprio jogador.
+14.5. Caso um bônus que inclua múltiplos giros esteja associado a uma rodada específica e essa rodada não seja concluída após o período máximo de trinta (30) dias, a rodada poderá ser liquidada com base no estado do jogo na data e hora exatas da última atividade registrada do jogador.
+15. TRATAMENTO DE CONTAS INATIVAS
+15.1. Se a sua conta permanecer inativa por um período de mais de 180 (cento e oitenta) dias, ela poderá ser encerrada, e os valores do saldo serão transferidos para a sua Conta Registrada.
+15.2. De acordo com a Lei nº 14.790/2023, o apostador perde o direito de receber seu prêmio ou solicitar reembolsos se o pagamento devido não for creditado em sua conta gráfica mantida com a KTO e não for reivindicado pelo apostador dentro de 90 (noventa) dias a partir da data da publicação do resultado do evento relacionado à aposta.
+15.3 Os valores dos prêmios não reclamados serão divididos de acordo com legislação aplicável e a programação financeira e orçamentária do Poder Executivo federal.
+15.4 Após 5 (cinco) meses de inatividade ininterrupta, enviaremos uma mensagem de lembrete por meio do endereço de e-mail ou número de telefone vinculado à sua conta.
+16.PROMOÇÕES, PRÊMIOS E OFERTAS
+16.1. Podemos oferecer determinadas promoções, prêmios e ofertas em nosso Site. Para obter mais informações sobre nossas promoções, prêmios e ofertas, visite nossa página: https://www.kto.bet.br/promo/
+16.2. Esteja ciente de que todas as promoções, recompensas e ofertas disponibilizadas em nosso Site estão sujeitas a estes Termos e também aos Termos e Condições específicos aplicáveis a cada promoção. A KTO está impedida de conceder, sob qualquer forma, adiantamentos, bônus ou vantagens prévias, mesmo que meramente a título de promoção, divulgação ou propaganda, para a realização de apostas.
+16.3. Reservamo-nos o direito de remover, alterar ou cancelar quaisquer promoções, prêmios ou ofertas em nosso Site sem aviso prévio. Além disso, podemos ser obrigados a impedi-lo de participar de nossas promoções, recompensas ou ofertas devido a obrigações legais ou regulamentares, ou outras circunstâncias, incluindo, entre outras, nossa política de Jogo Responsável.
+17. PRIVACIDADE E PROTEÇÃO DE DADOS PESSOAIS
+17.1. O tratamento de seus dados pessoais é imprescindível para a utilização de nossos serviços e ocorre em diversas etapas, como, por exemplo, para a abertura de sua conta, verificação de identidade e durante as transações financeiras. O tratamento ocorrerá em estrita observância às leis e regulamentos vigentes, sobretudo a Lei Geral de Proteção de Dados Pessoais (LGPD). .
+17.2. As informações a respeito do tratamento de dados pessoais realizado pela APOLLO OPERATIONS LTDA., controladora de dados, estão disponíveis em nosso Aviso de Privacidade. A aceitação e concordância do Aviso de Privacidade são necessárias para utilização de nossos serviços. Caso você não concorde com quaisquer condições e/ou declarações descritas em nosso Aviso de Privacidade, não realize a abertura de uma conta conosco ou pare de acessar e utilizar nossa plataforma.
+17.3. Esteja ciente de que utilizamos cookies e análise de tráfego para aprimorar o desempenho e garantir a eficiência de nossa plataforma e, ao mesmo tempo, melhorar continuamente nossos serviços. Não usamos cookies que contenham códigos maliciosos. Para obter detalhes sobre como usamos cookies, consulte nossa Política de Cookies.
+17.4. Alguns navegadores aceitam cookies automaticamente, no entanto, isto poderá ser alterado acessando as configurações de seu navegador. Além disso, você poderá customizar suas preferências de cookies acessando o nosso cookie banner.
+17.3. Caso tenha qualquer dúvida a respeito do tratamento de seus dados pessoais, entre em contato com o nosso Encarregado (DPO) pelo seguinte endereço de e-mail: dpo@kto.bet.br.
+18. ATENDIMENTO AO CLIENTE E OUVIDORIA
+18.1. Se desejar solicitar assistência ou registrar uma reclamação, você poderá fazê-lo pelos seguintes canais:
+
+(a) Bate-papo ao vivo: Para acessar o bate-papo ao vivo, o apostador precisa fazer login na plataforma e clicar no ícone do bate-papo no menu do lado esquerdo da tela (se estiver usando um dispositivo móvel) ou no canto superior direito da tela (se estiver usando um computador ou laptop).
+
+(b) E-mails:
+suporte@kto.bet.br e suporte@kto.com para atendimento geral ao cliente (SAC).
+ouvidoria@kto.com e ouvidoria@kto.bet.br para a Ouvidoria.
+
+(c) Números de telefone:
+
+O número de telefone do SAC é 0800 500 0048.
+O número de telefone da Ouvidoria é 0800 500 0088.
+
+Nossos números de telefone de saída são:
+Rio Grande do Sul: 51 35113337
+Pernambuco: 81 31175762
+Ceará: 85 36210949
+Goiás: 62 40140640
+Bahia: 71 34833276
+Santa Catarina: 47 21018202
+Paraná: 41 35006377
+Rio de Janeiro: 21 39003115
+Minas Gerais: 31 35001899
+São Paulo: 11 33362715
+
+18.2. Quando quisermos entrar em contato com o usuário, faremos isso usando os detalhes de contato vinculados à sua conta.
+
+18.3. Sempre nos esforçamos para oferecer a você um serviço da mais alta qualidade. No entanto, por vários motivos, você pode achar que não está satisfeito com a qualidade do serviço e pode desejar registrar uma reclamação. Você pode fazer isso enviando um e-mail para suporte@kto.bet.br com o máximo de detalhes possível.
+
+18.4. Nossa equipe de suporte ao cliente tentará lidar com qualquer reclamação assim que for razoavelmente possível. Se a equipe de suporte não puder resolver a reclamação, ela a encaminhará para a respectiva gerência para uma solução.
+
+18.5 Em caso de litígio, você concorda que os registros do servidor servirão como prova final e vinculativa para determinar o resultado de qualquer reivindicação.
+
+18.6. O usuário concorda que, no caso improvável de uma discordância entre o resultado que aparece em sua conta gráfica e o servidor de jogos, o resultado que aparece no servidor de jogos prevalecerá, e o usuário reconhece e concorda que nossos registros servirão como prova para determinar os termos e as circunstâncias de sua participação na atividade de jogos correspondente e os resultados dessa participação.
+
+18.7. Para solicitações gerais por e-mail, você deverá receber uma resposta em até 10 (dez) dias.
+18.8. Se você considerar que não resolvemos adequadamente sua reclamação ou que não a respondemos, você poderá encaminhar o problema a nossa Ouvidoria por meio dos e-mails ouvidoria@kto.com ou ouvidoria@kto.bet.br.
+
+18.9. A função da Ouvidoria é servir como um canal de comunicação entre os apostadores e a KTO, garantindo que as reclamações, sugestões e solicitações sejam devidamente atendidas. A Ouvidoriaé um órgão independente, seu papel é definido pela necessidade de promover a transparência, a justiça e a resolução de conflitos.
+
+18.10. Para informações sobre o nosso Serviço de Atendimento ao Cliente, por favor, consulte nossa página (hyperlink https://www.kto.bet.br/contato/). O serviço está disponível 24 (vinte e quatro) horas por dia, 7 (sete) dias por semana, em língua portuguesa e de forma gratuita.
+19. ALTERAÇÃO DO SITE
+19.1. Podemos, a nosso critério absoluto, alterar ou emendar qualquer produto oferecido pelo Site a qualquer momento para manter nossos Serviços.
+20. DIREITOS DE PROPRIEDADE INTELECTUAL
+20.1. Todo o design, o texto, os gráficos, a música, o som, as fotografias, o vídeo, a seleção e o arranjo do Site, as compilações de software, o código-fonte subjacente, o software e todos os outros materiais contidos em nosso Site estão sujeitos a direitos autorais e outros direitos de propriedade que são de nossa propriedade ou usados sob licença de terceiros proprietários de direitos. Na medida em que qualquer material contido no Site possa ser baixado ou impresso, esse material poderá ser baixado somente para um único computador pessoal e as cópias impressas poderão ser impressas somente para seu uso próprio pessoal e não comercial.
+20.2. Em nenhuma circunstância o uso do nosso Site concederá a qualquer usuário qualquer interesse em quaisquer direitos de propriedade intelectual (por exemplo, direitos autorais, know-how ou marcas registradas) de nossa propriedade ou de terceiros.
+20.3. Não são concedidos direitos de uso ou reprodução de nomes comerciais, marcas registradas ou logotipos que apareçam no Site, exceto conforme especificamente permitido pelos Termos e Condições.
+20.4. O usuário garante que não irá burlar os direitos de Propriedade Intelectual dos provedores de software de jogos ou de quaisquer outros proprietários terceiros. Qualquer violação disso será relatada ao respectivo proprietário dos direitos de Propriedade Intelectual para que sejam tomadas as medidas e a aplicação apropriadas.
+20.5. É expressamente proibido realizar web scraping (extração de dados ou conteúdo por meio de robôs e spiders, por exemplo) da plataforma sem nossa autorização expressa.
+21.INTERPRETAÇÃO
+21.1 O texto original dos Termos está em português e qualquer interpretação dos Termos será baseada no texto original em português. Se os Termos de Uso ou quaisquer documentos ou avisos relacionados a eles forem traduzidos para qualquer outro idioma, a versão original em português prevalecerá.
+22. TRANSFERÊNCIA DE DIREITOS E OBRIGAÇÕES
+22.1. Se aprovado pelo Secretário de Prêmios e Apostas do Ministério da Fazenda, reservamo-nos o direito de transferir, ceder ou sublicenciar estes Termos e Condições, no todo ou em parte, a qualquer pessoa, desde que nos mesmos termos ou em termos que não sejam menos restritivos para o usuário.
+23. EVENTOS FORA DE NOSSO CONTROLE
+23.1. Não nos responsabilizaremos nem assumiremos obrigação de prestar contas por qualquer incapacidade de aderir a estes Termos e Condições quando isso estiver fora de nosso controle razoável, o que inclui, mas não se limita a: Desastres naturais, guerra, comoção civil, interrupção nas redes de comunicação pública, disputa industrial, ataques DDOS ou qualquer ataque cibernético semelhante.
+23.2. Durante esses Eventos de Força Maior, nossas obrigações serão consideradas suspensas enquanto perdurar o respectivo evento. Empregaremos esforços razoáveis para encerrar o Evento de Força Maior ou para encontrar uma solução pela qual nossas obrigações ainda possam ser cumpridas durante esse evento.
+24. RENÚNCIA
+25.1. Se deixarmos de insistir no cumprimento estrito de qualquer uma de suas obrigações ou se deixarmos de exercer qualquer um dos direitos ou recursos a que temos direito, isso não constituirá uma renúncia a tais direitos ou recursos e não o isentará do cumprimento de tais obrigações.
+25.2. A renúncia por nós de qualquer inadimplência não constituirá renúncia de qualquer inadimplência subsequente. Nenhuma renúncia por nós de qualquer uma das disposições dos Termos terá efeito, a menos que seja expressamente declarada como uma renúncia e seja comunicada ao usuário por escrito, de acordo com o exposto acima.
+25. SEVERABILIDADE
+25.1. Se algum dos Termos for considerado inválido, ilegal ou inexequível em qualquer extensão, tal termo, condição ou disposição será, nessa extensão, separado dos termos, condições e disposições restantes, que continuarão a ser válidos na extensão máxima permitida por lei. Nesses casos, a parte considerada inválida ou inexequível deverá ser alterada de forma consistente com a lei aplicável para refletir, da forma mais próxima possível, nossa intenção original.
+26.LEI E JURISDIÇÃO
+26.1. Esteja ciente de que os Termos e Condições, bem como qualquer disputa ou reivindicação decorrente de ou em conexão com estes Termos, serão regidos e interpretados de acordo com as leis do Brasil. Essa escolha de lei não afetará nenhum direito obrigatório de proteção ao consumidor de acordo com as leis de seu país de residência.
+26.2. As leis do Brasil terão exclusividade sobre quaisquer disputas decorrentes dos próprios Termos e Condições.
+27. LINKS E CONTEÚDO DE TERCEIROS
+27.1. Quando fornecemos hiperlinks para outros sites, o fazemos apenas para fins informativos. Você usa esses links por sua conta e risco e não aceitamos nenhuma responsabilidade pelo conteúdo ou uso de tais sites ou pelas informações neles contidas. Não temos nenhuma responsabilidade pelo conteúdo ou pelos recursos de terceiros, nem somos responsáveis por quaisquer danos que possam resultar de seu uso.
+27.2. Esteja ciente de que não podemos garantir a segurança de quaisquer dados que você decida compartilhar com plataformas externas acessadas por meio de links de nossos serviços. Essas plataformas de terceiros operam sob seus próprios termos e condições, incluindo políticas/avisos de privacidade, que diferem das nossas.
+28. POLÍTICA DE REEMBOLSO/CANCELAMENTO DE JOGOS ON-LINE
+28.1. Nenhum reembolso poderá ser feito depois que um depósito (incluindo prêmios) tiver sido jogado em nossos serviços.
+29. ALTERAÇÕES NOS TERMOS E CONDIÇÕES
+29.1. Reservamo-nos o direito de atualizar, alterar ou tomar qualquer outra medida com relação a estes Termos e Condições sempre que necessário para nos alinharmos com as tendências legais e/ou garantir a conformidade com os regulamentos, ou por motivos comerciais e/ou de atendimento ao cliente. Os Termos e Condições mais atualizados podem ser acessados aqui. Recomendamos fortemente que você revise regularmente estes Termos para se manter informado.
+29.2. Todas as alterações feitas entram em vigor após a atualização destes Termos e Condições. A versão atual e a data da última atualização podem ser verificadas no final desta página.
+29.3. Reservamo-nos o direito de fazer alterações menores ou insubstanciais nestes Termos e Condições a qualquer momento, que entrarão em vigor imediatamente após a atualização. Alterações substanciais serão comunicadas em nosso Site ou por meio dos detalhes de contato vinculados à sua conta.
+Última atualização: 05 Fevereiro 2026

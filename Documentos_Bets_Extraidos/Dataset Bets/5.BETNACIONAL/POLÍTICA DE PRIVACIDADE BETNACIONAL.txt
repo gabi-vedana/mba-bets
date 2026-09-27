@@ -1,0 +1,150 @@
+Política de Privacidade e Proteção de Dados Pessoais
+Nós, da NSX BRASIL S.A. (a “NSX”, “nós”, “nos”, “nosso” ou “Betnacional”), somos uma plataforma de apostas de quota fixa. Por meio desta Política de Privacidade e Proteção de Dados Pessoais (“Política”), desejamos esclarecer como tratamos seus Dados Pessoais durante a prestação dos nossos serviços, em conformidade com a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD) e demais normativas aplicáveis à proteção de Dados no Brasil.
+Sua privacidade é importante, tanto para você, quanto para nós. Por isso, um de nossos princípios é construir relações confiáveis e duradouras, de tal modo que faremos o possível para garantir que os Dados que você nos permite processar sejam tratados de forma segura, íntegra e transparente. Por meio de tal pilar, desenvolvemos esta Política, a qual tem como objetivo esclarecer sobre o Tratamento de Dados Pessoais durante a sua interação conosco, seja por meio das nossas plataformas, canais de comunicação ou demais serviços (doravante denominados em conjunto como “Serviços”).
+Incentivamos que você leia esta Política cuidadosamente. Se você não concordar com quaisquer termos presentes nesta Política, você não poderá acessar e utilizar nossos Serviços.
+DEFINIÇÕES
+Para uma melhor compreensão desta Política, as palavras a seguir terão o significado indicado abaixo atribuído a elas, independentemente de estarem no singular ou plural. Os seguintes termos, quando empregados neste documento, terão os seguintes significados:
+Dado Pessoal ou Dado: informação relacionada à pessoa natural identificada ou identificável. Os dados que não se referem à pessoa natural serão considerados como dados corporativos, para facilitar seu entendimento ao ler esta Política.
+Dado Sensível: Dado Pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural.
+Tratamento: toda operação realizada com Dados Pessoais, incluindo Dado Sensível, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração.
+Titular: pessoa natural a quem se referem os Dados Pessoais que são objeto de tratamento, neste caso todos aqueles que têm seus Dados Pessoais tratados pela NSX.
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao Tratamento de Dados Pessoais, neste caso, a NSX.
+Operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o Tratamento de Dados Pessoais em nome do Controlador e de acordo com as decisões de Tratamento realizadas pelo Controlador.
+Agentes de Tratamento: o Controlador e o Operador.
+Consentimento: manifestação livre, informada e inequívoca pela qual o Titular concorda com o Tratamento de seus Dados Pessoais para uma finalidade determinada.
+Controlador Independente: pessoa natural ou jurídica a quem competem as decisões referentes ao Tratamento de Dados Pessoais para finalidades próprias e legítimas, assumindo integral responsabilidade pelas operações que realizar, nos termos da LGPD, como por exemplo, empresas contratadas pela NSX para prestar serviços especializados no âmbito das suas atividades, que poderão tratar dados pessoais de acordo com suas próprias bases legais.
+Agência Nacional de Proteção de Dados (ANPD): autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública, com a função de garantir a aplicação e o cumprimento da LGPD, atuando como órgão regulador, fiscalizador e promotor da cultura de proteção de Dados Pessoais.
+Encarregado: o Encarregado, conhecido também como Data Protection Officer (DPO), é a pessoa indicada pelo Controlador para atuar como canal de comunicação entre o Controlador, os Titulares dos Dados e a Agência Nacional de Proteção de Dados (ANPD).
+KYC (Know Your Customer): conjunto de procedimentos destinados à verificação de identidade de usuários, incluindo análise de documentos, biometria e cruzamento de informações entre bases públicas e/ou privadas, com o objetivo de prevenir fraudes, garantir a segurança das operações e cumprir obrigações legais e regulatórias.
+Usuário: todos aqueles que utilizam a plataforma da NSX, em sites e marcas que operamos.
+FINALIDADE E COLETA DOS DADOS
+A nossa intenção é proteger os Dados Pessoais que mantemos em nossos registros, utilizando o mínimo de informações necessárias para as finalidades voltadas à execução dos nossos Serviços e cumprimento das exigências legais.
+Para usufruir dos nossos Serviços, será necessária a coleta de diversos Dados Pessoais.
+1.	Nós coletamos Dados sobre os Titulares:
+•	Que forem fornecidos diretamente pelo Titular;
+•	Originados a partir da celebração ou negociação de contratos;
+•	Gerados no decorrer da prestação dos Serviços contratados;
+•	Gerados através do seu uso das nossas plataformas; ou
+•	De fontes legítimas e nos termos da lei.
+2. Que tipos de Dados a NSX pode vir a coletar?
+Os dados que coletamos sobre os Titulares incluem:
+•	Dados de identificação e cadastro: nome completo, dados biométricos (reconhecimento facial), informações de contato (incluindo telefone e e-mail), endereço, país de domicílio, gênero, estado civil, ocupação profissional, data de nascimento, nacionalidade, nome de usuário e senha;
+•	Dados de documentos pessoais: tais como, número de RG, RNE, CPF, CNH, passaporte, Carteira de Identidade Nacional;
+•	Dados financeiros: chave PIX, dados bancários e valor de transações realizadas;
+•	Dados de dispositivos e navegabilidade: endereço de IP, hora e data de acesso, geolocalização, marca e modelo do dispositivo, versão atual do aplicativo, cookies, dados gerais de navegabilidade e de utilização dos serviços NSX, funis de eventos;
+•	Dados de relação parental: tais como relação de cônjuges, companheiros e/ou parentes em linha reta e colateral, até o segundo grau;
+•	Dados sensíveis: podemos coletar dados biométricos e, eventualmente, podemos receber dados sobre ludopatia;
+•	Dados gerados a partir do uso de nossos Serviços;
+•	Outros dados fornecidos por você, por exemplo, dados fornecidos em comunicações com a NSX; e
+•	Outros dados que venham a ser exigidos por lei ou regulamento, ou que venham ao nosso conhecimento, como dados referentes à ludopatia.
+O fato de algum Dado Pessoal estar listado acima não significa que tal Dado será necessariamente coletado do Titular. Alguns dos Dados somente serão coletados em situações específicas e somente se aplicáveis ao Titular, no contexto de seu relacionado com a NSX.
+A NSX somente coletará seus Dados Pessoais com base nas hipóteses legais previstas pela LGPD.
+3. Para quais finalidades são usados os meus Dados?
+De maneira geral, usamos os Dados dos Titulares para as seguintes finalidades:
+• Realizar o seu cadastro na nossa plataforma e mantê-lo atualizado;
+• Realizar autenticação nos Serviços;
+• Confirmar a sua identidade;
+• Realizar processos de Know Your Customer;
+• Efetivar a contratação de nossos Serviços;
+• Prestar os nossos Serviços;
+• Realizar verificação antifraude;
+• Efetivar cobranças devidas;
+• Garantir a segurança na prestação dos nossos Serviços;
+• Permitir a nossa comunicação com você;
+• Autenticar seu acesso à nossa plataforma utilizando credenciais fornecidas por provedores externos (ex.: Google, Facebook);
+• Realizar marketing e envio de ofertas;
+• Prospectar os nossos Serviços;
+• Cumprir com obrigações contratuais estabelecidas em nosso contrato com você;
+• Cumprir com obrigações legais ou regulatórias às quais a NSX está sujeita;
+• Cumprir com decisões judiciais ou de autoridades competentes;
+• Garantir suporte a você em nossos Serviços;
+• Avaliar aprimoramentos e atualizações em nossos Serviços e plataforma;
+• Defender-nos em processos judiciais, administrativos ou arbitrais dos quais sejamos parte.
+Poderemos tratar os seus Dados Pessoais para fornecer a você anúncios de marketing, oferta de produtos, serviços e novas funcionalidades, bem como comunicá-lo acerca de eventos através de diferentes canais, como e-mail, aplicativos de mensagens instantâneas, SMS, notificações push (web e in-app). Faremos isso durante o período do seu relacionamento conosco e, a menos que especificamente instruídos de outra forma por você, após o término desse relacionamento, a fim de informá-lo sobre os Serviços ofertados por nós e que entendemos que sejam do seu interesse. Periodicamente, nós enviaremos a você materiais promocionais que podem ser de seu interesse, de acordo com seu comportamento, tendências e interesses. Você poderá optar por não receber esse tipo de mensagem.
+Tomaremos sempre medidas apropriadas para garantir que mantenhamos seus Dados seguros, precisos e atualizados.
+EXISTE A OPÇÃO DE NÃO FORNECER SEUS DADOS PESSOAIS?
+O Tratamento de seus Dados Pessoais é condicionante para a correta prestação de nossos Serviços, nos termos da legislação e regulamentação aplicáveis. Caso você não deseje fornecer seus Dados Pessoais à NSX, não será possível utilizar nossos Serviços, de forma total ou parcial, conforme aplicável. Neste contexto, salientamos que será necessário desabilitar a coleta de cookies de acordo com as configurações de seu navegador, conforme procedimento previsto em nossa Política de Cookies.
+BASES LEGAIS PARA O TRATAMENTO
+Como Controladora dos Dados Pessoais, obedecemos estritamente aos princípios da finalidade, adequação e necessidade e apenas Tratamos os Dados Pessoais de acordo com algumas das bases legais previstas na LGPD, conforme descrito a seguir:
+•	Para o cumprimento de obrigações legais ou regulatórias;
+•	Mediante o fornecimento de consentimento pelo Titular;
+•	Para garantia da prevenção à fraude e à segurança do Titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos;
+•	Para o exercício regular de direitos da NSX, inclusive em processo judicial, administrativo ou arbitral;
+•	Quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o Titular; e/ou
+•	Legítimo interesse da NSX ou de terceiros.
+Importante destacar que, independentemente da base legal aplicável, estamos sempre disponíveis para esclarecer qualquer dúvida ou questionamento acerca do Tratamento dos seus Dados Pessoais.
+COMO MANTEMOS SEUS DADOS PESSOAIS SEGUROS
+Manter seus Dados Pessoais seguros é um dos pilares mais importantes para nós. Por isso, dedicamos esforços na aplicação e manutenção de padrões de segurança da informação reconhecidos internacionalmente, a fim de preservar a confidencialidade, integridade, disponibilidade e a conformidade com a legislação brasileira e a metodologia NIST Cybersecurity Framework.
+Além disso, cumprimos com o estabelecido no artigo 7º, § 1º, VII da Lei nº 14.790/2023, sobre requisitos técnicos e de segurança cibernética a serem observados pela infraestrutura de tecnologia da informação e pelos sistemas dos agentes operadores, com a exigência de certificação reconhecida nacional ou internacionalmente.
+A NSX está comprometida em melhorar continuamente os controles de segurança, visando manter seus Dados seguros durante todo o fluxo de Tratamento de Dados Pessoais.
+A NSX adota medidas de segurança, técnicas e administrativas aptas a proteger os Dados Pessoais contra eventos que comprometam a propriedade e segurança dos Dados Pessoais, e resultem em acesso, modificação, destruição ou divulgação não autorizados (também conhecido como incidentes de segurança). Embora estejamos comprometidos em proteger seus Dados Pessoais, segurança da informação é algo que não depende apenas de nossas ações e processos. Logo, não podemos garantir completamente que todos os Dados Pessoais estarão livres de acessos ou uso não autorizados, bem como falhas de hardware, software ou outros fatores que possam comprometer a segurança dos seus Dados Pessoais, incluindo atos ou omissões decorrentes de culpa de terceiros.
+Sua atitude também é fundamental para garantirmos um ambiente seguro. Você pode nos ajudar adotando boas práticas de segurança da informação e proteção dos seus Dados Pessoais, tais como: utilizar senhas fortes, antivírus, não compartilhar sua senha, realizar o logout do sistema quando não estiver utilizando, etc. Caso você identifique, tome conhecimento de algo que comprometa a segurança dos seus Dados Pessoais, pedimos que entre em contato conosco pelo e-mail: lgpd@nsx.bet.
+AUTENTICAÇÃO SOCIAL | USO DE PROVEDORES EXTERNOS
+Em alguns casos, você pode optar por autenticar seu acesso à plataforma utilizando credenciais fornecidas por provedores externos (ex.: Google, Facebook). Ao escolher essa modalidade, nós solicitaremos ao provedor apenas o e-mail associado à sua conta, para validar a identidade e permitir o seu login.
+A autenticação via login social não substitui o Tratamento de Dados exigido por obrigações legais, regulatórias ou de KYC, como por exemplo: envio de documentos, verificação de identidade, idade mínima etc., ou ainda, outros tratamentos que venham a ser necessários para viabilizar o oferecimento e uso dos nossos Serviços pelo Titular.
+Caso você perca ou restrinja acesso à sua conta no provedor externo (por exemplo, bloqueio ou exclusão de conta Google/Facebook), poderá haver impacto no uso do login social em nossa plataforma.
+A NSX armazenará internamente uma “chave de confiança” associada ao login social, com criptografia e controles de acesso restritos. Usaremos mecanismos seguros de autenticação (OAuth 2.0 / OpenID Connect / SAML 2.0) e registraremos os logs de acesso para fins de auditoria e monitoramento de eventos de segurança, conforme determinado pelas normas que regem o mercado de apostas de quota fixa, sobretudo a Portaria SPA/MF nº 722/2024.
+As políticas de privacidade e termos de uso dos provedores externos (ex.: Google, Facebook) são independentes da NSX. Recomendamos que você leia e concorde com essas políticas antes de optar por autenticar-se via esses provedores.
+A NSX não tem acesso nem interfere nos Dados Pessoais tratados diretamente pelos provedores externos, sendo, portanto, cada parte responsável pelos Tratamentos que estejam sob seu controle direto.
+VERIFICAÇÃO DE IDENTIDADE (KYC)
+Para garantir a segurança de nossas operações, prevenir fraudes e cumprir obrigações regulatórias, realizamos procedimentos de verificação de identidade (KYC – Know Your Customer). Esses procedimentos podem incluir a coleta e a validação de documentos, biometria facial e cruzamento com bases públicas ou privadas, sempre em conformidade com a legislação aplicável e com salvaguardas adequadas de privacidade e segurança dos dados.
+Para a correta prestação desses Serviços, seus Dados Pessoais poderão ser transferidos a plataformas de terceiros contratados para essa finalidade. Esses parceiros deverão tratar os Dados de forma segura, em conformidade com a LGPD, podendo atuar também como Controladores Independentes.
+ENCARREGADO DE DADOS
+Se, após a leitura dessa Política, você ainda tiver dúvidas sobre a maneira que realizamos o Tratamento de Dados Pessoais ou por qualquer razão precisar se comunicar conosco para tratar de assuntos envolvendo privacidade e dados pessoais, você pode entrar em contato com o nosso Encarregado para quaisquer esclarecimentos e informações:
+Nome: Rafael Moraes.
+E-mail do DPO: lgpd@nsx.bet.
+Importante: Todas as comunicações realizadas entre a NSX e o Titular serão consideradas verdadeiras entre as partes, como legítimos instrumentos válidos para manifestação de suas vontades.
+TRATAMENTO DE DADOS PESSOAIS DE CRIANÇAS E ADOLESCENTES
+O site da NSX é destinado a pessoas maiores de 18 (dezoito) anos completos, assim, não coletamos, de forma intencional, Dados Pessoais de indivíduos menores de 18 (dezoito) anos. Portanto, caso você possua menos de 18 (dezoito) anos, pedimos que não utilize a nossa plataforma e Serviços.
+A NSX acredita que deve proporcionar um ambiente protegido, e reconhece que o jogo é uma atividade de entretenimento para adultos. Sendo assim, é vedada a utilização da nossa plataforma por crianças e adolescentes, nos termos do artigo 80 da Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente), do artigo 6º, IV, da Lei nº 15.211/2025 (Estatuto Digital da Criança e do Adolescente) e do artigo 26 da Lei 14.790/2023 (dispõe sobre a modalidade lotérica de apostas de quota fixa).
+Caso venha ao nosso conhecimento que Dados Pessoais de crianças ou adolescentes foram indevidamente coletados ou Tratados, adotaremos as medidas cabíveis para a imediata exclusão dessas informações de nossos registros, salvo quando o Tratamento for necessário para o cumprimento de obrigação legal ou regulatória.
+EXERCÍCIO DE SEUS DIREITOS DECORRENTES DA LGPD
+A NSX respeita os direitos que você possui na qualidade de Titular de Dados Pessoais e possibilita seu exercício em conformidade com a legislação aplicável.
+Como Titular dos Dados Pessoais Tratados pela NSX, você possui os seguintes direitos referentes aos seus Dados Pessoais:
+1. Confirmação: você tem o direito de confirmar a existência de Tratamento realizado com seus Dados Pessoais. Caso você seja um cliente da NSX, isso significa que nós fazemos o Tratamento dos seus Dados.
+2. Acesso: você pode solicitar que a NSX informe e forneça os Dados Pessoais que possui em relação a você.
+3. Correção: você pode solicitar a correção ou retificação dos seus Dados Pessoais a qualquer momento, se identificar que estão incompletos, inexatos ou desatualizados.
+4. Anonimização, bloqueio ou eliminação: desde que os Dados Pessoais sejam desnecessários, excessivos ou estejam sendo Tratados em desconformidade com a legislação aplicável, você tem o direito de solicitar a anonimização dos seus Dados, tornando impossível a associação deles a você, o bloqueio de uso dos Dados ou a eliminação dos Dados de nossos registros.
+5. Portabilidade: desde que regulamentado pela Agência Nacional de Proteção de Dados (ANPD), você poderá solicitar à NSX a portabilidade dos seus Dados Pessoais a outro prestador de serviços.
+6. Compartilhamento: você tem o direito de solicitar informações sobre com quem compartilhamos Dados Pessoais (sejam entidades públicas ou privadas). Note, no entanto, que tais informações já estão previstas no item “Compartilhamento de Dados Pessoais” desta Política.
+7. Obter informações sobre a possibilidade de não fornecer o seu consentimento: sempre que o Tratamento de Dados Pessoais for baseado no seu consentimento, você terá o direito de receber informações sobre a possibilidade de não fornecê-lo e sobre as consequências do não fornecimento.
+8. Revogação de consentimento: sempre que a NSX realizar o Tratamento de seus Dados Pessoais com base no seu consentimento, você tem o direito de revogar livremente tal consentimento, a qualquer momento. Ressaltamos que todo Tratamento realizado sob o consentimento dado anteriormente permanecerá válido.
+9. Eliminação de Dados tratados com base no consentimento: você tem o direito de solicitar a exclusão de Dados Pessoais quando o Tratamento dos seus Dados Pessoais for baseado no seu consentimento e não houver outra hipótese legal que permita o Tratamento dos Dados.
+10. Revisão de decisões automatizadas: caso a NSX realize decisões automatizadas com base nos seus Dados Pessoais, você terá o direito de solicitar a revisão de tais decisões.
+11. Reclamação: enquanto Titular, você tem o direito de registrar reclamações ou peticionar à ANPD sobre práticas que acredite não estarem sendo observadas durante o Tratamento de seus Dados Pessoais.
+12. Cópia eletrônica: quando o Tratamento tiver origem no fornecimento de seu consentimento ou em contrato, você poderá solicitar uma cópia eletrônica integral de seus Dados Pessoais, desde que eventuais regulamentações da ANPD sejam respeitadas, uma vez que poderão incidir sobre matérias pendentes de regulação.
+Estes direitos podem ser exercidos gratuitamente através do contato com nosso Encarregado.
+Para garantir a sua privacidade, e como medida de segurança e prevenção à fraude, podemos solicitar a comprovação da sua identidade antes de efetivarmos os seus direitos. Caso não seja possível atender a sua solicitação, a NSX informará a você as razões de fato e/ou de direito que impedem a adoção da medida solicitada.
+COMPARTILHAMENTO DE DADOS PESSOAIS
+Em determinadas situações, a NSX poderá compartilhar os Dados Pessoais do Titular com terceiros quando razoavelmente necessário para atender aos propósitos estabelecidos nesta Política. Sempre que efetuado, o compartilhamento de Dados será realizado dentro dos limites e propósitos dos nossos negócios e de acordo com a legislação aplicável.
+Podemos compartilhar os seus Dados Pessoais com outros membros do grupo NSX, com nossos parceiros de negócios, prestadores de serviço, autoridades governamentais e outros terceiros de acordo com o seguinte:
+•	Para ações preventivas ou revisionais de procedimentos de combate à lavagem de dinheiro, de alerta e prevenção de fraudes, de prevenção à manipulação de resultados ou prevenção e mitigação a problemas com o jogo;
+•	Para garantir o cumprimento de nossas obrigações legais e regulatórias, por exemplo, mas sem se limitar, ao compartilhamento com prestadores de serviços relativos à prevenção de lavagem de dinheiro, fraude, verificação etc.;
+•	Quando precisamos de suporte para atender às suas necessidades ou às nossas obrigações contratuais;
+•	Para permitir a operacionalização de novos Serviços;
+•	Para realizar checagem da sua identidade e elegibilidade para contratar os nossos Serviços;
+•	Para melhoria e otimização da nossa plataforma e para nos ajudar a melhorar e otimizar nossos Serviços;
+•	Para atender a ordens judiciais, policiais ou de autoridades, na medida do exigido por lei;
+•	Para entrar em contato com você (por telefone, e-mail, SMS, WhatsApp, notificação push ou outros meios de comunicação);
+•	Para garantir que você não receba marketing não solicitado, quando você tiver expressamente optado por não receber nosso marketing ou de terceiros, tiver sido banido ou autoexcluído;
+•	Para a prevenção e resolução de problemas técnicos ou de segurança envolvendo nossos Serviços;
+•	Para investigar atividades fraudulentas, criminosas ou suspeitas (ou outras atividades a que somos obrigados por lei, regulação ou orientação a investigar e salvaguardar); 
+•	Para permitir a realização de auditorias;
+•	Para realização de reorganizações societárias, inclusive com potenciais compradores/investidores, seja através de investimento, fusão, aquisição, cisão, transferência de negócio ou qualquer outra forma;
+•	Para permitir a contratação de serviços jurídicos;
+•	Para fazer cumprir ou aplicar os termos de uso da nossa plataforma; e
+•	Para proteger nossos direitos, propriedade ou segurança, nossa equipe, nossos clientes ou outros.
+TRANSFERÊNCIA INTERNACIONAL DE DADOS
+Em algumas hipóteses, para cumprimento das finalidades aqui previstas, a NSX poderá realizar a transferência internacional de Dados Pessoais. Em tais hipóteses, tomaremos todas as medidas necessárias e apropriadas para assegurar que a transferência internacional ocorrerá de acordo com as previsões da LGPD e da regulamentação aplicável, bem como para assegurar que exista uma base legal aplicável para justificar a respectiva transferência.
+ARMAZENAMENTO DE DADOS
+Nossa Política permite reter os Dados dos nossos clientes pelo tempo necessário para cumprimento da finalidade para a qual os Dados foram coletados, bem como pelo período necessário de tratamento de Dados Pessoais, desde que haja uma base legal legítima, como por exemplo, para cumprimento de obrigação legal ou regulatória.
+Nós armazenamos os Dados dos nossos clientes em servidores que estão localizados em nuvem, para segurança e uniformização de nossa estrutura. Os provedores de serviços de hospedagem e armazenamento utilizados por nós podem ser alterados a qualquer momento, de acordo com necessidades técnicas, operacionais ou estratégicas da NSX.
+Após esse período a NSX fará o descarte seguro desses Dados, garantindo que não possam ser acessados, recuperados ou utilizados indevidamente.
+UTILIZAÇÃO DE COOKIES
+Cookies são arquivos de texto que são gravados no dispositivo do Usuário que armazenam de forma temporária o que você está visitando na rede. Os cookies podem ser utilizados para diversos propósitos, incluindo lembrar-se de você e de suas preferências, armazenar informações relacionadas a suas atividades no site visitado, ou coletar informações que podem ser usadas para oferecer conteúdo de uma forma personalizada. A NSX poderá usar cookies ou outras tecnologias de identificação pessoal para ajudar a personalizar a sua experiência de navegação em nossa plataforma. Se você possuir interesse em saber mais sobre cookies, sugerimos a leitura de nossa Política de Cookies.
+Você pode configurar o seu navegador para excluir, limitar ou bloquear os cookies associados aos nossos Serviços. No entanto, é importante lembrar que muitos dos nossos Serviços podem não funcionar corretamente se os cookies estiverem desativados. Consulte a documentação técnica do seu navegador ou dispositivo móvel para obter instruções sobre como excluir e/ou desativar os cookies.
+LINKS EXTERNOS E APLICAÇÕES DE TERCEIROS
+Ao utilizar nossos Serviços, você poderá ser redirecionado(a) a sites e aplicações de terceiros, como os provedores de nossas redes sociais (como Instagram, Facebook, X, Twitch etc.). Esses terceiros possuem políticas próprias para o Tratamento de seus Dados Pessoais, sendo de sua responsabilidade a leitura dos documentos disponibilizados por eles. Não temos controle ou responsabilidade sobre o conteúdo e/ou Tratamento de Dados realizado por tais terceiros.
+LEI APLICÁVEL E JURISDIÇÃO
+A presente Política será regida, interpretada e executada segundo a legislação brasileira, no idioma português, sendo eleito o Foro da Comarca de domicílio do usuário para dirimir qualquer litígio ou controvérsia envolvendo o presente documento, salvo ressalva específica de competência pessoal, territorial ou funcional pela legislação aplicável.
+Reservamo-nos no direito de rever o conteúdo desta Política de tempos em tempos, em particular para adaptá-lo a novas determinações legais, regulatórias e desenvolvimentos técnicos, a fim de que possamos, também, salvaguardar a proteção de dados pessoais no futuro. A presente versão desta Política foi atualizada pela última vez em 19 de novembro de 2025.

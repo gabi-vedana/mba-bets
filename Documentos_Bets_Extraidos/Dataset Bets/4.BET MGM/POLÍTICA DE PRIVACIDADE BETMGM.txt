@@ -1,0 +1,172 @@
+POLÍTICA DE PRIVACIDADE
+Última atualização: 13/02/2026
+Versão 2.0.
+INTRODUÇÃO
+A Boa Lion S.A. (“BetMGM”) tem o compromisso de proteger sua privacidade e seus dados pessoais. Atuamos no mercado de iGaming e sabemos a importância de garantir transparência e segurança. Por isso, elaboramos esta Política de Privacidade para explicar de forma clara como coletamos, usamos, armazenamos e protegemos suas informações.
+1. O QUE DEVO SABER ANTES DE LER ESSA POLÍTICA?
+Antes de prosseguir com esse documento, é importante que você saiba alguns conceitos importantes:
+•	Dado pessoal: é qualquer informação relacionada a você, pessoa física, que possa te identificar. São exemplos: nome, CPF, telefone, e-mail, informações bancárias, data de nascimento, entre outros.
+•	Encarregado (“Encarregado”): é a pessoa responsável pelo tema de privacidade e proteção de dado na empresa. O Encarregado da BetMGM é o Eduardo Ludmer. Se você tiver alguma dúvida sobre este documento, entre em contato conosco por meio do e-mail dpo@betmgm.bet.br.
+•	Encarregado Substituto: é a pessoa que exerce as funções do encarregado situações de ausência, impedimento ou vacância do Encarregado. Na BetMGM, nossa Encarregada Substituta é a Bruna Fróes de Oliveira. Para falar com ela, pode enviar um e-mail para dpo@betmgm.bet.br.
+•	Titular de dados pessoais: é você, a pessoa a quem os dados se referem.
+•	Tratamento: é qualquer atividade que envolva a utilização dos seus dados pessoais, como, por exemplo, acesso, armazenamento, compartilhamento etc.
+•	Controlador: é quem decide como e por que os dados pessoais serão usados. Geralmente, é a empresa ou organização que oferece um serviço a uma pessoa física. A Boa Lion S.A. é controlador dos dados pessoais que você nos fornece.
+•	Operador: é quem processa os dados pessoais em nome do controlador conforme suas instruções. Normalmente, é um fornecedor ou parceiro contratado para realizar uma atividade específica.
+2. QUAIS DADOS COLETAMOS?
+A BetMGM coleta dados conforme nos relacionamos com você. Confira a seguir as principais categorias de dados que podemos tratar:
+•	Dados de registro: nome, sobrenome, nome de usuário (nickname) ou de identificação, data de nascimento, cadastro de pessoa física (CPF), sexo, país, endereço, CEP
+•	Dados de contato: e-mail e números de telefone;
+•	Dados biométricos: Selfie e confirmação de identidade
+•	Dados de pagamento: incluem dados de conta bancária ou de pagamento (como número de conta, número de identificação da instituição financeira, câmara de compensação), dados de titularidade de e-wallet/PIX, moeda, valor, token, conta mascarada, identificadores da operação (como ID da transação, TXID, referência do comerciante ou do provedor de pagamento), metadados da transação (como status, códigos de autorização, provedores envolvidos, recorrência de pagamento), bem como informações técnicas necessárias para a autenticação e verificação de pagamentos.
+•	Dados de transações na plataforma: depósitos, saques (incluindo falhas ou cancelamentos), data e hora, saldos (real e bônus), conversões e uso de bônus, participação em promoções e ofertas (incluindo pacotes de boas-vindas), canais utilizados, histórico de apostas e jogos (ex.: valor apostado, vitórias, perdas, probabilidades, categorias de jogos acessados), métricas de atividade (ex.: frequência de acesso, número de transações, tempo de uso), níveis de fidelidade e recompensas, bem como registros de eventos e operações realizadas na conta.
+•	Dados fiscais e de origem de recursos: renda estimada e participação de programas sociais ou de benefício;
+•	Dados de Restrição (impedimento) de Apostas: informações sobre filiação esportiva, envolvimento com fiscalização de apostas e outros dados estabelecidos na legislação vigente.
+•	Existência de exposição na mídia e em fontes públicas: notícias divulgadas em mídias ou dados em fontes públicas sobre envolvimento em crimes de lavagem de dinheiro, financiamento de terrorismo e outros ilícitos;
+•	Pessoa Exposta Politicamente (PEP): confirmação se o jogador e/ou familiar se enquadra como pessoa politicamente exposta;
+•	Dados técnicos de sessão e dispositivo: endereço IP, registros de login (primeiro/último/falhas), duração de sessão, tipo/versão de navegador e plug-ins, Sistema Operacional, plataforma, fuso horário.
+•	Dados de uso e navegação: ID do jogador, idioma, localização, dispositivo, fornecedor de pagamento (quando aplicável), páginas visitadas, banners clicados, campanhas, monitoramento de navegação (cookies/tecnologias similares);
+•	Dados de perfil e preferências: interesses, preferências, feedback, participação em eventos, acordos de bônus/reembolsos, preferências de contato, hobbies;
+•	Dados de comunicação: conteúdo e metadados de chamadas, conversas, e-mails ou SMS, dados de rede, reclamações, notas internas.
+•	Preferências de marketing: registros de opt-in/opt-out
+•	Dados de autoexclusão e limites de conta: registro de autoexclusão, dados de contato vinculados, motivo, datas de início/fim, limites de sessão/perda/aposta/depósito etc.
+•	Dados de Risco Esportivo: valores e frequência de apostas, histórico de ganhos e perdas, limites definidos e padrões de comportamento
+3. PARA QUAIS FINALIDADES A BETMGM TRATA MINHAS INFORMAÇÕES?
+Na BetMGM podemos tratar seus dados para diferentes finalidades. Abaixo listamos as principais:
+3.1. PARA VIABILIZAR SEU CADASTRO, ACESSO À CONTA E PARTICIPAÇÃO EM JOGOS
+Para que possamos registrar você como novo jogador, garantir acesso à plataforma apenas a maiores de idade e gerir pagamentos, tratamos as seguintes informações:
+•	Dados de registro;
+•	Dados de contato;
+•	Dados técnicos de sessão e dispositivo;
+•	Dados de pagamento e de transação na plataforma.
+3.2. PARA CUMPRIMENTO DE OBRIGAÇÕES LEGAIS
+Como empresa do setor de iGaming, a BetMGM deve cumprir obrigações legais e regulatórias específicas do mercado de apostas. Nesse contexto, algumas atividades de tratamento de dados pessoais são realizadas para atender a essas exigências, incluindo:
+3.2.1. Validação de identidade — Esse procedimento, também conhecido como KYC (Know Your Client) tem como objetivo evitar fraudes e é uma exigência da Secretaria de Prêmios e Apostas (SPA). A validação da identidade é feita a partir de dados biométricos, no caso, por meio da análise da sua Selfie, bem como por meio da consulta do seu CPF junto à Receita Federal e outras fontes públicas ou privadas.
+3.2.2. Proteção contra Lavagem de Dinheiro (PLD) — Para cumprir com nossas obrigações legais relacionadas ao combate contra lavagem de dinheiro, tratamos, dentre outros, os dados a seguir:
+•	Dados de Registro;
+•	Dados de contato;
+•	Dados fiscais e de origem de recursos;
+•	Dados de uso e transação da plataforma;
+•	Dados técnicos de sessão e dispositivo;
+•	Dados de autoexclusão e limites de conta;
+•	Pessoa Exposta Politicamente (PEP)
+•	Dados de Restrição (impedimento) de Apostas;
+•	Existência de exposição na mídia e em fontes públicas
+3.3.3. Para realização de Due Diligence (background check) — Em conformidade com as regulamentações aplicáveis, realizamos análises destinadas a assegurar a segurança, integridade da nossa base e a prevenção à lavagem de dinheiro. E para esse fim, utilizamos os dados mencionados anteriormente.
+3.3.4. Para garantia do jogo responsável — O setor de iGaming exige a adoção de práticas que assegurem a proteção dos jogadores e promovam o uso consciente da plataforma, isso inclui a aplicação de limites de depósitos, apostas e perdas, monitoramento dos jogadores para identificação de comportamentos de risco, gestão de pedidos de autoexclusão voluntária e outras medidas para garantir o uso responsável da plataforma. Para essas finalidades, podemos tratar os dados a seguir:
+•	Dados de registro;
+•	Dados de pagamento;
+•	Dados fiscais e de origem de recursos;
+•	Dados de transações na plataforma;
+•	Dados técnicos de sessão e dispositivo;
+•	Dados de autoexclusão e limites de conta.
+3.3.5. Para prevenção à fraude e gestão de riscos — Com o intuito de detectar e prevenir fraudes, além de utilização indevida dos nossos sistemas (por ex., utilização de VPN), podemos tratar seus dados de registro, contato, dados técnicos de sessão e dispositivo e dados de pagamento. Além disso, no contexto de apostas esportivas, tratamos seu ID, além de dados de transações na plataforma e dados de risco esportivo para calcular probabilidades, prevenir fraudes e ajudar na detecção de possíveis comportamentos indevidos, conforme estabelecido pela regulamentação.
+3.3.6. Para bloqueio de beneficiários de programas sociais: A BetMGM pode ter acesso, por meio de bases governamentais, a informações relacionadas ao recebimento de programas sociais pelo titular ou seus familiares para atendimento da Instrução Normativa nº 22/2025 da Secretaria de Prêmios e Apostas do Ministério da Fazenda (SPA/MF), que impede o cadastro de beneficiários de programas sociais em casas de apostas.
+3.4. PARA PERSONALIZAÇÃO DA EXPERIENCIA DO USUÁRIO
+Utilizamos os seus dados de transação na plataforma, juntamente com dados de registro, dados de perfil e preferências para analisar e criar vários segmentos de clientes com o intuito de personalizar a experiência do usuário seja através de recomendações de jogos, promoção de melhorias na plataforma e ações de marketing.
+3.5. PARA AÇÕES DE MARKETING
+A partir dos dados de perfil, se aplicável, preferências de marketing, dados de contato e dados de transação na plataforma e de navegação (Cookies) podemos encaminhar informações sobre nossos produtos por meio de e-mail, SMS e outros canais de contato, bem como direcionar ofertas através de diversas mídias digitais.
+3.6. PARA REALIZAÇÃO DE PESQUISAS DE SATISFAÇÃO
+Tratamos seus dados de registro e contato para enviar pesquisas de satisfação com o intuito de avaliar sua experiência conosco e melhorar nossos serviços e produtos. Para mais informações sobre como usamos seus dados para realização de pesquisas, confira nosso Aviso de Privacidade para Pesquisas de Satisfação (https://www.betmgm.bet.br/termos/aviso-de-privacidade-pesquisas).
+3.7. PARA FIDELIZAÇÃO DE CLIENTES
+A BetMGM oferece um programa de fidelização que oferece diversos benefícios aos nossos jogadores, tais como participação em eventos, oferta de bônus, entre outros. Para tanto, podemos tratar dados de registro, contato, dados de perfil e dados de transação na plataforma.
+3.8. PARA REALIZAÇÃO DE ANÁLISES INTERNAS
+A partir dos de transação na plataforma e de navegação, realizamos análises estatísticas sobre a nossa página, especialmente quanto à aquisição online, páginas visitadas, banners promocionais clicados etc. Para mais informações consulte nossa Política de Cookies. Da mesma forma, podemos tratar dados técnicos pseudonimizados como, dados de transações na plataforma, dados técnicos de sessão e dispositivo e dados de uso e navegação, entre outras informações relacionadas à jornada do cliente, para análise de performance dos nossos produtos, bem como análise estatística do comportamento dos usuários para solução de problemas e implementação de melhorias na plataforma.
+3.9. PARA ATENDIMENTO AO CLIENTE E SUPORTE
+Para atender solicitações de suporte, esclarecer dúvidas e realizar outras ações necessárias, podemos tratar dados de registro, de contato, de pagamento, de transações na plataforma, preferências de marketing, de comunicação, dados de autoexclusão e limites de conta, sempre de acordo com a necessidade e o contexto da solicitação. Além disso, podemos tratar os dados compartilhados durante o atendimento para monitoramento da qualidade dos serviços de suporte ao cliente, bem como garantir o cumprimento das obrigações regulatórias aplicáveis, como no contexto de jogo responsável.
+3.10. PARA CONTATO E GESTÃO DE CONTRATOS
+A BetMGM pode acessar dados de identificação e contato de colaboradores, representantes legais ou terceiros vinculados a prestadores de serviço ou parceiros com o intuito de gerir e executar o contrato assinado.
+4. QUAIS BASES LEGAIS A BETMGM UTILIZA?
+A LGPD determina que todo tratamento de dados pessoais precisa ter um fundamento, chamado de base legal. Na prática, as bases legais são as situações em que a lei autoriza o uso dos seus dados.
+Veja a seguir as principais bases legais utilizadas pela BetMGM:
+Finalidade	Base Legal (LGPD)
+Viabilizar seu cadastro, acesso à conta e participação em jogos	Execução de contrato (art. 7º, V,)
+Prevenção à lavagem de dinheiro (PLD), due diligence, jogo responsável e medidas antifraude	Cumprimento de obrigação legal e regulatória (Art. 7º. II e Art. 10, II, a)
+Personalização da experiencia do usuário	Legítimo Interesse (Art. 7º, IX)
+Ações de marketing	Consentimento (Art. 7º, I) ou Legítimo Interesse (Art. 7º, IX), conforme relação prévia
+Realização de pesquisas de satisfação	Contato para pesquisa: Legítimo Interesse (Art. 7º, IX). Respostas: Consentimento (Art. 7º, I)
+Fidelização de clientes	Legítimo Interesse (Art. 7º, IX)
+Análises internas	Legítimo Interesse (Art. 7º, IX)
+Atendimento ao cliente e suporte	Execução de contrato (art. 7º, V,)
+Monitoramento dos atendimentos	Legítimo Interesse (Art. 7º, IX) para dados pessoais cm
+Contato e gestão de contratos	Legítimo Interesse (Art. 7º, IX)
+Ações de marketing. As ações de marketing podem ter como base o seu consentimento (Art. 7º, I da LGPD) ou o legítimo interesse (Art. 7º, IX), dependendo da existência ou não de uma relação prévia com você.
+Para ampliar sua base de clientes, a BetMGM utiliza um programa de afiliados, por meio do qual parceiros de venda podem encaminhar ofertas e materiais publicitários a potenciais clientes, utilizando suas próprias bases de contatos. Nossos contratos com esses parceiros exigem, de forma expressa, que o envio de comunicações publicitárias esteja amparado em uma base legal adequada — seja pela obtenção de consentimento específico, seja pela comprovação de legítimo interesse — e que sejam disponibilizados mecanismos simples e acessíveis de descadastramento.
+Independentemente da origem do contato, caso tenha fornecido o seu consentimento, você poderá revogá-lo a qualquer momento. Da mesma forma, é possível se descadastrar das ações de marketing enviadas diretamente pela BetMGM por meio dos mecanismos de opt-out disponíveis em nossos canais (como o link ao final de nossos e-mails) ou alterando suas preferências em sua conta.
+Importante: mesmo que você opte por não receber comunicações de marketing, ainda poderemos enviar mensagens relacionadas a informações essenciais e inerentes à prestação dos serviços que você utiliza.
+Realização de pesquisas de satisfação. Nossas pesquisas de satisfação são voluntárias e preferencialmente anônimas. Para entrar em contato com você para divulgar nossas pesquisas nos baseamentos no interesse legítimo (Art. 7º, IX), mas qualquer dado coletado a partir das suas respostas será baseado no seu consentimento (Art. 7º, I). Assim como nas ações de marketing, você também pode se opor ao recebimento desse tipo de mensagem por meio dos canais informados anteriormente.
+5. COMO COLETAMOS DADOS PESSOAIS?
+A BetMGM coleta dados diretamente com você, quando, por exemplo, você se cadastra em nossa plataforma, responde nossas pesquisas ou participa de alguma iniciativa promovida por nós.
+Também coletamos dados por meio de terceiros confiáveis para cumprir obrigações legais ou melhorar sua experiência, conforme a seguir:
+•	Fontes públicas e privadas (como ÚNICO, CAF, IdWall, Grupo LeoVegas, Tiger e Bases governamentais), para validar sua identidade, consultar dados sobre recebimento de benefícios sociais, identificar pessoas politicamente expostas, verificar a existência de sanções, decisões judiciais, assim como informações sobre riscos esportivos.
+•	Login por conta de terceiros, como o login Globo e Google, para facilitar seu cadastro. Nesse caso, os dados de registro e contato são importados automaticamente com sua autorização.
+6. COM QUEM PODEMOS COMPARTILHAR DADOS PESSOAIS?
+A BetMGM conta com parceiros comerciais, fornecedores e prestadores de serviços que apoiam o funcionamento do website, dos jogos e de outros serviços oferecidos. Esses terceiros passam por um processo de due diligence, no qual avaliamos se adotam práticas adequadas de segurança e proteção de dados. Além disso, nossos contratos preveem cláusulas específicas de privacidade, que os obrigam a tratar suas informações em conformidade com a lei e com os padrões estabelecidos pela BetMGM.
+A seguir detalhamos as categorias de fornecedores/prestadores de serviços que podem ter acesso às suas informações:
+•	Fornecedores de jogos para disponibilização e operação dos jogos da plataforma;
+•	Prestadores de serviços de pagamento para realizar transações de pagamento (depósito e levantamentos);
+•	Fornecedores e parceiros (afiliados) de marketing para realizar ações publicitárias e publicidade direcionada;
+•	Consultores de marketing, contratados para orientar estratégias e iniciativas de marketing
+•	Fornecedores de serviços de comunicação para envio, por exemplo, de e-mail, chat, SMS, telefone;
+•	Fornecedores técnicos para apoiar o funcionamento e aprimoramento do website dos nossos sistemas técnicos (front e back end) e processos internos;
+•	Administradores técnicos da base de dados para manter o funcionamento da plataforma;
+•	Fornecedores que disponibilizam insumos para análise de risco de Prevenção à Lavagem de Dinheiro, garantia de Jogo Responsável e demais obrigações legais;
+•	Fornecedores que prestam serviços de validação de identidade;
+•	Prestadores de serviços para intermediação de reservas, viagens e/ou entrega de presentes e ofertas em relação ao nosso programa de fidelização;
+•	Prestadores de serviços em nuvem para prestação de serviços baseados na nuvem, tais como armazenamento de determinados softwares;
+•	Prestadores de serviços para fins de análise de dados e/ou informações comerciais;
+•	Agências de crédito, agências de detecção de fraude, agências de Proteção à Lavagem de Dinheiro para fins de detecção e controle de fraude;
+•	Consultores profissionais, incluindo advogados, auditores e seguradoras.
+•	Fornecedores para prestação de serviços de atendimento a clientes
+Além dos casos acima, seus dados pessoais também poderão ser compartilhados com empresas do mesmo grupo econômico da BetMGM e, em casos específicos, com acionistas da empresa, para dentre outras finalidades:
+•	viabilizar a prestação dos nossos serviços;
+•	,Realizar análises de riscos esportivos (casos em que os dados são pseudonimizados)
+•	Conduzir avaliações para otimizar a performance das campanhas publicitárias da BetMGM e do Grupo,
+•	Atender determinadas regras de governança corporativa.
+Esses compartilhamentos ocorrerem sempre respeitando critérios de a confidencialidade e segurança e são, limitados ao estritamente necessário.
+Por fim, devido às regras setoriais, a BetMGM pode compartilhar alguns dados com autoridades públicas, como a Secretaria de Prêmios e Apostas (SPA) e outros órgãos reguladores para cumprimento de obrigações legais, como procedimentos de validação de identidade (KYC), prevenção à lavagem de dinheiro e medidas de jogo responsável. Além disso, podemos compartilhar dados com outras autoridades públicas para cumprimento de determinações judiciais.
+7. POR QUANTO TEMPO A BETMGM ARMAZENA MEUS DADOS?
+Guardamos seus dados pessoais apenas pelo tempo necessário para oferecer nossos serviços e cumprir a lei. Se você pedir a exclusão da sua conta, ainda precisaremos reter algumas informações para atender às regras do setor de apostas ou para nos proteger em casos de reclamações e processos judiciais.
+Em regra, mantemos os dados por até dez anos após o encerramento da conta. Esse período pode variar: pode ser menor, dependendo da natureza dos dados e da finalidade do tratamento, ou maior em situações específicas, como nos de autoexclusão (para evitar novos cadastros em seu nome, conforme exigido pelas regras do setor).
+Em todos os casos, tratamos e armazenamos seus dados de forma responsável, seguindo a LGPD e os padrões de segurança aplicáveis.
+8. TRANSFERÊNCIAS INTERNACIONAIS
+Nossa infraestrutura principal está localizada no Brasil, porém, alguns de nossos acionistas (controladores) e fornecedores (operadores ou controladores de dados) estão estabelecidos no exterior. Confira a seguir em quais situações podemos transferir dados pessoais:
+Finalidade da transferência	País(es)	Tipo de importador de dados
+Suporte e operação da Plataforma	União Europeia (Malta, Suécia e Espanha)	Acionista BetMGM
+Disponibilização e processamento de jogos	União Europeia (Malta, Áustria e Hungria)	Fornecedores de jogos
+Prestação de serviços de apostas esportivas e gestão de riscos esportivos (dados pseudonimizados)	União Europeia (Malta, Alemanha e Bélgica)	Acionista BetMGM
+Prestação de serviços de Digital Marketing	EUA	Fornecedores de Marketing
+Processamento e armazenamento em nuvem de sistemas internos (gestão de dados, comunicações internas, gestão de afiliados, análises sobre performance dos produtos etc)	União Europeia (Malta e Outros países), Inglaterra e EUA	Fornecedores técnicos
+Prestação de serviços de segurança	União Europeia (Suécia)	Fornecedor técnico
+Toda transferência internacional de dados feita pela BetMGM é realizada apenas para países com nível de proteção considerado adequado pela ANPD ou em conformidade com os mecanismos previstos na legislação brasileira, garantindo a segurança e a legitimidade do tratamento.
+Além disso, contamos com um rigoroso processo de avaliação que engloba tanto aspectos de privacidade como segurança da informação para garantir que seus dados estejam seguros em qualquer lugar do mundo.
+Por fim, importante esclarecer que alguns fornecedores também podem transferir seus dados para outros países para viabilizar a prestação dos serviços. Nesses casos, contamos com cláusulas contratuais que exigem que os parceiros cumpram a regulamentação aplicável, adotando mecanismos adequados de transferência e transparência.
+Se quiser exercer qualquer dos direitos previstos em relação à transferência internacional, entre em contato com nosso Encarregado.
+9. SEGURANÇA DOS DADOS
+Adotamos medidas de segurança técnicas e organizacionais para proteger seus dados pessoais contra perda acidental, uso ou acesso não autorizado, alteração ou divulgação indevida. Para cumprir a LGPD, utilizamos controles robustos que incluem a criptografia dos dados tanto em trânsito quanto em repouso, seguindo padrões reconhecidos pelo setor, de modo a garantir a confidencialidade e a integridade das informações em todas as etapas do tratamento.
+O acesso aos dados pessoais é restrito a colaboradores, agentes, contratados e terceiros que necessitem dessas informações para fins legítimos de negócio. Esses profissionais só podem tratar os dados conforme nossas instruções ou em conformidade com a lei, estando sujeitos a obrigações de sigilo e confidencialidade.
+Também dispomos de procedimentos específicos para identificar e responder a incidentes de segurança. Caso ocorra uma violação de dados pessoais, você e a autoridade reguladora competente serão notificados sempre conforme determina a legislação.
+10. SEUS DIREITOS
+A LGPD garante a você, titular de dados pessoais, diversos direitos. Veja abaixo cada um deles e como exercê-los.
+•	Acesso: esse direito permite que você confirme se tratamos algum dado pessoal sobre sua pessoa, bem como garante a obtenção de uma cópia dos seus dados pessoais. Para exercer esse direito: Acesse “Minha Conta” > “Histórico”> “Baixar Meus Dados”.
+•	Retificação: Esse direito garante que a BetMGM trate apenas dados pessoais atualizados. Para corrigir dados como endereço e número de telefone, basta acessar o seu perfil e realizar as alterações necessárias.
+•	Exclusão/anonimização/bloqueio: esse direito permite que você exclua seus dados pessoais desnecessários, excessivos ou quando não houver uma justificativa válida para que a BetMGM possa mantê-los.
+Na opção "Configurações da conta" do menu "Minha conta", a BetMGM disponibiliza três opções para exclusão/bloqueio da conta:
+•	Excluir Conta: essa opção permite que a conta seja deletada da nossa base. Você não terá acesso a ela e não receberá mais comunicações de marketing, no entanto, poderá fazer um novo cadastro a qualquer momento;
+•	Autoexclusão: Essa opção permite que você bloqueie sua conta temporariamente (3 meses a 4 anos) ou de forma permanente. Sua conta ficará inacessível para apostas ou depósitos e você não poderá realizar um novo cadastro na plataforma.
+•	Pausa: A pausa é um bloqueio temporário das apostas e depósitos com duração de 01 a 45 dias. Ao ativá-la, seus jogos serão bloqueados pelo período escolhido, sem possibilidade de reativação antes do prazo terminar. Durante a pausa, você poderá acessar sua conta, mas não poderá jogar na plataforma. Além disso, o envio de comunicações de marketing será interrompido em até 24 horas.
+Como te explicamos nesse aviso, ainda que sua conta esteja inativa ou bloqueada, a BetMGM precisa manter algumas informações pessoais para cumprimento de obrigações regulatórias aplicáveis ao nosso segmento, conforme previsto na Portaria SPA/MF nº 1143/2024 e para exercício regular de direitos. Esses dados serão mantidos exclusivamente para essas finalidades e de acordo com os prazos de prescrição do direito brasileiro. Caso tenha dúvidas, basta entrar em contato com nosso Encarregado.
+•	Portabilidade: Você tem o direito de solicitar a portabilidade dos seus dados pessoais para outras empresas, como já acontece em serviços de telefonia ou bancos. Esse direito, no entanto, depende de regulamentação da ANPD ou de órgãos setoriais, que irão definir os padrões técnicos necessários para que a transferência ocorra de forma segura e direta entre empresas. Até lá, se desejar migrar para outro fornecedor, você pode se cadastrar diretamente junto a essa nova empresa ou até mesmo solicitar o direito de acesso para facilitar o processo. A BetMGM está comprometida em garantir esse direito e comunicará a você como exercê-lo assim que a regulamentação for publicada.
+•	Oposição: esse direito permite que você peça a interrupção do uso dos seus dados pessoais sempre que considerar que o tratamento não está em conformidade com a LGPD. Ele também pode ser exercido em situações específicas, como para deixar de receber comunicações de marketing. Para tanto, é possível ajustar as preferências na sua conta ou clicar na opção “descadastrar” ao final dos e-mails recebidos.
+•	Revogação do consentimento: sempre que tratarmos seus dados com base no seu consentimento, você terá o direito de revogar essa autorização a qualquer momento, interrompendo o tratamento dos seus dados para essa finalidade. A revogação pode ser feita pelos canais que indicarmos no momento da coleta do consentimento ou por meio do nosso Canal de Privacidade..
+•	Informações sobre compartilhamento: De acordo com a LGPD, você tem o direito de saber com quais entidades públicas e privadas seus dados pessoais são compartilhados. Nessa Política de Privacidade você encontra as categorias de empresas com as quais podemos compartilhar dados. Esclarecemos que, por questões de confidencialidade e proteção de segredos de negócio, nem sempre é possível listar nominalmente todas as empresas que prestam serviços para a BetMGM. No entanto, sempre que possível, identificaremos os fornecedores específicos durante sua jornada conosco. Em caso de dúvidas, entre em contato conosco.
+•	Revisão de Decisões Automatizadas: A LGPD garante a você o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais — ou seja, quando não há participação humana na decisão. Na BetMGM, priorizamos processos que passem por uma análise humana, mas em alguns casos utilizamos recursos automatizados, como em recomendações de jogos ou na validação de identidade. Sempre que entender que alguma decisão automatizada afetou seus interesses, você poderá solicitar revisão entrando em contato com o nosso time de atendimento ou com nosso Encarregado.
+10.1. COMO EXERCER MEUS DIREITOS?
+Além dos canais informados acima, você pode solicitar seus direitos através do nosso Canal de Privacidade: https://betmgm.clickcompliance.com/privacy-channel
+Atenderemos seu pedido no prazo de 15 (quinze) dias ou conforme a regulamentação da ANPD. Importante:
+1.	Para sua segurança, siga as regras de validação de identidade ao solicitar acesso, correção ou exclusão de dados.
+2.	Informe um endereço de e-mail válido para receber nossas comunicações e guarde o número do protocolo, pois ele não poderá ser recuperado depois.
+11. ESSA POLÍTICA PODE MUDAR?
+Como estamos sempre buscando melhorar nossos serviços, podemos atualizar essa página. Sempre que possível, comunicaremos nossos clientes a respeito.
+12. CONTATO
+Para falar sobre outros assuntos relacionados a essa política, entre em contato através do e-mail dpo@betmgm.bet.br.
+

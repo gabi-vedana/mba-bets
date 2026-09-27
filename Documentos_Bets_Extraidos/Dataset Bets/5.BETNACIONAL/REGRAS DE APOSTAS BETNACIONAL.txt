@@ -1,0 +1,1438 @@
+ RAMP
+Como apostar
+Para realizar uma aposta, selecione o esporte, o evento e o mercado desejado. Em seguida, informe o valor que deseja apostar. O cálculo do retorno potencial é realizado automaticamente pelo nosso sistema com base nas cotações (odds) disponíveis e será exibido após a inserção do valor da aposta, antes da sua confirmação.
+Para realizar uma aposta simples, você deve selecionar um único evento.
+Para realizar uma aposta múltipla, é permitido selecionar no máximo 15 (quinze) eventos diferentes.
+Para realizar uma aposta personalizada (Bet Builder), poderá selecionar até 25 (vinte e cinco) mercados diferentes para a mesma partida. Vale lembrar que não é possível apostar em mercados com resultados semelhantes, como por exemplo, em uma partida de basquete apostar na vitória do time A e também na vitória do time B.
+Apostas após realizadas, não podem ser alteradas. Todas as opções selecionadas são de única e exclusiva responsabilidade do usuário. Não realizamos nenhum tipo de alteração em sua aposta. Dessa forma, não somos responsáveis pela modalidade ou mercado apostado, por existirem protocolos de confirmação realizados pelo usuário antes da aposta ser feita.
+1.	A Betnacional reserva o direito de anular ou cancelar qualquer aposta, total ou parcialmente, a qualquer momento e sem aviso prévio, caso seja identificado erro sistêmico, falha nas cotações (odds), suspeita de manipulação de resultados, em caso de eventos adiados, cancelados ou interrompidos, suspeita ou tentativa de fraude ou violação das nossas regras e Termos e Condições.
+2.	As cotações estão sujeitas a atualizações, portanto podem ser ajustadas/alteradas. A aposta será validada conforme a cotação disponível no momento da aposta.
+3.	O cliente precisa selecionar a opção “Aceitar Alteração de Cotação”, caso contrário, se a cotação for atualizada, o mesmo não conseguirá validação.
+4.	A Betnacional não se responsabilizará por qualquer falha em apostas, como: (i) exista um erro óbvio nas cotações ou em valores da funcionalidade Encerrar Aposta; (ii) a Betnacional continue a aceitar apostas em mercados suspensos ou fechados; (iii) a Betnacional calcule ou realize o pagamento erroneamente de um valor na resolução da aposta.
+5.	No caso de uma aposta em que uma determinada seleção for encerrada por meio da funcionalidade Encerrar Aposta com um resultado incorreto, a aposta nesta seleção será resolvida novamente considerando o resultado correto.
+Cashout
+O cashout (Encerrar Aposta) é uma ferramenta adicional que possibilita o acompanhamento das apostas e permite a oportunidade de obter um retorno antes da finalização do evento. O cashout é calculado de forma automática pelo sistema, é uma funcionalidade opcional e não há garantia de sua      disponibilidade. O recurso é dinâmico e depende de uma série de fatores externos como: cobertura ao vivo, disponibilidade da partida e informações em tempo real da Ramp (provedor de dados). Sempre que o usuário solicitar o cashout, estará sujeito à disponibilidade da ferramenta no momento da solicitação.
+1.	A oferta do recurso não deve ser considerada uma obrigação do site, por ser uma ferramenta adicional em alguns momentos pode estar indisponível.
+2.	Quando o cashout for bem-sucedido, o valor disponível para retorno será creditado imediatamente na conta do cliente.
+3.	Mesmo que o botão de cashout apareça, ele pode estar indisponível no momento em que é solicitado, por ser uma ferramenta na qual a disponibilidade varia bastante, podendo aparecer e logo em seguida estar indisponível.
+4.	Em casos em que o cliente clique no encerramento e não consiga a validação, o jogo continua válido e o bilhete será resolvido conforme o resultado oficial do jogo.
+5.	A confirmação do cashout é de única e exclusiva responsabilidade do cliente. Nosso sistema não realiza cashout automático, é necessária uma confirmação prévia do cliente.
+6.	Em manutenções programadas, comunicaremos a indisponibilidade com antecedência. Em manutenções emergenciais, a ferramenta permanece indisponível até a conclusão do reparo
+Rollback
+O Rollback ocorre quando um ticket é atualizado em um primeiro momento e, em seguida, corrigido para perdido, anulado ou pendente. Isso acontece quando a comissão organizadora da partida nos envia um determinado resultado e posteriormente, realiza a correção dos dados da partida. Dessa forma, para atualizar o ticket corretamente com base no resultado oficial, ocorre a correção do status do ticket.
+1. Qualquer valor recebido é utilizado em apostas ou saques durante o momento em que a aposta havia sido inicialmente atualizada, será descontado quando o ticket for corrigido.
+2. Em caso de correção do resultado oficial de um evento, todas as apostas correspondentes serão reavaliadas e liquidadas novamente de acordo com a súmula final, independentemente de quaisquer liquidações prévias equivocadas.
+Resolução de tickets
+Nossos tickets são resolvidos pelo nosso provedor Ramp, responsável por coletar e analisar os resultados conforme os dados oficiais de súmula fornecidos pela comissão organizadora da partida.
+Normalmente esses dados são divulgados ao final das partidas, porém algumas comissões levam mais tempo para publicar esses resultados, fazendo com que alguns tickets levem um tempo maior para serem finalizados.
+1. A Betnacional reserva-se o direito de anular, total ou parcialmente, qualquer aposta em que seja identificada a exploração de vulnerabilidades sistêmicas, bugs de cotações, falhas de software ou uso indevido de atrasos de transmissão (delay) por parte do usuário.
+2. A Betnacional reserva-se o direito de anular apostas realizadas em eventos com informações de listagem incorretas que afetem a integridade da cotação, tais como inversão de mando de campo, participantes incorretos ou erro evidente na categoria do torneio.
+3. Apostas múltiplas: Se a aposta incorreta estava dentro de um ticket múltiplo, apenas a seleção do evento listado incorretamente será anulada, as demais apostas do ticket continuam correndo normalmente.
+4. Os ganhos serão creditados na conta do cliente após a atualização do ticket através da confirmação do resultado oficial.
+5. A Betnacional reserva o direito de anular apostas em eventos que possa ter tido o resultado afetado por suspeita de atividade criminosa, caso a irregularidade seja comprovada.
+Campinho
+Para que nossa plataforma atualize o placar e o tempo de uma partida, é necessário que a comissão organizadora do evento realize o envio dos dados ao vivo para os nossos servidores. Embora a Betnacional faça o possível para assegurar que a informação do site esteja correta, não garantimos a precisão, pois algumas vezes esses dados não são enviados simultaneamente, gerando divergências no placar do campinho ao vivo.
+1. A Betnacional não se responsabiliza por quaisquer apostas levantadas com base em informações fornecidas por estes serviços.
+2. A ferramenta gráfica do Campinho (animação, placar e cronômetro) possui caráter estritamente informativo. Devido a possíveis atrasos de transmissão (delay) e instabilidades de rede, essas informações não devem ser utilizadas como referência para a tomada de decisões.
+3. Não vinculamos as apostas com as informações fornecidas pelo campinho.
+4. Qualquer aposta realizada com base nas atualizações do campinho será considerada válida. O apostador reconhece que as ferramentas visuais ao vivo são disponibilizadas para fins ilustrativos e podem estar sujeitas a atrasos de transmissão (delay) ou imprecisões sistêmicas pontuais de provedores terceiros. Dessa forma, a liquidação das apostas basear-se-á estritamente no resultado real e oficial do evento, conforme claramente informado nestas regras.
+Anulação de Aposta
+A anulação de uma aposta pode ocorrer por diversos motivos, como jogos adiados ou interrompidos, eventos específicos durante as partidas, como análise de VAR, marcação de pênalti ou cartões e mercados abertos com probabilidades incorretas.
+Detalhes da anulação:
+Bilhete simples: A aposta é anulada e o valor apostado retorna integralmente para o saldo do usuário.
+Bilhete múltiplo: A cotação da aposta anulada é retirada do bilhete e as cotações das outras apostas são recalculadas e seguem válidas, com isso, o valor de retorno irá diminuir.
+Bilhete Bet Builder (criar aposta): A anulação de uma seleção por qualquer motivo anulará o bilhete todo.       
+Tempo Regulamentar
+Todos os mercados da partida são baseados no resultado ao final do tempo regulamentar + acréscimos, e não incluem prorrogação, a menos que o contrário esteja especificado. Apostas em qualquer partida que finalize antes do tempo especificado serão anuladas, exceto as apostas em que o resultado já tiver sido determinado.     
+Empate (Dead Heat)
+Um Empate (Dead Heat) ocorre quando duas ou mais seleções terminam empatadas em um evento. De acordo com as regras de Dead Heat, quando duas seleções são declaradas empatadas em um evento, metade do valor apostado é liquidada com a odd integral da seleção escolhida, enquanto a outra metade da aposta é considerada perdedora. Se houver mais de duas seleções em Dead Heat, o valor da aposta será dividido proporcionalmente entre todas as seleções empatadas. Salvo disposição em contrário nas Regras Específicas de cada Esporte, as regras de Dead Heat serão aplicadas a qualquer mercado em que haja mais vencedores do que o originalmente previsto.
+FUTEBOL
+As seguintes regras incluem motivos para anular apostas. 
+1.	Geral
+1.1. As apostas serão liquidadas com base em 90 minutos de jogo de acordo com os árbitros da partida, incluindo os acréscimos. A menos que indicado de outra forma, a prorrogação e as cobranças de pênaltis não contarão.
+1.2. No caso de ambiguidade sobre o resultado oficial do órgão dirigente relevante, o resultado será determinado usando informações de fontes independentes.
+1.3. Se uma partida oficial lista detalhes de time diferentes daqueles listados no Site (por exemplo, substitutos, faixa etária, gênero, etc.), então todas as apostas feitas nos mercados afetados serão anuladas. Em todos os outros casos, as apostas serão válidas (incluindo casos em que o nome de um time é listado sem especificar o termo “XI” no nome).
+1.4. Se qualquer nova informação entrar em domínio público dentro de 72 (setenta e duas) horas após a liquidação, a Betnacional reserva-se o direito de (agindo razoavelmente):
+(a) liquidar ou restabelecer o mercado considerando essa nova informação; ou
+(b) aguardar mais informações antes de decidir quando liquidar ou restabelecer o mercado.
+1.5. Para partidas que estão programadas para uma duração diferente dos 90 minutos padrão, as apostas serão liquidadas com base no tempo regulamentar, incluindo os acréscimos. Se uma partida for jogada em um formato incomum (por exemplo, 3 ou 4 períodos), todos os mercados de intervalo serão anulados.
+1.6. Existe uma pequena possibilidade de oferecermos, por engano, apostas cujo resultado não tem possibilidade de ocorrer (por exemplo, continuamos oferecendo apostas em um jogador para ser o primeiro marcador em uma partida após esse jogador ter sido substituído). Apesar de termos implementado sistemas que visam evitar que erros como esse ocorram, no pequeno número de circunstâncias em que isso acontece, anularemos as apostas em questão.
+1.7. As estatísticas fornecidas pela Official OPTA Data serão usadas para determinar a liquidação de quaisquer apostas que sejam feitas em: (i) um determinado jogador atinge um determinado número de chutes ou chutes no alvo, (ii) o número total de impedimentos concedidos em uma partida ou contra um time em particular, (iii) o número total de chutes no alvo alcançados por ambos os times, ou qualquer time, em uma partida, (iv) o número total de desarmes feitos por qualquer time em uma partida ou (v) o número total de chutes no gol na partida.
+1.8. Impedimento é concedido ao jogador considerado dentro de uma posição de impedimento em que uma cobrança de falta é concedida. Se dois ou mais jogadores estiverem em uma posição de impedimento quando o passe for dado, o jogador considerado como o mais ativo e tentando passar a bola é considerado como impedido.
+1.9. Em relação aos ‘Desarmes’, um desarme é definido como quando um jogador se conecta com a bola em um desafio terrestre em que ele tira a bola com sucesso do jogador em posse.
+1.10. O jogador que foi desarmado deve claramente estar em posse da bola antes do desarme ser feito.
+1.11. Um desarme ganho é quando quem faz o desarme, ou um de seus companheiros de time, recupera a posse de bola devido a uma dividida em que a bola sai de jogo e fica ‘segura’.
+1.12. Um desarme perdido é quando um desarme é feito, mas a bola vai para o jogador adversário.
+1.13. Ambos são considerados desarmes bem sucedidos; entretanto, o resultado do desarme (ganho ou perdido) é diferente considerando para onde a bola vai após o desarme.
+1.14. Não é um desarme, quando um jogador intercepta um passe por qualquer meio.
+1.15. Desarmes perdidos são aqueles em que um jogador tenta desafiar a bola e não consegue - são calculados somando-se as faltas com um qualificador de tentativa de desarme ao número de vezes em que um jogador é derrotado por um drible (desafio perdido).
+1.16. Afastar o perigo é uma ação de defesa em que um jogador chuta a bola para longe do seu próprio gol sem recebedor.
+1.17. Uma interceptação é quando um jogador prevê o passe de um oponente e intercepta a bola se movendo para a linha do passe pretendido.
+1.18. Um passe bloqueado é quando um jogador tenta cortar o passe do oponente por qualquer meio. Semelhante a uma intercepção, mas tendo muito menos leitura do passe.
+1.19. Um bloqueio é quando um jogador bloqueia um chute no alvo de um jogador adversário.
+1.20. Para apostas no ‘tempo do primeiro gol’ (por exemplo, mercados de ‘Cotações do Primeiro Gol’), o primeiro tempo é considerado como tendo duração de 45 minutos, independentemente do tempo de paralisação. Também para esses mercados, observe que a seleção ‘0 a 10 minutos’ cobre os primeiros 10 minutos da partida. Em outras palavras, ele vai de 0:00 até pouco antes do relógio chegar em 10:00. A seleção ‘11 a 20 minutos’ vai de 10:00 até pouco antes do relógio chegar em 20:00. O mesmo princípio aplica-se a cada uma das outras seleções neste mercado.
+1.21. Se um time for rebaixado de uma liga porque, no final de uma temporada, terminou nas posições de rebaixamento relevantes para essa liga (ou seja, geralmente qualquer uma das três posições inferiores da liga), as apostas nesse time a ser rebaixado serão liquidadas como apostas vencedoras. Se um time for desqualificado, banido ou removido de uma liga (ou seja, em circunstâncias diferentes daquelas em que terminou a temporada nas posições relevantes de rebaixamento): (i) se tal time for desqualificado, retirado ou removido da liga antes da temporada relevante começar, todas as apostas no mercado afetado serão anuladas (e um novo mercado será subsequentemente carregado) e (ii) se tal time for desqualificado, retirado ou removido da liga após o início da temporada relevante (ou uma determinação for feita pelo órgão dirigente aplicável, durante a temporada, que o time será retirado ou removido da liga após a conclusão da temporada), todas as apostas no time afetado serão anuladas. Para evitar dúvidas, se uma dedução de pontos for imposta a um time de forma que ele termine a temporada em posições de rebaixamento relevantes para a liga aplicável, as apostas nesse time a ser rebaixado serão consideradas apostas vencedoras.
+1.22. Nos mercados que se relacionam ao número de incidentes a ocorrer, como o ‘número de escanteios’, estes serão liquidados com base no número cobrado em vez de concedido. Isso também se aplica a incidentes onde o tempo é considerado.
+2.	Abandonos, Cancelamentos e Adiamentos
+2.1. As partidas adiadas devem ser reprogramadas para iniciar dentro de 3 (três) dias corridos a partir da data de início original para que as apostas sejam válidas (caso contrário, as apostas serão anuladas). Se o horário de início remarcado não for anunciado pelo órgão regulador relevante dentro de 3 (três) horas após o horário de início original da partida adiada, as apostas simples serão anuladas e as apostas múltiplas serão liquidadas nos resultados das seleções restantes.
+2.2. Alterações no horário de início de uma partida antes do início não contarão como um adiamento.
+2.3. As apostas em partidas abandonadas serão anuladas a menos que:
+(a) (i) um horário de início remarcado for anunciado pelo órgão dirigente relevante dentro de 3 (três) horas; e (ii) o jogo continuar programado para continuar dentro de 3 (três) dias corridos, a partir do horário de início original da partida abandonada; ou
+(b) o resultado do mercado relevante tenha sido determinado incondicionalmente.
+2.4. Se o árbitro direcionar os jogadores para deixar o campo para uma suspensão temporária do jogo e o jogo for retomado antes de 0:00 (hora local) do dia seguinte, a suspensão não contará como um abandono.
+3.	Ausências, Abandonos e Desqualificações
+3.1. A menos que indicado de outra forma, qualquer jogador que entrar em campo para qualquer parte de uma partida será considerado como um participante para efeitos de liquidação. Apenas os jogadores que não estiverem no time ou reservas não utilizados serão considerados não participantes.
+3.2. Se um time for desqualificado ou removido de uma liga ou torneio antes que a competição relevante tenha começado, então todas as apostas envolvendo esse time serão anuladas.
+4.	Alteração de local
+Se o local de uma partida for diferente do indicado em nosso site, as apostas serão mantidas desde que a partida não tenha sido alterada para o local em casa do adversário, caso em que as apostas na partida serão anuladas. No entanto, em grandes torneios internacionais (por exemplo, Copa do Mundo FIFA, Copa do Mundo Feminina FIFA, UEFA Champions League, UEFA Europa League, Copa Libertadores da América, Copa América, Campeonato Europeu de Futebol (UEFA Euro), Jogos Olímpicos, Jogos Paralímpicos, Copa do Mundo de Clubes da FIFA, Amistosos Internacionais, competições mundiais organizadas por federações esportivas internacionais, bem como outros eventos esportivos de porte equivalente), todos os locais serão considerados como neutros. Se o local programado de uma partida for alterado, incluindo a alteração do local para um novo local em um país diferente, todas as apostas serão válidas.
+4.1 São considerados como “Grandes Torneios Internacionais” as competições esportivas de relevância internacional reconhecidas por entidades esportivas nacionais ou internacionais, que envolvam ampla participação de atletas, clubes, seleções ou equipes de diferentes países e que possuam significativa projeção, audiência e relevância competitiva.
+5.	Árbitro Assistente de Vídeo (VAR)
+5.1. Se o VAR for consultado, a ocorrência que levou à consulta será considerada como tendo ocorrido no momento real de sua ocorrência (em vez de no momento em que a consulta relevante, ou decisão, foi tomada).
+5.2. Se uma aposta foi liquidada e, devido a uma decisão do VAR subsequente, torna-se evidente que tal liquidação era imprecisa, reverteremos tal liquidação (desde que a decisão do VAR tenha ocorrido antes da conclusão da partida ou outro período relacionado à aposta).
+5.3. As apostas feitas entre a ocorrência de um incidente que levou a uma análise do VAR e a decisão relacionada ao VAR serão anuladas, a menos que:
+(a) a análise do VAR (e decisão subsequente) não alterou, por fim, a decisão tomada pelos árbitros em campo, ou
+(b) a análise do VAR (e decisão subsequente) alterou a decisão tomada pelos árbitros em campo, mas não teve impacto na aposta em questão. Todas as apostas que não foram materialmente influenciadas pela análise do VAR (e decisão subsequente) serão mantidas.
+5.4. Para eliminar qualquer dúvida, consideramos o VAR como tendo sido usado se isso for entendido a partir dos gestos do árbitro (por exemplo, gestos de mãos ou parar a partida para analisar o incidente em si), ou se o uso do VAR for confirmado pelo relatório de partida emitido pelo órgão oficial que é, em última análise, responsável pela supervisão da partida aplicável. Nos casos em que não estiver claro se o VAR foi utilizado devido à falta de cobertura de TV e/ou relatórios conflitantes, as apostas serão liquidadas com base nas informações adquiridas dos fornecedores de feeds e fontes online geralmente respeitáveis (agindo de forma razoável).
+6.	Resultado Final - Pagamento antecipado
+6.1. A oferta de pagamento antecipado (2 Gols de Vantagem) é exclusiva para apostas no mercado Resultado Final - Pagamento antecipado e está disponível apenas em competições selecionadas pela plataforma.           
+6.2. As apostas serão liquidadas como apostas ganhadoras se a seleção liderar por 2 (dois) gols a qualquer momento durante a partida, independentemente de o resultado final da partida ser um empate ou a seleção perder.
+6.3. Após uma aposta ser liquidada como uma aposta ganhadora devido a uma liderança de 2 (dois) gols, ela não estará sujeita a uma liquidação adicional se a seleção ganhar a partida de acordo com o resultado final.
+6.4. Gols que são desconsiderados ou invalidados não contam para fins de liquidação. Por exemplo, se um time estiver liderando 1-0 e marcar um 2º gol, que é cancelado após uma decisão do VAR, a aposta não será liquidada como ganhadora.
+7.	Mercados Resultado da Partida 90
+7.1. O Resultado da Partida 90 é um mercado pré-evento independente e é limitado a ligas em que o tipo de mercado Resultado da Partida 90 está disponível. 
+7.2. As apostas serão liquidadas como apostas ganhadoras se o time/equipe  escolhida liderar por 1 (um) ou mais gols na marca de 90 (noventa) minutos (90:00) de jogo.
+7.3. Se o time/equipe escolhida não liderar por 1 (um) ou mais gols na marca de 90 (noventa) minutos de jogo, mas vencer a partida após um período de acréscimos, a aposta será liquidada como uma aposta ganhadora.
+7.4. Exemplos:
+(a) se você apostar no time para vencer e ele estiver liderando até os acréscimos, mas, conceda um gol de empate nos acréscimos (90:00:01 em diante), sua aposta será paga como ganhadora.
+(b) se você apostar no time para vencer nesse mercado e ele estiver empatando aos 90:00, mas, sua seleção marcar um gol nos acréscimos e vencer o jogo, sua aposta será paga como ganhadora.
+7.5. Quando uma análise do VAR resultar em um gol sendo permitido para um time em particular, o tempo do gol será determinado pelo provedor de dados oficial e não no momento em que o VAR concluir. 
+8.	Mercados de gol do time
+8.1. Para os mercados ‘time que marca mais gols’ e ‘artilheiro do time’, o tempo extra (prorrogação) está incluído, no entanto, a disputa de pênaltis não está incluída.
+8.2. Se houver alguma disputa sobre quem marcou algum gol, seguiremos a decisão tomada pelo órgão dirigente relevante.
+9.	Mercados sem aposta no empate
+As apostas serão anuladas se o tempo regulamentar (final do 2º tempo) for um empate.
+10.	Mercados de marcador de gol
+10.1. As apostas em jogadores que não participam da partida serão anuladas. As apostas nos mercados do ‘primeiro marcador de gol’ serão anuladas se o jogador entrar em campo após o primeiro gol ser marcado. Para outros mercados de marcador, os jogadores serão considerados como participantes do mercado listado se entrarem em campo a qualquer momento em 90 minutos de jogo, incluindo os acréscimos.
+10.2. Para qualquer mercado relacionado a um determinado marcador específico, gols contra (quando um jogador marca um gol no próprio time)      não serão levados em consideração. Se um gol contra for marcado, então as apostas no marcador subsequente serão consideradas ganhadoras. O mercado marcador ativo sempre representará próximo gol a ser marcado na partida, independentemente do gol anterior ser um gol contra.
+10.3. Faremos esforços razoáveis para cotar todos os participantes, mas isso não descartará um jogador que não está cotado de ser liquidado como ganhador.
+11.	Mercados de primeiro marcador Each Way
+11.1. As apostas serão liquidadas apenas no primeiro gol, segundo gol, terceiro gol, quarto gol e quinto gol. Os jogadores que não marcarem até após o quinto gol ser marcado serão liquidados como seleções perdedoras. Se menos de 5 gols forem marcados em qualquer partida, as apostas serão liquidadas nos gols que forem marcados. Se nenhum gol for marcado, todas as apostas each way serão liquidadas como apostas perdedoras.
+11.2. Se um jogador entrar em campo de jogo após o primeiro gol ser marcado, tanto o ganho como parte da colocação serão anulados, a menos que o primeiro gol seja um gol contra (nesse caso, as apostas serão mantidas). Se um jogador for expulso ou substituído antes do primeiro gol ser marcado, as apostas nesta seleção serão liquidadas como apostas perdedoras.
+11.3. Se um jogador marcar o primeiro gol da partida, tanto o ganho dele quanto parte da colocação serão ganhadores. Se um jogador marcar o segundo, terceiro, quarto ou quinto gol, apenas sua parte da colocação será ganhadora.
+11.4. Um mesmo jogador não poderá contabilizar duas posições vencedoras na mesma aposta. Se o jogador selecionado marcar, por exemplo, o 2º e o 3º gol da partida, apenas o 2º gol será validado para o pagamento da cotação de posição, não havendo pagamentos acumulados.
+11.5. As apostas Each Way em sem marcador, último marcador, primeiros marcadores do time e previsões do resultado [FL3] não serão aceitas. Se quaisquer apostas assim forem consideradas por engano, a aposta total será investida como uma aposta apenas de ganho.
+11.6. Apostas apenas na colocação não serão aceitas.
+11.7. Tempo extra não conta.
+11.8. Gols contra não contam. Nos casos em que um gol contra for 1 dos primeiros 5 gols, o 6º gol será liquidado como um ganhador na parte de colocação da aposta each way. Se 2 dos primeiros 5 gols forem gols contra, então os 6º e 7º gols serão liquidados como ganhadores na parte de colocação da aposta each way, etc.
+12.	Apostas na Partida de Marcador
+As apostas serão liquidadas no jogador que marcar mais gols em sua respectiva partida dos jogadores listados (os jogadores listados podem ou não estar jogando na mesma partida). O ‘empate’ será a seleção ganhadora caso ambos os jogadores marquem o mesmo número de gols ou ambos os jogadores não marquem. Ambos os jogadores precisam iniciar suas respectivas partidas para as apostas serem mantidas. Gols contra não contarão.
+13.	Previsões do Resultado
+13.1. Uma ‘Previsão de Resultado’ é definida como uma dupla em primeiro marcador e placar correto.
+13.2.1 Jogador não participou da partida ou entrou após um gol ser marcado:
+Os jogadores que não participarem da partida, ou que participarem após um gol ser marcado, farão com que uma aposta na Previsão do Resultado reverta para uma simples no mercado placar correto nas cotações relevantes oferecidas no início.
+13.2.2 Caso o gol inicial (ou gols) seja(m) gol(s) contra:
+Caso o gol inicial (ou gols) sejam gols contra, então as apostas no marcador subsequente e no placar correto duplo serão consideradas ganhadoras. Se os únicos gols marcados na partida forem os gols contra, as apostas serão liquidadas como simples no mercado placar correto nas cotações relevantes oferecidas no início.
+13.2.3 Caso a partida seja abandonada após um gol ser marcado:
+Caso uma partida seja abandonada após um gol ser marcado, então todas as apostas serão liquidadas como simples no mercado primeiro marcador nas cotações relevantes oferecidas no início.
+14.	Previsões de vitória
+14.1. Uma previsão de vitória é definida como uma dupla em primeiro marcador e resultado da partida.
+14.2. Se um jogador não entrar em campo no momento em que o primeiro gol foi marcado, as apostas serão liquidadas como simples no mercado resultado da partida nas cotações relevantes oferecidas no início.
+14.3. Se o primeiro gol for um gol contra, as apostas no marcador subsequente e resultado duplo serão consideradas ganhadoras.
+15.	Mercados de artilheiro
+15.1 Todas as apostas permanecerão válidas independentemente de o jogador participar ou não da liga, torneio ou competição correspondente. Em caso de controvérsia sobre a autoria de um gol, prevalecerá a decisão oficial da entidade organizadora ou autoridade esportiva competente.
+15.2. Para fins de liquidação das apostas, serão considerados apenas os gols marcados na liga, torneio ou competição objeto da aposta. Caso um jogador seja transferido durante a temporada, os gols marcados em competições diferentes não serão contabilizados. Contudo, os gols marcados por esse jogador em outro clube participante da mesma competição serão considerados. Gols contra não serão contabilizados.
+15.3. Salvo disposição em contrário, os gols marcados em partidas de play-off, repescagem ou fases equivalentes não serão considerados para os mercados de artilheiro.
+15.4. Os gols marcados durante a prorrogação serão contabilizados. Os gols marcados em disputas por pênaltis não serão considerados.
+16.	Mercados de Primeiro/Último
+16.1. Todos os times devem concluir todas as suas partidas da liga para apostas em ‘termina em último’ se manterem. Se um ou mais times não concluírem todas as suas partidas por qualquer motivo, esse mercado será anulado. Qualquer partida que for abandonada, mas um resultado oficial for atribuído, será classificada como uma partida completa, e as apostas nesse mercado serão mantidas. Quaisquer alterações subsequentes nas tabelas da liga após todas as partidas serem completadas não afetarão a liquidação desse mercado.
+16.2. Para os mercados primeiro e último com Handicap, a diferença de gols não conta.
+16.3. Para os mercados ‘primeiro no Natal’ e ‘último no Natal’, as apostas serão liquidadas na posição da liga a partir de 25 de dezembro, independentemente das partidas disputadas e quaisquer adiamentos e/ou abandonos. Para os mercados ‘último no Natal’, se um time listado for desqualificado ou removido da liga antes de 25 de dezembro, todas as apostas serão anuladas no mercado relevante.
+16.4. Para o time em primeiro de um determinado continente ou outra seleção (por exemplo, Primeiro Time da América do Sul, Europa ou África), as apostas serão liquidadas no time que progrediu mais. Se 2 (dois) times nomeados jogarem um contra o outro na final ou terceiro/quarto playoff, o vencedor da partida será considerado como tendo progredido mais. As regras de Dead Heat se aplicam se 2 (dois) ou mais times, que progrediram mais em um determinado mercado, saírem do torneio na mesma fase.
+17.	Mercado de Placar Correto a Qualquer Momento
+Esse mercado oferece apostas na seleção escolhida, sendo a pontuação a qualquer momento dentro de 90 minutos da partida, além de qualquer acréscimo. Quando uma partida for de 0-0 no final de 90 minutos e dos acréscimos, todas as seleções serão perdedoras. Tempo extra (prorrogação) não conta.
+18.	Mercados Quickbet
+18.1. A liquidação, em todos os casos, usará a hora do evento que nos é fornecida periodicamente pelo nosso provedor de dados terceirizado.
+18.2. Se nenhum dos resultados indicados ocorrer durante o período indicado, todas as apostas serão liquidadas como apostas perdedoras.
+18.3. Para a seleção ‘gol’, um gol será considerado como tendo sido marcado no momento em que a bola cruzar completamente a linha de gol dentro dos limites das traves do gol, desde que o árbitro, por fim, valide e conceda o gol. Por exemplo, se a bola cruzar completamente a linha do gol, mas o gol não for concedido porque, por exemplo, uma falta ocorreu antes da bola cruzar a linha, então um gol não será considerado como tendo sido marcado. Os gols contra marcados contarão para a liquidação desse mercado.
+19.	Mercados do Tempo Extra
+Para os mercados do tempo extra (prorrogação), as apostas se aplicam aos 30 minutos de jogo de acordo com os árbitros da partida, incluindo quaisquer acréscimos. Entretanto, as disputas de pênaltis não estão incluídas. As apostas serão liquidadas apenas no resultado durante o período de tempo extra. Para os propósitos desse mercado, a pontuação será considerada como 0-0 no início do período de tempo extra.
+20.	Total de Gols Marcado em uma Liga, Múltiplas Ligas ou Torneios
+Se uma partida for adiada depois que o mercado for publicado, a expectativa de gols para essa partida será removida e um novo total será criado. Todas as apostas feitas antes do adiamento serão mantidas, mas liquidadas de acordo com o novo total Mercados de chutes criados, chutes bloqueados e chutes no alvo
+21.1. Para quaisquer apostas envolvendo um determinado jogador criar um número de chutes (finalizações) ou registrar um número de chutes (finalizações) no alvo, a apuração final dos dados oficiais da OPTA será utilizada para determinar o número de chutes criados e chutes no alvo realizadas pelo respectivo jogador.
+21.2. Um chute no alvo é definido como qualquer tentativa que resulte em gol, independentemente da intenção, ou seja, uma clara tentativa de marcar um gol que teria entrado no gol, mas foi defendida pelo goleiro ou impedida por um jogador que era o último homem da defesa, sem que o goleiro tivesse qualquer chance de evitar o gol (bloqueio em cima da linha).
+21.3. Chutes (finalizações) que acertarem diretamente a trave não serão consideradas chutes (finalizações) no alvo, a menos que a bola entre no gol e o gol seja validado ou se a trave e travessão estiver descrita na aposta.
+21.4. Chutes (finalizações) bloqueados por outro jogador que não seja o último homem da defesa não serão considerados chutes (finalizações) no alvo.
+21.5. Para quaisquer apostas em um jogador criar chutes (finalizações) ou registrar um número de chutes/chutes no alvo, as apostas realizadas em jogadores que não participarem da partida serão anuladas. Um jogador será considerado participante caso entre em campo em qualquer momento durante os 90 minutos regulamentares, incluindo os acréscimos.
+21.6. Para quaisquer apostas em um jogador criar chutes (finalizações) ou registrar um número de chutes/chutes no alvo, todas as apostas serão liquidadas com base no resultado após os 90 minutos regulamentares, salvo indicação em contrário. Isso inclui os acréscimos, mas não inclui prorrogação nem disputa por pênaltis.
+Caso o jogador não participe da partida, a seleção será anulada.
+21.7. Nos mercados de Chutes Criados (Shots Created), um jogador não pode criar um chute (finalização) para si mesmo.
+21.8. Um Chute Criado (Shot Created) é definida como o total acumulado de:
+Passes-Chave (Key Passes) – O último toque de um companheiro de equipe que leva diretamente o recebedor da bola a realizar um chute (finalização) que não resulte em gol. Caso o passe sofra qualquer tipo de intervenção defensiva em seu trajeto até o companheiro de equipe, ele não será considerado um Passe-Chave.
+Assistências (Assists) – O último toque de um companheiro de equipe que leva o recebedor da bola a marcar um gol. Se a assistência sofrer um desvio em um jogador adversário, ela ainda será contabilizada desde que a bola chegue ao autor do gol. Não será atribuída assistência nos casos de Gol contra, gol Chute direto de falta ou Gol direto de escanteio.
+Todas as apostas feitas em jogadores que não fazem parte dos 11 titulares serão anuladas.
+21.9 Assistências Fantasy (Fantasy Assists)
+Uma Assistência Fantasy é atribuída ao último toque de um jogador da equipe que marca o gol e é classificada nos seguintes tipos:
+Passe Desviado (Pass Lost)
+Um passe ou cruzamento chega ao autor do gol após um único toque defensivo (que não seja um passe controlado).
+Mão na Bola (Handball)
+Uma ação ofensiva resulta diretamente em uma mão na bola da defesa, gerando um pênalti ou falta que é posteriormente convertida em gol
+Chute Bloqueado / Para Fora (Blocked Shot / Miss)
+Uma finalização bloqueada ou para fora do alvo (com toque defensivo e mantendo a bola em jogo) resulta diretamente em um gol.
+Chute Defendido (Attempt Saved)
+Uma finalização é defendida pelo goleiro e a ação seguinte resulta em gol.
+Bola na Trave (Post)
+Uma finalização rebate na trave ou no travessão, e a ação seguinte resulta em gol.
+Tiro Livre ou Pênalti Sofrido (Free Kick / Penalty Won)
+O jogador sofre uma falta que resulta em uma cobrança de falta ou pênalti posteriormente convertida em gol.
+Gol Contra (Own Goal)
+O último toque ofensivo que força um adversário a marcar um gol contra.
+21.10 Mercados de Passes de Jogadores
+Todas as apostas realizadas em jogadores que não fizerem parte da escalação inicial (11 jogadores iniciais) serão anuladas.
+Um passe é definido como qualquer bola jogada intencionalmente de um jogador para outro. Os passes incluem passes em jogo, tiros de meta, escanteios e cobranças de falta executadas como passe, mas excluem cruzamentos, arremessos do goleiro com as mãos e laterais.
+Mercados jogador não marca
+Os jogadores que não estiverem em campo no início dos 90 minutos de jogo não serão considerados participantes nesse mercado e serão liquidados como anulados.
+1.	Mercados de escanteios múltiplos do time
+Esses mercados são oferecidos com base no número de escanteios do time no primeiro tempo multiplicado pelo número de escanteios do time no segundo tempo. São válidos apenas escanteios cobrados.
+2.	Mercados de chutes no alvo combinados
+As apostas serão anuladas se qualquer jogador nomeado na seleção não participar da partida, independentemente do resultado geral.
+3.	Mercados de Total de Cartões Mais/Menos
+1 cartão amarelo = 1 (um)
+1 cartão vermelho = 1 (um)
+2 cartões amarelos = 2 (dois)
+1 cartão amarelo + 1 cartão vermelho vale = 2 (dois)
+Cartão vermelho direto = 1 (um)
+O número máximo de cartões que podem ser concedidos a um jogador é 2 (dois).      
+4.	Mercados de Cartões
+27.1. Será utilizado o seguinte sistema de pontos:
+cartão amarelo = 10 (dez) pontos
+cartão vermelho = 25 (vinte e cinco) pontos
+O máximo de pontos concedido por jogador é de 35 (trinta e cinco).
+Dois cartões amarelos que levam a um vermelho automático pontuarão como 1 (um) cartão amarelo e 1 (um) vermelho.
+27.2. Os cartões contarão apenas para os jogadores que participam da partida. Os cartões para técnicos, treinadores ou fora do campo de jogo não contarão.
+27.3. Apenas os cartões mostrados para os jogadores no campo de jogo ativo contarão para esse total. Se um cartão for mostrado para um substituto que não está no campo ativo de jogo no momento desse cartão, ele não contará para nenhum total. Os cartões mostrados após o apito final também não contarão para nenhum total. Cartões mostrados para técnicos não contarão para nenhum total.
+27.4. Quaisquer cartões mostrados durante o intervalo contarão, no entanto, os cartões mostrados após o apito final não contam.
+5.	Mercados recebe um cartão
+As apostas serão anuladas em qualquer jogador que não jogar em qualquer momento na partida. Em qualquer disputa sobre o fato de um cartão ter sido ou não mostrado, liquidaremos o mercado quando o órgão dirigente tiver dado seu veredicto. Apelações ou decisões subsequentes não serão consideradas. Só contarão os cartões que são mostrados aos jogadores depois que entrarem em campo pela primeira vez e antes de saírem do campo pela última vez. Cartões aplicados no banco de reservas ou após substituição definitiva não são contabilizados.
+6.	Mercados de jogadores que recebem cartão
+As apostas feitas em jogadores que não participam da partida serão anuladas. Os jogadores serão considerados um participante para os mercados de Jogador com Cartão se entrarem na partida a qualquer momento nos 90 minutos de jogo mais acréscimos. Em qualquer disputa sobre o fato de um cartão ter sido ou não mostrado, liquidaremos o mercado quando o órgão dirigente tiver dado seu veredicto. Apelações ou decisões subsequentes não serão consideradas.
+7.	Mercados do jogador em cada tempo
+30.1. Você está apostando em um jogador nomeado para alcançar a estipulação declarada no primeiro e segundo tempo.
+30.2. Se o jogador nomeado atingir a estipulação declarada na seleção, a seleção será liquidada como vencedora (por exemplo, se a seleção for Harry Kane dá 1 (uma) ou mais assistências em cada tempo e ele tiver 1 (uma) assistência no primeiro tempo e 1 (uma) assistência no segundo tempo, isso seria liquidado como vencedora).
+30.3. Se o jogador nomeado não participar do primeiro tempo da partida, ou de fato de qualquer parte da partida, a seleção será anulada (por exemplo, se a seleção for Harry Kane marca 1 (um) ou mais gols em ambos os tempos e Harry Kane for um substituto, mas entra durante ou após o intervalo, ou não participa, a seleção seria anulada).
+30.4. Se o jogador nomeado jogar qualquer parte do primeiro tempo, e não conseguir atingir a estipulação do primeiro tempo, a seleção é perdedora, independentemente da duração de sua participação no primeiro ou segundo tempo (por exemplo, se a seleção é Harry Kane dá 1 (um) ou mais chutes no alvo em cada tempo, e ele começa a partida/entra durante o primeiro tempo e não consegue registrar um chute no alvo durante o primeiro tempo, essa seleção será perdedora independentemente de sua participação no segundo tempo).
+30.5. Se o jogador nomeado jogar qualquer parte do primeiro tempo e alcançar a estipulação declarada, mas for posteriormente for retirado antes ou durante o intervalo e não participar do segundo tempo, essa seleção será anulada (por exemplo, se a seleção for Harry Kane marca 1 (um) ou mais gols em cada tempo e dá assistência em 1 ou mais gols em cada tempo, e ele marca e dá assistência no primeiro tempo, mas é retirado antes ou durante o intervalo, ou seja, não participar no segundo tempo, então a seleção é anulada. Neste caso, no entanto, se ele marcou, mas não deu assistência no primeiro tempo, a seleção seria perdedora, já que se casa com o ponto acima).
+8.	Mercados do fundo da tabela
+Todos os times devem concluir todas as suas partidas da liga para as apostas serem válidas. Se um ou mais times não concluírem todas as suas partidas por qualquer motivo, esse mercado será anulado. Qualquer partida que for abandonada, mas um resultado oficial for atribuído, será classificada como uma partida completa, e as apostas nesse mercado serão mantidas. Quaisquer alterações subsequentes nas tabelas da liga após todos os jogos serem completados não afetarão a liquidação desse mercado.
+9.	Mercado de time com mais cartões recebidos
+Time com maior número de cartões recebidos, lembrando que o número máximo de cartões que podem ser concedidos a um jogador é 2 (dois).
+1 cartão amarelo = 1 (um)
+1 cartão vermelho = 1 (um)
+2 cartões amarelos = 2 (dois)
+1 cartão amarelo + 1 cartão vermelho vale = 2 (dois)
+Cartão vermelho direto = 1 (um)
+10.	Mercados de 10 minutos
+10.1. Mercado de gol marcado X – Y são definidos como apostas sobre se haverá um gol marcado por um dos times dentro do período de tempo X – Y (inclusive) do relógio da partida do evento. Apenas os gols marcados dentro desse período contarão para a liquidação.
+10.2. Os mercados de escanteios concedidos X – Y são definidos como apostas se haverá um escanteio concedido a um dos times dentro do período de tempo X – Y (inclusive) do relógio de partida do evento. Apenas os escanteios nesse período contarão para a liquidação.
+10.3. Os mercados de cartões mostrados X – Y são definidos como apostas sobre se um cartão amarelo ou vermelho será mostrado a um jogador dentro do período de tempo X – Y (inclusive) do relógio da partida do evento. Apenas os cartões mostrados dentro desse período contarão para a liquidação.
+11.	Mercados Quickbet
+11.1. Para a seleção ‘cobrança de falta’, uma cobrança será considerada como concedida no momento em que o árbitro e/ou árbitro assistente sinalizar(em) qualquer um dos seguintes: Uma cobrança de falta direta após uma falta, uma cobrança de falta indireta após uma falta ou impedimento, mas não um pênalti, escanteio ou bola ao chão.
+11.2. Cobrança de Falta Direta para Gols/Chutes – os chutes de cobrança de falta são quaisquer tentativas criadas diretamente a partir da própria cobrança de falta.
+11.3. Para a seleção de ‘escanteio’ nos mercados Quickbet, um escanteio será considerado como concedido no momento em que o árbitro e/ou o árbitro assistente sinalizar(em) e conceder (marcar) um escanteio.
+11.4. Para a seleção ‘tiro de meta’, um tiro de meta é concedido e cronometrado de acordo com a indicação do árbitro e/ou árbitro assistente. Um chute das mãos do goleiro ou uma cobrança de falta realizada pelo goleiro não é um tiro de meta.
+11.5. Para a seleção ‘arremesso lateral’, um arremesso lateral será concedido no momento em que o árbitro e/ou árbitro assistente sinalizar(em) e conceder o arremesso.
+12.	Mercados de assistência
+12.1. Uma ‘assistência’ é definida pelo último toque (passe, último passe ou qualquer outro toque), fazendo com que o recebedor da bola marque um gol.
+12.2. Se o toque final (como definido acima) for desviado por um jogador adversário, é dado ao iniciador apenas uma assistência se o jogador recebedor era o destino intencionado antes do desvio ocorrer.
+12.3. Se um chute no gol for bloqueado por um jogador adversário, for defendido por um goleiro ou atingir a trave, e um gol for marcado diretamente do rebote, uma assistência será concedida.
+12.4. Se um jogador chutar ou passar a bola e forçar um jogador adversário a colocar a bola em sua própria rede (gol contra), uma assistência será concedida ao jogador atacante.
+12.5. Para um pênalti ou cobrança de falta, o jogador que ganhar o pênalti ou cobrança de falta (por sofrer uma falta ou a bola bater na mão) recebe uma assistência se um gol for marcado diretamente, mas não se ele próprio cobrar; nesse caso, nenhuma assistência é concedida.
+13.	Mercados de faltas cometidas
+13.1. Cobre as apostas envolvendo um time ou jogador para conseguir um número de faltas.
+13.2. Uma ‘falta’ é uma infração penalizada como jogada irregular pelo árbitro.
+13.3. Para uma falta ser concedida, a jogada deve ser interrompida e uma cobrança de falta deve ser dada. Se o árbitro der vantagem e depois distribuir um cartão amarelo quando a bola sair do jogo, isso não contará como uma falta, pois um tiro livre nunca foi concedido.
+13.4. Impedimentos não contam como faltas.
+13.5. Em relação aos mercados de Envolvimento em Faltas, um envolvimento em falta corresponde a uma falta sofrida ou a uma falta cometida.
+13.6. O Envolvimento em Faltas de um Jogador corresponde à soma total das faltas sofridas e das faltas cometidas pelo mesmo jogador. Por exemplo, 1 falta sofrida e 3 faltas cometidas por um jogador resultarão em 4 envolvimentos em faltas.
+13.7. Os dados oficiais da Opta serão utilizados para fins de liquidação.
+14.	Mercados de falta sofridas
+14.1. Uma ‘falta sofrida’ ocorre quando um jogador ganha uma cobrança de falta ou pênalti para o seu time após sofrer uma falta por um jogador adversário.
+14.2. Não há faltas sofridas por mão na bola, mergulho, bola atrasada, reinício ilegal, dissidência, violação de 6 (seis) segundos do goleiro ou obstrução onde um tiro livre é concedido.
+14.3. ‘Mão na bola’ é uma bola na mão deliberada de um jogador adversário.
+14.4. Uma ‘simulação’ é uma tentativa deliberada de um jogador adversário enganar o árbitro e ganhar uma cobrança de falta.
+14.5. Uma ‘bola atrasada’ é um passe recebido por um goleiro quando foi passada por um companheiro de equipe.
+14.6. Um ‘reinício ilegal’ ocorre quando um jogador adversário realiza toques consecutivos diretamente após uma situação de bola parada.
+15.	Mercados por Intervalo
+15.1. Apenas os eventos ocorridos durante o intervalo correspondente serão considerados. Pode haver mais de uma seleção vencedora em um mesmo intervalo.
+15.2. Os intervalos são expressos de acordo com o minuto da partida. Por exemplo: “00:00 - 04:59” corresponde a qualquer evento ocorrido entre 00:00 e 04:59, inclusive, no relógio da partida.
+15.3. Em caso de disputa relacionada a esses eventos, será utilizado o horário fornecido pela OPTA. Caso a OPTA não possua cobertura da partida, serão utilizados os horários fornecidos pelos nossos provedores de feed ao vivo para determinar o resultado. Se nenhuma dessas fontes estiver disponível, será utilizado o horário constante no site oficial da competição.
+15.4. Resultado da Partida em Intervalos de 5/10 Minutos (XX - XX).
+15.5. Um gol será considerado com base no horário indicado no relógio da partida no momento em que for marcado, e não quando o árbitro confirmar o gol. Apenas gols efetivamente validados serão considerados, por exemplo, gols anulados após revisão do VAR ou por impedimento, não são válidos.
+15.6. Um escanteio será considerado com base no horário indicado no relógio da partida no momento em que o árbitro assinalar o escanteio, e não no momento em que a cobrança for executada, esta regra reflete e abrange exclusivamente o Mercado por Intervalos.
+15.7. Um arremesso lateral será considerado com base no horário indicado no relógio da partida no momento em que o árbitro assinalar o lateral, e não no momento em que a cobrança for realizada. 
+15.8. Um tiro de meta será liquidado com base no horário indicado no relógio da partida no momento em que o árbitro assinalar o tiro de meta, e não no momento em que a cobrança for executada.
+15.9. Para os mercados de Finalizações da Partida em Intervalos de 5/10 Minutos (XX - XX), todas as finalizações seguirão os critérios de liquidação da OPTA e serão liquidadas de acordo com os dados oficiais da OPTA.
+15.10. Para os mercados de Estatísticas de Jogadores em Intervalos de 5/10 Minutos (XX - XX), todas as estatísticas seguirão os critérios de liquidação da OPTA e serão liquidadas de acordo com os dados oficiais da OPTA. 
+15.12. As apostas em jogadores para intervalos específicos serão consideradas válidas caso o jogador participe da partida em qualquer momento durante o intervalo correspondente, independentemente de atuar durante todo o período do intervalo. 
+15.13. Para as Assistências Fantasy atribuídas a jogadores por conquistarem uma bola parada, a liquidação será baseada no momento em que a bola parada foi conquistada, e não no momento em que o gol foi marcado.
+16.	Mercados Combinados de futebol
+16.1. As regras nesta subseção se aplicam especificamente à liquidação de quaisquer apostas de futebol que são feitas através de Cotações Aumentadas.
+16.2. Todas as apostas Combinadas são liquidadas com base em 90 minutos de jogo (mais acréscimos), a menos que indicado de outra forma. O tempo extra e pênaltis não contarão, exceto quando as frases ‘Se qualifica’, ‘Levantar o troféu’, ‘vence o confronto’ ou similares forem mencionadas. Para todas as apostas múltiplas que envolvem uma ou mais apostas, incluindo tais frases, as apostas restantes (ou seja, que não incluem tais frases) serão liquidadas com base em 90 minutos de jogo (mais acréscimos), a menos que seja afirmado o contrário.
+16.3. Se qualquer jogador que fizer parte de uma aposta combinada não participar da partida relevante (ou não preencher as condições da aposta), toda a aposta combinada será anulada. Isso se aplicará em todos os casos, independentemente de algum/todos os componentes restantes ganharem ou perderem.
+16.4. Quaisquer gols duvidosos serão concedidos de acordo com a determinação final do provedor oficial de dados.
+16.5. Gols contra não contam para nenhum total do jogador. Se um gol contra for marcado por um jogador no Time A, o gol será adicionado ao total de gols do Time B conforme as regras normais.
+16.6. Para apostas Combinadas que foram feitas no método do primeiro (ou qualquer outro) gol (por exemplo, de cabeça, chute de fora da área, de pênalti, etc), quaisquer gols contra serão desconsiderados (ou seja, para os propósitos de tais apostas, gols contra serão considerados como não terem ocorrido). Por exemplo, se você fez uma aposta combinada no primeiro gol a ser marcado de cabeça, sua aposta será bem-sucedida se: (i) o primeiro gol foi um gol contra que saiu do joelho de um jogador e (ii) o segundo gol foi um gol comum marcado de cabeça.
+16.7. Para quaisquer apostas combinadas na competição feitas no artilheiro de uma temporada da Premier League, as apostas serão liquidadas com base no jogador que receber a Chuteira de Ouro.
+16.8. Quaisquer apostas combinadas envolvendo a estrutura da trave a ser atingida exigem que a bola atinja uma trave ou o travessão durante o jogo ativo. Se a bola acertar a estrutura da trave após o árbitro parar o jogo, ela não contará. Se a bola atingir a estrutura de trave duas ou mais vezes em sucessão, cada conexão com a estrutura da trave contará separadamente.
+16.9. Para as apostas Combinadas em um jogador NÃO marcar ou NÃO receber cartão, o jogador em questão deve iniciar a partida ou as apostas aplicáveis serão anuladas.
+16.10. Se uma partida de futebol for abandonada após ter sido iniciada, liquidaremos quaisquer apostas combinadas que já tenham sido determinadas de forma inequívoca no momento em que a partida for abandonada. Quaisquer apostas Combinadas que não tenham sido determinadas de forma inequívoca no momento do abandono serão anuladas, a menos que tenhamos conhecimento de que a partida foi remarcada para ser jogada no prazo de três dias a contar da data de início original (circunstâncias em que a aposta será aplicada à partida remarcada).
+16.11. Quaisquer apostas Combinadas no último marcador de uma partida serão anuladas se essa partida for abandonada.
+16.12. Para apostas combinadas envolvendo tiros de meta, apenas os tiros de meta que são realmente cobrados contarão para a contagem de tiros de meta cumulativa (ou seja, quaisquer tiros de meta que são concedidos mas não cobrados não contarão).
+16.13. Para apostas combinadas envolvendo duas ou mais ocorrências, essas ocorrências devem acontecer em horários separados para que a aposta combinada seja bem-sucedida. Por exemplo, uma aposta combinada em um gol de cabeceio e um gol marcado de fora da área de pênalti só será bem-sucedida se um gol for marcado por um cabeceio e um gol separado for marcado de fora da área de pênalti.
+16.14. Quaisquer apostas combinadas envolvendo gols de cobrança de falta devem ser marcados diretamente de uma cobrança de falta. Para evitar dúvidas, um gol será considerado como marcado diretamente a partir de uma cobrança de falta se o indivíduo que cobrar a falta conseguir o gol aplicável (mesmo se a bola tocar em outro jogador antes de cruzar a linha de gol). Os pênaltis não contam como cobrança de falta.
+16.15. Para quaisquer apostas envolvendo um pênalti a ser marcado e/ou perdido (incluindo apostas Combinadas), se houver uma nova cobrança do primeiro pênalti, liquidaremos o mercado no resultado da nova cobrança do pênalti. Isso pode incluir várias novas cobranças até que a sequência seja concluída.
+16.16. Para quaisquer apostas Combinadas envolvendo um determinado jogador para atingir um número de chutes no alvo, a determinação final do Official OPTA Data serão usados para determinar o número de chutes no alvo que o jogador relevante atingiu.
+16.17. Quaisquer apostas combinadas envolvendo total de passes, total de passes do jogador ou posse de bola total serão determinadas de acordo com a determinação final do site oficial do órgão dirigente da competição relevante.
+16.18. Passe significa qualquer bola jogada intencionalmente de um jogador para outro. Os passes incluem passes em jogo aberto, chutes a gol, escanteios e cobranças de falta jogadas como passe, mas excluem cruzamentos, lançamentos do goleiro e arremessos laterais. Para mais informações sobre os tipos de passes visite:  https://www.statsperform.com/opta-event-definitions/ 
+16.19. Para quaisquer apostas combinadas envolvendo jogadores que recebem cartão, apenas os cartões concedidos quando o jogador estiver ativo na partida contarão. Quaisquer cartões mostrados após o apito final não contarão.
+16.20. Para quaisquer apostas combinadas envolvendo pontos de cartão: um cartão amarelo valerá 10 pontos e um cartão vermelho valerá 25 pontos. No entanto, se um jogador receber dois cartões amarelos e consequentemente um cartão vermelho, ele receberá um total de 35 pontos de cartão no jogo relevante. O tempo extra não conta nem os cartões mostrados após o apito final contam para o total. Apenas cartões mostrados para jogadores atualmente no campo de jogo contarão. Cartões mostrados para técnicos ou reservas não contarão para nenhum total. Se um cartão for mostrado para um substituto que não está no campo ativo de jogo no momento desse cartão, ele não contará para nenhum total. Cartões mostrados para técnicos não contarão para nenhum total.
+16.21. Para quaisquer apostas Combinadas feitas no número total de cartões a serem mostrados (por exemplo, no total, para um time ou para um único jogador / grupo de jogadores), um jogador que recebeu dois cartões amarelos (e, portanto, recebe um cartão vermelho) ou um jogador que recebe um cartão amarelo seguido de um cartão vermelho direto será, para fins de liquidação, considerado em cada caso como tendo recebido dois (ao invés de três) cartões. Para evitar dúvidas, a concessão de um cartão vermelho direto será, para fins de liquidação, considerada como a concessão de um único cartão.
+16.22. Para quaisquer apostas combinadas envolvendo escanteios, apenas os escanteios que são realmente cobrados contarão. Se um escanteio for cobrado novamente, ele contará apenas como um escanteio.
+16.23. Para quaisquer apostas Combinadas relacionadas a quaisquer especiais longos da competição, se uma ou mais partidas não forem jogadas, quaisquer seleções que necessitem da ocorrência de um evento (gol, escanteio, etc.) em cada partida serão liquidadas com preço reduzido de acordo com o número real de partidas que foram disputadas.
+16.24. Para quaisquer apostas combinadas relacionadas a quaisquer especiais envolvendo jogadores que não participem da competição, estas serão anuladas.
+16.25. Quando um erro de preços óbvio tiver ocorrido, reservamo-nos o direito de cancelar quaisquer apostas Combinadas feitas pelo preço incorreto (e, em tais circunstâncias, ofereceremos a aposta Combinada refeita ao preço correto)
+16.26. Para quaisquer erros óbvios de texto, nos reservamos o direito de cancelar quaisquer apostas combinadas feitas nessa seleção (e, em tais circunstâncias, ofereceremos a aposta Combinada refeita com o texto correto).
+16.27. Quaisquer apostas Combinadas que exijam 2 times para marcar em cada tempo ou para marcar mais de 2 ou mais de 3 gols exigem que cada time nomeado marque mais de 2+, 3+ ou mais em cada tempo, conforme apropriado.
+16.28. As regras de Dead-heat se aplicam.
+16.29. O pagamento máximo para um aposta Combinada é de R$ 1.000.000,00 (um milhão de reais), esse máximo se aplica a qualquer aposta combinada simples ou qualquer múltipla que inclua uma aposta combinada. 
+17.	Handicap Europeu
+17.1. Para determinar o resultado dos mercados de Handicap Europeu, o placar final da partida (Time A x Time B) será ajustado de acordo com o handicap. Caso seja selecionado o Time A ou o Time B, o ajuste do handicap será aplicado aos gols marcados pela equipe selecionada.
+17.2. Caso a seleção seja o empate, o ajuste do handicap será aplicado ao Time A.
+17.3. Exemplo: Time A x Time BTime A (-1)Empate (-1)Time B (+1)Se o Time A vencer por 2 a 0, todas as apostas em Time A (-1) serão liquidadas como vencedoras. As apostas em Empate (-1) e Time B (+1) serão liquidadas como perdedoras.Isso ocorre porque o Time A venceu por 2 a 0 e recebeu um handicap de -1 gol. Após a aplicação do handicap, o placar passa a ser 1 a 0 para o Time A, tornando-o o vencedor do handicap.
+17.4. Se o Time A vencer por exatamente 1 gol de diferença, todas as apostas em Empate (-1) serão liquidadas como vencedoras. As apostas em Time A (-1) e Time B (+1) serão liquidadas como perdedoras.Isso ocorre porque o Time A venceu por 1 a 0 e o Handicap para o Empate era de -1 gol. Após a aplicação do handicap ao Time A, o placar passa a ser 0 a 0.
+Se a partida terminar empatada ou o Time B vencer por qualquer placar, todas as apostas em Time B (+1) serão liquidadas como vencedoras. As apostas em Empate (-1) e Time A (-1) serão liquidadas como perdedoras.
+17.5. Todos os mercados de Handicap Europeu são válidos para o tempo regulamentar (90 minutos + acréscimos), salvo indicação em contrário.
+18.	Handicap Asiático
+Nos mercados de Handicap Asiático, o favorito para vencer a partida receberá um handicap negativo, representado pelo símbolo (-). Para que a aposta seja vencedora, essa equipe deverá vencer por uma diferença de gols superior ao handicap aplicado.A equipe que não for favorita (também conhecida como azarão) receberá um handicap positivo, representado pelo símbolo (+).
+18.1. No Handicap Asiático, o handicap é aplicado apenas a um dos lados da aposta.
+18.2. Os mercados de Handicap Asiático para o 1º tempo serão liquidados com base no resultado ao final do primeiro tempo.
+18.3. Existem três tipos de Handicap Asiático:
+a. Handicap Inteiro (Ex.: Time A -0, Time A -1.0, Time A -2.0)
+Neste tipo de handicap, o ajuste é aplicado ao placar final da partida, e a equipe que tiver mais gols após a aplicação do handicap será considerada vencedora.Caso ambas as equipes terminem com o mesmo número de gols após a aplicação do handicap, o resultado será um Push e a seleção é anulada, ou seja, o valor apostado será devolvido ao cliente em caso de uma aposta simples, em caso de uma aposta múltipla, a odd da seleção anulada será desconsiderada da aposta e valor total será recalculado. Exemplo: Time A -2.0 x Time B +2.0 Se o Time A vencer por 3 ou mais gols, todas as apostas no Time A serão liquidadas como vencedoras, e todas as apostas no Time B serão liquidadas como perdedoras. 
+Se o Time A vencer por exatamente 2 gols, todas as apostas do mercado resultarão em Push, e portanto serão anuladas.Se o Time A vencer por 1 gol, a partida terminar empatada ou o Time B vencer, todas as apostas no Time B serão liquidadas como vencedoras, e todas as apostas no Time A serão liquidadas como perdedoras.
+b. Handicap Meio Gol (Ex.: Time A -0.5, Time A -1.5, Time A -2.5)
+O handicap é aplicado ao placar final da partida, e a equipe que permanecer em vantagem após a aplicação do handicap será considerada vencedora. Exemplo: Time A -1.5 x Time B +1.5 Se o Time A vencer por 2 ou mais gols, todas as apostas no Time A serão liquidadas como vencedoras, e todas as apostas no Time B serão liquidadas como perdedoras.
+Se o Time A vencer por 1 gol, a partida terminar empatada ou o Time B vencer, todas as apostas no Time B serão liquidadas como vencedoras, e todas as apostas no Time A serão liquidadas como perdedoras.
+c. Handicap Dividido (Ex.: Time A -0 & -0.5, Time A -0.5 & -1.0, Time A -1.0 & -1.5)
+No Handicap Dividido, o valor da aposta é dividido igualmente entre o handicap inteiro e o handicap de meio gol indicados na seleção. Exemplo: Time A -1.0 & -1.5 x Time B +1.0 & +1.5
+•	Se você realizar uma aposta de R$100 no Time A -1.0 & -1.5, sua aposta será dividida em duas apostas de R$50, correspondentes às duas opções da seleção (-1.0 e -1.5). A primeira aposta será no Handicap Inteiro (Time A -1.0).
+•	A segunda aposta será no Handicap Meio Gol (Time A -1.5).
+Os resultados serão liquidados da seguinte forma:
+Se o Time A vencer por 2 ou mais gols, ambas as apostas no Time A serão liquidadas como vencedoras, e ambas as apostas no Time B serão liquidadas como perdedoras.Se o Time A vencer por exatamente 1 gol, a aposta em Time A -1.0 resultará em Push, com devolução do valor apostado, enquanto a aposta em Time A -1.5 será liquidada como perdedora. Na seleção do Time B, a aposta em +1.0 resultará em Push, enquanto a aposta em +1.5 será liquidada como vencedora.Se a partida terminar empatada ou o Time B vencer, todas as apostas no Time B serão liquidadas como vencedoras, e todas as apostas no Time A serão liquidadas como perdedoras. 18.4. Todos os mercados de Handicap Asiático são válidos para o tempo regulamentar (90 minutos + acréscimos), salvo indicação em contrário.
+Futebol Americano
+As seguintes regras incluem motivos para anular apostas. 
+1.	Geral
+1.1. As apostas são liquidadas nos resultados e estatísticas (incluindo listas de draft) publicadas pelo órgão dirigente relevante.
+1.2. Pelo menos 10 (dez) minutos do quarto de jogo devem ser jogados para as apostas serem válidas (caso contrário, as apostas serão anuladas). 
+1.3. Se durante o quarto o jogo for suspenso antes de 10 (dez) minutos completos de jogo serem concluídos (seja na mesma sessão de jogo ou dentro de 24 horas após o momento da suspensão), as apostas serão anuladas, a menos que o resultado tenha sido determinado incondicionalmente.
+1.4. O time listado em segundo lugar no nome do evento é sempre considerado o ‘time da casa’ (mesmo que o jogo aconteça em um local neutro). Por exemplo, para ‘Time A-Time B’, o Time B é o time da casa.
+1.5. O tempo extra está incluído, a menos que indicado de outra forma para o mercado relevante.
+1.6. Uma regra de mercado referente a um ‘snap oficial’ significa um passe completo entre o center e o quarterback no início de uma jogada ofensiva.
+1.7. Uma regra de mercado referente a ‘Jogada Inválida’ significa uma jogada que é classificada como ‘Jogada Inválida’ pelo órgão dirigente relevante (uma ‘jogada bem-sucedida’ significa uma jogada que não é uma Jogada Inválida).
+2.	Abandonos, Cancelamentos e Adiamentos
+2.1. Para os mercados de proposição de jogador, se um jogo for abandonado, as apostas serão anuladas, a menos que o resultado tenha sido determinado incondicionalmente.
+2.2. Para todos os outros mercados, os jogos abandonados ou adiados devem ser recomeçados ou reprogramados dentro de 60 horas após o horário de início para que as apostas sejam válidas (caso contrário as apostas serão anuladas). Os horários de início são determinados pelo último horário publicado para o início da semana relevante da programação de jogos do órgão dirigente relevante. Por exemplo, apostas em um jogo de playoff entre Bills e Steelers que mudou de sábado às 13h para segunda às 14h30 serão válidas.
+3.	Non-Runners, Abandonos e Desqualificações
+3.1. Para mercados com base em múltiplos jogadores alcançando um determinado resultado no jogo, se algum dos jogadores selecionados não participar do jogo, as apostas serão anuladas.
+3.2. Para os mercados de proposição do jogador, se o jogador não jogar por pelo menos 1 (um) snap oficial, as apostas serão anuladas, a menos que indicado de outra forma para o mercado relevante.
+4.	Mercados da competição
+Todos os mercados da competição incluem os playoffs quando aplicáveis.
+5.	Mercados de quarto e tempos
+5.1. Se o período inteiro do quarto (quarters) ou tempo (metade “halves”) não for jogado, as apostas serão anuladas, a menos que o resultado para o mercado relevante tenha sido determinado incondicionalmente.
+5.2. Para os mercados do 4º quarto, o tempo extra (overtime) está excluído.
+6.	Mercados de vencedor do primeiro tempo
+Se o placar do primeiro tempo (primeira metade) for um empate, as apostas serão anuladas.
+7.	Mercados de vencedor de quarto
+Se o placar do quarto for um empate, as apostas serão anuladas.
+8.	Apostas de spread de pontos (Handicap)
+8.1. Para os mercados do 4º quarto, o tempo extra (overtime) está excluído.
+8.2. Se o resultado for um empate, as apostas serão anuladas a menos que o resultado tenha sido determinado incondicionalmente.
+9.	Mercados de total de pontos
+Se o total de pontos for exatamente a linha indicada, as apostas serão anuladas a menos que sejam oferecidas cotações para um valor igual à linha.
+10.	Mercados de vencedor e total de pontos
+Se o placar for um empate no final do tempo extra (overtime), as apostas serão anuladas.
+11.	Primeiro time/último time a marcar, mercados de marcador de touchdown
+11.1. Se um jogo for abandonado, as apostas serão mantidas para resultados que foram determinados incondicionalmente antes do final do jogo.
+11.2. Para os mercados de marcador de touchdown, as apostas são liquidadas no jogador que está em posse da bola na endzone no momento em que o touchdown é marcado. Por exemplo, em uma jogada de touchdown de passe, o recebedor na endzone será liquidado como o vencedor, não o quarterback.
+11.3. Apostas nos mercados de marcador de touchdown e combinadas de marcador de touchdown são ‘all in compete or not’.
+11.4. As seleções de ‘Equipe de Defesa’ não incluem equipes especiais.
+11.5. Se nenhum touchdown for marcado, as apostas serão liquidadas como perdedoras, a menos que ‘sem marcador de touchdown’ tenha sido selecionado.
+12.	Mercados de time que vence/perde
+Se o jogo terminar em um empate no final do tempo extra (overtime), as apostas serão anuladas.
+13.	Mercados de pontos de chute
+Se o jogador estiver listado no plantel do time do dia do jogo, mas não jogar por pelo menos 1 (um) snap oficial, as apostas serão mantidas.
+14.	Primeira conclusão, tentativa de corrida, mercados de recepção
+14.1. Se o jogador não registrar uma conclusão de passe, corrida ou recepção, as apostas serão anuladas.
+15.	Maior conclusão, corrida, mercados de recepção
+15.1. Se o jogador não registrar uma conclusão de passe, corrida ou recepção, a seleção ‘Menos de’ será liquidada como vencedora.
+16.	Mercados de tackles e assistências
+Inclui tackles e assistências registradas em ambas as equipes de defesa e especiais.
+17.	Mercados de jogador registra mais ‘X’
+17.1. As apostas são ‘all in compete or not’.
+17.2. Se vários jogadores empatarem pela estatística relevante, as regras de Dead Heat se aplicarão.
+18.	Mercados do quarto do jogador, Drive relacionado ao jogador
+18.1. Os mercados de Drive relacionados ao jogador incluem o jogador pegar um passe no Drive ‘X’, props no Drive ‘X’ (jardas alcançadas), jogador marca um touchdown no Drive ‘X’ e Play Caller.
+18.2. As apostas são liquidadas nas estatísticas registradas para as ações do jogador no quarto/drive relevante.
+18.3. As apostas serão mantidas mesmo se o jogador não jogar por pelo menos 1 snap oficial durante o quarto/drive relevante (independentemente das decisões do treinador, rotações do jogador ou duração do drive). Para os mercados de Drive relacionados ao jogador, o snap oficial deve ser durante um drive ofensivo.
+18.4. Se durante o jogo o jogador for expulso ou declarado incapaz de continuar a jogar devido a lesão, as apostas feitas após o último snap oficial do jogador serão anuladas.
+19.	Mercados de prop de jogadores futuros/pela temporada
+19.1. Se os resultados oficiais não forem registrados para todos os jogos programados para o início da temporada pelo órgão dirigente relevante, as apostas serão anuladas, a menos que o resultado tenha sido determinado incondicionalmente. Essa regra não se aplica aos mercados de proposição de jogador pela duração da temporada.
+19.2. Para os mercados de proposição de jogador pela duração da temporada, se o jogador não disputar pelo menos 1 snap oficial durante a temporada regular, as apostas serão anuladas.
+19.3. Se o jogador não jogar por pelo menos 1 snap oficial durante a temporada relevante, as apostas nos mercados de proposição de jogador pela duração da temporada serão anuladas. Essa regra não se aplica aos mercados retorno de jogador do ano.
+19.4. Para os mercados MVP do Super Bowl, as apostas serão mantidas mesmo se o time do jogador não participar do Super Bowl. Se o time do jogador participar do Super Bowl e o jogador não disputar pelo menos 1 snap oficial durante o jogo, as apostas serão anuladas. Por exemplo, se Lamar Jackson estiver jogando pelo Baltimore Ravens no início dos playoffs, e os Baltimore Ravens forem eliminados antes de chegar ao Super Bowl e Lamar Jackson não for nomeado MVP do Super Bowl, as apostas em uma seleção de Lamar Jackson serão liquidadas como perdedoras. Se os Baltimore Ravens participarem do Super Bowl, e Lamar Jackson não jogar por pelo menos 1 snap oficial no jogo e não for nomeado MVP do Super Bowl, as apostas em uma seleção de Lamar Jackson serão anuladas.
+19.5. Para os mercados de jogador indicado para o All Pro, as apostas são liquidadas com base nas designações concedidas pela Associated Press para a temporada relevante.
+19.6. Para os mercados total de vitórias na temporada regular, jogos que resultam em empate serão liquidados como perdedores.
+19.7. Para os mercados de melhor recorde, pior recorde, último sem vitória e último invicto, as regras de Dead Heat se aplicam se vários times empatarem pelo resultado relevante. As apostas são liquidadas de acordo com a programação do órgão dirigente relevante para a temporada relevante.
+20.	Aposta no confronto
+Se o resultado for um empate após o tempo extra, as apostas serão anuladas.
+21.	Mercados especiais do jogador semanais/diários
+21.1. Inclui especiais Redzone, múltiplas ao vivo, primeiro marcador de Touchdown nos jogos das 13h e mercados especiais do Super Bowl.
+21.2. Se o jogador não jogar por pelo menos 1 (um) snap oficial, as apostas serão mantidas.
+21.3. Se qualquer jogo relacionado ao mercado relevante for adiado por qualquer quantidade de tempo, as apostas serão anuladas, a menos que o resultado desse mercado tenha sido determinado incondicionalmente.
+21.4. Se o mercado relevante exibir um horário de início e um jogo relacionado a esse mercado não iniciar dentro de 2h após seu horário de início publicado, as apostas serão anuladas.
+22.	Confrontos hipotéticos
+22.1. Podemos, de tempos em tempos, publicar mercados para jogos que não foram programados pelo órgão dirigente relevante (como possíveis jogos de playoff e confrontos de jogos de campeonato). Se esses jogos não forem programados posteriormente ou de outra forma não ocorrerem por qualquer motivo, as apostas serão anuladas.
+23.	Mercados de linha de jardas da primeira jogada ofensiva
+23.1. O resultado é determinado por onde a primeira jogada ofensiva a partir do scrimmage acontece.
+23.2. No caso do kick off ser retornado para um touchdown, as apostas serão mantidas para a primeira jogada ofensiva após o kick off subsequente.
+23.3. No caso de um turnover, o resultado é determinado de onde a primeira jogada ofensiva acontece em relação à linha de jardas do time de recepção.
+24.	Mercados do resultado do próximo Drive
+24.1. A seleção ‘Outro’ inclui turnovers, touchdowns defensivos e safeties.
+24.2. Se o tempo acabar, a seleção ‘Outro’ será liquidada como vencedora.
+25.	Mercados de próxima jogada a partir do scrimmage
+25.1. Nenhuma jogada está excluída. 
+25.2. As seleções que caírem em Jogada Inválida serão liquidadas na próxima jogada bem-sucedida.
+25.3. Sacks são liquidados como tentativas de corrida.
+26.	Mercados de Player Caller
+As primeiras descidas alcançadas como resultado de penalidades aplicadas estão incluídas.
+27.	Mercados múltiplos do primeiro Drive
+Seleções ‘qualquer outro’ incluem turnovers, touchdowns defensivos, safeties e pontuações especiais de equipes que não são field goals. Um ponto após o touchdown não é considerado uma tentativa de field goal
+28.	Tentativa de primeira jogada do Drive
+28.1. As apostas são liquidadas na primeira jogada a partir de scrimmage do drive relevante.
+28.2. Se a primeira jogada a partir do scrimmage for uma Jogada Inválida, as apostas serão liquidadas na próxima jogada bem-sucedida.
+28.3. Se a primeira jogada a partir do scrimmage for um kickoff ou touchdown de retorno do punt, as apostas serão anuladas.
+28.4. Sacks são liquidados como tentativas de corrida.
+29.	Mercados da primeira jogada do jogo a partir do scrimmage
+29.1. Kickoffs estão excluídos. 
+29.2. Sacks são liquidados como tentativas de corrida.
+29.3. As interceptações são liquidadas como passes incompletos.
+30.	Mercados bola cruza a linha de 50 jardas no Drive
+Punts e tentativas de field goal estão excluídos.
+31.	Mercados de jogador que pega o passe
+31.1. As apostas serão mantidas mesmo se o jogador jogar no jogo durante o drive relevante.
+31.2. Conversões de 2 (dois) pontos são liquidadas como ganhadoras.
+32.	Mercados jogador que registra um Sack
+As seleções ‘Sim’ incluem Sacks incompletos.
+33.	Mercados de jogador tem uma recepção de ‘X’+ jardas no jogo
+As apostas serão mantidas mesmo se o jogador não registrar uma recepção durante o jogo.
+34.	Mercados de placar correto
+As apostas são liquidadas pelo placar final do jogo, ou no período especificado para o mercado relevante.
+35.	Mercados de primeiro turnover, primeiro time que comete um turnover
+35.1. As apostas são liquidadas apenas em turnovers causados por interceptações e fumbles.
+35.2. Se um jogo for abandonado, as apostas serão anuladas a menos que o resultado tenha sido decidido de forma inequívoca.
+36.	Mercados de primeira jogada ofensiva
+Se uma penalidade de saída falsa for emitida durante a primeira jogada ofensiva, as apostas serão liquidadas na próxima jogada ofensiva que acontecer sem uma penalidade de saída falsa.
+37.	Mercados da temporada regular do Futebol Universitário
+Jogos do Campeonato da Conferência, jogos Bowl e jogos de playoff do Futebol Universitário estão excluídos.
+38.	Mercados ‘termina invicto’ do Futebol Universitário
+Jogos do Campeonato da Conferência, jogos Bowl e jogos de playoff do Futebol Universitário estão incluídos, a menos que indicado de outra forma.
+39.	Mercados de vitórias de Bowl da Conferência de Futebol Universitário
+Inclui todos os jogos de playoff da CFB.
+40.	Mercados 2+ primeiras descidas nas primeiras 5 jogadas do Futebol Universitário
+40.1. As apostas são liquidadas no time com a primeira possessão ofensiva registrando mais de 2 primeiras descidas dentro das primeiras 5 jogadas do Drive relevante. 
+40.2. As penalidades defensivas estão excluídas.
+FUTSAL
+As seguintes regras incluem motivos para anular apostas.
+1. Geral
+1.1. As apostas serão liquidadas de acordo com o resultado declarado pelo órgão regulador relevante no final da partida. Na ausência de provas consistentes, independentes ou na presença de evidências conflitantes significativas, as apostas serão determinadas com base em nossas próprias estatísticas.
+1.2. As apostas serão liquidadas pelo resultado no fim do tempo regulamentar (40 minutos). Esse também é o caso de uma partida de duração mais curta (por exemplo, 30 minutos), desde que a partida seja jogada no formato tradicional de dois tempos.
+2. Abandonos, Cancelamentos e Adiamentos
+Se uma partida não acontecer, as apostas nessa partida serão anuladas.
+Se uma partida for abandonada, as apostas serão anuladas, a menos que o resultado tenha sido decidido de forma inequívoca.
+3. Mercados de Resultado da Partida (3-Way)
+As apostas serão liquidadas com base no resultado ao final do tempo regulamentar, incluindo o tempo de paralisação. O tempo extra (prorrogação) está excluído.
+MERCADOS BASQUETE
+As seguintes regras incluem motivos para anular apostas. 
+Basquete dos EUA
+Outro Basquete 
+A. Basquete dos EUA
+1.	Geral
+1.1. As apostas serão liquidadas nos resultados e estatísticas fornecidas pelo órgão dirigente relevante.
+1.2. O tempo extra (prorrogação) conta para todos os mercados, exceto quando indicado de outra forma.
+1.3. Se uma partida não terminar em um empate, mas o tempo extra for jogado para fins de qualificação, os mercados serão liquidados de acordo com o resultado no final do tempo regulamentar.
+1.4. Todos os mercados na competição, a menos que indicado de outra forma, incluem os playoffs. Quaisquer desempates oficiais da organização dirigente, quando aplicáveis, estão incluídos na liquidação.
+1.5. Para efeitos de liquidação, o time listado em segundo lugar no nome do evento é sempre o time da casa (mesmo que o jogo aconteça em um local neutro). Por exemplo, para ‘Time A-Time B’, o Time B é o time da casa.
+2.	Abandonos, Cancelamentos e Adiamentos
+2.1. Se uma partida não começar na data programada e não for concluída dentro de 24 (vinte e quatro) horas do horário de início programado, todas as apostas serão anuladas, exceto aquelas em mercados que foram determinados incondicionalmente.
+2.2. Se uma partida for cancelada com mais de 5 (cinco) minutos para jogar, todas as apostas serão anuladas, exceto aquelas em mercados que foram determinados incondicionalmente.
+3.	Mercados resultado da partida (apostas no vencedor ou perdedor em que nenhuma opção de empate é oferecida) e Par/Ímpar
+As apostas serão liquidadas pelo placar no fim da partida, incluindo o tempo extra. Se uma partida terminar em um empate e o tempo extra não for jogado, os mercados resultado da partida 2-Way serão anulados.
+4.	Resultado da partida no tempo regulamentar (2-Way)
+4.1. ‘Tempo regulamentar’ significa a duração programada de uma partida, excluindo o tempo extra (prorrogação).
+4.2. As apostas serão anuladas se o resultado do tempo regulamentar (final do 4º quarto ou do 2º tempo, dependendo do formato oficial da liga correspondente) for um empate.
+5.	Mercados resultado da partida (apostas no vencedor, perdedor ou empate quando a opção de empate é oferecida)
+As apostas serão liquidadas pelo placar no fim do tempo regulamentar. O tempo extra (prorrogação) não conta.
+6.	Apostas com Handicap (Spread)
+6.1. O tempo extra (prorrogação) conta para apostas na partida com Handicap. O tempo extra não conta para apostas com Handicap em mercados específicos de quartos e tempos.
+6.2. Para apostas no resultado da partida com Handicap, as apostas serão anuladas se ao adicionar os pontos da seleção de aposta ao placar final o resultado for um empate. Por exemplo, uma aposta é feita no spread de -5 do time da casa e o jogo termina em 95-90.
+7.	Mercados de total de pontos
+As apostas serão liquidadas pelo placar no fim da partida, incluindo o tempo extra (prorrogação). Se o total de pontos for igual à linha indicada, as apostas serão anuladas, a menos que sejam oferecidas cotações para o valor exato.
+8.	Mercados de quarto e tempo
+O período inteiro de jogo deve ser concluído para que as apostas sejam mantidas. O tempo extra (prorrogação) não conta para os mercados de quarto. Para os mercados de segundo tempo, o tempo extra conta.
+9.	Mercados vencedor de tempo (2-Way)
+As apostas serão anuladas se o tempo no qual a aposta foi feita for um empate.
+10.	Mercados vencedor do quarto X (2-Way)
+As apostas serão anuladas se o quarto no qual a aposta foi feita for um empate.
+11.	Haverá Tempo Extra? Mercados
+As apostas serão liquidadas como ‘sim’ se, no final do tempo regulamentar, a partida terminar em um empate, independentemente de o tempo extra (prorrogação) ser jogado ou não.
+12.	Mercados de resultado duplo
+As apostas serão liquidadas pelo placar no intervalo e fim da partida, incluindo o tempo extra.
+13.	Mercados de tempo com maior pontuação
+Para fins de liquidação, o segundo tempo inclui o tempo extra (prorrogação).
+14.	Mercados da Série
+Uma série deve chegar a uma conclusão natural para que as apostas sejam válidas (caso contrário, elas serão anuladas).
+15.	Mercados de último ponto
+As apostas serão liquidadas pelo último ponto do tempo regulamentar.
+16.	Vitórias na temporada regular
+Um time deve concluir pelo menos 70 (setenta) partidas para que as apostas sejam mantidas, a menos que o resultado tenha sido determinado incondicionalmente antes da interrupção ou encurtamento da temporada (caso contrário, elas serão anuladas).
+17.	Resultado da partida do time
+As apostas serão liquidadas no time com mais vitórias na temporada ou que tenha avançado mais.
+18.	Mercados de Ponta a Ponta
+Mercados ‘ponta a ponta’ são oferecidos para um determinado time estar liderando uma partida no final de cada quarto. Desde que o time selecionado lidere no final de cada quarto, a aposta relevante será liquidada como uma aposta ganhadora mesmo que, durante qualquer um desses quartos, o time selecionado deixe temporariamente de liderar o placar. ‘Qualquer outra seleção’ será considerada a ganhadora se um dos times não liderar a partida após cada quarto.
+19.	Mercados primeiro a chegar a ‘X’
+As apostas serão liquidadas no primeiro time a atingir o total especificado. Uma seleção ‘nenhum’ é oferecida.
+20.	Apostas de proposição
+20.1. Mercados de primeira cesta
+As apostas serão liquidadas na primeira pontuação da partida, incluindo arremessos livres, de acordo com o placar oficial da National Basketball Association (‘NBA’). Se um jogador listado não iniciar a partida, todas as apostas em tal jogador selecionado serão anuladas. No caso de um empate no final do primeiro quarto, as apostas duplas na primeira cesta/primeiro quarto serão liquidadas como apostas perdedoras.
+20.2. Mercados de primeira cesta do time
+As apostas serão liquidadas no primeiro marcador de cada time. Se um jogador listado não iniciar a partida, todas as apostas em tal jogador selecionado serão anuladas.
+20.3. Mercados de Desempenho de Jogador
+Todas as apostas serão mantidas assim que um jogador entrar em quadra, independentemente do tempo de jogo. Todos os totais incluem o tempo extra. Se o jogador escolhido não participar, as apostas em tal jogador serão anuladas.
+20.4. Apostas na partida do jogador
+As apostas neste mercado referem-se às estatísticas oficiais registradas por um jogador nomeado até o final de uma partida (incluindo tempo extra). Se um dos jogadores não jogar, todas as apostas nesse mercado de aposta na partida do jogador serão anuladas.
+20.5. Equipe: Mercados de jogador com mais pontos/rebotes/assistências
+As apostas serão liquidadas no jogador que aproveitar o máximo da estatística oficial relevante. Se dois ou mais jogadores empatarem, as regras de Dead Heat se aplicam.
+20.6. Competição: Mercados de jogador com mais pontos/rebotes/assistência
+As apostas serão liquidadas no jogador que aproveitar o máximo da estatística oficial relevante no final da competição, excluindo os playoffs, a menos que indicado de outra forma. Se 2 (dois) ou mais jogadores empatarem, as regras de Dead Heat se aplicam. Não se aplicará qualquer dedução de cotação prevista na Regra Tattersalls 4© (regra de ajuste de probabilidades em mercados com non-runners).     
+20.7. Pontos, rebotes, assistências da série
+Uma série deve chegar a uma conclusão natural para que as apostas sejam mantidas. O tempo extra conta para fins de liquidação. Se 2 (dois) ou mais jogadores empatarem, as regras de Dead Heat se aplicam.
+20.8. Mercados de desempenho do Jogador oferecidos ao vivo ou durante o intervalo
+As apostas neste mercado referem-se às estatísticas oficiais registradas por um jogador nomeado na partida inteira (incluindo tempo extra). Se um jogador não participar da partida, todas as apostas em tal jogador serão anuladas.
+21.	Mercados de médias do jogador na temporada regular
+O jogador deve disputar pelo menos 70% dos jogos da sua equipe (por exemplo, 58 em uma temporada de 82 jogos).
+Outro Basquete
+1.	Geral
+1.1. As regras nesta seção se aplicam aos torneios da Federação Internacional de Basquete ‘FIBA’ e competições de basquete europeu, australiano, centro-americano, sul-americano, africano e asiático.
+1.2. As apostas serão liquidadas de acordo com o resultado declarado pelo órgão regulador relevante no final da partida. Na ausência de provas consistentes, independentes ou na presença de evidências conflitantes significativas, as apostas serão determinadas com base em nossas próprias estatísticas.
+1.3. O tempo extra conta para todos os mercados, exceto quando indicado de outra forma.
+1.4. Se uma partida terminar em um empate e o tempo extra for programado, mas não for jogado, os mercados ‘resultado da partida’ e ‘resultado da partida no tempo regulamentar (2-Way)’ serão liquidados como anulados e mercados ‘Haverá tempo extra?’ serão liquidados como ‘sim’.
+1.5. Se uma partida não terminar em um empate, mas o tempo extra for jogado para fins de qualificação, os mercados serão liquidados de acordo com o resultado no final do tempo regulamentar.
+1.6. Todos os mercados de aposta na competição, a menos que indicado de outra forma, incluem os playoffs e quaisquer desempates oficiais da organização dirigente, quando aplicável.
+2.	Abandonos, Cancelamentos e Adiamentos
+2.1. Se uma partida for abandonada, todos os mercados serão anulados a menos que o resultado tenha sido determinado incondicionalmente.
+2.2. Se uma partida for adiada, as apostas serão anuladas a menos que ela comece dentro de 48h após o horário inicial programado.
+3.	Mercados resultado da partida (apostas no vencedor ou perdedor em que nenhuma opção de empate é oferecida) e Par/Ímpar
+As apostas serão liquidadas pelo placar no fim da partida, incluindo o tempo extra. Se uma partida terminar em um empate e o tempo extra não for jogado, os resultados da partida 2-Way serão anulados.
+4.	Mercados resultado da partida no tempo regulamentar (2-Way)
+As apostas serão anuladas se o resultado do tempo regulamentar (final do 4º quarto) for um empate.
+5.	Mercados resultado da partida (apostas no vencedor, perdedor ou empate quando a opção de empate é oferecida)
+As apostas serão liquidadas pelo placar no fim do tempo regulamentar. O tempo extra não conta.
+6.	Apostas com Handicap (Spread)
+6.1. O tempo extra conta para apostas na partida com Handicap. O tempo extra não conta para apostas com Handicap em mercados específicos de quartos e tempos.
+6.2. Para apostas no resultado da partida com Handicap, as apostas serão anuladas se ao adicionar os pontos da seleção de aposta ao placar final o resultado for um empate. Por exemplo, uma aposta é feita no spread de -5 do time da casa e o jogo termina em 95-90.
+7.	Mercados de total de pontos
+As apostas serão liquidadas pelo placar no fim da partida, incluindo o tempo extra. Se o total de pontos for igual à linha indicada, as apostas serão anuladas, a menos que sejam oferecidas cotações para o valor exato.
+8.	Mercados de quarto e tempos
+O período inteiro de jogo deve ser concluído para que as apostas sejam mantidas. O tempo extra não conta.
+9.	Mercados vencedor de tempo (2-Way)
+As apostas serão anuladas se o tempo no qual a aposta foi feita for um empate.
+10.	Mercados vencedor do quarto X (2-Way)
+As apostas serão anuladas se o quarto no qual a aposta foi feita for um empate.
+11.	Mercados de maior pontuação
+Se 2 (dois) ou mais quartos/tempos resultarem na mesma pontuação mais alta, as regras Dead Heat serão aplicadas. O tempo extra não conta.
+12.	Mercados haverá tempo extra?
+As apostas serão liquidadas como ‘sim’ se, no final do tempo regulamentar, a partida terminar em um empate, independentemente de o tempo extra ser jogado ou não.
+13.	Mercados de resultado duplo
+As apostas serão liquidadas pelo placar no intervalo e fim da partida. O tempo extra não conta.
+14.	Mercados ‘primeiro a chegar a X’
+As apostas serão liquidadas no tempo a atingir primeiro o total especificado dentro do prazo. Uma seleção ‘nenhuma’ é oferecida. O tempo extra não conta.
+15.	Mercados de tempo com maior pontuação
+Para fins de liquidação, o segundo tempo inclui o tempo extra.
+16.	Mercados da Série
+Uma série deve chegar a uma conclusão natural para que as apostas sejam válidas (caso contrário, elas serão anuladas).
+17.	Mercados de último ponto
+As apostas serão liquidadas pelo último ponto no fim da partida, incluindo o tempo extra.
+18.	Mercados de quarto
+As apostas serão liquidadas pelo placar no fim do quarto relevante da partida. O tempo extra não conta.
+19.	Mercados do segundo tempo
+As apostas serão liquidadas pelo placar do segundo tempo da partida. O tempo extra está excluído.
+20.	Apostas de proposição
+20.1. Mercados de primeira cesta
+As apostas serão liquidadas pela primeira pontuação da partida, incluindo lances livres. Se um jogador listado não iniciar a partida, todas as apostas em tal jogador selecionado serão anuladas. No caso de um empate no final do primeiro quarto, as apostas duplas na primeira cesta/primeiro quarto serão liquidadas como apostas perdedoras.
+20.2. Mercados de primeira cesta do time
+As apostas serão liquidadas no primeiro marcador de cada time. Se um jogador listado não iniciar a partida, todas as apostas em tal jogador selecionado serão anuladas.
+20.3. Apostas na partida do jogador
+As apostas nesse mercado se referem à estatística oficiais registradas por um jogador nomeado até o final de uma partida (incluindo tempo extra). Se um dos jogadores não jogar, todas as apostas nesse mercado de aposta na partida do jogador serão anuladas.
+20.4. Desempenho do jogador
+Se um dos jogadores não jogar, todas as apostas em tal jogador serão anuladas. As apostas serão mantidas assim que um jogador entrar em quadra, independentemente do tempo de jogo. Todos os totais incluem o tempo extra.
+20.5. Equipe: Mercados de jogador com mais pontos/rebotes/assistências
+As apostas feitas nesse mercado serão liquidadas no jogador que aproveitar o máximo da estatística oficial relevante. Se dois ou mais jogadores empatarem, as regras de Dead Heat se aplicam.
+20.6. Competição: Mercados de jogador com mais pontos/rebotes/assistências
+As apostas feitas nesse mercado serão liquidadas no jogador que aproveitar o máximo da estatística oficial relevante no final da competição, excluindo os playoffs, a menos que indicado de outra forma. Se 2 ou mais jogadores empatarem, as regras de Dead Heat se aplicam. Não se aplicará qualquer dedução de cotação prevista na Regra Tattersalls 4© (regra de ajuste de probabilidades em mercados com non-runners).     
+20.7. Apostas em pontos, rebotes, assistências, na série
+Uma série deve chegar a uma conclusão natural para que as apostas sejam válidas (caso contrário, elas serão anuladas). O tempo extra conta para fins de liquidação. Se 2 (dois) ou mais jogadores empatarem, as regras de Dead Heat se aplicam.
+20.8. Mercados de classificação de índice do jogador
+As apostas serão liquidadas de acordo com o resultado declarado pelo órgão dirigente relevante no final da partida (incluindo tempo extra). http://www.euroleague.net/, http://www.fiba.com/, http://www.fibaeurope.com/,  http://www.acb.com/. Se 1 dos jogadores não participar da partida, todas as apostas nesse mercado serão anuladas.
+TÊNIS
+As seguintes regras incluem motivos para anular apostas. 
+1.	Geral
+1.1. As apostas serão liquidadas nos resultados e estatísticas fornecidos pelo órgão dirigente do torneio.
+1.2. Se houver uma alteração no número de sets (ou games por set) a serem jogados, então: (a) as apostas no vencedor da partida (ou seja, apostas feitas no vencedor de uma determinada partida excluindo quaisquer apostas com Handicap) e as apostas ‘vence o primeiro set’ serão mantidas (exceto quando o número de sets for reduzido para 1 (um), nesse caso tais apostas serão anuladas); e (b) as apostas em quaisquer outros mercados serão anuladas.
+1.3. Se uma alteração em qualquer um dos seguintes ocorrer, todas as apostas serão mantidas:
+(a) uma mudança no tipo de quadra (indoor para outdoor ou vice-versa);
+(b) uma mudança na superfície de jogo (antes ou durante uma partida);
+© uma mudança de local; e
+(d) uma mudança na programação que afeta a hora ou data de uma partida.
+1.4. Se houver um empate em um mercado de confronto direto, ambas as seleções serão anuladas. Em um mercado em que há mais de 2 (duas) seleções e o ‘empate’ não é uma opção, as regras normais de Dead Heat se aplicam.
+1.5. No caso de pontos de penalidade ou games, as apostas serão liquidadas de acordo com a pontuação atualizada.
+2.	Abandonos, Cancelamentos e Adiamentos
+2.1. Um torneio deve ser completado para que as apostas no resultado se mantenham.
+2.2. Se uma partida não acontecer ou se um jogador receber um walkover, as apostas na partida serão anuladas.
+3.	Non-Runners, Abandonos e Desqualificações
+3.1. Se um jogador ou parceiro se retirar ou for desqualificado de qualquer um dos seguintes torneios, os seguintes mercados serão liquidados de acordo:
+Hora da retirada/desqualificação	Retirada/desqualificação antes do final do 1º set	Retirada/desqualificação após o final do 1º set
+Mercado	Resultado da Partida	Todos os outros mercados	Resultado da Partida	Resultado da Partida	Todos os outros mercados
+Tipo de Torneio	ATP/WTA/Grand Slam/Challenger/Davis e BJK Cup/ITF/UTR/Exibições	ATP/WTA/Grand Slam/Challenger/Davis e BJK Cup/ITF/UTR/Exibições	ATP/WTA/Grand Slam/Challenger/Davis e BJK Cup	ITF/UTR/Exibições	ATP/WTA/Grand Slam/Challenger/Davis e BJK Cup/ITF/UTR/Exibições
+Liquidação	Anulada	Anulada (se não determinado)	Vitória/Anulação	Anulada	Anulada (se não determinado)
+3.2. Se um jogador ou parceiro abandonar/desistir (por lesão ou outro motivo)      ou for desqualificado em uma partida da Federação Internacional de Tênis (‘ITF’), Classificação Universal de Tênis (‘UTR’) ou partida de exibição, todas as apostas em vencedores de partidas em tais partidas (conforme disponíveis no site de tempos em tempos) serão anuladas, independentemente do estágio da partida em que a retirada ou desqualificação ocorrer.
+3.3. Para todas as outras competições, se a retirada ou desqualificação ocorrer antes da conclusão do primeiro set, todas as apostas no vencedor da partida serão anuladas. Se a retirada ou desqualificação ocorrer após a conclusão do primeiro set, o jogador ou par que avançar para a próxima rodada (ou vencer o torneio no caso de uma final) será, para os propósitos de quaisquer apostas no vencedor da partida, considerado o vencedor e as apostas no vencedor da partida feitas no jogador ou par retirado ou desqualificado serão anuladas.
+3.4. As apostas em quaisquer outros mercados, para todas as competições, serão anuladas independentemente da retirada ou desqualificação ocorrer durante ou após o primeiro set, exceto aquelas em mercados que tenham sido determinados incondicionalmente.
+3.5. Se um jogador, par ou time não participar de um torneio, todas as apostas envolvendo esse jogador, par ou time serão anuladas. Aplicaremos, quando apropriado, uma dedução de non-runner para quaisquer ganhos das apostas nos participantes restantes do evento (com base nas cotações do participante que é retirado).
+4.	Tie-Breaks
+4.1. Para fins de ‘sets totais’ e mercados relacionados a Handicap, um tie-break é contado como 1 (um) game. Os pontos ou games perdidos contarão para fins de liquidação final.
+4.2. Em algumas competições, as partidas que alcançam 1 (um) set são todas decididas por um champions tie-break. Nesse caso, o champions tie-break será considerado o terceiro set.
+4.3. Se, para uma partida envolvendo um champions tie-break, aceitarmos por engano apostas no vencedor de um game especificado no set final, o número total de games em tal set ou em mercados com Handicap relacionados a tal set (ou similar), as apostas em questão serão anuladas.
+4.4. Um champions tie-break não contará para algum mercado ‘haverá um tie-break?’ e não será tratado como um tie-break para quaisquer mercados que envolvam a ocorrência de vários tie-breaks.
+5.	Mercados de handicap e totais
+5.1. Se um handicap for atribuído a um mercado inteiro (por exemplo, o mercado é intitulado ‘handicap no set -1,5 sets’) e não há handicap atribuído a qualquer seleção individual dentro desse mercado, o handicap relevante será aplicado a cada primeira seleção nomeada. Por exemplo, se um mercado for intitulado ‘handicap no set -1,5 sets’ para Medvedev-Thiem, se a pontuação final da partida for ‘Medvedev 3 sets, Thiem 2 sets’, essa seleção será liquidada como se a pontuação final tivesse sido ‘Medvedev 1,5 sets, Thiem 2 sets’ (significando que quaisquer apostas em Medvedev serão liquidadas como apostas perdedoras e quaisquer apostas no Thiem serão liquidadas como apostas ganhadoras).
+5.2. Salvo indicação contrária no nome/título de um mercado ou seleção, os totais e handicaps se aplicam à partida geral (em vez de para sets ou games).
+6.	Mercados especiais de Grand Slam no final do ano
+6.1. O Australian Open, French Open, Wimbledon e o US Open são, cada um, considerados um ‘Grand Slam’.
+6.2. Todas as apostas feitas nesse mercado são para o evento individual de cada Grand Slam. Todas as apostas serão mantidas se um jogador não competir, se retirar ou for desqualificado antes ou durante qualquer Grand Slam.
+6.3. Todos os Grand Slams devem ser jogados dentro desse ano. Se um Grand Slam for adiado ou cancelado, todas as apostas serão anuladas, a menos quando o resultado já tiver sido determinado incondicionalmente.
+7.	Mercados especiais do jogador
+7.1. Salvo indicação contrária, todas as apostas feitas são para o evento individual do torneio.
+7.2. Se um torneio for adiado para o(s) ano(s) seguinte(s) ou cancelado(s), as apostas serão anuladas.
+7.3. As apostas serão liquidadas de acordo com os sites oficiais ATP/WTA e ITF.
+8.	Mercados relacionados ao game ou ponto
+8.1. Se um game não for concluído todas as apostas nesse game serão anuladas, com exceção do ‘Game para Deuce’ se o resultado já tiver sido determinado.
+8.2. Se o jogador errado tiver sido definido como servidor para qualquer game individual (game atual ou próximo), todos os mercados no resultado desse game específico serão anulados, independentemente do resultado.
+9.	Mercados de games/alternativa de games/margem de vitória exata no game
+As apostas são liquidadas com base na diferença absoluta entre o total de games ganhos pelo jogador A e o total de games ganhos pelo jogador B. Por exemplo, se o jogador A ganhar 17 games e o jogador B ganhar 19 games durante a partida, o mercado será liquidado com base na diferença absoluta (que é 2).
+9.1. Mercados relacionados a aces e dupla falta
+A partida deve ser concluída para que as apostas sejam mantidas, exceto no caso de mercados já determinados (por exemplo, primeiro ace ou primeira dupla falta), que serão liquidados em seu resultado. Todos os mercados serão liquidados com base em provedores de pontuação oficiais ou sites oficiais do torneio (e caso haja quaisquer discrepâncias entre os dados dos provedores de pontuação oficiais e os dos sites do torneio, os dados dos provedores de pontuação oficiais terão precedência).
+VOLEIBOL
+As seguintes regras incluem motivos para anular apostas.
+1.	Geral
+1.1. Todas as apostas serão liquidadas com base no resultado final de acordo com as regras de vôlei.
+1.2. Se uma aposta for feita após o resultado relevante ou resultado ser conhecido, a aposta será anulada.
+2.	Abandonos, Cancelamentos e Adiamentos
+2.1. Se uma partida começar, mas não for concluída, todas as apostas serão anuladas, a menos que um resultado oficial seja declarado, caso em que todas as apostas serão mantidas.
+2.2. Se uma partida for adiada, as apostas serão anuladas a menos que ocorra dentro de 36 (trinta e seis) horas após o horário inicial original.
+3.	Mercados vencedor do set X/Handicap/total de pontos
+As apostas no set especificado serão anuladas se o set nunca for jogado.
+4.	Mercados Set - Xº ponto
+As apostas no ponto especificado serão anuladas se o ponto nunca for jogado.
+5.	Mercados Set X - corrida até X pontos
+As apostas no set especificado serão anuladas se o set nunca for jogado, ou se a marca de pontos especificada nunca for atingida.
+Vencedor
+Presuma a equipe vencedora da partida.
+Competidor para vencer um set
+Presuma um competidor para vencer um set.
+Sets exatos
+Presuma a quantidade de sets exatos na partida.
+Placar Exato
+Presuma o placar exato da partida.
+{X} set - Vencedor
+Presuma o vencedor do set especificado no mercado.
+Handicap pontos
+Presuma o competidor que terá a maior quantidade de pontos, após adicionar uma vantagem ou desvantagem ao total de pontos da partida.
+Total pontos
+Presuma o total de pontos da partida.
+Quantos sets são decididos por pontos extras
+Presuma quantos sets serão decididos ultrapassando os 25 (vinte e cinco) pontos necessários para ser vencedor do set.
+{X} set - handicap de pontos
+Presuma o competidor que terá a maior quantidade de pontos no set especificado no mercado, após adicionar uma vantagem ou desvantagem ao total de pontos do set.
+{X} set - total pontos
+Presuma o total de pontos do set especificado no mercado.
+{X} set - ímpar/par
+Presuma se o total de pontos no set especificado no mercado será um número ímpar ou par.
+Vai ter um 4º set
+Presuma se terá ou não o 4º set na partida.
+Vai ter um 5º set
+Presuma se terá ou não o 5º set na partida.
+Competidor para vencer exatamente 1 set
+Presuma se o competidor especificado no mercado vencerá exatamente 1 set na partida.
+Competidor para vencer exatamente 2 sets
+Presuma se o competidor especificado no mercado vencerá exatamente 2 sets na partida.
+MERCADOS E-SOCCER
+Resultado Final
+Presuma o possível resultado da partida.
+Qual Equipe Vai Vencer o Resto da Partida [ ]
+Presuma qual equipe vencerá o restante da partida. Vale ressaltar que qualquer placar anterior ao momento em que a aposta foi realizada, será desconsiderado para efeitos de apostas e estará entre colchetes [ ] no bilhete. Sendo assim, valerá para o mercado apenas os gols marcados após o momento da aposta.
+Gol
+Presuma que time irá marcar o gol especificado no mercado. Ao selecionar a opção nenhum, significa que não haverá o gol especificado.
+Dupla Hipótese
+Consiste na seleção de dois possíveis resultados para a partida. Se o resultado da partida for uma das opções selecionadas, a aposta é ganhadora.
+Estão disponíveis as seguintes opções:
+1 ou X – Se o resultado da partida for uma vitória do time mandante ou empate.
+X ou 2 – Se o resultado da partida for empate ou vitória do time visitante.
+1 ou 2 – Se o resultado da partida for vitória do time mandante ou vitória do time visitante.
+Empate Anula Aposta
+Presuma o possível resultado da partida no tempo regulamentar, selecionando vitória do time da casa ou vitória do time visitante. Neste mercado, se o resultado da partida for empate, a aposta será anulada.
+Competidor 1 Anula Aposta
+Presuma o possível resultado da partida no tempo regulamentar, selecionando vitória do time visitante ou empate. Neste mercado, se o resultado da partida for vitória do time mandante, a aposta será anulada.
+Competidor 2 Anula Aposta
+Presuma o possível resultado da partida, selecionando vitória do time mandante ou empate. Neste mercado, se o resultado da partida for vitória do time visitante, a aposta será anulada.
+Handicap Europeu
+No handicap europeu é possível selecionar uma das opções de resultados (vitória do time mandante, empate ou vitória do time visitante), atribuindo uma vantagem de gols, à esquerda vantagem atribuída ao time mandante, à direita, vantagem atribuída ao time visitante. A vantagem escolhida na aposta será aplicada ao placar final da partida e o resultado escolhido precisa estar correto conforme o placar após a vantagem.
+Handicap Asiático
+No handicap asiático é possível selecionar a vitória de uma das equipes, atribuindo uma vantagem ou uma desvantagem para o time selecionado. Após a vantagem ou desvantagem ser aplicada, o time selecionado precisa ter o maior saldo de gols em relação ao seu adversário para a aposta ser ganhadora. Já em casos em que ocorra um empate, a aposta será anulada.
+Total
+Presuma a quantidade de gols da partida no tempo regulamentar, com possibilidade de selecionar mais de ou menos de.
+Ex: 1. Ao selecionar a opção menos de 0.5 gols, para a aposta ser vencedora, significa que nenhum gol poderá ser marcado.
+2. Ao selecionar a opção mais de 0.5 gols, para a aposta ser vencedora, significa que pelo menos 1 (um) gol precisa ser marcado.
+3. Ao selecionar a opção mais de 3 (três) gols, para a aposta ser vencedora, significa que pelo menos 4 (quatro) gols precisam ser marcados. Se forem marcados exatos 3 (três) gols, a aposta é anulada e o valor apostado é devolvido.
+Competidor - Total
+Presuma o total de gols da equipe especificada no mercado, com possibilidade de selecionar mais de ou menos de.
+Exemplos:
+1. Ao selecionar a opção menos de 0.5 gols, significa que nenhum gol poderá ser marcado.
+2. Ao selecionar a opção mais de 0.5 gols, significa que pelo menos 1 (um) gol precisa ser marcado.
+Competidor - Gols exatos
+Presuma a quantidade de gols exatos da equipe especificada no mercado.
+Ímpar/Par
+Presuma se a quantidade de gols na partida será um número ímpar ou par. Partidas finalizadas em um resultado de 0-0 será considerada par.
+1º Tempo - Resultado Final
+Presuma o possível resultado da partida para o 1º tempo da partida, com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante.
+1º Tempo - Qual Equipe Vai Vencer o Resto da Partida
+Presuma qual equipe vencerá o restante do 1º tempo. Vale ressaltar que qualquer placar anterior ao momento em que a aposta foi realizada, será desconsiderado para efeitos de apostas e estará entre colchetes [ ] no bilhete. Sendo assim, valerá para o mercado apenas os gols marcados após o momento da aposta.
+1º Tempo - Dupla Hipótese
+Consiste na seleção de dois possíveis resultados para a partida. Se o resultado da partida for uma das opções selecionadas, a aposta é ganhadora.
+Estão disponíveis as seguintes opções:
+1 ou X – Se o resultado da partida for uma vitória do time da casa ou empate.
+X ou 2 – Se o resultado da partida for empate ou vitória do time visitante.
+1 ou 2 – Se o resultado da partida for vitória do time da casa ou vitória do time visitante.
+Para partidas jogadas em estádio neutro, o time listado primeiro é considerado o time da casa para efeitos de aposta.
+1º Tempo - Empate Anula
+Presuma o possível resultado da partida, selecionando vitória do time da casa ou vitória do time visitante. Neste mercado, se o resultado da partida for empate, a aposta será anulada.
+1º Tempo - Handicap Europeu
+No handicap europeu é possível selecionar uma das opções de resultados (vitória do time da casa, empate ou vitória do time visitante), atribuindo uma vantagem de gols ao time selecionado. A vantagem à esquerda é atribuída ao time da casa; a vantagem à direita é atribuída ao time visitante. A vantagem escolhida na aposta será aplicada ao placar final do 1º tempo e o resultado escolhido precisa estar correto conforme o placar após a vantagem.
+Para partidas jogadas em estádio neutro, o time listado primeiro é considerado o time da casa para efeitos de aposta.
+1º Tempo - Handicap Asiático
+No handicap asiático é possível selecionar a vitória de uma das equipes, atribuindo uma vantagem ou uma desvantagem para o time selecionado. Após a vantagem ou desvantagem ser aplicada, o time selecionado precisa ter o maior saldo de gols em relação ao seu adversário no 1º tempo para a aposta ser ganhadora. Já em casos em que ocorra um empate, a aposta será anulada.
+1º Tempo – Total
+Presuma a quantidade total de gols do 1º tempo da partida.
+1º Tempo - Competidor Total
+Para o 1º tempo, presuma a quantidade de gols do competidor especificado no mercado, com a possibilidade de selecionar mais de ou menos de.
+1º Tempo - Competidor Gols Exatos
+Para o 1º tempo, presuma a quantidade de gols exatos do competidor especificado no mercado.
+Competidor para Vencer
+Presuma se a equipe especificada no mercado irá vencer a partida no tempo regulamentar.
+Alguma Equipe para Vencer
+Presume se alguma equipe irá vencer a partida no tempo regulamentar.
+MERCADOS FUTSAL
+Resultado Final
+Presuma o possível resultado da partida no tempo regulamentar (40 minutos ou também no caso de uma partida de duração mais curta (por exemplo, 30 minutos), desde que a partida seja jogada no formato tradicional de dois tempos.), com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante.
+Qual Equipe Vence o Resto da Partida
+Presuma qual equipe vencerá o restante da partida. Vale ressaltar que qualquer placar anterior ao momento em que a aposta foi realizada, será desconsiderado para efeitos de apostas e estará entre colchetes [ ] no bilhete. Sendo assim, valerá para o mercado apenas os gols marcados após o momento da aposta.
+{X} Gol
+Presuma qual equipe marcará o gol especificado no mercado.
+Dupla Hipótese
+Consiste na seleção de dois possíveis resultados para a partida no tempo regulamentar. Se o resultado da partida for uma das opções selecionadas, a aposta é ganhadora.
+Estão disponíveis as seguintes opções:
+1 ou X – Se o resultado da partida for uma vitória do time da casa ou empate.
+X ou 2 – Se o resultado da partida for empate ou vitória do time visitante.
+1 ou 2 – Se o resultado da partida for vitória do time da casa ou vitória do time visitante.
+Para partidas jogadas em estádio neutro, o time listado primeiro é considerado o time da casa para efeitos de aposta.
+Empate Anula Aposta
+Presuma o possível resultado da partida no tempo regulamentar, selecionando vitória do time da casa ou vitória do time visitante. Neste mercado, se o resultado da partida for empate, a aposta será anulada.
+Handicap Europeu
+No handicap europeu é possível selecionar uma das opções de resultados (vitória do time da casa, empate ou vitória do time visitante),     atribuindo uma vantagem de gols ao time selecionado. A vantagem à esquerda é atribuída ao time da casa; a vantagem à direita é atribuída ao time visitante.      A vantagem escolhida na aposta será aplicada ao placar final da partida e o resultado escolhido precisa estar correto conforme o placar após a vantagem.
+Handicap Asiático
+No handicap asiático é possível selecionar a vitória de uma das equipes, atribuindo uma vantagem ou uma desvantagem para o time selecionado. Após a vantagem ou desvantagem ser aplicada, o time selecionado precisa ter o maior saldo de gols em relação ao seu adversário para a aposta ser ganhadora. Já em casos em que ocorra um empate, a aposta será anulada.
+Total
+Presuma a quantidade de gols da partida no tempo regulamentar, com possibilidade de selecionar mais de ou menos de.
+Ex: 1. Ao selecionar a opção menos de 0.5 gols, para a aposta ser vencedora, significa que nenhum gol poderá ser marcado.
+2. Ao selecionar a opção mais de 0.5 gols, para a aposta ser vencedora, significa que pelo menos 1 gol precisa ser marcado.
+3. Ao selecionar a opção mais de 3 gols, para a aposta ser vencedora, significa que pelo menos 4 gols precisam ser marcados. Se forem marcados exatos 3 gols, a aposta é anulada e o valor apostado é devolvido.
+Ímpar/Par
+Presuma se a quantidade de gols na partida será um número ímpar ou par. O placar de 0-0 é considerado par para efeitos de liquidação deste mercado.     
+Ambos os Times Marcam
+Presuma se ambos os times irão marcar gol, ao selecionar a opção “sim”, significa que ambos os times precisam marcar gol, ao selecionar a opção “não”, significa que apenas um time precisa marcar gol ou que nenhum time marcará gol.
+1º Tempo - Resultado Final
+Presuma o possível resultado da partida para o 1º tempo da partida, com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante.
+1º Tempo - Qual Equipe Vai Vencer o Resto da Partida
+Presuma qual equipe irá vencer o restante do tempo selecionado. Serão válidos apenas os gols marcados após a aposta ser realizada. Sendo assim, qualquer placar anterior ao momento em que a aposta foi realizada, será desconsiderado para efeitos de apostas e estará entre colchetes [ ] no bilhete.
+1º Tempo - {X} Gol
+Presuma se o gol especificado no mercado, será marcado por uma das equipes ou se não será marcado no 1º tempo.
+1º Tempo - Handicap Asiático
+Presuma a vitória de uma das equipes no 1º tempo, atribuindo uma vantagem ou uma desvantagem para o time selecionado. Após a vantagem ou desvantagem ser aplicada, o time selecionado precisa ter o maior saldo de gols em relação ao seu adversário para a aposta ser ganhadora. Já em casos em que ocorra um empate, a aposta será anulada.
+1º Tempo - Total
+Presuma a quantidade de gols do 1º tempo da partida, com possibilidade de selecionar mais de ou menos de.
+Competidor Escala de Gols
+Presuma a quantidade de gols que serão marcados pelo competidor destacado no mercado. Ao selecionar a opção 2-3, significa que o competidor destacado precisará marcar 2 (dois) ou 3 (três) gols.
+Resultado Exato
+Presuma o resultado exato da partida, vale ressaltar que se algum placar estiver entre colchetes [ ] será desconsiderado para efeitos de apostas.
+1º Tempo - Resultado Exato
+Presuma o resultado exato do 1º tempo da partida, vale ressaltar que se algum placar estiver entre colchetes [ ] será desconsiderado para efeitos de apostas.
+MERCADOS TÊNIS DE MESA
+As seguintes regras incluem motivos para anular apostas.
+1.	Geral
+Se uma aposta for feita após o resultado relevante ou resultado ser conhecido, a aposta será anulada.
+2.	Abandonos, Cancelamentos, Adiamentos
+2.1. Se uma partida não acontecer ou se um jogador receber um walkover, as apostas na partida serão anuladas.
+2.2. Se uma partida começar, mas não for concluída, todos os mercados serão anulados a menos que seus resultados já tenham sido determinados incondicionalmente.
+Vencedor
+Presuma quem será o vencedor da partida.
+Placar exato
+Presuma o placar exato da partida.
+Handicap pontos
+Presuma o competidor que terá a maior quantidade de pontos, após adicionar uma vantagem ou desvantagem ao total de pontos da partida.
+Total pontos
+Presuma o total de pontos da partida, com a possibilidade de selecionar mais de ou menos de.
+Quantos jogos serão decididos por pontos extra
+Presuma quantos jogos serão decididos ultrapassando os 11 (onze) pontos necessários para ser vencedor do jogo.
+Games exatos
+Presuma o total de games exatos na partida.
+{X} set - vencedor
+Presuma quem será o vencedor do set especificado no mercado.
+{X} set - handicap pontos
+Presuma o competidor que terá a maior quantidade de pontos no set especificado no mercado, após adicionar uma vantagem ou desvantagem ao total de pontos do set.
+{X} jogo - total pontos
+Presuma o total de pontos do jogo especificado no mercado.
+{X} jogo - ímpar/par
+Presuma se o total de pontos do jogo especificado no mercado será ímpar ou par.
+{X} jogo - Corrida aos {Y} pontos
+No jogo destacado no mercado, presuma o competidor que chegará primeiro ao total de pontos especificados.
+{X} jogo - {Y} ponto
+No jogo destacado no mercado, presuma o competidor que marcará o ponto especificado.
+MERCADOS VÔLEI DE PRAIA
+As seguintes regras incluem motivos para anular apostas.
+1.	Geral
+1.1. Todas as apostas serão liquidadas com base no resultado final de acordo com as regras de vôlei.
+1.2. Se uma aposta for feita após o resultado relevante ou resultado ser conhecido, a aposta será anulada.
+2.	Abandonos, Cancelamentos e Adiamentos
+2.1. Se uma partida começar, mas não for concluída, todas as apostas serão anuladas, a menos que um resultado oficial seja declarado, caso em que todas as apostas serão mantidas.
+2.2. Se uma partida for adiada, as apostas serão anuladas a menos que ocorra dentro de 36 (trinta e seis) horas após o horário inicial original.
+3.	Mercados vencedor do set X/Handicap/total de pontos
+As apostas no set especificado serão anuladas se o set nunca for jogado.
+4.	Mercados Set - Xº ponto
+As apostas no ponto especificado serão anuladas se o ponto nunca for jogado.
+5.	Mercados Set X - corrida até X pontos
+As apostas no set especificado serão anuladas se o set nunca for jogado, ou se a marca de pontos especificada nunca for atingida.
+Vencedor
+Presuma quem será o vencedor da partida.
+Sets exatos
+Presuma a quantidade exata de sets na partida.
+Placar Exato
+Presuma o placar exato da partida.
+{X} set - vencedor
+Presuma o vencedor do set especificado no mercado.
+Handicap pontos
+Presuma o competidor que terá a maior quantidade de pontos, após adicionar uma vantagem ou desvantagem ao total de pontos da partida.
+Total pontos
+Presuma o total de pontos da partida.
+Quantos sets são decididos por extra pontos
+Presuma quantos sets serão decididos ultrapassando os 21 (vinte e um) pontos necessários para ser vencedor do set.
+{X} set - Handicap de pontos
+Presuma o competidor que terá a maior quantidade de pontos no set especificado no mercado, após adicionar uma vantagem ou desvantagem ao total de pontos do set.
+{X} set - Total pontos
+Presuma o total de pontos do set especificado no mercado.
+{X} set - ímpar/par
+Presuma se o total de pontos do set especificado no mercado será um número ímpar ou par.
+MERCADOS HANDEBOL
+As seguintes regras incluem motivos para anular apostas.
+Geral
+1.1. As apostas serão liquidadas pelo resultado no fim do tempo regulamentar (60 minutos) a menos que indicado o contrário. Tempo extra não conta.
+1.2. Se 60 (sessenta) minutos de jogo não forem concluídos, todas as apostas serão canceladas, exceto aquelas que tenham sido determinadas incondicionalmente. Se um resultado oficial for declarado, todas as apostas serão mantidas.
+1.3. Se uma aposta for feita após o resultado relevante ou resultado ser conhecido, a aposta será anulada.
+Abandonos, Cancelamentos e Adiamentos
+Se uma partida for adiada, as apostas serão anuladas a menos que ocorra dentro de 48 (quarenta e oito) horas após o horário inicial original.
+Mercados de total de gols
+As apostas serão anuladas se o número total de gols em que a aposta foi feita for igual ao total combinado de gols de ambos os times no final da partida.
+Mercados sem aposta no empate
+As apostas serão anuladas se o tempo regulamentar for um empate.
+Mercados de Xº Gol (incluindo tempo extra)
+As apostas no gol especificado serão anuladas se a partida terminar antes do gol ser marcado.
+Mercados primeiro a chegar a X gols (incluindo tempo extra)
+As apostas serão anuladas se a marca de gols especificada nunca for atingida.
+Resultado Final
+Presuma o possível resultado para a partida, com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante.
+Dupla Hipótese
+Consiste na seleção de dois possíveis resultados para a partida no tempo regulamentar. Se o resultado da partida for uma das opções selecionadas, a aposta é ganhadora.
+Estão disponíveis as seguintes opções:
+1 ou X – Se o resultado da partida for uma vitória do time da casa ou empate.
+X ou 2 – Se o resultado da partida for empate ou vitória do time visitante.
+1 ou 2 – Se o resultado da partida for vitória do time da casa ou vitória do time visitante.
+Para partidas jogadas em estádio neutro, o time listado primeiro é considerado o time da casa para efeitos de aposta.
+Empate Anula Aposta
+Presuma o possível resultado da partida no tempo regulamentar, selecionando vitória do time da casa ou vitória do time visitante. Neste mercado, se o resultado da partida for empate, a aposta será anulada.
+Handicap Europeu
+No handicap europeu é possível selecionar uma das opções de resultados (vitória do time da casa, empate ou vitória do time visitante),     atribuindo uma vantagem de gols ao time selecionado. A vantagem à esquerda é atribuída ao time da casa; a vantagem à direita é atribuída ao time visitante.      A vantagem escolhida na aposta será aplicada ao placar final da partida e o resultado escolhido precisa estar correto conforme o placar após a vantagem.
+Margem de Vitória
+Presuma a margem de vitória (em gols) entre as equipes.
+Handicap Asiático
+No handicap asiático é possível selecionar a vitória de uma das equipes, atribuindo uma vantagem ou uma desvantagem para o time selecionado. Após a vantagem ou desvantagem ser aplicada, o time selecionado precisa ter o maior saldo de gols em relação ao seu adversário para a aposta ser ganhadora. Já em casos em que ocorra um empate, a aposta será anulada.
+Total
+Presuma o total de gols da partida no tempo regulamentar.
+Competidor - Total
+Presuma o total de gols na partida da equipe especificada no mercado.
+Faixa de Gols
+Presuma a quantidade de gols marcada pelas equipes na partida. A quantidade precisa estar entre a faixa escolhida.
+Ímpar/Par
+Presuma se a quantidade de gols na partida será um número ímpar ou par.
+Resultado Final e Total
+Presuma o possível resultado da partida no tempo regulamentar, com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante e o total de gols. Vale ressaltar que para esta aposta ser vencedora, os dois palpites precisam estar corretos.
+Intervalo/Final do Jogo
+Presuma o possível resultado até o intervalo do jogo (1º tempo) e o possível resultado do final do jogo (partida). Para esta aposta ser vencedora, os dois palpites precisam estar corretos.
+Tempo Mais Produtivo
+Presuma qual dos tempos será o mais produtivo em relação aos gols ou se a produtividade será igual para ambos os tempos.
+Competidor Tempo com Mais Gols
+Presuma em qual dos tempos haverá mais gols da equipe selecionada ou se a quantidade de gols será igual para ambos os tempos.
+1º Tempo - Resultado Final
+Presuma o possível resultado para o 1º tempo da partida, com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante.
+1º Tempo - Dupla Hipótese
+Consiste na seleção de dois possíveis resultados para o 1º tempo da partida. Se o resultado da partida for uma das opções selecionadas, a aposta é ganhadora.
+Estão disponíveis as seguintes opções:
+1 ou X – Se o resultado da partida for uma vitória do time da casa ou empate.
+X ou 2 – Se o resultado da partida for empate ou vitória do time visitante.
+1 ou 2 – Se o resultado da partida for vitória do time da casa ou vitória do time visitante.
+Para partidas jogadas em estádio neutro, o time listado primeiro é considerado o time da casa para efeitos de aposta.
+1º Tempo - Empate Anula Aposta
+Presuma o possível resultado da partida no 1º tempo, selecionando vitória do time da casa ou vitória do time visitante. Neste mercado, se o resultado da partida for empate, a aposta será anulada.
+1º Tempo - Handicap Europeu
+Presuma o possível resultado do 1º tempo, selecionando uma das opções (vitória do time da casa, empate ou vitória do time visitante),      atribuindo uma vantagem de gols ao time selecionado. A vantagem à esquerda é atribuída ao time da casa; a vantagem à direita é atribuída ao time visitante. Após a vantagem ser aplicada ao placar final do 1º tempo, o resultado escolhido precisa estar correto.
+1º Tempo - Handicap Asiático
+Presuma a vitória de uma das equipes no 1º tempo, atribuindo uma vantagem ou uma desvantagem para o time selecionado. Após a vantagem ou desvantagem ser aplicada, o time selecionado precisa ter o maior saldo de gols em relação ao seu adversário para a aposta ser ganhadora. Já em casos em que ocorra um empate, a aposta será anulada.
+1º Tempo - Total
+Presuma a quantidade de gols do 1º tempo da partida, com possibilidade de selecionar mais de ou menos de.
+1º Tempo - Competidor Total
+Presuma a quantidade de gols por equipe do 1º tempo da partida, com possibilidade de selecionar mais de ou menos de.
+1º Tempo - Ímpar/Par
+Presuma se a quantidade de gols no 1º tempo será um número ímpar ou par.
+1º Tempo - Resultado Final e Total
+Presuma o possível resultado da partida no 1º tempo, com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante e o total de gols.
+Vale ressaltar que para esta aposta ser vencedora, os dois palpites precisam estar corretos.
+2º Tempo - Resultado Final
+Presuma o possível resultado para o 2º tempo da partida, com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante.
+2º Tempo - Dupla Hipótese
+Consiste na seleção de dois possíveis resultados para o 2º tempo da partida. Se o resultado da partida for uma das opções selecionadas, a aposta é ganhadora.
+Estão disponíveis as seguintes opções:
+1 ou X – Se o resultado da partida for uma vitória do time da casa ou empate.
+X ou 2 – Se o resultado da partida for empate ou vitória do time visitante.
+1 ou 2 – Se o resultado da partida for vitória do time da casa ou vitória do time visitante.
+Para partidas jogadas em estádio neutro, o time listado primeiro é considerado o time da casa para efeitos de aposta.
+2º Tempo - Empate Anula Aposta
+Presuma o possível resultado da partida no 2º tempo, selecionando vitória do time da casa ou vitória do time visitante. Neste mercado, se o resultado da partida for empate, a aposta será anulada.
+2º Tempo - Ímpar/Par
+Presuma se a quantidade de gols no 1º tempo será um número ímpar ou par.
+Prorrogação - Total
+Presuma o total de gols na prorrogação da partida.
+Prorrogação - Handicap Asiático
+No handicap asiático é possível selecionar a vitória de uma das equipes, atribuindo uma vantagem ou uma desvantagem para o time selecionado. Após a vantagem ou desvantagem ser aplicada, o time selecionado precisa ter o maior saldo de gols em relação ao seu adversário para a aposta ser ganhadora. Já em casos em que ocorra um empate, a aposta será anulada
+Competidor escala de gols
+Presuma a diferença de gols entre as equipes, é possível selecionar de quantos gols o competidor selecionado vencerá sobre o seu adversário.
+{X} Gol (Incluindo prolongamento)
+Presuma qual equipe marcará o gol especificado no mercado.
+Corrida aos {X} gols (Incluindo Prorrogação)
+Presuma qual equipe chegará primeiro a quantidade de gols especificados no mercado.
+Vencedor (incluindo prolongamento e pênaltis)
+Presuma qual equipe será a vencedora da partida (incluindo prolongamento e pênaltis).
+1º Tempo - Margem vencedora
+Presuma a margem de vencedora (em gols) entre as equipes.
+Equipe com metade mais produtiva
+Presuma qual equipe terá a metade mais produtiva da partida.
+1º tempo - escala de gols
+Presuma a diferença de gols entre as equipes no 1º tempo.
+1º tempo - Competidor escala de gols
+Presuma a diferença de gols entre as equipes, é possível selecionar de quantos gols o competidor selecionado vencerá sobre o seu adversário no 1º tempo.
+Resultado Final
+Presuma o possível resultado para a partida, com possibilidade de selecionar: vitória do time da casa, empate ou vitória do time visitante.
+Vencedor (incluindo innings extra)
+Presuma o possível vencedor da partida, incluindo innings extra.
+Que equipe vence o resto da partida (incluindo innings extra)
+Presuma qual equipe vence o resto da partida. Vale ressaltar que qualquer placar anterior ao momento em que a aposta foi realizada, será desconsiderado para efeitos de apostas e estará entre colchetes [ ] no bilhete. Sendo assim, valerá para o mercado, apenas os pontosmarcados após o momento da aposta.
+Handicap (incluindo innings extra)
+No handicap é possível selecionar a vitória de uma das equipes, atribuindo uma vantagem ou uma desvantagem para o time selecionado. Após a vantagem ou desvantagem ser aplicada, o time selecionado precisa ter o maior saldo de pontos em relação ao seu adversário para a aposta ser ganhadora. Já em casos em que ocorra um empate, a aposta será anulada.
+Margem vencedora (incluindo innings extra)
+Presuma qual a margem vencedora (em gols) entre as equipes.
+Total (incluindo innings extra)
+Presuma o total de pontos da partida.
+Competidor total (incluindo innings extra)
+Presuma o total de pontos do competidor especificado no mercado.
+Total (menos-exatamente-mais) (incluindo innings extra)
+Presuma o total exato de pontos (“runs”) na partida (incluindo innings extra).
+Escala de runs (incluindo innings extra)
+Presuma em qual escala estará o total de pontos (“runs”) da partida (incluindo innings extra).
+Ímpar/Par (incluindo innings extra)
+Presuma se o total de pontos da partida será um número ímpar ou par.
+Resultado Final e total (incluindo innings extra)
+Presuma o possível resultado e o total de pontos da partida.
+{X} run (incluindo innings extra)
+Presuma qual equipe marcará o ponto da partida especificado no mercado (run \= corrida \= pontuação)
+Corrida às {X} Runs (incluindo innings extra)
+Presuma qual equipe marcará primeiro o ponto da partida especificado no mercado (run \= corrida \= pontuação)
+Vai ter uma inning extra
+Presuma se terá ou não uma inning extra.
+Competidor a bater na 9ª innings
+Presuma se o competidor rebaterá (rebater \= “bat” \= bater a bola com o bastão) uma bola no 9º inning.
+Equipe para vencer mais innings
+Presuma qual equipe vencerá mais innings.
+Equipe com o inning mais produtivo
+Presuma qual equipe terá o inning mais produtivo em relação aos pontos.
+Inning mais produtivo
+Presuma qual inning será mais produtivo em relação aos pontos.
+Runs exatos no inning mais produtivo
+Presuma a quantidade exata de runs no inning mais produtivo em relação aos pontos.
+Innings 1 a 5 - Resultado Final
+Presuma o vencedor até o inning 5.
+Innings 1 a 5 - Handicap
+Presuma o vencedor até o inning 5, atribuindo uma vantagem ou desvantagem com o handicap.
+Innings 1 a 5 - Total
+Presuma se terá mais ou menos que X pontos (“runs”) até o inning 5.
+Innings 1 a 5 - Competidor total
+Presuma se o competidor especificado no mercado marcará mais ou menos que X pontos (runs) até o inning 5.
+Innings 1 a 5 top - Resultado Final
+Presuma o vencedor até o a primeira metade (¨top”) do inning 5.
+Innings 1 a 5 top - Handicap
+Presuma o vencedor até a primeira metade do inning 5, atribuindo uma vantagem ou desvantagem com o handicap.
+Innings 1 a 5 top - Total
+Presuma se vai ter mais ou menos que X pontos (“runs”) até a primeira metade do inning 5.
+Innings 1 a 5 top - Competidor total
+Presuma se o competidor especificado no mercado marcará mais ou menos que X pontos (runs) até a primeira metade do inning 5.
+Innings {X} a {Y} - Total
+Presuma se vai ter mais ou menos que X pontos (“runs”) do inning X até o inning Y.
+Innings {X} a {Y} - Competidor total
+Presuma se o competidor especificado no mercado marcará mais o menos que X pontos (¨runs) do inning X até o inning Y.
+{X} inning - Resultado Final
+Presuma o vencedor do inning especificado no mercado.
+{X} inning - Total
+Presuma se vai ter mais ou menos que X pontos (“runs”) no inning especificado no mercado.
+Máximo de runs consecutivos por cada uma das equipes
+Presuma o máximo de pontos consecutivos (runs) para cada uma das equipes.
+Quando será decidida a partida
+Presuma em qual momento (primeira metade do inning 9; segunda metade do inning 9; inning extra) será decidida a partida.
+Observação: primeira metade de inning \= “top”, segunda metade de inning \= “bottom”
+Quando será marcada a {X} run (incluindo innings extra)
+Presuma quando será marcado o ponto (“run”) especificado no mercado (incluindo inning extra).
+Total innings sem resultado
+Presuma se teremos mais ou menos que X innings sem pontuação (ou seja, sem “runs”).
+Ambas as equipes mais de {X} (incluindo innings extra)
+Presuma se as duas equipes marcam mais que X pontos (incluindo inning extra).
+Primeiros {X} innings Resultado Final
+Presuma o vencedor dos primeiros X innings.
+Innings {X} a {Y} - Resultado FInal
+Presuma o vencedor do inning X até o inning Y.
+Innings {X} a {Y} - Handicap
+Presuma o vencedor do inning X até o inning Y, atribuindo uma vantagem ou desvantagem com o handicap.
+Innings {X} a {Y} - Ímpar/Par
+Presuma se o total de pontos do inning X até o inning Y será um número ímpar ou par.
+{X} inning - Handicap
+Presuma o vencedor do inning X, atribuindo uma vantagem ou desvantagem com o handicap.
+{X} inning - Competidor total
+Presuma se o competidor especificado no mercado marcará mais ou menos que X pontos no inning especificado no mercado.
+{X} inning - Competidor para marcar
+Presuma se o competidor X marcará ou não pontos no inning especificado no mercado.
+Total hits (incluindo extra innings)
+Presuma o total de “hits” da partida (incluindo inning extra).
+Observação: “hit” é quando o rebatedor bate na bola e a bola fica em jogo.
+Competidor total hits (incluindo extra innings)
+Presuma se o competidor especificado no mercado terá mais ou menos que X “hits” na partida (incluindo innings extra).
+Innings 1 a 5 - Total hits
+Presuma o total de “hits” do inning 1 até o inning 5.
+{X} inning - Competidor total hits
+Presuma o total de hits do competidor especificado no mercado do inning X.
+Innings 1 a 5 - Competidor total hits
+Presuma se o competidor especificado no mercado terá mais ou menos que X “hits” do inning 1 até o 5.
+Resultado do pitch {X}
+Presuma o resultado do “pitch” (arremesso). Opções: strike, ball, hit, other.
+Strike: rebatedor não bate na bola. Para este mercado o “foul” conta como “strike”.
+Ball: arremessador (“pitcher”) arremessa a bola fora da área onde o rebatedor pode rebater.
+Hit: rebatedor rebate o arremesso e a bola está em jogo
+Other: outro
+Pancada do pitch {X}
+Presuma se vai ter “hit” ou não no “pitch” (arremesso) especificado no mercado.
+Home run no pitch {X}
+Presuma se vai ter “Home Run” (rebatedor rebate a bola fora do gramado, mas a bola sai dentro das linhas do gramado) no “pitch” (arremesso) X.
+Resultado da pancada {X}
+Presuma o resultado do “hit” X (opções: single \= ganha uma base, double \= ganha duas bases, triple \= ganha três bases, home run \= ganha as quatro bases, no further hit \= não tem “hit”)
+Resultado do jogador especificado no mercado na vez X para rebater
+Presuma o resultado de um jogador na sua vez X de rebater (opções: on base \= chega na base, out \= não chega na base, home run \= ele rebate para home run).
+Jogador X a levar “strike out” na vez X para rebater
+Presuma se o jogador especificado no mercado na sua vez X de rebater sofrerá um “strike out” (o arremessador faz três “strikes” nele).
+Vencedor e Total (incl. extra innings)
+Presuma o vencedor e o total de pontos da partida (incluindo innings extra).
+Total home runs (incl. extra innings)
+Presuma o total de “Home Runs” da partida (incluindo innings extra).
+Competidor total home runs (incl. extra innings)
+Presuma o total de “Home Runs” na partida do competidor especificado no mercado (incluindo innings extra).
+{X} inning - Vencedor
+Presuma quem vencerá o inning especificado no mercado.
+Innings 1 ao 5 - Vencedor
+Presuma quem vencerá do inning 1 até o inning 5.
+ESPORTES A MOTOR
+As seguintes regras incluem motivos para anular apostas. 
+As seguintes regras se aplicam a todos os esportes a motor:
+A. Todos os esportes a motor
+1.	Geral
+1.1. Se houver uma cerimônia de apresentação, as apostas serão liquidadas de acordo com o resultado oficial do órgão dirigente relevante no momento da cerimônia.
+1.2. Se não houver cerimônia de apresentação, as apostas serão liquidadas de acordo com o resultado oficial do órgão dirigente relevante imediatamente após o evento.
+1.3. O disposto acima se aplica independentemente de qualquer desqualificação ou alteração subsequente do resultado (exceto se uma alteração for anunciada pela fonte de dados relevante dentro de 24 (vinte e quatro) horas da liquidação inicial do mercado relevante, a fim de corrigir um erro na divulgação do resultado, caso em que liquidaremos novamente as apostas conforme apropriado).
+2.	Abandonos, Cancelamentos e Adiamentos
+Se uma corrida for abandonada, adiada ou cancelada, todas as apostas serão anuladas, a menos que a corrida seja concluída dentro de 24h após o horário de início original programado.
+Além disso, as seguintes regras aplicam-se aos seguintes esportes a motor específicos:
+B. Fórmula 1
+C. Corridas da NASCAR e IndyCar
+D. Campeonato Mundial de Rally
+E. Corrida de Motos  
+1.	Geral
+1.1. Os pilotos que completarem 90% das voltas de corrida (arredondadas para o número inteiro de voltas mais próximo) são tratados como finalistas classificados, de acordo com a classificação oficial da Fédération Internationale de l’Automobile (‘FIA’).
+1.2. As corridas são tratadas como iniciadas no momento em que é dado o sinal para começar a volta de aquecimento (os pilotos estão em jogo a partir deste ponto).
+1.3. Para os mercados de apostas na corrida e colocação, serão aplicadas as classificações oficiais de pilotos da FIA.
+1.4. Se um piloto mudar de equipe durante a semana da corrida ou um piloto não listado inicialmente entrar na corrida, as apostas feitas antes dessas mudanças serão recalculadas com as cotações corretas (levando em conta a troca de equipe ou carro).
+1.6. Qualquer mercado ou seleção que não se refira diretamente à ‘Corrida Sprint’ se referirá à corrida principal do Grande Prêmio em si. Quaisquer pontos ganhos na Corrida Sprint não contarão para a liquidação dos mercados da corrida principal do Grande Prêmio. Da mesma forma, quaisquer vitórias de Corrida Sprint não contarão para os mercados especiais de vitórias de corrida da Temporada Geral, a menos que indicado de outra forma na descrição do mercado.
+2.	Mercados de confrontos da corrida e grupo
+O piloto que terminar na posição mais alta é considerado o vencedor.
+3.	Campeonato de pilotos e campeonato de construtores da fórmula 1
+Os títulos do campeonato de pilotos e de construtores são atribuídos ao piloto e construtor que marcarem mais pontos ao longo da temporada. Em caso de Dead Heat para uma posição no campeonato, o piloto ou construtor com o maior número de resultados superiores nas corridas será atribuído àquela colocação.
+4.	Apostas em confronto na qualificação
+As apostas são liquidadas com base no piloto que registrar o tempo de qualificação mais rápido durante a última sessão de qualificação entre os dois pilotos mencionados. Se um dos pilotos não iniciar uma volta de qualificação, as apostas serão anuladas. Penalidades subsequentes no grid ou desqualificações serão desconsideradas. Se por qualquer motivo o terceiro período de qualificação não ocorrer, as apostas serão liquidadas se o grid for formado com base nos tempos registrados para o primeiro e segundo períodos de qualificação. As apostas serão anuladas se o grid for formado para a corrida principal ou para a Qualificação Sprint (onde tal formato for usado) com base em qualquer outro critério.
+5.	Mercados de qualificação sprint
+As apostas são liquidadas na classificação oficial da FIA imediatamente após a sessão de qualificação sprint, com desqualificações ou penalidades subsequentes desconsideradas. A corrida deve acontecer dentro de 24 (vinte e quatro) horas após o horário de início programado para as apostas serem mantidas, caso contrário elas serão anuladas.
+6.	Mercados haverá um período com safety car durante a corrida?
+Se a corrida for iniciada sob o safety car, esse mercado será liquidado como ‘sim’. Caso a corrida termine em condições de safety car, mas o safety car não tiver tido tempo de ultrapassar o carro que lidera a corrida, este mercado será liquidado como ‘sim’.      Os períodos de safety car virtual são desconsiderados.     
+7.	Mercados de volta mais rápida
+As apostas são liquidadas nos tempos oficiais das voltas registradas pela FIA. Pelo menos 1 piloto deve registrar um tempo de volta na fase especificada para as apostas serem válidas. Se nenhum tempo em volta for registrado por qualquer piloto, as apostas serão anuladas.
+8.	Mercados do sprint shootout
+As apostas são liquidadas na volta mais rápida dada durante a sessão final do shootout designada com base nos tempos oficiais registrados pela FIA. As apostas serão anuladas se o grid for formado para a corrida sprint (onde tal formato é usado) com base em qualquer outro critério. Os pilotos devem iniciar a primeira fase do shootout para que as apostas sejam mantidas. Quaisquer penalidades subsequentes ou rebaixamentos impostos serão desconsiderados.
+9.	Mercados de primeiro piloto a abandonar
+As apostas são liquidadas no primeiro piloto a se retirar da corrida de acordo com o número da volta em que se retirar (incluindo as voltas de aquecimento). Se um piloto não sair para a pista em nenhuma parte da corrida, as apostas serão anuladas. Se 2 (dois) ou mais pilotos abandonarem a corrida na mesma volta, as regras Dead Heat serão aplicadas.
+10.	Mercados de primeiro carro a abandonar
+As apostas são liquidadas com base no primeiro carro a se retirar da corrida de acordo com o número da volta em que se retirar (incluindo as voltas de aquecimento). Se um carro não sair para a pista em nenhuma parte da corrida, as apostas serão anuladas. Se 2 (dois) ou mais carros se abandonarem na mesma volta, as regras Dead Heat serão aplicadas.
+11.	Mercados One Lap Wonders
+As apostas são liquidadas no número de pilotos que se retiram da corrida antes de completarem 1 (uma) volta completa (excluindo voltas de aquecimento).
+12.	Mercados não é classificado
+Os pilotos que completarem 90% das voltas de corrida (arredondadas para o número inteiro de voltas mais próximo) são tratados como finalistas classificados, de acordo com a classificação oficial da FIA. Se um piloto não sair para a pista em nenhuma parte da corrida, as apostas serão anuladas.
+13.	Mercados mais rápido na sessão de treinos um/dois/três
+As apostas são liquidadas nos tempos oficiais das voltas registradas pela FIA. Pelo menos 1 (um) piloto deve registrar um tempo na volta na fase especificada da sessão de treino, caso contrário as apostas serão anuladas.
+14.	Mercados líder após a primeira volta
+As apostas são liquidadas no piloto que está na primeira posição ao cruzar a linha para completar a primeira volta da corrida (excluindo as voltas de aquecimento). Se pelo menos 1 (uma) volta da corrida não for concluída ou a corrida começar sob o safety car, as apostas serão anuladas.
+C. Corridas da NASCAR e IndyCar
+1.	Apostas na corrida
+O ‘field’ inclui qualquer piloto que não esteja listado nas cotações para vencer a corrida. Todos os pilotos que não conseguirem se qualificar para a corrida serão considerados como non-runners. A corrida deve acontecer dentro de 24 horas após o horário de início programado para as apostas serem mantidas. O vencedor oficial da corrida da NASCAR/IndyCar será liquidado como vencedor para efeitos de apostas, isso inclui todas as corridas que foram interrompidas prematuramente.
+2.	Confrontos entre pilotos:
+Todas as apostas comparativas serão liquidadas pelo resultado oficial. Se um piloto não completar a corrida, o outro piloto será considerado o vencedor. Quando ambos os pilotos não completarem a corrida, o vencedor será determinado pelo número de voltas. Se ambos os pilotos não completarem a corrida na mesma volta, as classificações oficiais atribuídas pela autoridade controladora determinarão o resultado. Ambos os pilotos têm que iniciar a corrida para que as apostas sejam válidas. Na eventualidade de ocorrer uma substituição de piloto, todas as apostas serão anuladas.
+D. Campeonato Mundial de Rally
+1.	Geral
+As apostas serão liquidadas segundo a classificação oficial da World Rally Championship (WRC), no momento da apresentação no pódio. Desqualificações subsequentes são desconsideradas.
+E. Corrida de Motos
+1.	Geral
+1.1. As apostas são liquidadas na classificação oficial, conforme definido pelos organizadores oficiais da corrida. Rebaixamentos ou inquéritos subsequentes não são considerados.
+1.2. As apostas estão valendo quando um piloto começa a qualificação. Os pilotos devem iniciar a qualificação para a ação sobre as apostas de qualificação. Penalidades ou rebaixamentos subsequentes não afetarão a classificação das apostas.
+2.	Mercados de confronto direto da qualificação
+Ambos os pilotos devem participar da fase de qualificação, e pelo menos 1 deles deve completar uma volta de qualificação para que as apostas sejam válidas.
+3.	Mercados de grupo
+O vencedor é o piloto que alcançar a melhor colocação no momento da apresentação do pódio. Se todos os pilotos do grupo deixarem de ser classificados, o piloto que completar mais voltas será considerado o vencedor. Se todos os pilotos do grupo não forem classificados e dois ou mais pilotos se retirarem na mesma volta, então as regras de Dead Heat serão aplicadas. Os pilotos são agrupados apenas para fins de apostas. Deduções sem apostas e non-runners em conformidade com a Regra 4 (Deduções) podem ser aplicadas. As apostas serão liquidadas segundo o resultado oficial dos organizadores da corrida, no momento da apresentação no pódio
+4.	Mercados de confronto direto na corrida
+Ambos os pilotos precisam iniciar a corrida para as apostas serem válidas. Se ambos os pilotos não completarem a corrida, o piloto que completar mais voltas será considerado o vencedor, se ambos os pilotos tiverem completado o mesmo número de voltas, as apostas serão anuladas. Penalidades ou rebaixamentos subsequentes não afetarão a liquidação das apostas.
+ARTES MARCIAIS MISTAS
+As seguintes regras incluem motivos para anular apostas.
+1.	Geral
+1.1. As apostas serão liquidadas com base no resultado oficial da organização relevante anunciado imediatamente após a luta, independente de qualquer desqualificação subsequente ou correção do resultado (a menos que a correção tenha sido feita devido a um Erro feito pela organização ao anunciar o resultado, caso em que liquidaremos novamente as apostas conforme apropriado).
+1.2. Isso inclui apostas que são feitas em: (i) um determinado lutador acertar um certo número de golpes ou golpes significativos, (ii) um determinado lutador conseguir um determinado número de tentativas de submissão, (iii) um determinado lutador conseguir um determinado número de takedowns.
+1.3. Quaisquer mercados relacionados a golpes, golpes significativos e takedowns estão se referindo a qualquer uma dessas ações acontecendo, a menos que declarado claramente ‘tentativa’.
+1.4. Se uma luta for alterada de 3 (três) rounds para 5 (cinco) ou 5 (cinco) rounds para 3 (três), as apostas na luta serão mantidas, mas todos os outros mercados serão anulados.
+1.5.  Se um evento ‘sem resultado’ for declarado, todas as apostas serão anuladas, exceto aquelas que tenham sido determinadas incondicionalmente.
+1.6. Se uma aposta for feita após o resultado relevante ou resultado ser conhecido, a aposta será anulada.
+2.	Abandonos, Cancelamentos e Adiamentos
+2.1. Se uma luta for adiada, as apostas se manterão se o evento remarcado ocorrer dentro de 48 horas. Caso contrário, as apostas nessa luta serão anuladas.
+3.	Non-Runners, Abandonos e Desqualificações
+3.1. Se houver uma substituição para um dos lutadores, as apostas no confronto original serão anuladas.
+4.	Mercados vence a luta
+4.1. As cotações são oferecidas para cada lutador vencer a luta, e no caso de um empate, todas as apostas na luta serão anuladas (para esses propósitos, os empates incluirão lutas que terminam em um ‘empate majoritário’).
+5.	Mercados de método de vitória
+5.1. Para os propósitos desse mercado, um nocaute (’KO’)/nocaute técnico (’TKO’) inclui o seguinte:
+(a) interrupção do árbitro enquanto um ou ambos os lutadores ainda estão de pé;
+(b) interrupção do árbitro enquanto um ou ambos os lutadores estão no chão;
+© interrupção pelo médico;
+(d) interrupção pelo corner/equipe de um lutador; e
+(e) um lutador se retirar devido a lesão.
+5.2. Para os propósitos desse mercado, uma submissão inclui o seguinte:
+(a) interrupção do árbitro devido a tap-out;
+(b) interrupção do árbitro devido a submissão técnica; e
+© submissão verbal de um lutador (incluindo submissão verbal devido a golpes).
+5.3. No caso de uma desqualificação ou de a luta ser declarada ‘sem resultado’, as apostas neste mercado serão anuladas.
+6.	Mercados de aposta na rodada
+6.1. Se um lutador se retirar no período entre os rounds, a luta será considerada como encerrada no round anterior para propósitos de liquidação de apostas no round.
+6.2. Se o número de rounds programados for alterado antes da luta, todas as apostas no round serão anuladas.
+6.3. Para fins de liquidação do ‘total de rounds’, 2 minutos e 30 segundos representarão metade de um round (se o round durar 5 minutos). Por exemplo, para uma aposta em ‘mais de 1,5 rounds’ ser uma ganhadora, a luta deve durar mais de 2 minutos 30 segundos no round 2. Se o número de rounds de uma luta mudar após os mercados de total de rounds ter sido liquidado, todas as apostas nesses mercados serão anuladas.
+6.4. Se uma luta for interrompida em exatamente 2 minutos e 30 segundos do round, as apostas no total de rounds para esse round específico serão anuladas.
+7.	Mercados de luta da noite, submissão da noite e performance da noite
+As regras de Dead Heat serão aplicadas se 2 ou mais lutadores forem selecionados para o prêmio relevante.
+8.	Luta mais rápida da noite
+8.1. As apostas serão liquidadas nos tempos oficiais disponibilizados em www.ufc.com e o vencedor será liquidado de acordo com a luta que terminar com o menor tempo.
+8.2. As regras de Dead Heat se aplicarão se 2 ou mais lutas terminarem após o mesmo período de tempo.
+9.	Mercados com handicap de pontos
+Qualquer lutador que vencer antes do tempo total programado da luta será declarado vencedor. Se a luta for para uma decisão, as pontuações cumulativas de todos os juízes serão usadas para determinar o vencedor.
+10.	Mercados combo no round e método
+As apostas serão liquidadas com base no round em que a luta termina e no método de vitória. As apostas nesse mercado serão consideradas apostas perdedoras se a luta terminar em uma decisão.
+11.	Mercados a luta chega até o fim?
+No caso de uma decisão técnica, para efeitos de liquidação, a luta será considerada como não tendo ido até o final (ou seja, o número de rounds programados).
+Baseball
+1. Regras Gerais
+Estas regras se aplicam à Major League, todos os níveis de Minor League, NCAA e Baseball Mundial. Baseball Mundial é definido como uma liga governada fora dos Estados Unidos.
+Todas as apostas são avaliadas com base nos resultados oficiais publicados pelo órgão regulador relevante da liga (por exemplo, Major League Baseball).
+Se um jogo não começar na data oficialmente programada (horário local), conforme publicado pelo órgão regulador, devido a atraso por chuva ou outro adiamento, todas as apostas serão nulas.
+Se um jogo que já começou for suspenso, devido a atraso por chuva ou outro adiamento, e for retomado dentro de 48 (quarenta e oito) horas do horário de início originalmente programado (horário local), então todas as apostas permanecerão válidas. Se um jogo for interrompido e programado para retomar mais de 48 (quarenta e oito) horas após o horário de início original (horário local), todas as apostas serão nulas, a menos que tenham sido determinadas antes da suspensão do jogo.
+A Regra de 8,5 Innings será aplicada automaticamente, salvo disposição em contrário — por exemplo, na seção intitulada “Visão Geral de Mercados Específicos de Baseball” (que terá precedência sobre esta seção). Se um jogo for encurtado por atraso ou outro motivo, os mercados de apostas pré-jogo e ao vivo que tenham sido determinados permanecerão válidos (independentemente da Regra de 8,5 Innings ou se um resultado oficial da liga foi confirmado).
+Apostas Money Line: Resultados são oficiais após 5 innings (ou 4,5 innings se o time da casa estiver na liderança).
+Todas as Outras Apostas (por exemplo, Total de Corridas, Run Line): Resultados são oficiais somente após 9 innings (ou 8,5 innings se o time da casa estiver na liderança), a menos que o resultado tenha sido claramente determinado.
+Em caso de jogo encurtado, apostas na Money Line tornam-se oficiais após 5 innings de jogo (ou 4,5 innings se o time da casa estiver na liderança no início do 5º inning). Uma vez que o time visitante tenha feito 15 outs, se o jogo for encerrado cedo e o time da casa estiver na liderança, o resultado será determinado pelo placar no momento do encerramento. Se o jogo for encerrado cedo enquanto estiver empatado ou durante um inning em que o time visitante estiver na liderança, o jogo será considerado um “jogo suspenso” e será tratado de acordo com as regras de jogos suspensos. Todas as outras apostas (por exemplo, Total de Corridas, Run Line) são oficiais somente após 9 innings (ou 8,5 innings se o time da casa estiver na liderança), a menos que o resultado tenha sido claramente determinado antes do encerramento do jogo.
+Innings Extras, quando aplicável, contam para fins de liquidação.
+No caso de um jogo de playoff ou pós-temporada suspenso, todas as apostas permanecerão válidas até que o jogo seja concluído dentro de 90 (noventa) dias após a suspensão.
+Caso uma regra de misericórdia seja aplicada, para fins de liquidação, os mercados (pré-jogo e ao vivo) serão liquidados de acordo com o resultado determinado pela aplicação da regra de misericórdia.
+Para jogos de baseball agendados para 7 innings, as regras normais de baseball se aplicarão, com todos os mercados liquidados de acordo com o resultado oficial publicado pela liga relevante e conforme as regras abaixo listadas:
+Apostas Money Line serão liquidadas de acordo com a “Regra de 4,5 Innings”;
+Mercados de apostas em mercados que sejam claramente determinados permanecerão liquidados (exemplo: apostas no total de corridas do 1º inning permanecerão liquidadas se o jogo for encerrado no 3º inning);
+Todos os outros mercados (incluindo, mas não se limitando a, Run Line e Total de Corridas) serão nulos se não forem claramente determinados, a menos que pelo menos 7 innings sejam jogados, ou 6,5 innings se o time da casa estiver na liderança no início do 7º inning.
+As regras acima regerão a liquidação de todos os jogos agendados para 7 innings, incluindo aqueles encurtados após o primeiro arremesso.
+2. Ação vs. Lançadores Listados
+Ao apostar na Money Line de baseball, você pode optar por aplicar um dos seguintes métodos a cada aposta:
+Ação: Todas as apostas Money Line são padrão para “Ação”, ou seja, permanecerão válidas se ocorrer uma troca de lançador. As apostas serão honradas às odds no momento da aposta e liquidadas normalmente.
+Um Lançador Especificado (Listado em Casa / Listado Fora): Uma aposta em ou contra um Lançador Listado, independentemente do outro Lançador Listado. Se o Lançador Listado não começar, a aposta é “Sem Ação” e será reembolsada.
+Ambos os Lançadores Especificados: Uma aposta na qual ambos os Lançadores Listados devem começar o jogo. Se os lançadores iniciais reais não forem os listados no bilhete de aposta, a aposta será considerada “Sem Ação” e reembolsada.
+Todas as outras apostas de mercado são consideradas “Ação” e permanecerão abertas independentemente de qualquer mudança de pessoal.
+Lançadores Listados não são relevantes para mercados de Baseball Mundial e apostas nesses mercados permanecerão válidas independentemente de quaisquer Lançadores Listados iniciarem ou não. Em caso de empate, as apostas Money Line serão avaliadas como empate (push) e os demais mercados serão liquidados de acordo com o resultado.
+3. Props de Jogador
+Para todos os mercados de jogadores da MLB, as apostas serão nulas conforme descrito abaixo (a menos que explicitamente declarado em regras específicas do mercado):
+Mercado de Lançador:
+Se o lançador listado não iniciar o jogo.
+Mercado de Batedor (Home Runs, Hits, Corridas, RBI’s, Bases Totais, Bases roubadas):
+se o jogador listado não estiver incluído na escalação inicial e não registrar pelo menos uma aparição no bastão. Especificamente para mercados de Aparição no Bastão oferecidos ao vivo, os jogadores não precisam atender às qualificações de início mencionadas para que esses mercados tenham ação (ex. Resultado de Aparição no Bastão para um Batedor de Situação, etc.).
+Para Hitar um Home Run & Parlay de Home Run / Vencedor do Jogo:
+Os jogadores listados devem estar incluídos na escalação inicial e registrar pelo menos uma aparição no bastão para que as apostas tenham validade. Lançadores listados não influenciam esse mercado.
+Para que apostas tenham ação em qualquer mercado relacionado a Aparições no Bastão (Batter Up – Resultado do 1º Pitch, Resultado de Aparição no Bastão, Batter Up, Pitches por Aparição no Bastão, Plate Appearance 3-Way), a aparição no bastão deve ocorrer até a conclusão. Aparições no bastão de jogadores não titulares (ex. pinch hitters) que forem oferecidas não estarão sujeitas aos requisitos de ação mencionados (ou seja, inclusão na escalação inicial). Se um jogador começar uma aparição no bastão, mas a inning terminar antes que a aparição seja concluída (ex. por roubo de base ou outro out na base), a aparição não contará para liquidação. Estatísticas de uma aparição que não foi concluída na metade anterior do inning não terão ação, até que a aparição seja concluída na metade seguinte. Se o jogador não tiver outra aparição no bastão no jogo, os mercados associados serão anulados. Mercados de Pitch-by-Pitch não requerem que as aparições no bastão sejam concluídas para ação — uma vez que o arremesso listado ocorra na metade do inning, o mercado será de ação.
+Resultado de Aparição no Bastão:
+Os jogadores listados devem registrar a aparição no bastão relevante para que as apostas tenham validade. Se os jogadores listados não registrarem uma aparição, as apostas nesse mercado serão anuladas. Se um jogador for substituído durante as aparições no bastão, as apostas nas aparições já ocorridas permanecerão válidas. No entanto, apostas em aparições futuras serão anuladas. Para fins de liquidação, hit por arremessador (HBP) será avaliado como Walk/HBP. Uma escolha do defensor, interferência do receptor ou alcance por erro serão considerados “outros resultados”. Um arremesso deve ser lançado na aparição para que as apostas tenham ação. Se nenhum arremesso for lançado (ex. equipe de arremesso opta por caminhar intencionalmente o batedor antes de lançar qualquer arremesso), as apostas nesse mercado serão anuladas. Isso não afetará outros mercados relacionados ao resultado (ex. walk-off que resulta em RBI para o batedor).
+Mercado de Batter Up:
+Refere-se a três mercados individuais oferecidos para cada aparição no bastão (Resultado do 1º Pitch, Resultado 3-Way, e Total de Pitches O/U). Os jogadores listados devem registrar a aparição no bastão relevante para que as apostas nesse mercado tenham ação. Se os jogadores listados não registrarem uma aparição, as apostas nesse mercado serão anuladas. Se um jogador for substituído durante as aparições no bastão, as apostas nas aparições já ocorridas permanecerão válidas. No entanto, apostas em aparições futuras serão anuladas. Um arremesso deve ser lançado na aparição para que as apostas tenham ação. Se nenhum arremesso for lançado na aparição, as apostas serão anuladas. Para que os mercados de Batter Up tenham ação, a aparição deve ocorrer até a conclusão (ex. se o batedor estiver na metade da aparição e uma terceira eliminação ocorrer para encerrar a inning, o mercado será liquidado apenas com os arremessos lançados na aparição oficial que começar na próxima inning).
+Batter Up - 1º Mercado de Pitch:
+Liquidação baseada no primeiro arremesso lançado ao batedor listado. Para fins de liquidação, uma interferência por erro, interferência do receptor ou foul ball que resulta em um out será considerada “Hit/In Play”. Se uma violação do arremessador ou do batedor resultar em uma bola ou strike automático, o mercado será liquidado com base no resultado da violação (ex. se uma violação do arremessador resultar em uma bola automática, “Ball” será a seleção vencedora).
+Batter Up - 3-Way de Aparição no Bastão:
+Para fins de liquidação, HBPs serão considerados “Outro Resultado”. Uma escolha do defensor, interferência do receptor ou alcance por erro serão considerados “Outro Resultado”.
+Batter Up - Pitches por Aparição no Bastão:
+Balls/strikes automáticos resultantes de violações do arremessador/batedor contarão como pitches para fins de liquidação. Se qualquer arremesso ou violação ocorrer antes de uma caminhada intencional, todas as apostas terão ação. As mesmas regras de liquidação se aplicam a mercados alternativos de Pitches por Aparição no Bastão (X+).
+Mercado de Reaching Base:
+Liquidação baseada na probabilidade do batedor alcançar a base (ex. marcou ou está seguro em uma base ao final da aparição). Seleções vencedoras incluem todos os home runs e outros resultados onde o batedor não é eliminado ao final da jogada. Um arremesso deve ser lançado para que as apostas tenham ação. Se nenhum arremesso for lançado, as apostas serão anuladas.
+Para Hitar o Primeiro Home Run:
+Os jogadores listados devem estar na escalação inicial e registrar pelo menos uma aparição no bastão para que as apostas tenham validade. Se os jogadores listados não estiverem na escalação inicial e não registrarem aparição, as apostas nesse jogador serão anuladas. Se um jogador não listado for declarado vencedor, as apostas nos jogadores listados qualificados terão ação. Se nenhum home run for hit, “Sem Home Run” será a seleção vencedora.
+Para Hitar o Próximo Home Run:
+Os jogadores de posição listados devem registrar pelo menos uma aparição no bastão para que as apostas nesse mercado tenham ação. Se os jogadores listados não registrarem aparição, as apostas nesse jogador serão anuladas. Uma vez que um jogador registre uma aparição, apostas feitas nesse jogador para todos os índices subsequentes (Próximo a Hitar o 3º Home Run, 4º Home Run, etc.) permanecerão válidas, independentemente do número de aparições que o jogador registre no jogo. Se nenhum “Próximo Home Run” for hit, “Sem Xº Home Run” será a seleção vencedora.
+Mercado de Hitar um Hit:
+Os jogadores listados devem registrar pelo menos uma aparição no bastão para que as apostas nesse mercado tenham ação. Se os jogadores listados não registrarem aparição, as apostas serão anuladas. Uma vez que um jogador registre uma aparição, as apostas em todos os mercados de hits subsequentes (2+ hits, 3+ hits, etc.) permanecerão válidas, independentemente do número de aparições que o jogador registre no jogo.
+Para Total de Bases:
+Bases Totais são registradas por hits. Não incluem walks, HBPs, reach on errors ou fielder’s choices.
+Total de Strikeouts do Lançador:
+O lançador listado deve iniciar para que as apostas tenham ação. Se o lançador listado adversário não iniciar, as apostas ainda permanecerão válidas.
+Strikeouts Alternativos:
+O lançador listado deve iniciar para que as apostas tenham ação. Se o lançador adversário listado não iniciar, as apostas ainda permanecerão válidas.
+Dobradas de Performance do Lançador:
+O lançador listado deve iniciar para que as apostas tenham ação. Se o lançador adversário listado não iniciar, as apostas ainda permanecerão válidas.
+Outs do Lançador:
+O lançador listado deve iniciar para que as apostas tenham ação. Se o lançador adversário listado não iniciar, as apostas ainda permanecerão válidas.
+Salva do Lançador:
+Mercados de salva serão de ação independentemente de o lançador listado aparecer ou não no jogo.
+Strikeouts no 1º inning:
+Uma mudança no status de qualquer lançador listado ou na escalação não afetará a liquidação deste mercado. Para o mercado “Cada Lançador Início 1+ Strikeouts no Primeiro Inning”, os strikeouts contarão apenas se acumulados pelos lançadores que iniciam o jogo.
+Strikeouts combinados dos Lançadores Início do Jogo:
+Ambos os lançadores listados devem iniciar para que as apostas tenham ação. O número total de strikeouts dos lançadores iniciais será considerado para liquidação.
+Qualquer Lançador para Registrar X+ Strikeouts:
+Ambos os lançadores listados devem iniciar para que as apostas tenham ação.
+Corridas Autorizadas do Lançador:
+O lançador listado deve iniciar para que as apostas tenham ação.
+Cada Time para Registrar 1+ Strikeouts na Xª Inning:
+Uma mudança no status de qualquer lançador listado ou na escalação não afetará a liquidação. Essas apostas referem-se à 2ª inning em diante, onde os strikeouts acumulados por todos os lançadores na inning específica contarão para a liquidação.
+Cada Time para Registrar 1+ Hit na Xª Inning:
+Uma mudança no status de qualquer lançador listado ou na escalação não afetará a liquidação.
+Início de Qualidade:
+Ocorre quando pelo menos 6 innings são lançados permitindo três ou menos corridas merecidas. Se um lançador singular for listado, ele deve realizar a façanha individualmente para que as apostas sejam vencedoras. Se o time for listado (ex. Time X para lançar um Início de Qualidade), vários lançadores podem ser usados para realizar a façanha.
+No-Hitter:
+Um jogo oficial sem hits ocorre quando um lançador (ou lançadores) permite nenhum hit durante toda a duração do jogo, que consiste em pelo menos nove innings (mínimo de 27 outs) lançados pelo(s) lançador(es). Se um lançador singular for listado, ele deve realizar a façanha individualmente para que as apostas sejam vencedoras. Se o time for listado (ex. Time X para fazer um No-Hitter combinado), vários lançadores podem ser usados para realizar a façanha.
+Jogo Perfeito:
+Para um Jogo Perfeito, o(s) lançador(es) deve(m) cumprir todos os requisitos de um No-Hitter, mas também não permitir que nenhum corredor alcance a base por walk, HBP, strikes não pegados, interferência do receptor ou do defensor, ou erros de campo. Se um lançador singular for listado, ele deve realizar a façanha individualmente. Se o time for listado (ex. Time X para um Jogo Perfeito), vários lançadores podem ser usados.
+Maddux:
+Um Maddux descreve uma partida na qual um lançador lança um shutout completo de pelo menos 9 (nove) innings com menos de 100 (cem) arremessos. Um lançador singular deve realizar essa façanha durante toda a duração do jogo para que as apostas sejam liquidadas como vitória.
+Inning Imaculado:
+ocorre quando há 3 (três) strikeouts com no máximo 9 (nove) arremessos totais. Strike automáticos contam como strikes para um Inning Imaculado. Para mercados que oferecem “qualquer time para lançar um Inning Imaculado”, um Inning Imaculado combinado entre dois lançadores será considerado uma seleção vencedora. Para mercado que oferece um lançador específico para lançar um Inning Imaculado, o lançador listado deve completar o inning sozinho.
+Sem Hits nos Primeiros X Innings:
+Quando um lançador (ou lançadores) permite(n) nenhum hit durante os primeiros X Innings de um jogo. Se um lançador singular for listado, ele deve realizar a façanha individualmente. Se o mercado listar o time, o time deve permitir zero hits nos primeiros X innings para que a aposta seja válida.
+Parlay de Performance de Jogador:
+Para lançadores, o lançador listado deve iniciar para que as apostas tenham ação. Para batedores, o jogador listado deve estar na escalação inicial e registrar pelo menos uma aparição no bastão. Se os jogadores listados não estiverem na escalação inicial e não registrarem aparição, as apostas nesse jogador serão anuladas. Uma mudança no status de qualquer lançador listado não afetará a liquidação de qualquer parlay de jogador específico de batedor.
+Resultado do Primeiro Arremesso do Primeiro Meio-Inning:
+Liquidação baseada no primeiro arremesso lançado no meio-inning listado. Uma mudança no status de qualquer lançador listado ou na escalação não afetará a liquidação. Para fins de liquidação, interferência por erro, interferência do receptor ou foul ball que resulta em um out será considerado “Outro Resultado”. As bolas/bats que terminam a aparição (ex. hits/out) não serão considerados strikes para liquidação. Se uma violação do arremessador ou do batedor resultar em uma bola ou strike automático, o mercado será liquidado com base no resultado da violação (ex. se uma violação do arremessador resultar em uma bola automática, “Ball” será a seleção vencedora).
+Método do Primeiro Hit:
+Liquidação baseada no método pelo qual o primeiro hit do jogo (para qualquer time) ocorre. Uma mudança no status de qualquer lançador listado não afetará a liquidação. Se nenhum hit for registrado, “Sem Hit” será a seleção vencedora.
+Método do Primeiro RBI:
+Liquidação baseada no método pelo qual o primeiro RBI do jogo (para qualquer time) ocorre. RBIs não registrados por um hit serão classificados como “Outro”. Se nenhum RBI for registrado, “Sem RBI” será a seleção vencedora.
+Jogador para registrar o Primeiro Hit:
+Os jogadores listados devem estar na escalação inicial e registrar pelo menos uma aparição no bastão. Se não estiverem na escalação inicial ou não registrarem aparição, as apostas serão anuladas. Se um jogador não listado for declarado vencedor, as apostas nos jogadores qualificados terão ação. Se nenhum hit for registrado, “Sem Primeiro Hit” será a seleção vencedora.
+Jogador para Registrar o Primeiro RBI:
+Os jogadores listados devem estar na escalação inicial e registrar pelo menos uma aparição no bastão. Se não estiverem na escalação inicial ou não registrarem aparição, as apostas serão anuladas. Se um jogador não listado for declarado vencedor, as apostas nos jogadores qualificados terão ação. Se nenhum RBI for registrado, “Sem RBI” será a seleção vencedora.
+Jogador para Registrar a Primeira Corrida:
+Os jogadores listados devem estar na escalação inicial e registrar pelo menos uma aparição no bastão. Se não estiverem na escalação inicial ou não registrarem aparição, as apostas serão anuladas. Se um jogador não listado for declarado vencedor, as apostas nos jogadores qualificados terão ação.
+Jogador para Registrar a Primeira Base Roubada:
+Os jogadores listados devem estar na escalação inicial e registrar pelo menos uma aparição no bastão. Se não estiverem na escalação inicial ou não registrarem aparição, as apostas serão anuladas. Se um jogador não listado for declarado vencedor, as apostas nos jogadores qualificados terão ação. Se nenhuma base roubada for registrada, “Sem Base Roubada” será a seleção vencedora. Em caso de roubo duplo, o corredor líder será considerado o vencedor.
+Jogador para Hitar o Primeiro Home Run do Dia:
+Se o jogador listado estiver na escalação inicial e registrar pelo menos uma aparição no bastão, as apostas terão ação. Jogadores não titulares serão anulados. A liquidação será determinada pelo horário em que o primeiro home run for hit, e não pelo tempo decorrido ou inning do jogo.
+Jogador para Hitar o Home Run Mais Longo do Dia:
+Se o jogador listado estiver na escalação inicial e registrar pelo menos uma aparição no bastão, as apostas terão ação. Jogadores não titulares serão anulados. A distância do home run será liquidada de acordo com os resultados oficiais publicados pelo Statcast da MLB.     
+Jogador para Hitar um Home Run na Primeira Aparição no Bastão:
+Os jogadores listados devem registrar pelo menos uma aparição no bastão. Se não estiverem na escalação inicial ou não registrarem aparição, as apostas serão anuladas. Se nenhum arremesso for lançado na primeira aparição, as apostas serão anuladas.
+Para mercados de prop de jogador que especificam uma faixa de inning, os jogadores devem registrar uma aparição na faixa de inning listada para que haja ação. Por exemplo, um jogador deve registrar uma aparição na primeira 5 innings para apostas nesse mercado.
+Jogador para Marcar a Última Corrida em Innings Extras na Equipe Vencedora:
+Apostas de todos os mercados. Liquidação baseada no jogador que marcar a última corrida em innings extras na equipe vencedora.
+Jogador para Registrar a Última RBI em Innings Extras na Equipe Vencedora:
+Apostas de todos os mercados. Liquidação baseada no jogador que registrar a última RBI em innings extras na equipe vencedora.
+Equipe da Casa Vem de Trás em Innings Extras para Vencer: Para apostas serem vencedoras, a equipe da casa deve estar atrás desde o 10º inning e vencer o jogo.
+3 Up, 3 Down:
+Ocorre quando apenas três batedores entram em campo e registram aparições oficiais no bastão durante o inning listado. É possível que jogadores alcancem a base e ainda assim ocorra um “3 Up, 3 Down”.
+9 Up, 9 Down:
+Ocorre quando apenas nove batedores entram em campo e registram aparições oficiais no bastão durante os três primeiros innings. É possível que jogadores alcancem a base e ainda assim ocorra um “9 Up, 9 Down”. Este mercado refere-se apenas ao lançador inicial, que deve realizar a façanha individualmente para que as apostas sejam vencedoras. O lançador listado deve iniciar o jogo.
+Velocidade do Arremesso:
+Os mercados de velocidade do arremesso serão liquidados de acordo com os resultados oficiais publicados pelo Statcast da MLB. Se uma violação ocorrer antes do arremesso na aparição, as apostas serão liquidadas com base no primeiro arremesso após a violação. Para mercados de velocidade do lançador inicial, o confronto listado deve ocorrer para que as apostas tenham ação. Para mercados de velocidade de lançadores de alívio, o confronto listado deve ocorrer na inning listada para que as apostas tenham ação.
+Faixas de Velocidade do Arremesso:
+Liquidação conforme resultados oficiais do Statcast da MLB. Violação antes do arremesso resultará na liquidação com o primeiro arremesso após a violação.
+Tipo de Arremesso:
+Liquidação de acordo com resultados oficiais publicados pelo mlb.com no play by play.
+Caller do Arremesso:
+Liquidação com base no tipo e resultado do primeiro arremesso na meia-inning listada. Mudança no lançador listado anulará o mercado. Interferência por erro, interferência do receptor ou foul ball que resulta em out será considerado “Outro Resultado”.
+Velocidade de Saída da Bola:
+Liquidação conforme resultados oficiais do Statcast da MLB.
+Hitar uma “Laser”:
+Uma “Laser” é definida como um home run que é atingido (sobre a parede) com uma velocidade de saída maior ou igual a 110 milhas por hora, conforme publicado pelo Statcast da MLB.
+Hitar uma “Moon Shot”:
+Uma “Moon Shot” é definida como um home run que viaja 420+ pés. A distância será liquidadas de acordo com resultados oficiais do Statcast da MLB.
+Hitar uma “No-Doubter”:
+Uma “No-Doubter”, conforme definido pelo Statcast da MLB, é um home run que deve ultrapassar a cerca do campo externo em todos os 30 parques de baseball da MLB.
+Jogador para Registrar a Maior Velocidade de Saída em uma Bola Bateada:
+Os jogadores listados devem estar na escalação inicial e registrar pelo menos uma aparição no bastão. Se um jogador não listado for declarado vencedor, apostas nos jogadores qualificados serão de ação.
+Faixas de Velocidade de Saída:
+Liquidação conforme resultados oficiais do Statcast da MLB. O resultado se refere apenas ao arremesso que termina a aparição oficial. Se nenhum arremesso for lançado, as apostas serão anuladas. Para apostas de ação, a aparição deve ocorrer até a conclusão (ex. se o jogador estiver na metade da aparição e um terceiro out ocorrer, o mercado será de ação apenas com os arremessos lançados na aparição oficial que começar na próxima inning). “Ball Not In Play” refere-se a walks, HBPs, interferência do receptor e strikeouts (incluindo foul balls com dois strikes).
+Distância do Home Run:
+Liquidação conforme resultados oficiais do Statcast da MLB. Se home runs de mesma distância ocorrerem, todas as apostas serão anuladas.
+Home Run Interno:
+Ocorre quando um batedor bate a bola em jogo (não sobre a parede) e percorre todas as quatro bases sem ser eliminado. Erros que contribuam para que o jogador percorra as quatro bases sem ser eliminado não serão considerados home runs internos.
+Distância da Bola / Distância Percorrida:
+Liquidação conforme resultados oficiais do Statcast da MLB.
+Equipe com Mais Runners Left on Base:
+Liquidação pelo número de jogadores deixados nas bases ao final de cada inning. Se as equipes tiverem o mesmo número, as seleções serão anuladas.
+Total de Sacrifice Flies da Equipe:
+Liquidação pelo número de flies que permitem que um corredor marque, conforme o play by play do mlb.com.
+Para Hitar por Team Cycle:
+Equipe que registra um single, double, triple e home run na mesma partida.
+Home Runs Consecutivos:
+Liquidação com base nos home runs ocorridos em batidas consecutivas. Home runs em innings diferentes não contarão para liquidação.
+Total de Hits + Corridas + RBIs:
+Mercado combinado baseado nos hits + corridas + RBIs de um jogador. Os jogadores listados devem registrar pelo menos uma aparição no bastão. Se não registrarem, a aposta será anulada.
+Para jogadores de duas vias, strikeouts referem-se aos registrados enquanto arremessam, salvo indicação contrária.
+Mercado de 1º Inning de Strikeouts:
+Liquidação baseada no primeiro arremesso na meia-inning listada. Mudanças no lançador ou na escalação não afetarão a liquidação. Strikeouts contarão apenas se ocorrerem pelos lançadores que iniciam o jogo.
+Líder de Strikeouts na Série Regular:
+Liquidação apenas pelos lançadores que iniciam na data listada. Empates serão resolvidos por regras de empate morto.
+Vencedor da Série Regular:
+Equipes devem jogar o número de jogos originalmente programados para que a aposta seja válida, salvo resultados previamente determinados. Empates na série também são considerados de acordo com as regras de empate morto.
+Surviver a Shutout:
+Última equipe a ser zerada (score zero) em jogo oficial durante a temporada. Se duas equipes forem zeradas no mesmo dia, regras de empate morto se aplicam. Pode ser reoferecido ao longo da temporada após todas as equipes serem zeradas.
+Próxima Vitória / Derrota:
+Jogos listados em ordem sequencial de série. Se uma série não ocorrer na ordem, a aposta será anulada.
+Primeiro a / Próximo a X+ Vitórias:
+Regras de empate morto se as equipes atingirem o feito na mesma data.
+Distância do Home Run:
+A menos que declarado de outra forma, apostas na distância do home run não incluirão home runs em desempates por swing-off.
+Derby de Home Run:
+Todas as apostas serão avaliadas com base nos resultados oficiais publicados pelo mlb.com.Distâncias de home run serão avaliadas de acordo com os dados do Statcast da MLB. Haverá um desempate por swing-off: avaliado se ocorrerá um desempate.
+Maior Home Run Consecutivo:
+avaliado quem atingir o maior número de home runs consecutivos em uma rodada.
+Número de Home Runs Consecutivos:
+avaliado o número exato de home runs consecutivos em uma rodada.
+Número de Pitches antes do Primeiro Home Run:
+avaliado o número exato do pitch que resultou no primeiro home run.
+Maior Home Run em uma Rodada:
+avaliado quem atingir o maior número de home runs em uma rodada.
+Home Run mais Longo:
+avaliado quem atingir o home run mais longo, com base na distância.
+Home Run com Maior Velocidade de Saída:
+avaliado quem atingir o home run com maior velocidade de saída, com regras de empate em caso de empate.
+Mercado do Primeiro Swing:
+avaliado com base no primeiro pitch que o batedor fizer contato.
+Spring Training da MLB:
+Resultados oficiais do mlb.com.
+Jogos podem ser encurtados a critério de qualquer equipe. Em caso de jogo encurtado:
+Apostas Money Line serão liquidadas conforme a Regra de 4,5 Innings.
+Apostas em Total de Corridas que sejam claramente determinadas permanecerão válidas. Mercados de Run Line serão anulados conforme a Regra de 8,5 Innings.
+Em caso de empate, todas as apostas Money Line serão anuladas.
+5. Visão Geral de Mercados Específicos da MLB
+Todas as regras abaixo são específicas para jogos de 9 innings. Para jogos de 7 innings, consulte as regras gerais acima.
+Money Line:
+Liquidação conforme a Regra de 4,5 Innings.
+Mercados de Run Line:
+Liquidação conforme a Regra de 8,5 Innings.
+Total de Corridas:
+Liquidação conforme a Regra de 8,5 Innings, salvo resultados já claramente determinados.
+Double Result:
+Liquidação com base no placar ao final do 5º inning e no resultado final conforme a Regra de 8,5 Innings.
+Mercado Tri-Bet:
+Liquidação conforme a Regra de 8,5 Innings.
+Mercado Ímpar/Par:
+Liquidação conforme a Regra de 8,5 Innings. Zero será considerado par.
+Margem de Vitória:
+Liquidação conforme a Regra de 8,5 Innings.
+Equipe que Marcará Primeiro:
+Liquidação na primeira corrida do jogo, incluindo extras.
+Equipe que Marcará por Último:
+Liquidação conforme a Regra de 8,5 Innings, incluindo extras.
+Inning com Maior Pontuação:
+Inclui innings extras, conforme a Regra de 8,5 Innings. O primeiro “meio” de jogo será os primeiros 5 innings, o segundo os demais.
+Inning com Menor Pontuação:
+Liquidação conforme a Regra de 8,5 Innings. Innings extras considerados na pontuação.
+Inning de Primeira / Última Pontuação:
+Liquidação conforme a Regra de 8,5 Innings, salvo resultados já claramente determinados.
+Mercado de Pontuação por Inning:
+O inning ou meia-inning deve ser totalmente jogado para apostas serem válidas.
+Placar Correto de Inning: Liquidação baseada apenas nas corridas daquele inning.
+Mercado de 3 / 5 / 7 Innings: O número de innings deve ser completado para que as apostas sejam válidas.
+Mercado de 1º Meio-Inning: Liquidação após 5 innings completos, ou conforme a regra de 4,5 innings em jogos encurtados.
+Mercado de Liderança / Corrida para X: Liquidação baseada na pontuação ao final do período ou após o número de corridas necessárias.
+Mercado de Mais Hits por Equipe: Liquidação conforme a Regra de 8,5 Innings, ou após o período completo.
+Para fins de liquidação, a equipe listada na segunda posição do nome do evento é considerada a equipe da casa, mesmo que o jogo seja em local neutro.
+6. Visão Geral de Mercados Específicos da NCAA Baseball
+Win Totals da NCAA: Uma equipe deve jogar pelo menos 95% dos jogos originalmente programados para que as apostas sejam válidas, salvo resultados previamente determinados. Jogos de 7 innings não afetam esse mercado. Jogos de torneio de conferência não são incluídos.
+Prêmios de Jogador da NCAA (ex. Golden Spikes, Jogador Mais Valioso da College World Series): Todas as apostas são de ação. Empates mortos se aplicam.
+Totais de Jogador da NCAA (Over/Under):
+Os batedores devem registrar pelo menos uma aparição no bastão na temporada regular para apostas serem válidas. Se não, apostas serão anuladas.
+7. Visão Geral de Mercados do World Baseball Classic
+Se uma regra de misericórdia for aplicada, os mercados serão liquidados de acordo com o resultado da aplicação da regra.
+Mercado de Batedor: Os jogadores listados devem estar na escalação inicial e registrar pelo menos uma aparição no bastão para que as apostas tenham ação. Se não, serão anuladas.
+Mercado de Lançador: Strikeouts podem ser oferecidos para lançadores titulares ou de alívio. O lançador listado deve lançar pelo menos um arremesso para que as apostas tenham ação.
+Vencedor do Pool: Determinado pelo país que terminar em primeiro após a fase de grupos, seguindo regras de desempate do WBC.
+Qualificação para Quartas de Final: Determinado pelas equipes que avançam, seguindo regras de desempate do WBC.
+MVP/MOP: Empates mortos se aplicam. Os jogadores devem registrar pelo menos uma aparição no bastão e os lançadores devem enfrentar pelo menos um rebatedor.

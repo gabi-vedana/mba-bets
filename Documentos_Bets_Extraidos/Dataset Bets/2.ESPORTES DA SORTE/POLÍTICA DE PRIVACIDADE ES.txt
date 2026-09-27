@@ -1,0 +1,85 @@
+1. Introdução
+A presente Política de Privacidade esclarece como a Esportes Gaming Brasil (detentora das marcas Esportes da Sorte, Onabet e Lottu) — (CNPJ 56.075.466/0001-00), licenciada pela SPA/MF Nº136/2025 — coleta, utiliza, compartilha e protege os dados pessoais dos seus usuários, em conformidade com Lei Geral de Proteção de Dados do Brasil. 
+A proteção da sua privacidade é prioridade para a Esportes Gaming Brasil, devidamente licenciada e autorizada nos termos da legislação vigente. Esta Política de Privacidade tem como objetivo esclarecer como os dados pessoais dos usuários são coletados, utilizados, armazenados, compartilhados e protegidos no ambiente digital da plataforma.
+Ao utilizar ou acessar o site ou os serviços da Esportes da Sorte, o titular de dados declara ter lido, compreendido e aceitado os termos desta Política de Privacidade e dos Termos de Uso, afirmando ter mais de 18 (Dezoito) anos e plena capacidade civil.  O uso contínuo do site ou dos serviços implicará na ciência e na aceitação das atualizações realizadas neste documento, sem prejuízo do exercício dos direitos garantidos pela Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD), bem como com as boas práticas internacionais de privacidade.
+2. Dados Coletados
+2.1. Dados de cadastro e identidade
+●     Nome completo, CPF, data de nascimento, endereço, e-mail, telefone
+
+●     Documentos para KYC (verificação de identidade e residência)
+2.2. Dados financeiros
+●   Histórico de depósitos e saques (incluindo via Pix, transferências)
+
+●  Informações processadas por parceiros de pagamento, sem retenção de dados sensíveis diretamente pela plataforma
+2.3. Dados técnicos e comportamentais
+●       IP, tipo de dispositivo, sistema operacional, localização aproximada, logs, cookies, identificadores exclusivos
+
+2.4. Dados de uso
+●       Histórico de jogos e apostas, preferências, padrão de uso no website
+
+3. Propósitos do Tratamento de Dados
+O tratamento dos dados pessoais pela Esportes Gaming Brasil observa os princípios da finalidade, necessidade, transparência e segurança, conforme definidos pela Lei Geral de Proteção de Dados (LGPD). As atividades de tratamento são realizadas com base nas seguintes finalidades e respectivas hipóteses legais:
+●       Verificar identidade e prevenir fraudes
+  Base legal: Art. 7º, inciso II — cumprimento de obrigação legal ou regulatória (ex.: prevenção à lavagem de dinheiro e financiamento ao terrorismo)
+●       Permitir a operação de jogos, apostas, pagamentos e saques
+  Base legal: Art. 7º, inciso V — execução de contrato ou de procedimentos preliminares relacionados aos Termos e Condições do qual o titular aceita para usufruir dos nossos serviços.
+●       Atender obrigações legais e regulatórias
+  Base legal: Art. 7º, inciso II — cumprimento de obrigação legal ou regulatória, inclusive conforme previsto na Lei nº 14.790/2023 e na Lei nº 9.613/1998 (Prevenção à Lavagem de Dinheiro).
+●       Oferecer suporte ao usuário e responder solicitações
+  Base legal: Art. 7º, inciso V — execução de contrato; e inciso IX — legítimo interesse, observados os direitos do titular.
+●       Personalizar a experiência e apresentar ofertas relevantes
+  Base legal: Art. 7º, inciso IX — legítimo interesse do controlador, com base em análise de perfil, respeitando o direito de oposição do titular.
+●       Garantir a segurança da plataforma e dos usuários
+  Base legal: Art. 7º, inciso VI — exercício regular de direitos; e inciso IX — legítimo interesse, especialmente no que diz respeito à proteção contra fraudes e incidentes cibernéticos.
+ 
+
+ 4. Compartilhamento de Dados
+Seus dados podem ser compartilhados com:
+●     Autoridades legais e regulatórias, quando exigido por lei;
+● Parceiros contratados que prestam serviços essenciais, como processadores de pagamento, empresas de verificação de identidade, segurança da informação e tecnologia; 
+●   EBAC – Empresa de Apoio ao Compulsivo; IAA - Instituto de Apoio ao Apostador: O Titular declara estar ciente e concorda expressamente que seus Dados Pessoais e, quando aplicável, Dados Pessoais Sensíveis poderão ser compartilhados com as prestadoras de serviço EBAC – Empresa de Apoio ao Compulsivo e IAA - Instituto de Apoio ao Apostador, exclusivamente para fins de prevenção, orientação e apoio em situações relacionadas ao jogo responsável e à ludopatia. O compartilhamento será realizado em conformidade com as diretrizes da Portaria SPA/MF nº 1.231/2024, em especial o art. 4º, VI, que determina que o agente operador de apostas deve acompanhar o comportamento dos apostadores quanto ao risco de dependência e transtornos do jogo patológico. O compartilhamento de informações sensíveis observará os deveres de confidencialidade previstos no Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005), especialmente quanto:
+(i) à limitação das informações ao estritamente necessário para a qualificação do serviço (art. 6º, b);
+(ii) à proteção da intimidade do Titular mediante sigilo profissional (art. 9º); e
+(iii) à possibilidade de quebra de sigilo apenas nos casos autorizados em lei ou diante da necessidade de evitar prejuízo maior, hipótese em que serão prestadas somente as informações indispensáveis (art. 10 e parágrafo único).
+5. Direitos dos Usuários (LGPD)
+Nos termos da LGPD, você possui os seguintes direitos:
+●       Acesso aos dados pessoais tratados;
+●       Correção de dados incompletos ou desatualizados;
+●       Anonimização, bloqueio ou eliminação de dados desnecessários;
+●       Portabilidade dos dados;
+●       Revogação do consentimento, quando aplicável;
+●       Informações sobre compartilhamento com terceiros.
+
+Caso deseje exercer os direitos previstos na Lei Geral de Proteção de Dados (LGPD), o Titular deverá entrar em contato com a Encarregado de Proteção de Dados (DPO), por meio do canal indicado na seção específica desta Política.
+Ressaltamos que o canal do Encarregado de Dados é destinado exclusivamente a solicitações relacionadas ao tratamento de dados pessoais. Para demais demandas de suporte ou atendimento sobre os serviços da Esportes da Sorte, o Titular deverá utilizar nossos canais oficiais de atendimento ao cliente.
+6. Retenção de Dados
+Os dados pessoais serão armazenados pelo período necessário para o cumprimento das finalidades descritas nesta Política, bem como para atender às obrigações legais, regulatórias e contratuais aplicáveis. Em especial, os dados relacionados à identificação do usuário, transações financeiras e registros de acesso serão retidos por, no mínimo, 5 (cinco) anos, conforme exigido por normas de prevenção à lavagem de dinheiro, financiamento ao terrorismo e demais regulamentações vigentes.
+7. Segurança da Informação
+A Esportes Gaming Brasil adota medidas técnicas e organizacionais apropriadas para garantir a integridade, confidencialidade e disponibilidade dos dados pessoais, nos termos do art. 46 da Lei nº 13.709/2018 (LGPD). Dentre essas medidas, destacam-se:
+●     Implementação de protocolos de criptografia ponta a ponta (SSL/TLS) para proteger a comunicação e o armazenamento de informações;
+●    Monitoramento contínuo da infraestrutura tecnológica e resposta a incidentes;
+●     Controle de acesso baseado em níveis de autorização e segregação de funções;
+●      Realização periódica de auditorias de segurança e conformidade;
+●     Utilização de autenticação multifator e outros mecanismos para mitigar riscos de acesso não autorizado.
+Essas práticas visam prevenir o tratamento indevido, vazamentos, acessos não autorizados ou quaisquer outras formas de violação dos dados pessoais dos usuários.
+8. Transferência Internacional de Dados
+Na hipótese de realização de transferência internacional de dados pessoais, adotaremos todas as medidas necessárias para assegurar que tais dados sejam tratados de forma segura e em conformidade com esta Política de Privacidade, com a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados – LGPD) e com a regulamentação aplicável expedida pela Autoridade Nacional de Proteção de Dados (ANPD), incluindo a Resolução CD/ANPD nº 19/2024.
+As transferências internacionais, quando aplicáveis, serão realizadas mediante a adoção de mecanismos legalmente previstos, tais como cláusulas contratuais-padrão, normas corporativas globais (BCRs) ou outras salvaguardas reconhecidas pela ANPD, sempre observando as bases legais adequadas e os princípios da necessidade, adequação e segurança.
+Os países e/ou organismos internacionais eventualmente envolvidos em transferências internacionais de dados encontram-se devidamente mapeados no Registro de Operações de Tratamento de Dados Pessoais (ROPA) da organização, em consonância com nossa estrutura de governança em privacidade e proteção de dados.
+Esta Política de Privacidade poderá ser atualizada para refletir eventuais alterações nas operações de tratamento ou nas salvaguardas adotadas para a proteção dos dados pessoais.
+9. Menores de 18 anos
+Em conformidade com a Lei nº 14.790/2023, o cadastro e a participação de pessoas menores de 18 anos nas atividades da plataforma são expressamente proibidos. Havendo indício ou comprovação de que um usuário é menor de idade, a conta será imediatamente suspensa, os dados pessoais serão eliminados de forma segura e as autoridades competentes poderão ser notificadas, conforme exigência legal.
+10. Encarregado de Dados
+Nos termos da LGPD, a Esportes Gaming Brasil indica como Encarregado pelo Tratamento de Dados Pessoais (Data Protection Officer - DPO):
+Nome: Julia Medeiros Figueiredo
+E-mail para contato: dpo@grupoegb.com
+Canal de Atendimento: Exclusivo para solicitações relacionadas à proteção de dados pessoais.
+A DPO é responsável por atuar como canal de comunicação entre a Esportes Gaming Brasil, os titulares de dados e a Autoridade Nacional de Proteção de Dados (ANPD), além de orientar sobre práticas internas de privacidade e segurança.
+Caso deseje exercer os direitos previstos na Lei Geral de Proteção de Dados (LGPD), tais como confirmação da existência de tratamento, acesso, correção, anonimização, portabilidade, revogação de consentimento, entre outros, o Titular deverá entrar em contato com a Encarregado de Proteção de Dados (DPO), por meio do canal indicado na seção específica desta Política.
+Ressaltamos que o canal do Encarregado de Dados é destinado exclusivamente a solicitações relacionadas ao tratamento de dados pessoais. Para demais demandas de suporte ou atendimento sobre os serviços da Esportes da Sorte, o Titular deverá utilizar nossos canais oficiais de atendimento ao cliente.
+As demandas ou solicitações recebidas pela Encarregado de Tratamento de Dados serão analisadas, tratadas e respondidas em conformidade com as regras e os prazos estabelecidos na LGPD.
+11. Atualizações da Política
+A presente Política de Privacidade poderá ser modificada a qualquer tempo, seja para atender a novas exigências legais ou regulamentares, seja para refletir mudanças institucionais, tecnológicas ou relacionadas aos serviços oferecidos pela Esportes da Sorte.
+Recomendamos que o Titular revise periodicamente esta Política, especialmente a cada novo acesso ao site ou utilização de nossos serviços.
+Data da última atualização: 11/02/2026
+

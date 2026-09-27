@@ -1,0 +1,1011 @@
+REGULAMENTAÇÃO DE APOSTAS
+SPRBT INTERACTIVE BRASIL LTDA, uma sociedade de responsabilidade limitada, registrada com o CNPJ/MF de N° 54.071.596/0001-40, com sede na Capital do Estado de São Paulo, em Alameda Rio Claro, nº 241, 11º Andar, Sala 11-101, Bela Vista, CEP 01332-907 (referido adiante como a “Operadora”, “Superbet”, “Empresa”, ou “nós”), licenciada e regulada pela Secretaria de Prêmios e Apostas (SPA), divulga a presente Regulamentação de Apostas relacionada às regras para apostas com odds fixas, entre a OPERADORA e o(a) JOGADOR(A). 
+1 DEFINIÇÕES 
+Para os fins do presente REGULAMENTAÇÃO DE APOSTAS, a terminologia em letras maiúsculas será definida da seguinte forma: 
+CUPOM DE APOSTA - representa parte do contrato entre a OPERADORA e o(a) JOGADOR(A) (doravante referido como “cupom”/ “cupom de aposta”), emitido na plataforma de apostas da OPERADORA. Um CUPOM DE APOSTA pode conter uma ou mais apostas. 
+BÔNUS - o benefício que pode ser obtido adicionalmente pelo(a) JOGADOR(A), sem quaisquer taxas ou impostos adicionais, de acordo com as REGRAS DE APOSTAS DA OPERADORA, dentro de um determinado período e/ou para determinados eventos. 
+PRÊMIOS - o montante de dinheiro, bens ou serviços fornecidos pela OPERADORA a qualquer JOGADOR(A) com base em um ou mais CUPONS DE APOSTAS vencidas e declaradas, de acordo com as REGRAS DE APOSTAS. Observação: O PRÊMIO DE UM ÚNICO CUPOM DE APOSTA é calculado pela multiplicação das odds de todos os eventos (odds finais) pelo VALOR DA APOSTA, adicionando-se o BÔNUS potencial (se aplicável). O PRÊMIO de um cupom de aposta do SISTEMA é calculado, computando-se todas as versões de prêmios e somando-as. Levando-se em consideração esse cálculo, a conclusão é que qualquer jogo que receba uma odd 1 não influencia o status do CUPOM DE APOSTA, ou seja, em termos deste ser ou não ser vencedor. Se um jogo receber uma odd 1, o JOGADOR(A) não perde o CUPOM DE APOSTA, mas apenas seu PRÊMIO é diminuído (e eventualmente o nível de bônus, se for o caso). 
+ODD - representa um número dado pela OPERADORA a uma PREDIÇÃO DE APOSTA. Observação: As odds dos eventos definidas pela OPERADORA podem variar com o passar do tempo, até o início do evento, mas a ODD aceita pelo(a) JOGADOR(A) e exibida no CUPOM DE APOSTA permanecerá válida, independentemente de alterações futuras, exceto nas situações previstas no Regulamento. 
+ERRO – um erro evidente no CUPOM DE APOSTA/na OFERTA. Observação: Em caso de ERRO DE EXIBIÇÃO, ERROS NO CUPOM DE APOSTAS ou dados INCORRETOS inseridos no sistema, a OPERADORA tem o direito de considerar as apostas como APOSTAS NULAS/INVÁLIDAS ou liquidá-las utilizando o dados corretos, mesmo que os ERROS sejam descobertos após o término do Evento. 
+JOGO/APOSTAS - atividade que envolve fazer uma aposta no resultado aleatório/incerto de um evento futuro, com o objetivo de ganhar. O(A) JOGADOR(A) faz uma APOSTA/PAGA O VALOR DA APOSTA (pagando a taxa de jogo) no resultado (futuro) de um ou mais eventos da OFERTA DA OPERADORA e, de acordo com o resultado desse(s) evento(s), é possível GANHAR uma quantia em dinheiro de acordo com o valor da aposta paga pelo JOGADOR, desde que todas as REGRAS E REGULAMENTOS DE APOSTAS sejam respeitados. 
+VALOR DA APOSTA – quantia de dinheiro que o(a) JOGADOR(A) está colocando/pagando pelo resultado do(s) evento(s) em um CUPOM DE APOSTA. 
+OFERTA DE APOSTAS/LISTA DE EVENTOS – total de eventos que a OPERADORA está oferecendo aos JOGADORES e em quais resultados eles podem apostar. A OFERTA pode incluir os seguintes detalhes: código do evento, participantes (a regra geral é: o time da casa vem escrito no lado esquerdo, mesmo que o evento ocorra em um local neutro), as odds estabelecidas para os possíveis resultados do evento, quaisquer outros dados de interesse (condições/restrições de apostas/evento que ocorra em um local neutro etc.), data e hora de início do evento. 
+Observação: As informações sobre o horário de início dos eventos, inseridas na OFERTA, são apenas para fins informativos. 
+APOSTA - representa uma quantia de dinheiro colocada no resultado imprevisível de um evento futuro (que ocorrerá após a inclusão do CUPOM DE APOSTA), um evento que esteja incluído na OFERTA DE APOSTAS DA OPERADORA. 
+APOSTA NULA/APOSTA INVÁLIDA/APOSTA INVALIDADA - representa a(s) aposta(s) que, por motivos razoáveis e de acordo com a REGULAMENTAÇÃO DE APOSTAS, será(ão) anulada(s) após o(s) evento(s) nos quais foi(ram) apostada(s) já ter(em) ocorrido. Para apostas com uma ou mais seleções no CUPOM DE APOSTAS, o PRÊMIO final será calculado levando-se em consideração a ODD 1 da(s) seleção(ões) declarada(s) NULA(S)/INVALIDADA(S). 
+JOGADOR(A) - pessoa com pelo menos 18 anos de idade, com uma conta ativa na plataforma de jogos de azar on-line, que deseja e tem o direito legal de participar das atividades de jogos de azar organizadas pela Operadora, sendo que sua participação pressupõe a aceitação incondicional da REGULAMENTAÇÃO DE APOSTAS, bem como dos TERMOS E CONDIÇÕES DE USO DO SITE. 
+PREDIÇÃO - previsão sobre o resultado de um evento futuro. 
+REGULAMENTOs DE APOSTAS - conjunto de regras, normas e procedimentos emitidos pela OPERADORA das atividades de apostas, que estabelece a conduta das atividades de jogos de azar entre a OPERADORA e o(a) JOGADOR(A). 
+2 INTRODUÇÃO 
+1- Esta REGULAMENTAÇÃO DE APOSTAS (doravante referido como “REGULAMENTAÇÃO”) estabelece as regras gerais aplicáveis a todos os tipos de apostas da OPERADORA disponíveis para os JOGADORES, regras essas que são obrigatórias tanto para a OPERADORA quanto para o(a) JOGADOR(A). 
+2- A REGULAMENTAÇÃO é exibida na página da web da OPERADORA, de forma visível, tendo os JOGADORES a obrigação de reconhecê-la. Ao participar das atividades de jogos de azar oferecidas pela OPERADORA, o(a) JOGADOR(A) compreende e concorda plenamente em: (i) aceitar integralmente as regras desta Regulamentação; (ii) que lerá e analisará todas as regras desta Regulamentação; e (iii) que leu, entendeu e cumprirá os TERMOS E CONDIÇÕES previstos neste Regulamento. 
+3- O(A) JOGADOR(A) entende que a OPERADORA não se responsabiliza pelas situações geradas pela interpretação equivocada ou pelo desconhecimento do JOGADOR sobre as regras contidas nesta REGULAMENTAÇÃO ou das regras específicas dos eventos em que apostou. 
+4- As regras desta REGULAMENTAÇÃO deverão ser complementadas com a legislação aplicável. Além disso, a OPERADORA pode fazer acréscimos/modificações nas regras de participação na atividade de apostas, com especificações que são declaradas na OFERTA DE APOSTAS diária que a OPERADORA está listando, sendo obrigatórias para a OPERADORA, mas também para o(a) JOGADOR(A). 
+5- Todas as apostas recebidas pela OPERADORA serão válidas somente se as regras de apostas tiverem sido respeitadas. 
+6- Como OPERADORA de apostas remotas, a SPRBT INTERACTIVE BRASIL LTDA disponibiliza uma plataforma on-line onde os clientes podem se registrar, de acordo com a lei. A REGULAMENTAÇÃO está disponível para clientes e pessoas interessadas, na plataforma on-line da empresa. 
+7- Ao fazer uma aposta, o(a) JOGADOR(A) declara, sob sua própria responsabilidade, que não conhece o resultado dos futuros eventos esportivos nos quais aposta, que pode sustentar financeiramente os termos do contrato e que leu, compreendeu e concorda plenamente com as regras desta REGULAMENTAÇÃO. 
+8- A OPERADORA tem o direito de fazer alterações nesta REGULAMENTAÇÃO, caso as considere apropriadas. O(A) JOGADOR(A) é obrigado(a) a verificar periodicamente a REGULAMENTAÇÃO para se manter atualizado(a) quanto a quaisquer alterações. 
+9- O fato de continuar a usar os serviços da OPERADORA significa que o(a) JOGADOR(A) aceitou a versão atual da REGULAMENTAÇÃO. 
+3 TERMOS GERAIS 
+1- Pessoas menores de 18 anos, funcionários, parceiros, acionistas importantes, membros da equipe de gestão e do departamento de controle da OPERADORA não estão autorizados a participar de apostas e registros na plataforma on-line. A OPERADORA tem o direito de não pagar os CUPONS vencedores se for comprovado que eles pertencem às pessoas mencionadas acima. 
+2- As odds e a oferta podem ser alteradas durante o evento; as informações relativas a cada alteração são automaticamente carregadas no site da OPERADORA. 
+OBSERVAÇÃO: Nas situações em que, do momento em que é feita a aposta até quando o registro do CUPOM DE APOSTAS é feito no sistema, , as odds forem alteradas, a APOSTA válida será aquela registrada no CUPOM DE APOSTAS, salvo algumas situações previstas no REGULAMENTO. 
+3- Como regra geral, o pagamento mínimo aceito pela OPERADORA, para um único Cupom de aposta, é de R$0,50 para apostas Pré-partida, Ao Vivo e Virtual. A OPERADORA tem o direito de estabelecer VALORES DE APOSTAS mínimas nos CUPONS, respectivamente para cada combinação no caso de apostas do Sistema, dependendo do tipo de aposta e/ou evento. 
+4- O PRÊMIO máximo de um CUPOM DE APOSTA é de R$2.000.000,00 (Dois Milhões de Reais), independentemente do fato da multiplicação da ODD pelo VALOR DA APOSTA resultar em um PRÊMIO maior. 
+5- As ODDS máximas aceitas para qualquer aposta simples ou combinada realizadas são limitadas a 999.999,99. Apostas que excedam esse limite não serão processadas, e quaisquer discrepâncias serão ajustadas para cumprir esta regra. 
+6- A OPERADORA tem o direito de definir, completar e alterar as odds, competições e possibilidades de apostas, de alterar a APOSTA mínima e o PRÊMIO máximo, o número mínimo e máximo de eventos em um CUPOM DE APOSTAS, dependendo do tipo desse CUPOM DE APOSTAS. Além disso, a OPERADORA tem o direito, sem necessidade de justificativa, de não aceitar CUPONS de determinados JOGADORES, de solicitar a modificação do VALOR DA APOSTA, de não aceitar CUPONS duplicados etc. 
+7- As apostas feitas na plataforma online da OPERADORA não podem ser canceladas pelo(a) JOGADOR(A). 
+8- A OPERADORA oferece aos JOGADORES acesso a várias estatísticas, informações ou conteúdo (isto é, mas não limitado a: resultados, placares ao vivo, informações sobre eventos esportivos etc.), através de seu próprio site, através de links de terceiros ou diferentes canais de comunicação. 
+A OPERADORA não se responsabiliza pela precisão e integridade do conteúdo dessas informações, estatísticas etc., sendo oferecidas exclusivamente a título de orientação. 
+9- Como regra geral, as apostas são liquidadas imediatamente após o término do último evento registrado no CUPOM DE APOSTAS. Excepcionalmente, a liquidação pode ser feita em no máximo 3 dias úteis da data de exibição do resultado do último evento apostado no CUPOM DE APOSTAS, de acordo com as informações dos sites oficiais dos eventos/competições. 
+10- A OPERADORA não é obrigada a pagar os prêmios se os resultados das competições forem falsificados ou quando houver suspeita de manipulação do resultado da competição pelos participantes ou por terceiros, se houver evidência de fraude na aposta ou se as autoridades investigarem, decidirem e tornarem pública a fraude de um evento. 
+11- A OPERADORA processa os dados pessoais dos JOGADORES segundo a legislação aplicável, conforme especificado na Declaração/Acordo de Privacidade/Divulgação publicada no site da Superbet, um documento disponível para os JOGADORES a qualquer momento, a partir do momento da coleta de dados pessoais. 
+12- Em situações não previstas pela REGULAMENTAÇÃO, a OPERADORA tem o direito de decidir de maneira correta e imparcial, após acordar com o(a) JOGADOR(A) quanto à melhor maneira de resolvê-la e, ainda, de fazer a devida emenda nesta REGULAMENTAÇÃO. 
+4 OFERTA, PRODUTOS E FUNCIONALIDADES 
+4.1 Tipos de apostas 
+1- Pré-jogo: eventos sobre os quais o(a) JOGADOR(A) opta por prever antes do início do evento. 
+Exemplo: A OFERTA DE APOSTAS inclui jogos de futebol da primeira liga da Romênia. Alguns dias antes do início do primeiro evento, o(a) JOGADOR(A) escolhe apostar na vitória de vários times que jogarão na fase do final de semana. 
+2- Ao vivo: eventos nos quais o(a) JOGADOR(A) escolhe a APOSTA durante o evento esportivo. 
+Exemplo: A OFERTA DE APOSTAS inclui um jogo de tênis entre Roger Federer e Rafael Nadal, no qual Roger Federer venceu o primeiro set e, no segundo set, Rafael Nadal lidera com um placar de 2:1. O(A) JOGADOR(A) escolhe apostar na vitória de Rafael Nadal nesse jogo. 
+3- Apostas de realidade simulada: representam apostas geradas e disponibilizadas para o ORGANIZADOR por fornecedores terceirizados, usando dados estatísticos históricos de competições reais. 
+As competições e os eventos podem ser apresentados na oferta de apostas pré-jogo e/ou ao vivo, tendo as mesmas características (calendário do jogo, formato do jogo, opções de apostas, regras de LIQUIDAÇÃO, regras específicas da competição etc.) com os eventos e competições reais, que estão simulando e que podem ser encontrados nesta REGULAMENTAÇÃO. 
+A LIQUIDAÇÃO das apostas se baseia nos resultados recebidos do fornecedor de eventos e das odds para competições simuladas. O ORGANIZADOR não pode influenciar ou modificar esses resultados, sendo estes gerados em nível do fornecedor, por um mecanismo do tipo RNG (do inglês, “Random Number Generator”, Gerador de números aleatórios), certificado de acordo com a legislação romena por um laboratório licenciado classe II. 
+O ORGANIZADOR tem o direito de aceitar ou não - no mesmo CUPOM DE APOSTA - a combinação das apostas em eventos de realidade simulada e de apostas em outros eventos apresentados na OFERTA. 
+4- Apostas em eventos da Fantasy Leagues (apostas em pontos concedidos aos jogadores):
+O ORGANIZADOR poderá incluir também, na OFERTA DE APOSTAS, eventos do tipo "Fantasy Leagues" (Liga de fantasia), que estão associados a competições oficiais reais. 
+Os resultados desses eventos são estabelecidos de acordo com os Regulamentos das competições das quais 
+fazem parte, baseando-se em um sistema de pontos bem-definido, que é tornado público pelo fórum que patrocina a competição. 
+O procedimento de atribuição de pontos não depende do ORGANIZADOR, baseando-se no desempenho real e no papel dos jogadores durante o jogo. 
+O ORGANIZADOR poderá oferecer, mas não se limita a, apostas no número total de pontos, duelos no número de pontos, diferenças de pontos, handicaps (vantagens concedidas/desvantagem imposta a um adversário mais fraco/imposta a um competidor mais forte) etc. 
+A LIQUIDAÇÃO dos resultados é feita somente com base nas pontuações dos jogos e nas hierarquias estabelecidas pelos fóruns oficiais. 
+As apostas são válidas apenas se os jogadores estiverem em campo desde o primeiro minuto (eles fazem parte dos 11 primeiros), caso contrário, essas apostas recebem ODDS 1, a menos que especificado de outra forma pelo ORGANIZADOR. 
+O ORGANIZADOR tem o direito de aceitar ou não - no mesmo CUPOM DE APOSTA - a combinação das apostas em eventos do tipo “Fantasy Leagues” (Ligas de Fantasia) e das apostas em outros eventos apresentados na OFERTA. 
+No caso de jogos adiados, cancelados, suspensos ou interrompidos, aplicam-se as seguintes regras: 
+a) Para apostas que dependem de um único jogo, aplicam-se as regras gerais de LIQUIDAÇÃO e ODD 1, especificadas nestes REGULAMENTOS. 
+b) Para apostas que dependem de vários jogos, aplicam-se as regras gerais de LIQUIDAÇÃO e ODD 1, especificadas nestes REGULAMENTOS, sendo que o período de 48 horas poderá ser estendido (se necessário) até o final do último jogo (em ordem cronológica), de acordo com o cronograma inicial da OFERTA DE APOSTAS. 
+Exemplo: Se a aposta depende de dois jogos, um programado para a quinta-feira e outro programado para o domingo, a aposta continuará válida caso o jogo da quinta-feira seja adiado por mais de 48 horas, se ele começar a ser disputado até o final do jogo programado para o domingo. 
+4.2 Tipos de cupons 
+As apostas propostas pela OPERADORA são: ÚNICA (Solo), SIMPLES, SISTEMA (com ou sem eventos fixos): 
+1- Aposta Simples (Solo) - representa a seleção e a colocação no CUPOM DE APOSTAS de um único evento. A condição de vitória nesse tipo de aposta é indicar a PREDIÇÃO correta sobre o resultado. O valor do prêmio é calculado multiplicando-se as ODDs pelo VALOR DA APOSTA. Essa aposta só será aceita se esse evento não tiver restrições de apostas (por exemplo: um jogo do campeonato nacional de futebol da Bélgica só pode ser aceito, juntamente no mesmo cupom de apostas, com outros 3 (três) eventos do mesmo campeonato). As restrições de apostas serão especificadas no site. 
+2- Aposta Múltipla - envolve a seleção de vários eventos e sua inclusão no mesmo cupom de apostas. Neste caso, a ODD final é determinada pela multiplicação das odds individuais de cada evento. A condição vencedora nesse tipo de aposta é a predição correta para cada evento, sendo o valor do prêmio determinado pela multiplicação da ODD final (o resultado da multiplicação das odds de todos os eventos) pelo VALOR DA APOSTA feita. A OPERADORA tem o direito de restringir a seleção do número de eventos inseridos no mesmo CUPOM DE APOSTAS em um determinado campeonato ou competição (por exemplo: no campeonato nacional de futebol da Eslovênia, apenas um jogo por CUPOM DE APOSTAS é aceito). Essas restrições serão especificadas no site. 
+3- Aposta de sistema - envolve a seleção de eventos da OFERTA, para os quais o(a) JOGADOR(A) escolhe uma condição mínima específica para indicar a predição correta. O número de opções é determinado matematicamente de acordo com a fórmula das combinações de “n” elementos tomados de“k”. 
+a) Apostas com sistema simples - envolvem a indicação correta do número mínimo de predições escolhidas; nesse caso, o PRÊMIO máximo será calculado por um algoritmo matemático, levando em conta a aposta jogada e um fator de odds dos eventos para os quais as predições exatas foram colocados. Quanto mais corretamente forem escolhidas as Predições do que o número mínimo escolhido, maior será o montante do prêmio. 
+b) Apostas com sistemas fixos - envolvem a predição correta, além dos eventos nas combinações (para os quais a condição mínima for respeitada) de um número de eventos (entre 1 e 33) para os quais é obrigatório indicar a PREDIÇÃO exata. Essa aposta é uma combinação entre a aposta simples e a aposta simples do sistema, sendo o PRÊMIO máximo de acordo com a APOSTA feita, o resultado da multiplicação das odds dos eventos selecionados do sistema e de acordo com a ODD calculada, conforme o parágrafo anterior para eventos combinados. 
+Exemplo: 
+Ex. 1: Se um(a) JOGADOR(A) escolheu jogar 5 jogos e um SISTEMA 4/5, o que significa que (de acordo com a fórmula matemática de “n” combinações tomadas de “k”) ele(a) jogou 5 combinações. 
+Se esses 5 jogos tiverem como ODDS: C1, C2, C3, C4, C5 e o VALOR DA APOSTA colocado no CUPOM DE APOSTAS for de R$5,00, isso significa que ele jogou em uma combinação de R$5,00/ opções = R$1,00 (VALOR DA APOSTA por combinação). 
+As 5 opções serão: 
+a) C2*C3*C4*C5*1 (VALOR DA APOSTA por combinação) + BÔNUS (se for o caso) = VITÓRIA 1 
+b) C1*C3*C4*C5*1 (VALOR DA APOSTA por combinação) + BÔNUS (se for o caso) = VITÓRIA 2 
+c) C1*C2*C4*C5*1 (VALOR DA APOSTA por combinação) + BÔNUS (se for o caso) = VITÓRIA 3 
+d) C1*C2*C3*C5*1 (VALOR DA APOSTA por combinação) + BÔNUS (se for o caso) = VITÓRIA 4 
+e) C1*C2*C3*C4*1 (VALOR DA APOSTA por combinação) + BÔNUS (se for o caso) = VITÓRIA 5 
+•	Se o(a) JOGADOR(A) fizer todas as PREDIÇÕES corretas e não tiver nenhuma ODD 1, ele alcançará a VITÓRIA máxima: VITÓRIA 1+ VITÓRIA 2+ VITÓRIA 3+ VITÓRIA 4+ VITÓRIA 5 
+•	Se ele(a) perder um jogo, ganhará 4(k) / 4 (número de PREDIÇÕES corretas) = 1 opção vencedora 
+•	Se ele(a) perder 2 jogos, o cupom de apostas será perdido. 
+Observação: Normalmente, o número de OPÇÕES VENCEDORAS em um CUPOM DE APOSTAS com “N” jogos e o sistema K/N for calculado como K/número de jogos ganhos pelo(a) JOGADOR(A) 
+Ex. 2: Se um(a) JOGADOR(A) apostar 5/9 = 126 opções e 7 PREDIÇÕES estiverem corretas, então o número de opções vencedoras será calculado com a fórmula 5/7 = 21 opções vencedoras. 
+c) Aposta do sistema com duplo e/ou triplo - envolve a seleção de um ou mais eventos com 2 ou 3 PREDIÇÕES diferentes. O número de combinações possíveis é determinado pela multiplicação das PREDIÇÕES de cada evento. 
+Exemplo: para 2 eventos no CUPOM DE APOSTAS com 2 PREDIÇÕES diferentes, o número de combinações é 4. 
+Para esse tipo de aposta, podemos ter duas situações diferentes, como segue: 
+•	A situação em que as PREDIÇÕES escolhidas são compatíveis. 
+Exemplo: O(A) JOGADOR(A) escolheu em um CUPOM DE APOSTAS o jogo Ludogorets - CSKA e aposta no resultado final de 1 e 2-3 gols. Se o jogo terminar em 2 a 1, o Ludogorets venceu e há 3 gols. Nessa situação, o PRÊMIO máximo possível exibido no CUPOM DE APOSTAS será idêntico à VITÓRIA obtida pelo JOGADOR(A). 
+•	A situação em que as PREDIÇÕES escolhidas NÃO SÃO COMPATÍVEIS. 
+Exemplo: O(A) JOGADOR(A) escolheu no cupom de aposta o jogo Levski Sofia - Ludogorets e joga Resultado final 1 e Resultado final X. Se o jogo terminar em 2 a 1, significa que o Levski Sofia venceu, mas não houve empate. Nessa situação, o potencial máximo de VITÓRIA exibido no CUPOM DE APOSTA não é idêntico à VITÓRIA obtida pelo(a) JOGADOR(A). 
+4.3 Produtos Superbet 
+1- SuperOdds: diversos jogos com odds especiais são liquidados diariamente, com as seguintes opções de apostas: 1, X, 2 e podem ser jogados de forma simples, individual ou pelo sistema. Um ou mais eventos SuperOdds podem ser jogados com um único CUPOM DE APOSTA. 
+a) Note que as ofertas de SuperOdds/SuperBoost e SuperMúltipla não são cumulativas. No momento que o usuário adicionar uma SuperOdds no bilhete de múltipla, essa seleção não irá contar para o aumento das odds pela SuperMúltipla.
+2- Criar Aposta e Dicas de Aposta (Superbets nesse parágrafo): este é o tipo de aposta que consiste em combinações de apostas simples (opções de apostas) que pertencem ao mesmo jogo ou evento, com todas as características de uma única aposta. 
+Aplicam-se as seguintes regras: 
+a) Todas as opções de apostas de uma SuperBets devem estar de acordo com os termos e condições gerais, regras gerais de LIQUIDAÇÃO e ODD 1, E/OU segundo regras especiais de LIQUIDAÇÃO e ODD 1, de acordo com os eventos esportivos dos quais fazem parte. As apostas serão liquidadas de acordo com fornecedores terceirizados especializados em coleta de dados. Se as informações não puderem ser obtidas de provedores terceirizados, as apostas serão liquidadas nos sites oficiais das competições. Se as informações não puderem ser obtidas das fontes mencionadas acima, o resultado será determinado com base em outras fontes públicas de informação (por exemplo, sites com estatísticas esportivas, portais de notícias esportivas etc.) 
+b) A LIQUIDAÇÃO será feita de acordo com o tempo regulamentar de jogo (por exemplo, no futebol o tempo regulamentar é de 90 minutos + minutos de acréscimo dados pelos oficiais para interrupções normais durante o jogo). Possíveis prorrogações ou cobranças de pênaltis não são levadas em consideração, a menos que especificado de outra forma. 
+c) Se um jogo for interrompido e retomado até às 23:59 Horas do mesmo dia após a interrupção (fuso horário local da partida), todas as apostas abertas serão liquidadas com base no resultado final. Caso contrário, todas as apostas não decididas serão consideradas ANULADAS (ODD 1.00)
+d) Para todas apostas feitas em CRIAR APOSTA/DICAS DE APOSTA em todos esportes, com exceção de apostas feitas em FUTEBOL e TÊNIS = se qualquer seleção dentro de um Criar Aposta/Dicas de aposta for anulada, a aposta inteira será anulada (exceto em casos de abandono ou adiamento do evento).
+e) Esta regra se aplica apenas para Futebol (A partir do dia 15/12/2025) e Tênis (A partir do dia 30/05/2026) em apostas Pré-partida. No caso de Apostas feitas com o Criar Aposta ou Dicas de Aposta, se uma ou mais seleções forem anuladas (Odd 1), a odd final será recalculada com base nas odds das seleções restantes, permitindo que a aposta ainda seja liquidada como vencedora ou perdedora. As apostas feitas antes da data mencionada, mas que continuam ativas serão liquidadas com base na antiga lógica de liquidação, ou seja, se uma ou mais seleções da aposta forem anuladas a aposta será anulada de forma integral (Odd 1). Em caso de apostas especiais de rodada, por exemplo 3 jogadores para marcar ou 4 times para vencer. Se houver anulação de uma ou mais das seleções, a anulação será feita no bilhete inteiro, sem re-calculo das odds"
+
+i. A partir do dia 25/02/2026, a regra acima também é válida para apostas Ao-Vivo, se mantém apenas em Futebol.
+f) Para as SuperBets com opções de apostas em cartões amarelos/vermelhos recebidos pelos jogadores do jogo: 
+i. Os cartões dados a não jogadores (técnicos, jogadores no banco de reservas) não serão levados em consideração 
+ii. Um cartão amarelo é considerado 1 cartão 
+iii. Um cartão vermelho é considerado 2 cartões 
+iv. a eliminação após 2 cartões amarelos é considerada como 3 cartões 
+v. Cartões concedidos após o apito final do jogo não serão considerados, mas os cartões dados durante o intervalo do jogo serão contabilizados enquanto o jogador estiver ativo. 
+vi. Se algum dos jogadores incluídos nas opções de aposta não participar do evento como titular, a aposta inteira receberá Odds 1. 
+vii. Se o jogo terminar sem que uma das equipes receba pelo menos um cartão ou não receba mais cartões, do momento em que a aposta for feita nos cartões até o final do tempo especificado, a aposta não será vencedora e não receberá ODD 1. 
+g) No caso de SuperBets com opções de apostas nos marcadores de gol (jogadores de futebol): 
+i. Para apostas Pré-jogo, se o jogador não estiver na escalação inicial, a aposta receberá Odds 1 (Anulada) 
+ii. Os gols contra não são levados em consideração para a LIQUIDAÇÃO das apostas, exceto para aquelas em que o objeto da aposta represente um gol contra. 
+iii. Se o jogo terminar em 0 a 0, a aposta é Perdida (sem vitória) e NÃO receberá ODD 1. 
+iv. Se uma das opções de aposta nos artilheiros for NULA/INVALIDADA devido às regras esportivas específicas, será ODD 1. Esta regra NÃO se aplica a eventos abandonados/adiados. 
+h) No caso de SuperBets com opções de apostas em escanteios: 
+i. Os escanteios recebidos, mas não executados, não são levados em conta. 
+i) No caso de SuperBets com opções de apostas em pênaltis: 
+i. Se um pênalti for repetido uma ou várias vezes, somente o último pênalti marcado nessa série será válido 
+ii. Se um pênalti for defendido pelo goleiro ou se a bola quicar no travessão e voltar para o mesmo jogador/outro jogador que marcar depois, na mesma fase do jogo, não será considerado um ponto a partir da marca do pênalti. 
+i) Para todas as opções de aposta em jogadores: Para apostas pré-jogo, se o jogador não fizer parte da escalação inicial, a aposta receberá Odds 1. Para apostas ao vivo, se o jogador no qual a aposta foi feita não estiver em campo no momento da aposta, a aposta receberá Odds 1. 
+3- SuperMúltipla 
+Condições de qualificação para receber o aumento: 
+a) O(A) JOGADOR(A) está fazendo uma aposta pré-partida, ao vivo ou mista (pré-partida + ao vivo) nos eventos esportivos, sob as condições do presente REGULAMENTAÇÃO, com um mínimo de 3 eventos esportivos registrados no CUPOM DE APOSTAS; 
+b) As promoções SuperMúltipla, SuperPlacar e SuperSubstituição não são cumulativas. Caso seu bilhete de aposta for vencedor por conta do SuperPlacar e SuperSubstituição, sua aposta continuará sendo vencedora porém o bônus da SuperMúltipla não contará para essa seleção.
+c) Note que as ofertas de SuperOdds/SuperBoost e SuperMúltipla não são cumulativas. No momento que o usuário adicionar uma SuperOdds no bilhete de múltipla, essa seleção não irá contar para o aumento das odds pela SuperMúltipla. 
+d) A ODD mínima é de 1,35 para cada evento esportivo apostado; 
+e) Se uma ODD menor do que 1,35 for adicionada ao CUPOM DE APOSTAS, o CUPOM DE APOSTAS ainda é elegível para a SuperMúltipla, porém o aumento de porcentagem não é levado em consideração; 
+f) A SuperMúltipla não é contabilizada em apostas de Sistema.
+g) O prêmio do jogador poderá aumentar, dependendo do número de eventos esportivos registrados no cupom de aposta, de acordo com a Tabela nº1 - Grade de Aumento: 
+      
+Eventos Esportivos	Porcentagem
+3 eventos esportivos	5%
+4 eventos esportivos	10%
+5 eventos esportivos	12%
+6 eventos esportivos	12%
+7 eventos esportivos	15%
+8 eventos esportivos	15%
+9 eventos esportivos	20%
+10 eventos esportivos	25%
+11 eventos esportivos	25%
+12 eventos esportivos	30%
+13 eventos esportivos	35%
+14 eventos esportivos	35%
+15 eventos esportivos	40%
+16 eventos esportivos	45%
+17 eventos esportivos	50%
+18 eventos esportivos	50%
+19 eventos esportivos	50%
+20 eventos esportivos	55%
+21 eventos esportivos	60%
+22 eventos esportivos	60%
+23 eventos esportivos	65%
+24 eventos esportivos	75%
+25 eventos esportivos	100%
+26 eventos esportivos	100%
+27 ou mais eventos esportivos	150%
+Tabela nº 1 - Grade de aumento 
+Observação 1: Se a ODD 1 for atribuída a alguns eventos esportivos registrados no CUPOM DE APOSTA, nas condições deste REGULAMENTO, a grade de aumento se aplicará aos outros eventos registrados no CUPOM DE APOSTA. 
+Exemplo: Se um(a) JOGADOR(A) fizer uma aposta em 11 eventos esportivos e dois dos eventos forem liquidados com ODD 1, então será aplicada a grade de aumento para 9 eventos esportivos, com o percentual de 20%. 
+Observação 2: O recurso Cashout também se aplicará aos cupons de apostas qualificados para a oferta SuperMúltipla. No entanto, o cálculo do valor a ser pago de com a opção de Cashout será baseado exclusivamente no valor do prêmio potencial, excluindo-se a oferta de SuperMúltipla. 
+Observação 3: O oferta SuperMúltipla também se aplicará a apostas feitas com VALORES DE APOSTAS mistas (dinheiro real e dinheiro em bônus) ou aquelas feitas com dinheiro de bônus. 
+Por exemplo: Um JOGADOR escolhe jogar um bilhete do sistema 2/3, 3/3 (3 eventos no bilhete, doravante denominados E1, E2, E3, tendo um total de 4 combinações, doravante denominados C1, C2, C3), com probabilidades maiores ou iguais a 1,25: 
+C1 = E1*E2 
+C2 = E1*E3 
+C3 = E2*E3 
+C4 = E1*E2*E3 
+Se todos os eventos do ticket forem vencedores, o JOGADOR receberá a SuperMúltipla apenas para a combinação 4, pois é o único que atende a todas as condições de elegibilidade (ODD mínimo 1,25, 3 eventos). 
+Observação 5: A percentagem aplica-se exclusivamente ao lucro e não ao valor da aposta. Exemplo: um JOGADOR tem um bilhete vencedor composto por 4 eventos que satisfazem as condições da SuperMúltipla. Digamos que a aposta é de 5 reais, as ODDS são de 840,93. Potencial de ganho: 5 (Aposta Feita) * 840,93 (Odds) = 4204,65 Reais - 5 (Aposta Feita) = 4199.65.Valor da SuperMúltipla é 10% para 4 eventos adicionados. Logo, 10% * 4199.65 (ganho líquido) = 419.97 Reais será o adicionado pela SuperMúltipla. 
+4 - SuperPlacar
+a) Essa promoção é restrita para alguns esportes e competições. As apostas devem ser Pré-Evento (Antes da partida iniciar) e nos mercados indicados na página da oferta. Cheque a oferta completa aqui. 
+b) A promoção não se aplica em apostas feitas com Criar Aposta ou Dicas de Aposta.
+c) Note que as promoções SuperMúltipla e SuperPlacar não são cumulativas. Caso seu bilhete de aposta for vencedor por conta do SuperPlacar, sua aposta continuará sendo vencedora porém o aumento da SuperMúltipla não contará para essa seleção. 
+d) Para a promoção ser válida, cheque em quais mercados a oferta é disponibilizada aqui. Note que a oferta SuperPreço não contabiliza para o SuperPlacar.
+(*) (Apenas Futebol) A partir do dia 18/09/2025, às 12h (horário de Brasília), as apostas realizadas no mercado “Resultado Final” por meio das modalidades “Criar Aposta” e “Dicas de Aposta” serão consideradas para o Super Placar. As apostas efetuadas no mercado “SuperPreço” não serão contabilizadas para esta promoção. 
+5 - SuperSubstituição
+a) A partir da data 20/10/2025 nas apostas em que se encontra o símbolo da SuperSubstituição, a Super Substituição estará ativa nas apostas elegíveis e nas condições a seguir.
+b) As promoções SuperMúltipla e SuperSubstituição não são cumulativas. Caso seu bilhete de aposta for vencedor por conta da SuperSubstituição, sua aposta continuará sendo vencedora porém o bônus da SuperMúltipla não contará para essa seleção.
+c) A Super Substituição é uma oferta do ORGANIZADOR que permite que uma aposta no desempenho/estatística de um jogador continue ativa mesmo quando ele é substituído por outro atleta. Nesse caso, o jogador que entra em campo passa a herdar todas as estatísticas registradas pelo jogador substituído até aquele momento, somando-as às suas próprias estatísticas. A exceção são as apostas que já tenham sido validadas como ganhas ou perdidas antes do momento da substituição.
+d) A Super Substituição está disponível apenas para opções de apostas claramente identificadas na oferta de apostas de futebol, tanto Pré-jogo quanto Ao Vivo, dentro da oferta nas apostas simples/múltiplas mas também de Criar Aposta, Dicas de Aposta e/ou SuperOdds.
+e) A oferta está disponível tanto para apostas Simples e Múltiplas, porém apostas encerradas por meio da função Cash Out não são elegíveis para a SuperSubstituição.
+f) A oferta da SuperSubstuição não está relacionada a todos mercados de jogadores e ligas. Para saber em quais mercados/ligas a promoção é válida, clique aqui e saiba mais.
+g) As apostas serão validadas de acordo com as estatísticas fornecidas pela OPTA.
+h) Para funcionamento pleno da promoção, instale a versão mais atualizada disponível no APP da Google Play Store.
+i) Quando o mercado for cumulativo (ex.: Total de Finalizações, Chutes no Gol, Marcar 2+ Gols), o substituto herda as estatísticas do jogador original. As contagens são somadas (A + B) após as substituições. Exemplo: se A marca 1 gol e é substituído por B, que marca outro, o total é 2 e a condição “Marcar 2+” é atendida. Esta regra aplica-se apenas a resultados positivos cumulativos, não a mercados nos mercados de "Menos/Under".
+j) Exemplo da SuperSubstituição : Você apostou no mercado "Mbappé mais de 3.5 finalizações". Aos 60 minutos, ele é substituído por Vinícius Júnior, tendo finalizado apenas 2 vezes até aquele momento. Após entrar, Vini Junior finaliza mais 2 vezes. Com a Super Substituição ativa, as estatísticas se somam: 2 (Mbappé) + 2 (Vini Junior) = 4 finalizações. Sua aposta é considerada vencedora
+k) (Substituição Garantida - Promoção Desativada no dia 17/11/2025). Para ligas e mercados que não tenham o símbolo da Super Substituição e/ou não estão mencionadas na wiki da promoção, mantém a promoção "Subsituição Garantida". No caso de todas as opções de apostas pré-partida que envolvem mercado de jogadores, tanto da oferta regular quanto dos produtos Criar Aposta e Dicas de Aposta, por exemplo (Jogador para marcar, Chutes no gol do jogador, Faltas cometidas por jogador, mercado de duelos de jogadores.), se um jogador que participou da partida desde o início (foi parte do time titular) for substituído antes do início do segundo tempo, todas as apostas nesse jogador serão anuladas, com exceção das apostas que já foram resolvidas.
+6 - "1 Gol de Vantagem"
+a) Esta promoção se aplica a apostas feitas em mercados especialmente sinalizados como “[Time] – 1 Gol de vantagem no tempo regulamentar, TÁ PAGO!”.
+b) A aposta será considerada vencedora e liquidada automaticamente assim que o time selecionado abrir uma vantagem de 1 gol durante o tempo regulamentar (90 minutos), independentemente do resultado final da partida.
+c) Apostas válidas apenas se realizadas antes do início da partida. Apostas ao vivo e outros mercados não são elegíveis.
+d) A promoção não se aplica a gols marcados na prorrogação ou nos pênaltis – apenas durante os 90 minutos regulamentares. Caso o time selecionado não chegue a ter uma vantagem de 1 gol em nenhum momento dos 90 minutos, a aposta será considerada perdedora, mesmo que vença o jogo nos pênaltis ou na prorrogação.
+e) A promoção pode ser aplicada apenas nos eventos e mercados definidos pela casa de apostas, conforme comunicação oficial. Não é válida para todos os jogos.
+Exemplo:
+•	Você aposta nesse mercado para o Time A.
+•	O Time A faz 1x0 no primeiro tempo.
+•	Mesmo que o Time B empate ou vire depois, sua aposta já foi paga como vencedora no momento em que o Time A abriu 1 gol de vantagem.
+7 - Super Turbo
+O Super Turbo é uma promoção exclusiva que aumenta o lucro líquido das suas apostas ganhas em um percentual definido. Diferente de uma Aposta Grátis, o SuperTurbo não é um crédito: é um multiplicador do seu ganho, pago direto em dinheiro caso sua aposta seja vencedora.
+a) A promoção é segmentada — nem todos os clientes receberão tokens. Cada campanha define seus próprios critérios: esporte, torneio, odds mínimas, valor de aposta e janela de tempo.
+b) O token fica disponível na Aba de Promoções após o recebimento. Ao montar uma aposta elegível, o toggle do Super Turbo aparecerá automaticamente no cupom de aposta. Ative-o manualmente antes de confirmar a aposta.
+c) O token expira na data indicada na campanha. Tokens não utilizados são cancelados automaticamente, sem reembolso.
+d) O SuperTurbo não pode ser combinado com Apostas Grátis ou outros bônus na mesma aposta. É compatível com SuperPlacar, SuperSubstituição e SuperMúltipla.
+e) O valor de Cashout é calculado com base nas odds. Após o Cashout, o Token é utilizado e perdido independente de quanto retornar para o usuário.
+d) Em caso de anulação de aposta, o token não é devolvido automaticamente — casos elegíveis serão analisados. Apostas do tipo Sistema, apostas com Aposta Grátis ativa no mesmo cupom, SuperOdds e mercados 1 Gol de Vantagem não são elegíveis.
+4.4 Cashout 
+1- O recurso Cashout oferece a possibilidade de encerrar uma aposta em andamento, mas cujo resultado ainda não foi decidido, dependendo de seu valor no momento do encerramento. 
+2- A opção de Cashout só está disponível em determinados intervalos de tempo dos eventos. Qualquer alteração das opções de apostas durante o evento pode resultar na suspensão/desativação da opção de Cashout. 
+3- A Superbet tem o direito, a seu exclusivo critério, de limitar/desativar o recurso de Cashout a qualquer momento, independentemente do tipo de aposta (pré-jogo, ao vivo, única, simples, do sistema). Se isso acontecer, qualquer aposta permanecerá como foi feita inicialmente. 
+4- A Superbet não garante que o recurso de Cashout estará disponível em determinadas opções de apostas ou para determinados clientes. A Superbet não assume responsabilidade se o recurso de Cashout não estiver disponível. 
+5- O valor da aposta no momento da opção pelo recurso Cashout pode mudar. Além disso, os clientes devem estar cientes de que o valor disponível para o qual você pode usar a função Cashout pode ser diferente do valor apresentado no cupom de apostas. 
+6- Se você tiver optado com sucesso pelo recurso Cashout para uma aposta, ela será resolvida imediatamente e quaisquer eventos futuros relacionados à aposta não serão considerados. 
+7- No caso de erros óbvios, identificados durante ou após um evento, a Superbet tem o direito de não pagar a opção de Cashout. Se o pagamento tiver sido feito, a Superbet tem o direito de cancelar a transação e pagar a aposta a um preço revisado. Além disso, qualquer tentativa futura de fazer uma aposta na mesma opção de aposta, antes que o erro seja corrigido, resultará no cancelamento das apostas, bem como dos valores estabelecidos por meio da opção Cashout. 
+8- O recurso Cashout não pode ser usado no caso de apostas feitas com dinheiro de bônus, mas pode ser usado no caso de apostas grátis. 
+9- No caso de apostas feitas usando o saldo da aposta grátis, o valor da aposta grátis já é deduzido do valor exibido ao usar a função de Cashout. 
+Por exemplo: O(A) JOGADOR(A) usa a função Cashout em uma aposta feita com um valor de aposta de R$30,00, do saldo da aposta grátis, em uma ODD de R$5,00. O prêmio potencial máximo nesse caso é de R$120,00 (valor de aposta R$30,00 x aposta de R$5,00 - aposta de R$30,00). Suponha que o valor exibido pelo Cashout seja de R$110,14. Desse montante já terá sido deduzido o valor da aposta, de modo que todo o prêmio ganho será destinado ao saldo do(a) JOGADOR(A). 
+10- As apostas feitas usando a função Cashout não contribuem para o rollover necessário para saques de depósitos e saldo de bônus. Somente apostas liquidadas contribuem para o rollover. Exemplo: Um bônus de R$ 100 precisa ser apostado um número X de vezes (12x) para que possa ser sacado. O jogador faz uma aposta de R$ 100, mas realiza o Cashout de R$ 80. Neste cenário, o bônus não será considerado apostado e o valor de rollover continuará 0 (zero) devido ao Cashout realizado. 
+11- Para fechar uma aposta com sucesso usando a função Cashout, essa função se beneficia de configurações predefinidas feitas pelo ORGANIZADOR, as quais poderão ser alteradas a qualquer momento pelo(a) JOGADOR(A). 
+4.5 Criar Aposta 
+1- A funcionalidade Criar Aposta oferece a possibilidade de combinar várias opções de apostas da mesma partida. 
+2- As apostas criadas usando a funcionalidade Criar Aposta podem ser feitas como cupons de apostas únicas, mas também podem ser combinadas com outras apostas criadas por meio da função Criar Aposta em outros eventos ou com outras opções de apostas de eventos diferentes. 
+3- As apostas criadas usando a funcionalidade Criar Aposta também podem ser feitas usando dinheiro de bônus ou apostas mistas (dinheiro real + dinheiro de bônus). 
+4- As apostas criadas com a funcionalidade Criar Aposta contribuem para os requisitos de apostas com bônus, a menos que especificado de outra forma. 
+5- Todas as opções de apostas incluídas na função Criar Aposta estão sujeitas aos termos e condições gerais, às regras gerais de liquidação e Odd 1 e/ou às regras especiais de liquidação e Odd 1 específicas dos esportes dos quais os eventos fizerem parte. 
+6- Se qualquer uma das seleções disponíveis como aposta na função Criar aposta for invalidada por qualquer motivo - exceto por adiamento/atraso, a aposta inteira receberá Odds de 1. O valor da aposta NÃO será aplicado às demais seleções disponíveis no recurso Criar Aposta. 
+(*) A partir do dia 15/12/2025 "Esta regra se aplica apenas para Futebol e apostas Pré-partida. No caso de Apostas feitas com o Criar Aposta ou Dicas de Aposta, se uma ou mais seleções forem anuladas (Odd 1), a odd final será recalculada com base nas odds das seleções restantes, permitindo que a aposta ainda seja liquidada como vencedora ou perdedora. As apostas feitas antes da data mencionada, mas que continuam ativas serão liquidadas com base na antiga lógica de liquidação, ou seja, se uma ou mais seleções da aposta forem anuladas a aposta será anulada de forma integral (Odd 1). Em caso de apostas especiais de rodada, por exemplo 3 jogadores para marcar ou 4 times para vencer. Se houver anulação de uma ou mais das seleções, a anulação será feita no bilhete inteiro, sem re-calculo das odds"
+7- A seu exclusivo critério, a Superbet se reserva o direito de determinar e modificar os eventos e opções de apostas para os quais a funcionalidade Criar Aposta estará disponível, bem como o número máximo de seleções das quais uma aposta do Criar Aposta pode ser feita. 
+8- A Superbet não garante que a funcionalidade Criar Aposta estará disponível em certas opções de apostas, certos eventos ou para certos clientes. A Superbet não assume nenhuma responsabilidade se o recurso Criar Aposta não estiver disponível. 
+9- A Superbet se reserva o direito de aceitar ou recusar qualquer aposta incluída no recurso Criar Aposta, independentemente do evento ou da opção de aposta. 
+10- A Superbet se reserva o direito de anular uma aposta criada através do Criar Aposta se houver erros óbvios em qualquer uma das seleções das quais a aposta se compõe. 
+11- A Superbet se reserva o direito de remover a funcionalidade Criar Aposta de qualquer cliente ou grupo de clientes quando houver motivos razoáveis para se acreditar que tal cliente ou grupo de clientes esteja usando-a de má fé. 
+12- As apostas criadas com a funcionalidade Criar Aposta se qualificam para o Cashout somente de apostas Pré-partida, desde que todas as seleções que compõem a aposta se qualifiquem. 
+13- O produto SuperPlacar não se aplica a apostas criadas usando a funcionalidade Criar Aposta. 
+*(*) (Apenas Futebol) A partir do dia 18/09/2025, às 12h (horário de Brasília), as apostas realizadas no mercado “Resultado Final” por meio das modalidades “Criar Aposta” e “Dicas de Aposta” serão consideradas para o Super Placar. As apostas efetuadas no mercado “SuperPreço” não serão contabilizadas para esta promoção. 
+4.6 Guia de opções de apostas 
+1- Dupla chance: Indica a PREDIÇÃO do resultado de um evento ou do resultado de um determinado período do evento: primeiro tempo, segundo tempo, prorrogação etc (Quando especificado no nome do mercado), onde as opções de apostas são: vitória do time da casa (o time apresentado no lado esquerdo da oferta) ou jogo empatado, jogo empatado ou vitória do time visitante (o time apresentado no lado direito da oferta), vitória do time da casa ou vitória do time visitante.
+Por exemplo: 
+a) Para o jogo de futebol entre Dortmund e Barcelona, a predição do(a) JOGADOR(A) é a vitória do Dortmund ou o empate. 
+b) Para o jogo de handebol entre o Dínamo e o CSM Bucareste, a predição do(a) JOGADOR(A) é a vitória do time do CSM Bucareste ou o resultado do jogo empatado. 
+2- Empate anula a aposta (DNB): Indica a PREDICÃO do resultado de um jogo, de um determinado período de um evento ou de um evento predefinido, em que as opções de aposta são: o time da casa (o time apresentado no lado esquerdo da oferta) e o time visitante (o time apresentado no lado direito da oferta). Se o evento especificado ou o número de comparecimentos predefinidos não tiver um vencedor (por exemplo, o jogo termina empatado), o valor da aposta será devolvido. 
+Por exemplo: 
+a) Para o jogo de futebol entre Dortmund e Barcelona, a predição do(a) JOGADOR(A) é uma aposta nula em caso de empate do Dortmund, onde se for um jogo empatado, o valor da aposta será reembolsado. 
+3- Intervalo ou tempo total: Indica a PREDIÇÃO do resultado de um evento, seja após o final do primeiro tempo ou no final do evento. 
+Por exemplo: 
+a) para o jogo de futebol entre Dortmund e Barcelona, a predição do(a) JOGADOR(A) é de vitória do time do Barcelona, após o primeiro tempo ou no final do jogo. 
+b) para o jogo de basquete entre o Fenerbahçe e o Partizan, a predição do(a) JOGADOR(A) é a vitória do time do Partizan, no final do primeiro tempo (no intervalo) ou no final do jogo. 
+4- Handicap de 2 vias 
+Por exemplo: Dortmund (x.5) / Barcelona (-x.5) 
+No caso desse tipo de handicap, a equipe selecionada recebe uma vantagem ou uma desvantagem de aparições predefinidas (gols, escanteios, jogos etc.), aplicadas ao resultado no período de tempo especificado (tempo regulamentar, primeiro e segundo tempo etc.). Para ganhar a aposta, o(a) JOGADOR(A) deve fornecer a PREDICÃO necessária para que a equipe vença com o número predefinido de aparições, depois que o handicap especificado tiver sido adicionado ou deduzido, conforme apropriado, de acordo com o sinal. 
+Por exemplo: 
+a) Dortmund vs Barcelona, predição Dortmund (1,5). 
+Para calcular o resultado do handicap, o valor do handicap (1,5) é adicionado ao número de gols marcados pelo Dortmund e comparado com o número de gols marcados pelo Barcelona, de modo que: 
+•	se o Dortmund vencer, houver um empate ou o Dortmund perder por apenas 1 gol, a aposta será ganha. 
+•	se o Dortmund perder por 2 ou mais gols, a aposta será perdida. 
+b) Dortmund vs Barcelona, predição Barcelona (-1,5). 
+Para calcular o resultado da desvantagem (handicap), o valor da desvantagem é deduzido do número de gols marcados pelo Barcelona e comparado com o número de gols marcados pelo Dortmund, de modo que: 
+•	se o Barcelona vencer por uma diferença de 2 ou mais gols, a aposta será ganha 
+•	se o Barcelona perder, se houver empate, ou se o Barcelona vencer por uma diferença de apenas 1 gol, a aposta será invalidada (não vencedora). 
+5- Handicap de 3 vias (Handicap Europeu): 
+Por exemplo: Dortmund (-x) / Empate (x) / Barcelona (x) 
+Na seção Ao vivo, a aposta handicap, é o tipo de aposta em que a equipe selecionada recebe uma vantagem ou uma desvantagem de aparições predefinidas (gols, escanteios, jogos etc.), aplicadas ao resultado dentro do período de tempo especificado (tempo regulamentar, correções etc.). Para ganhar a aposta, o(a) JOGADOR(A) deve fornecer a Predição necessária para que a equipe vença no número de aparições predefinidas, depois que a aposta handicap especificada tiver sido adicionado ou deduzido, conforme o caso. 
+Por exemplo: 
+Para a partida de futebol entre Dortmund e Barcelona, o(a) JOGADOR(A) prevê handicap de 1:0, o que significa que, para ganhar a aposta, o número de gols marcados pelo Dortmund mais o handicap (1 gol nesse caso), deve ser maior do que o número de gols marcados pelo Barcelona. 
+6- Handicap asiático: é o tipo de aposta de handicap na qual, se o resultado após o ajuste da linha de handicap for um empate, a aposta recebe ODD 1. 
+Por exemplo: 
+a) No jogo de futebol entre Dortmund e Barcelona, o(a) JOGADOR(A) prevê handicap asiático de 2,75 para o time da casa. Se o Dortmund vencer o jogo, se terminar empatado ou o Dortmund perder com uma diferença de 1 gol, a aposta será ganha. Se o Dortmund perder por uma diferença de 2 gols, metade do valor apostado será perdido. Se o Dortmund perder por 3 ou mais gols, a aposta será perdida. 
+b) No jogo de futebol entre Dortmund e Barcelona, o(a) JOGADOR(A) prevê handicap asiático para o time visitante -2,00. 
+Se o Barcelona vencer com uma diferença de 3 ou mais gols, a aposta será ganha. Se o Barcelona vencer com uma diferença de 2 gols, a aposta será reembolsada e, se o Barcelona vencer com uma diferença de 1 gol, terminar empatado ou perder o jogo, a aposta será perdida. 
+Observação: Para calcular o resultado da aposta de handicap asiático, você pode usar a tabela abaixo. Se a aposta não estiver nas situações listadas abaixo, ela poderá ser calculada aplicando-se o mesmo método. 
+Handicap 	Resultado da equipe 	Resultado da aposta 	Handicap 	Resultado da equipe 	Resultado da aposta 
+0 	Vitória 	Ganhou 	0 	Vitória 	Ganhou 
+	Empate 	Valor da aposta reembolsado 		Empate 	Valor da aposta reembolsado 
+	Derrota 	Derrota 		Derrota 	Derrota 
+-0,25 	Vitória por 1 ou mais gols 	Ganhou 	0,25 	Vitória por 1 ou mais gols 	Ganhou 
+	Empate 	Metade do valor da aposta perdido 		Empate 	Metade do valor da aposta perdido 
+	Derrota 	Derrota 		Derrota 	Derrota 
+-0,5 	Vitória 	Ganhou 	0,5 	Vitória 	Ganhou 
+	Empate 	Derrota 		Empate 	Ganhou 
+	Derrota 	Derrota 		Derrota 	Derrota 
+-0,75 	Vitória por 2 ou mais gols 	Ganhou 	0,75 	Vitória ou empate 	Ganhou 
+	Vitória por 1 ou mais gols 	Metade do valor da aposta ganho 		Derrota por 1 gol 	Metade do valor da aposta perdido 
+	Empate ou derrota 	Derrota 		Derrota por 2 ou mais gols 	Derrota 
+-1 	Vitória por 2 ou mais gols 	Ganhou 	1 	Vitória ou empate 	Ganhou 
+	Vitória por 1 gol 	Valor da aposta reembolsado 		Derrota por 1 gol 	Valor da aposta reembolsado 
+	Empate ou derrota 	Derrota 		Derrota por 2 ou mais gols 	Derrota 
+-1,25 	Vitória por 2 ou mais gols 	Ganhou 	1,25 	Vitória ou empate 	Ganhou 
+	Vitória por 1 gol 	Metade do valor da aposta perdido 		Derrota por 1 gol 	Metade do valor da aposta perdido 
+	Empate ou derrota 	Derrota 		Derrota por 2 ou mais gols 	Derrota 
+-1,5 	Vitória por 2 ou mais gols 	Ganhou 	1,5 	Vitória ou empate 	Ganhou 
+	Vitória por 1 gol 	Derrota 		Derrota por 1 gol 	Ganhou 
+	Empate ou derrota 	Derrota 		Derrota por 2 ou mais gols 	Derrota 
+-1,75 	Vitória por 3 ou mais gols 	Ganhou 	1,75 	Vitória, empate ou derrota por 1 gol 	Ganhou 
+	Vitória por 2 gols 	Metade do valor da aposta ganho 		Derrota por 2 gols 	Metade do valor da aposta perdido 
+	Vitória por 1 gol, empate ou derrota 	Derrota 		Derrota por 3 ou mais gols 	Derrota 
+-2 	Vitória por 3 ou mais gols 	Ganhou 	2 	Vitória, empate ou derrota por 1 gol 	Ganhou 
+	Vitória por 2 gols 	Valor da aposta reembolsado 		Derrota por 2 gols 	Valor da aposta reembolsado 
+	Vitória por 1 gol, empate ou derrota 	Derrota 		Derrota por 3 ou mais gols 	Derrota 
+-2,25 	Vitória por 3 ou mais gols 	Ganhou 	2,25 	Vitória, empate ou derrota por 1 gol 	Ganhou 
+	Vitória por 2 gols 	Metade do valor da aposta perdido 		Derrota por 2 gols 	Metade do valor da aposta ganho 
+	Vitória por 1 gol, empate ou derrota 	Derrota 		Derrota por 3 ou mais gols 	Derrota 
+-2,5 	Vitória por 3 ou mais gols 	Ganhou 	2,5 	Vitória ou empate 	Ganhou 
+	Vitória por 1 ou 2 gols 	Derrota 		Derrota por 1 ou 2 gols 	Ganhou 
+	Empate ou derrota 	Derrota 		Derrota por 3 ou mais gols 	Derrota 
+7- Total de gols asiáticos: é o tipo de handicap asiático que se refere ao número total de gols marcados em um jogo ou dentro de um intervalo especificado do jogo. 
+Por exemplo: 
+a) No jogo de futebol entre o Dortmund e o Barcelona, a predição do(a) JOGADOR(A) para o Total de gols asiáticos no primeiro tempo é superior a 1,75. Se nenhum gol ou exatamente 1 gol for marcado no primeiro tempo, a aposta não será vencedora. Se forem marcados exatamente 2 gols no primeiro tempo, metade do valor apostado será ganho. Se 3 ou mais gols forem marcados no primeiro tempo, a aposta será vencedora. 
+b) No jogo de hóquei CSKA x Lokomotiv, a predição do(a) JOGADOR(A) para o total de gols asiáticos no jogo é superior a 3,00. Se houver 2 ou menos gols marcados no jogo, a aposta não será vencedora. Se houver exatamente 3 gols marcados no jogo, o VALOR DA APOSTA será reembolsado. Se houver 4 ou mais gols marcados no jogo, a aposta será vencedora. 
+Observação: Para calcular o resultado da aposta do tipo Total de gols asiáticos, consulte a tabela abaixo. Se a aposta não estiver em uma das situações apresentadas abaixo, ela poderá ser calculada aplicando-se o mesmo método. 
+Mais de 	Total de gols por jogo 	Resultado da aposta 	Menos de 	Total de gols por jogo 	Resultado da aposta 
+0,5 	0 	Derrota 	0,5 	0 	Ganhou 
+	1 ou mais 	Ganhou 		1 ou mais 	Derrota 
+0,75 	0 	Derrota 	0,75 	0 	Ganhou 
+	1 	Metade do valor da aposta ganho 		1 	Metade do valor da aposta perdido 
+	2 ou mais 	Ganhou 		2 ou mais 	Derrota 
+1 	0 	Derrota 	1 	0 	Ganhou 
+	1 	Valor da aposta reembolsado 		1 	Valor da aposta reembolsado 
+	2 ou mais 	Ganhou 		2 ou mais 	Derrota 
+1,25 	0 	Derrota 	1,25 	0 	Ganhou 
+	1 	Metade do valor da aposta perdido 		1 	Metade do valor da aposta ganho 
+	2 ou mais 	Ganhou 		2 ou mais 	Derrota 
+1,5 	1 ou menos 	Derrota 	1,5 	1 ou menos 	Ganhou 
+	2 ou mais 	Ganhou 		2 ou mais 	Derrota 
+1,75 	1 ou menos 	Derrota 	1,75 	1 ou menos 	Ganhou 
+	2 	Metade do valor da aposta ganho 		2 	Metade do valor da aposta perdido 
+	3 ou mais 	Ganhou 		3 ou mais 	Derrota 
+2 	1 ou menos 	Derrota 	2 	1 ou menos 	Ganhou 
+	2 	Valor da aposta reembolsado 		2 	Valor da aposta reembolsado 
+	3 ou mais 	Ganhou 		3 ou mais 	Derrota 
+2,25 	1 ou menos 	Derrota 	2,25 	1 ou menos 	Ganhou 
+	2 	Metade do valor da aposta perdido 		2 	Metade do valor da aposta ganho 
+	3 ou mais 	Ganhou 		3 ou mais 	Derrota 
+2,5 	2 ou menos 	Derrota 	2,5 	2 ou menos 	Ganhou 
+	3 ou mais 	Ganhou 		3 ou mais 	Derrota 
+2,75 	2 ou menos 	Derrota 	2,75 	2 ou menos 	Ganhou 
+	3 	Metade do valor da aposta ganho 		3 	Metade do valor da aposta perdido 
+	4 ou mais 	Ganhou 		4 ou mais 	Derrota 
+3 	2 ou menos 	Derrota 	3 	2 ou menos 	Ganhou 
+	3 	Valor da aposta reembolsado 		3 	Valor da aposta reembolsado 
+	4 ou mais 	Ganhou 		4 ou mais 	Derrota 
+3,25 	2 ou menos 	Derrota 	3,25 	2 ou menos 	Ganhou 
+	3 	Metade do valor da aposta perdido 		3 	Metade do valor da aposta ganho 
+	4 ou mais 	Ganhou 		4 ou mais 	Derrota 
+3,5 	3 ou menos 	Derrota 	3,5 	3 ou menos 	Ganhou 
+	4 ou mais 	Ganhou 		4 ou mais 	Derrota 
+3,75 	3 ou menos 	Derrota 	3,75 	3 ou menos 	Ganhou 
+	4 	Metade do valor da aposta ganho 		4 	Metade do valor da aposta perdido 
+	5 ou mais 	Ganhou 		5 ou mais 	Derrota 
+4 	3 ou menos 	Derrota 	4 	3 ou menos 	Ganhou 
+	4 	Valor da aposta reembolsado 		4 	Valor da aposta reembolsado 
+	5 ou mais 	Ganhou 		5 ou mais 	Derrota 
+8- Campeão da competição geral: Fornece a predição do resultado final de uma Liga/Torneio/Competição, antes do início da Liga/Torneio/Competição especificada ou após o início da mesma. 
+Por exemplo: 
+a) Na liga de futebol da Inglaterra - a Premier League, O(A) JOGADOR(A) aposta que Kevin de Bruyne ganhará o título de artilheiro. 
+b) Na liga de futebol da Inglaterra - a Premier League, o(a) JOGADOR(A) aposta que o Liverpool vencerá a competição. 
+c) Na Fórmula 1 - Grande Prêmio da Itália, o(a) JOGADOR(A) aposta em Charles LeClerc terminará a corrida entre os três primeiros colocados. 
+d) No caso de eventos de atletismo, esqui, natação, Fórmula 1 e MotoGP, quando um competidor participou de fases anteriores (por exemplo, Qualificação), as apostas na classificação final da competição e na vitória na competição permanecem válidas.
+9-  Superbet oferece a possibilidade de apostar em combinações de dois ou mais tipos de apostas especificadas na seção 5 Mercados de Apostas. Há dois tipos de apostas: 
+Ambas/todas as APOSTAS/predições devem estar corretas, para que a aposta seja vencedora. 
+Por exemplo: 
+a) Ambas as equipes marcam gols E haverá entre 3 e 4 gols no jogo 
+b) A vitória do time visitante ou um jogo empatado E pelo menos 2 gols marcados no jogo 
+c) Vitória do time da casa E pelo menos um gol é marcado no primeiro tempo 
+Apenas uma das apostas deve estar correta para que a aposta seja vencedora. Normalmente, esse tipo de combinação é marcado pela presença da palavra “OU” entre os tipos de apostas. 
+Por exemplo: 
+a) A vitória do time da casa OU serão marcados pelo menos 3 gols no jogo 
+b) Ambas as equipes marcam no primeiro tempo OU ambas as equipes marcam no segundo tempo 
+c) Empate OU a equipe visitante vence o segundo tempo 
+5 REGRAS GERAIS DE LIQUIDAÇÃO 
+1- Os horários de início são retirados dos sites oficiais das competições e de terceiros especializados em coleta de dados. Considera-se que o evento iniciou no momento que efetivamente começar (por exemplo: o momento em que o árbitro apita para o início de um jogo de futebol ou o momento da primeira mão/primeiro serviços jogado no tênis etc.) e não quando o horário foi atingido de acordo com o calendário esportivo. O ORGANIZADOR se reserva o direito de oferecer eventos cujas datas e/ou horários de início ainda não tenham sido determinados pelo comitê organizador. Portanto, a data e o horário de início mencionados no cupom de apostas para tais eventos são indicativos, até que o organizador da competição os defina. 
+2- Os resultados oficiais dos eventos são obtidos de fornecedores terceirizados especializados em coleta de dados (mencionados na opção de apostas) e dos sites oficiais das competições. Se a informação não puder ser obtida das fontes mencionadas ou se as informações disponíveis nos sites oficiais estiverem claramente incorretas, o resultado será determinado com base em outras fontes públicas de informação (por exemplo, sites com estatísticas esportivas, portais de notícias esportivas etc.) 
+3- A Superbet poderá oferecer a funcionalidade de anunciar os resultados e a predição exata dos eventos, postando-os no site da empresa, dentro de alguns dias após o resultado do evento ter sido postado no site oficial da competição. 
+4- O resultado oficial, de acordo com a OPERADORA, é aquele no final do evento, independentemente de um comitê ou fórum decidir sobre outro resultado. 
+5- Se o resultado de um tipo de aposta não puder ser verificado oficialmente, a Superbet tem o direito de adiar a LIQUIDAÇÃO até a confirmação oficial. 
+6- Se não houver possibilidade de encontrar o resultado de um determinado tipo de aposta, uma ODD 1 será atribuída a essa aposta. 
+7- No caso de liquidação de resultados incorretos, a OPERADORA tem o direito de liquidar novamente os resultados e recalcular os cupons de aposta contendo resultados com nova aprovação. 
+8- Para todas as modalidades esportivas, o resultado final é considerado aquele registrado ao final do tempo regulamentar de jogo (ex.: futebol = 90 minutos, hóquei = 60 minutos), incluindo também os acréscimos atribuídos pela arbitragem em relação às interrupções normais durante o jogo, a menos que seja declarado o contrário.
+No caso de tempos e intervalos atípicos, diferentes dos formatos padrão de 2x40 e 2x45, os mercados de aposta para o primeiro tempo serão validados com base na metade do tempo total de jogo.
+
+Por exemplo: No caso de tempos e intervalos atípicos (por exemplo, 3 tempos de 30 minutos cada), os mercados de gols no primeiro tempo serão liquidados com base nos gols marcados entre o início da partida e o minuto 44:59, e os mercados de segundo tempo – entre o minuto 45:00 e o final do jogo (incluindo acréscimos, mas excluindo prorrogação e/ou pênaltis).
+Se a partida não for disputada no formato de dois tempos de 40 ou 45 minutos, o resultado considerado será aquele registrado ao final do jogo, exceto em amistosos com duração inferior a 45 minutos ou superior a 120 minutos, que serão reembolsados com cotação 1.00 (Todas Apostas Anuladas).
+9- O tipo de aposta “qualificação para a próxima rodada/Vencedor do jogo” também leva em consideração a prorrogação e as possíveis cobranças de pênaltis. 
+10- As apostas relacionadas à qualificação, como “Quem avança para a próxima rodada/Quem será qualificado”, serão invalidadas se o resultado da primeira partida for modificado pelo organizador da competição. 
+11- Se uma opção de aposta ou resultado pertencente ao mesmo evento for aceito duas ou mais vezes no mesmo CUPOM DE APOSTA, ou se apostas diferentes que influenciam umas às outras, forem aceitas no mesmo cupom de aposta, a OPERADORA se reserva o direito de invalidar a aposta. 
+12- No caso de todas as apostas que permitem múltiplos ganhadores (por exemplo, artilheiro que marcou o gol, a equipe com o maior número de escanteios, primeiro colocado na natação, esqui, corrida de fórmula 1, ginástica, maratona etc.), se dois ou mais competidores ou equipes obtiverem o mesmo resultado (mesmo tempo, mesmo número de gols, mesmo número de pontos etc.), ou ficarem na mesma posição, será aplicada a regra Dead Heat e a aposta será devidamente dividida, sendo a vencedora calculada multiplicando-se o valor da aposta pela ODD original e, depois, dividindo-se pelo número de ganhadores que terminaram em tal posição. 
+13- Se uma partida for interrompida e retomada até as 23:59 (horário local) do mesmo dia da data original do evento, todas as apostas abertas serão liquidadas com base no resultado final. Caso contrário, todas as apostas não decididas serão ANULADAS (ODD 1.00). 
+Exemplo 1: 
+Se um(a) Jogador(a) apostou em Mais de 1.5 Gols no primeiro tempo de uma partida de futebol e o jogo for interrompido aos 40 minutos com o placar de 1:1, a aposta permanece válida e é vencedora. 
+Exemplo 2
+Se um Jogador apostou em Mais de 1.5 Gols no primeiro tempo de uma partida de futebol e a partida for abandonada aos 40 minutos com o placar de 1:0, a aposta é ANULADA e recebe ODD 1.00.
+14- Se um evento for cancelado, adiado, suspenso ou interrompido antes do fim do tempo regulamentar de jogo e não for reagendado para recomeçar até às 23:59 Horas do mesmo dia da data original do evento (fuso horário local da partida), a aposta para esse evento é ANULADA e será atribuído a ODD 1. Exceto para as situações mencionadas nas seções 6.2" Tênis, ponto 3". Não se incluem os eventos para os quais o operador menciona uma data e hora de início indicativas, porque o organizador do campeonato a que o evento pertence ainda não fixou a data e hora de início. 
+15- Se um evento começar e for suspenso ou interrompido antes do final do tempo regulamentar e, até as 23:59 (horário local do local da partida) do mesmo dia da data original, o evento não for retomado a partir do ponto em que foi suspenso/interrompido, mas sim reiniciado do zero (repetido), as apostas que já tiverem sido decididas até o momento da interrupção/suspensão serão validadas de acordo com o que ocorreu até aquele ponto; as não decididas serão ANULADAS e receberão Odd 1.00, e a partida repetida será considerada uma entidade distinta.
+16- No caso de quaisquer odds exibidas ou calculadas de forma obviamente incorreta, reservamo-nos o direito de invalidar a aposta. 
+17- Se uma aposta permanecer em aberto com uma pontuação ou status incorreto se tiver um impacto sobre as odds, reservamo-nos o direito de invalidar a aposta. 
+18- Se os nomes dos times/jogadores ou das categorias forem exibidos incorretamente, temos o direito de invalidar a aposta, exceto em situações em que houver pequenos erros de digitação (por exemplo: Atuadores em vez de Ludogorets), se o objeto da aposta não for afetado e os participantes ou equipes puderem ser identificados sem problemas, apesar do(s) erro(s). 
+Por exemplo: 
+a) Se o evento de futebol proposto na OFERTA DE APOSTAS DA OPERADORA em 20/05/2023 estiver descrito como “FC Barcelona - Real” e, naquele momento, o evento seria entre “FC Barcelona - Real Valladolid”, a aposta será invalidada, pois se poderia ter entendido que o evento era “FC Barcelona - Real Madrid” 
+b) Se o evento de tênis proposto na OFERTA DE APOSTAS da OPERADORA em 21/05/2023 for “Pavic - G. Dimitrov” e, nessa data, o evento seria entre “A. Pavic - G. Dimitrov” e “M. Pavic” não participar do respectivo torneio, o erro não será considerado um bom motivo para cancelar a aposta. 
+19- Se tipos de apostas tiverem sido oferecidos quando o resultado já era conhecido, reservamo-nos o direito de invalidar qualquer uma dessas apostas. 
+20- Com exceção das apostas ao vivo se, por qualquer motivo, uma aposta tiver sido feita após o início do evento, reservamo-nos o direito de invalidar as apostas. 
+21- Para apostas ao vivo, se a transmissão for abandonada e o jogo terminar frequentemente, todas as apostas serão decididas de acordo com o resultado final. Se o resultado de um tipo de aposta não puder ser verificado oficialmente, reservamo-nos o direito de invalidar as apostas. 
+22- Se as regras e os regulamentos de um esporte forem violados (por exemplo: intervalo incomum, procedimento de contagem, formato do jogo, número de participantes da equipe etc.) e/ou se o campo de jogo ou local for alterado, reservamo-nos o direito de anular as apostas. São exceções os casos de partidas realizadas em campo neutro, amistosos, copas e torneios em que o país ou países sede estejam previamente definidos, bem como situações em que o time mandante dispute suas partidas em outro estádio ou cidade/país, seja por questões de segurança, indisponibilidade ou inexistência de estádio próprio. Também são exceções os casos em que a partida ocorra no estádio do time visitante, mas o organizador oficial seja o time mandante, e, de forma geral, todas as situações especificadas diretamente na oferta de apostas. O ORGANIZADOR se compromete a disponibilizar aos usuários, sempre que possível, as informações mais relevantes sobre esses casos diretamente na oferta de apostas, sem, no entanto, assumir qualquer responsabilidade quanto à precisão e a atualização dessas informações, que têm caráter meramente informativo.
+23- Se uma partida não for concluída ou não for realizada de acordo com as regras regulamentares desse esporte (por exemplo, desqualificação, interrupção, retirada etc.), todas as apostas não decididas serão consideradas NULAS, exceto as apostas que já tiverem sido decididas ou apostas para as quais, se a partida tivesse ocorrido até o final, o resultado da partida não teria influenciado o resultado da aposta. 
+24- No caso de ERROS DE EXIBIÇÃO, ERROS DO CUPOM DE APOSTA, ERROS DE DADOS ou odds exibidas ou calculadas de maneira obviamente incorreta, reservamo-nos o direito de  invalidar a aposta, mesmo que os erros sejam descobertos após a conclusão do evento. 
+25- No caso de apostas deste tipo: Quem ganha o primeiro tempo/set X, Quem marca o ponto/gol X, Quem marca o ponto X do set Y, Primeiro quem ganha os X gols/pontos etc., se um jogo/set/entrada/primeiro tempo do jogo etc. terminar antes que as variáveis X ou Y sejam atingidas, as apostas serão invalidadas. 
+26- A OPERADORA tem o direito de especificar as regras de LIQUIDAÇÃO para determinados tipos de apostas na OFERTA, em um local visível, para todos(as) os(as) JOGADORES(AS). Se houver inconsistências entre as regras de LIQUIDAÇÃO e ODD 1 apresentadas na OFERTA e as regras de LIQUIDAÇÃO especificadas nos REGULAMENTOS, as regras apresentadas na OFERTA deverão prevalecer. 
+27- No caso de apostas em Duelos de Fantasia entre times ou adversários que não tenham um confronto direto (ex.: Duelo: Barcelona vs Real Madrid. O Barcelona tem um jogo contra o Valência, o Real Madrid tem um jogo contra o Maiorca), os gols marcados pelas equipes serão levados em consideração apenas durante o tempo regulamentar. Se um dos eventos participantes do duelo for interrompido ou adiado por mais de 12 horas, a aposta receberá ODD 1. 
+28- No caso de todas as opções de apostas cujas seleções são do tipo “Abaixo/Acima de X”, se o número de gols/pontos/escanteios/pontos de basquete mencionados predefinidos etc. for igual à linha de aposta, a aposta receberá ODD 1. Por exemplo: A opção de aposta "Total de pontos de basquete do jogador X - Acima de 4". Se o jogador X marcar exatamente 4 pontos, a aposta receberá ODD 1. 
+6 REGRAS ESPECIAIS DE LIQUIDAÇÃO 
+6.1 FUTEBOL 
+1- Para alguns tipos de apostas, mais de uma partida precisa ser jogada para que a aposta seja liquidada. Por exemplo, “Quem avançará?”, “Qual time vencerá a final?” (caso a final for disputada no formato time da casa e time visitante) etc. 
+2- No caso da aposta “Jogador que marcará gol (incluindo prorrogação)”, se não houver prorrogação, a aposta será liquidada de acordo com o resultado do final do tempo regulamentar de jogo. 
+3- Se a opção de aposta permanecer disponível logo após a ocorrência dos seguintes eventos: gols/pontuações, cartões vermelhos ou amarelos-vermelhos, pênaltis ou, nos casos em que uma decisão do árbitro assistente de vídeo (VAR) levar à concessão de um dos eventos mencionados acima, temos o direito de invalidar as apostas impactadas. 
+4- Se a aposta tiver sido aberta com um cartão ausente ou incorreto, reservamo-nos o direito de invalidar a aposta. 
+5- Se as odds forem oferecidas com um tempo de jogo incorreto (mais de 5 minutos), reservamo-nos o direito de invalidar a aposta. 
+6- Se uma pontuação incorreta for inserida, todas as apostas serão canceladas para o período em que a pontuação errada tiver sido exibida. 
+7- No caso de quaisquer alterações causadas pelo árbitro assistente de vídeo (VAR), que afetem a pontuação ou os cartões/escanteios/pênaltis, desde que esse evento ocorreu e até que a decisão seja tomada pelos oficiais, reservamo-nos o direito de invalidar a aposta. 
+8- No caso de apostas em cartões (somente para os tipos de apostas para as quais a cor do cartão não for especificada): 
+a) O cartão amarelo é considerado 1 cartão e o cartão vermelho 2. O segundo cartão amarelo de um jogador não é levado em consideração. Como resultado, um jogador não pode ter mais de 3 cartões. 
+b) A liquidação é feita de acordo com todas as evidências de cartões mostrados durante o tempo regulamentar de 90 minutos. 
+c) Os cartões mostrados após o tempo regulamentar não são levados em consideração. 
+d) Cartões recebidos por não jogadores (jogadores que foram substituídos, técnicos, jogadores no banco de reservas) não são levados em conta. 
+e) Os cartões mostrados durante o intervalo da partida são considerados como tendo sido mostrados no segundo tempo e serão levados em consideração enquanto o jogador ainda estiver em atividade (se o jogador não voltar a jogar no segundo tempo e tiver recebido um cartão durante o intervalo, não será levado em consideração) 
+9- No caso de apostas AO VIVO, os pontos de cartão: 
+a) O cartão amarelo vale 10 pontos e o vermelho ou amarelo-vermelho valem 25. O segundo cartão amarelo de um jogador não é levado em conta. Consequentemente, um jogador não pode ter mais de 35 pontos em relação aos cartões. 
+b) A liquidação é feita de acordo com todas as evidências de cartões mostrados durante o tempo regulamentar de 90 minutos. 
+c) Os cartões mostrados após o tempo regulamentar não são levados em conta. 
+d) Os cartões recebidos por não jogadores (jogadores que foram substituídos, técnicos, jogadores no banco de reservas) não são levados em conta. 
+10- No caso de apostas em jogadores: 
+a) Para todas as opções de aposta em jogadores feitas antes da partida (Pré-Partida), se o jogador não estiver na escalação inicial, as apostas terão Odds 1 (Anulada). 
+b) Para todas as opções de aposta em jogadores ao vivo, se o jogador no qual a aposta foi feita não estiver em campo no momento da aposta, as apostas terão Odds 1 (Anulada) 
+c) Para o tipo de aposta “próximo a marcar gol”: 
+•	Os gols contra não são levados em conta para a liquidação desse mercado e serão ignorados, exceto para as apostas em que a opção de apostar em gols contra é possível. 
+•	Todos os jogadores que tiverem participado do jogo desde o pontapé inicial ou desde o gol/ponto anterior se qualificam. 
+•	Todos os jogadores ativos estão listados. Se um jogador não listado marcar um gol, todas as apostas nos jogadores listados permanecerão válidas.  
+•	Os gols marcados durante a prorrogação ou cobranças de pênaltis não são levados em consideração. 
+•	Todos os jogadores não listados, goleiros e jogadores no banco de reservas fazem parte da opção de aposta “Outros”, que será usada para fins de liquidação. 
+d) Para o tipo de aposta “Marcar gol a qualquer momento”: 
+•	Os gols contra não são levados em conta. 
+•	Se, por qualquer motivo, um jogador não listado marcar um gol, todas as apostas nos jogadores listados permanecerão válidas. 
+e) Para o tipo de aposta “Jogador A ou Jogador B marcam” e “Jogadore A e Jogador B marcam”: 
+•	Os gols contra não são levados em consideração. 
+•	Se um ou ambos os jogadores não participarem da partida, as apostas terão Odds 1 (Anualdo). 
+f) Para as opções de apostas “Marcar gol com o pé esquerdo/direito”, “Gol de falta”, “Gol de fora da área”: 
+•	Os gols contra não são levados em consideração. 
+11- Para os tipos de apostas “Próximo & 1X2” e “Marcar a qualquer momento & 1X2”, qualquer jogador que não marcar gol faz parte da opção de aposta “Outros”. 
+12- Para os tipos de apostas “Próximo a marcar e placar correto” e “Marcar a qualquer momento e placar correto”, qualquer jogador que não marcar gol faz parte da opção de aposta “Outros”. Além disso, se uma das equipes marcar mais de 4 gols, a aposta será definida como “Outros”, já que as opções de Placar correto não terão mais opções de apostas que cubram todos os cenários possíveis. 
+13- Para a aposta “Quando será o próximo gol/ponto marcado?”, se um gol for marcado nos minutos de prorrogação designados pelo árbitro, ele será levado em consideração nos intervalos 31-45/76-90. 
+14- Para apostas em intervalos/faixas: 
+a) As apostas em intervalos de gols são decididas com base no horário anunciado na TV. Se isso não estiver disponível, o minuto será contado de acordo com o relógio oficial do jogo. 
+b) As apostas também são decididas de acordo com o minuto em que a bola passa pela linha de fundo e não no minuto em que a bola foi chutada. 
+c) As apostas nos intervalos de escanteios são decididas com base no momento em que a cobrança de escanteio é executada e não no momento em que foi recebida/apontada pelo árbitro. 
+d) As apostas em intervalos de cartões são decididas com base no momento em que o cartão é dado ao jogador e não no momento em que a violação da regra ocorreu. 
+e) As apostas em intervalos de impedimentos são decididas com base no momento em que o árbitro toma a decisão. Essa regra será aplicada em qualquer situação que envolva o árbitro assistente de vídeo (VAR). 
+f) As apostas em intervalos de pênaltis são decididas com base no momento em que o árbitro toma a decisão. Essa regra será aplicada em qualquer situação que envolva o árbitro assistente de vídeo (VAR). 
+g) Os pênaltis dados pelo árbitro, mas não cobrados, não são levados em conta. 
+h) Para apostas em intervalos de 5 min/15 min, os eventos (gols, escanteios) dos minutos de prorrogação atribuídos pelo árbitro, relacionados aos intervalos 41-45 e 31-45 da metade especificada do jogo serão levados em consideração. 
+15- Os escanteios dados pelo árbitro, mas não cobrados, não são levados em conta. 
+16- Para a aposta “Método ao marcar o Xº gol”: 
+a) Cobrança de falta: Para ser considerado, o gol deve ser marcado diretamente da cobrança de falta ou e de escanteio. Os chutes desviados são contados desde que o gol seja concedido ao jogador que cometeu a falta direta ou cobrou o escanteio. 
+b) Pênalti: O gol deve ser marcado diretamente a partir da cobrança de pênalti. Os gols marcados após um chute defendido ou perdido não são levados em consideração. 
+c) Gol contra: Se o gol for declarado como gol contra. 
+d) Cabeçada: O último toque na bola pelo jogador deve ser feito com a cabeça. 
+e) Chute: O gol deve ser marcado com qualquer parte do corpo que não seja a cabeça e outros tipos não são levados em consideração. 
+f) Nenhum gol marcado. 
+17- Para as apostas em partidas de futebol com formato composto por 3 tempos de 30 minutos cada: 
+a) As opções de apostas são interrompidas após os primeiros 30 minutos, até que o jogo seja reiniciado. 
+b) No minuto 44:59, todos os tipos de apostas para o primeiro tempo são decididas e os tipos de apostas específicas para o segundo tempo ficam disponíveis. 
+c) Após o segundo período de 30 minutos (minuto 60), as opções de apostas são novamente interrompidas até que o jogo seja retomado. 
+18- No caso de jogos amistosos, se o árbitro apitar o fim do jogo a qualquer momento após o minuto 87:59, esse momento será considerado o resultado final do evento e todas as apostas serão devidamente decididas. 
+19- Para a opção de aposta pré-partida, “O primeiro gol/marcação”, se nenhum gol for marcado no jogo e a opção de aposta “Sem pontuação” não estiver disponível, a aposta será perdida. 
+20- Se uma opção de aposta permanecer em aberto logo após um cartão ser dado, seja amarelo ou vermelho, reservamo-nos o direito de invalidar as apostas feitas desde o momento em que o evento ocorreu até o momento em que a decisão for tomada pela arbitragem. 
+21- Para liquidar apostas sobre várias estatísticas específicas de jogos de futebol, temos as seguintes definições: 
+A) Chute/Finalização na direção do gol - é definido como qualquer tentativa de gol que: 
+•	Entra no gol independentemente da intenção. 
+•	É uma tentativa clara de gol que teria sido marcado se não tivesse sido defendido pelo goleiro ou se tivesse sido interrompido pelo último jogador, sem que o goleiro tivesse chance de impedir o gol (bloqueio de última linha). 
+Os chutes que atingem diretamente a trave do gol não são contados como chutes ao gol, a menos que a bola entre e seja considerada um gol. 
+Chutes bloqueados por outro jogador, que não o último jogador, não são contados como chutes ao gol 
+B) Chute/Finalização para fora - é definido como qualquer tentativa clara de gol que: 
+•	Passa por cima ou por fora do gol sem fazer contato com outro jogador. 
+•	Passaria por cima ou por fora do gol se não tivesse sido impedida por uma defesa do goleiro ou por um jogador de linha. 
+•	Atinge diretamente a trave do gol e o gol não é marcado. 
+•	Chutes defendidos não são contados como chutes para fora do gol. 
+C) Chute/Finalização bloqueado - é definido como qualquer tentativa clara de gol em que: 
+•	A bola está indo na direção do gol e é bloqueado por um jogador de linha, quando há outros defensores ou um goleiro atrás do bloqueador. 
+Inclui chutes bloqueados involuntariamente pelo próprio companheiro de equipe do arremessador. 
+As cobranças fora da linha por um jogador adversário (bloqueio na última linha) são contadas como chutes ao gol e não são contadas como chute defendido. 
+Cobrança de falta direta para marcar gols/chutes 
+Chutes diretos em cobrança de falta são tentativas criadas diretamente a partir da própria cobrança de falta (sem assistência). 
+D) Localização para gols/chutes 
+A posição da bola quando o chute é dado (origem do chute). 
+•	De dentro ou fora da área de 6 jardas (5,48 m) 
+•	De dentro ou fora da área de 18 jardas (16,45 m) Qualquer evento que ocorra em uma linha será considerado dentro dessa área.
+•	Por exemplo, um chute na linha de 18 jardas (16,45 m) será considerado como estando dentro da área.
+E) Assistência ao gol 
+O toque final (passe, passe final ou qualquer outro toque) que leva o recebedor da bola a marcar um gol. Se o toque final (conforme definido em negrito) for desviado por um jogador adversário, somente seria dado ao iniciador uma assistência para o gol se houvesse probabilidade de receber a bola sem que o desvio tivesse ocorrido. Gols contra, cobranças de faltas diretas, gols de escanteio diretos e pênaltis não recebem uma assistência. 
+F) Passe 
+Qualquer bola jogada intencionalmente de um jogador para outro. Os passes incluem passes em jogo aberto, chutes ao gol, escanteios e cobranças de faltas diretas como passe, mas excluem cruzamentos, lançamentos e arremessos do goleiro. 
+G) Cruzamento 
+Qualquer bola jogada intencionalmente de uma posição ampla com a intenção de alcançar um companheiro de equipe em uma área específica diante do gol. 
+H) Chute na trave - dado em situações em que a bola bate na trave do gol, exceto gols que rebatem na trave antes de entrar na rede. 
+Qualquer chute que atinja a trave várias vezes (por exemplo, trave e poste esquerdo), somente conta como tendo atingido a trave uma vez. 
+A bola que rebate na trave é sempre recebida pela equipe atacante (e pelo jogador que realizou a última ação), mesmo quando a bola bate na trave vindo de um passe defensivo para trás. 
+I) Pênalti (cometido, sofrido e cobrado) 
+Um pênalti é recebido sobre a falta sofrida (equipe e jogador). Uma falta cometida que resulta em um pênalti só é cobrada pelos jogadores e não inclui aquelas que instigam o uso das mãos. O pênalti batido é recebido como um chute ou passe de pênalti (equipe e jogador). 
+J) Desarme - é definido como o momento em que um jogador se conecta com a bola em um desafio em que ele consegue tirar a posse da bola de um jogador. 
+O jogador desarmado deve estar claramente com a posse da bola antes do desarme ser feito. 
+Não se trata de um desarme quando um jogador corta um passe através de qualquer meio. 
+K) Falta sofrida - é definida como qualquer infração penalizada como jogada faltosa pelo árbitro. 
+Os impedimentos não são considerados como uma falta sofrida. 
+L) Falta cometida - é definida como quando um jogador tem uma cobrança de falta ou pênalti para o seu time após sofrer falta de um jogador adversário. 
+Não há falta cometida por toque de mão, mergulho, passe para trás, reinício ilegal, dissidência, violação de 6 segundos do goleiro ou obstrução quando uma falta direta é sofrida. 
+M) Impedimento - Concedido ao jogador que estiver em posição de impedimento quando uma cobrança de falta for autorizada. Se dois ou mais jogadores estiverem em posição de impedimento quando o passe for executado, o jogador considerado mais ativo e que estiver tentando jogar a bola será considerado impedido. 
+N) Tiro de meta - É concedido ao time/jogador que estiver cobrando o tiro de meta. 
+O) Arremesso lateral - É concedido ao time/jogador que executa o arremesso lateral. 
+P) Defesa do Goleiro - Definição de acordo com o OPTA
+22- No caso de apostas especiais de futebol, cujo objeto é um Dia/período/fase da competição/liga: 
+A) Para a liquidação dos resultados, o tempo de jogo regulamentar será levado em consideração (se não houver outras menções), incluindo os minutos de prorrogação concedidos pela arbitragem em decorrência às interrupções normais nas duas metades da partida. 
+B) Para a liquidação, os eventos de partida mencionados (gols, escanteios, cartões etc.), os grupos de equipes indicados (da casa, visitante etc.) e o grupo definido de eventos esportivos (Dia da Liga/Período/Fase da Liga/Competição) são levados em conta cumulativamente. O organizador também pode oferecer essas apostas para um grupo específico de partidas de uma ou mais competições. 
+C) Para todas as apostas nos mercados relacionados a cartões amarelos e/ou vermelhos, os cartões recebidos pelos jogadores no banco e pelos oficiais (equipe técnica dos times, oficiais do jogo etc.) não são levados em consideração. Os cartões concedidos após o apito final do jogo não são levados em conta. 
+D) Se as apostas forem feitas no número de cartões, sem especificar sua cor, as seguintes regras serão aplicadas: 
+a) O cartão amarelo conta como 1 cartão e o cartão vermelho como 2. O segundo cartão amarelo de um jogador não é levado em conta. Portanto, um jogador não pode ter mais de 3 cartões. 
+b) A LIQUIDAÇÃO é feita de acordo com todas as evidências de cartões recebidos no tempo regulamentar de 90 minutos. 
+c) Os cartões recebidos após o tempo regulamentar não serão levados em conta. 
+d) Cartões recebidos por não jogadores (jogadores que foram substituídos, técnicos, jogadores no banco de reservas) não são levados em conta. 
+E) Escanteios recebidos, mas não executados, não são levados em conta. 
+F) Um dia é definido como o intervalo de tempo entre 10:00 h e 09:59 h do dia seguinte. Por exemplo: "DIA ESPECIAL - TOTAL DE GOLS - BUNDESLIGA - 21 de julho de 2022". Nesse caso, todos os jogos com horário de início entre 10:00 h de 21 de julho de 2022 e 9:59 h de 22 de julho de 2022 serão levados em consideração. 
+G) Como regra geral, em relação às Apostas Especiais, se o número total de eventos durante o jogo (gols, escanteios, cartões etc.) estabelecido pela Oferta for excedido, independentemente do número de jogos disputados, as opções de apostas serão declaradas vencidas ou perdidas. (Por exemplo: "ESPECIAL - SÉRIE A BRASIL - TOTAL DE GOLS POR ETAPA 17,5" - se dois ou mais jogos tiverem sido adiados, mas durante o restante dos jogos 18 gols tiverem sido marcados, as apostas com mais de 17,5 gols serão vencedoras e as apostas com menos de 17,5 gols serão perdedoras). 
+H) Se apenas uma das partidas em que se está apostando for cancelada ou adiada para depois das 23:59 Horas do dia seguinte (fuso horário local da partida), a partir do horário original (entendido como o jogo não ter começado), para a liquidação dos resultados será considerado que 2 gols foram marcados durante o jogo, da seguinte forma: 1 gol no primeiro tempo, 1 gol no segundo tempo, 1 gol do time da casa, 1 gol do time visitante. Para apostas que se referem a qualquer evento durante o jogo que não seja o gol (exemplo: cartão amarelo, falta, impedimento, escanteio etc.), as apostas serão invalidadas. Se o jogo começar até às 23:59 Horas do dia seguinte a partir do horário original, a aposta será calculada de acordo com o resultado registrado em campo. 
+I) Se 2 (dois) ou mais dos jogos em que se está apostando forem cancelados ou adiados para depois das 23:59 Horas (fuso horário local da partida) do dia seguinte a contar da marcação original (entendendo-se como tal os jogos não terem começado), a aposta será considerada nula e será atribuída ODD 1. 
+J) No caso de jogos interrompidos ou suspensos (entendidos como o jogo ter começado e depois ser interrompido) até depois das 23:59 Horas (fuso horário local da partida) do dia seguinte a partir do momento da interrupção, para a liquidação dos resultados, o resultado registrado no momento da interrupção será levado em consideração, mas somente em relação às situações nas quais a continuação do jogo não pudesse mais influenciar o resultado da aposta. Caso contrário, as apostas serão invalidadas. Se o jogo for retomado até às 23:59 Horas do dia seguinte a contar da hora de início original, liquidação será feita de acordo com os resultados registrados no final da partida. 
+K) Para fins de liquidação, os resultados em campo são levados em consideração, independentemente de quaisquer outras alterações dos resultados feitas pelas autoridades competentes (FIFA, UEFA, LPF, FRF etc.). 
+23- Para efeitos de liquidação, a fonte oficial dos dados relativos a todas as apostas de estatísticas de futebol é o site oficial da OPTA. Se não for possível obter informações desta fonte, a determinação do resultado será feita com base nos sites oficiais dos organizadores da competição e, subsequentemente, de outras fontes públicas de informação (por exemplo, fornecedores de dados esportivos, sites de estatísticas esportivas, portais esportivos, redes sociais oficiais dos clubes, etc.).
+24- Para apostas relacionadas a jogadores:  
+a) A partir da data 20/10/2025 nas apostas em que se encontra o símbolo da SuperSubstituição, a Super Substituição estará ativa nas apostas elegíveis e nas condições a seguir.
+b) A Super Substituição é uma oferta do ORGANIZADOR que permite que uma aposta no desempenho/estatística de um jogador continue ativa mesmo quando ele é substituído por outro atleta. Nesse caso, o jogador que entra em campo passa a herdar todas as estatísticas registradas pelo jogador substituído até aquele momento, somando-as às suas próprias estatísticas. A exceção são as apostas que já tenham sido validadas como ganhas ou perdidas antes do momento da substituição.
+c) A Super Substituição está disponível apenas para opções de apostas claramente identificadas na oferta de apostas de futebol, tanto Pré-jogo quanto Ao Vivo, dentro da oferta nas apostas simples/múltiplas mas também de Criar Aposta, Dicas de Aposta e/ou SuperOdds.
+d) A oferta está disponível tanto para apostas Simples e Múltiplas, porém apostas encerradas por meio da função Cash Out não são elegíveis para a SuperSubstituição.
+e) A oferta da SuperSubstuição não está relacionada a todos mercados de jogadores e ligas. Para saber em quais mercados/ligas a promoção é válida, clique aqui e saiba mais.
+f) As apostas serão validadas de acordo com as estatísticas fornecidas pela OPTA.
+g) Para funcionamento pleno da promoção, instale a versão mais atualizada disponível no APP da Google Play Store.
+h) Quando o mercado for cumulativo (ex.: Total de Finalizações, Chutes no Gol, Marcar 2+ Gols), o substituto herda as estatísticas do jogador original. As contagens são somadas (A + B) após as substituições. Exemplo: se A marca 1 gol e é substituído por B, que marca outro, o total é 2 e a condição “Marcar 2+” é atendida. Esta regra aplica-se apenas a resultados positivos cumulativos, não a mercados nos mercados de "Menos/Under".
+i) Exemplo da SuperSubstituição : Você apostou no mercado "Mbappé mais de 3.5 finalizações". Aos 60 minutos, ele é substituído por Vinícius Júnior, tendo finalizado apenas 2 vezes até aquele momento. Após entrar, Vini Junior finaliza mais 2 vezes. Com a Super Substituição ativa, as estatísticas se somam: 2 (Mbappé) + 2 (Vini Junior) = 4 finalizações. Sua aposta é considerada vencedora
+j) (Substituição Garantida - Promoção Desativada no dia 17/11/2025). Para ligas e mercados que não tenham o símbolo da Super Substituição e/ou não estão mencionadas na wiki da promoção, mantém a promoção "Subsituição Garantida". No caso de todas as opções de apostas pré-partida que envolvem mercado de jogadores, tanto da oferta regular quanto dos produtos Criar Aposta e Dicas de Aposta, por exemplo (Jogador para marcar, Chutes no gol do jogador, Faltas cometidas por jogador, mercado de duelos de jogadores.), se um jogador que participou da partida desde o início (foi parte do time titular) for substituído antes do início do segundo tempo, todas as apostas nesse jogador serão anuladas, com exceção das apostas que já foram resolvidas.
+25- SuperGol - Mercado Especial Estaduais Superbet
+a) O SuperGol é uma promoção exclusiva da SuperBet, válida em partidas de campeonatos onde a SuperBet é patrocinadora master, que adiciona mais emoção às suas apostas durante jogos de futebol.
+b) Realize a aposta no mercado "SuperGol" dentro da partida estabelcida. Para que a aposta seja considerada vencedora, é necessário que o gol ocorra no momento em que o LED (Placas de Publicidade) estejam exibindo a SuperBet atrás do gol. O momento de liquição é exatamente o momento em que a bola ultrapassa a linha e o gol é configurado. A Aposta não será liquidada com a Placa de Publicidade fixa no meio de campo. 
+
+c) A promoção aplica-se apenas a gols marcados durante o tempo regulamentar, incluindo cobranças de pênaltis realizadas durante o jogo, mas exclui disputas de pênaltis em partidas de mata-mata.
+d) Em caso do Árbitro de Vídeo (VAR), o que irá contar é o momento em que o gol ocorre, não a confirmação da arbitragem após análise de vídeo. Em caso de gols anulados pelo VAR, não será aplicada a promoção.
+
+26 - Mercado Especiais de Jogadores - Participação em Torneios
+a) As apostas realizadas em mercados especiais referentes à participação futura de um jogador específico num torneio (incluindo, mas não se limitando ao mercado "Jogar 1+ minuto na Copa do Mundo 2026") estão expressamente condicionadas à participação em pelo menos minuto do atleta.
+b) Caso o jogador selecionado não integre a lista final e oficial de convocados divulgada para o torneio em questão, todas as apostas realizadas neste mercado serão liquidadas como PERDIDAS.
+27 - Apostas por Intervalo de Tempo
+Estas regras valem para os mercados que cobrem o que acontece dentro de uma janela de tempo específica (ex.: próximos 1, 5, 10 ou 15 minutos), seja para gols, escanteios, cartões, finalizações no gol, faltas, laterais, tiros de meta, impedimentos ou pênaltis.
+a) As apostas de gols por intervalo são liquidadas com base no tempo exibido na transmissão de TV. Caso esse tempo não esteja disponível, será usado o tempo oficial do cronômetro da partida. O que vale é o minuto em que a bola cruza a linha do gol, e não o minuto em que o chute foi dado.
+c) Nos escanteios, conta o momento em que o escanteio é cobrado, e não quando ele é marcado/concedido.
+d) Nos cartões, conta o momento em que o cartão é mostrado pelo árbitro, e não quando a falta aconteceu.
+e) Nos impedimentos, conta o momento em que o árbitro toma a decisão. Isso vale inclusive para situações que envolvam o VAR.
+f) Nos pênaltis, conta o momento em que o árbitro toma a decisão. Isso vale inclusive para situações que envolvam o VAR.
+g) Pênaltis que são marcados, mas não chegam a ser cobrados, não são considerados.
+h) Nas apostas de intervalo de 5 e 15 minutos, os eventos (gols, escanteios) que ocorrerem nos acréscimos e que se relacionem aos intervalos de 41–45 e 31–45 minutos de cada tempo também serão incluídos.
+i) Nos arremessos laterais, conta o momento em que o lateral é cobrado, e não quando ele é marcado/concedido.
+j) Nos tiros de meta, conta o momento em que o tiro de meta é cobrado, e não quando ele é marcado/concedido.
+k) Nas faltas, conta o momento em que a falta é cometida (a infração em si).
+6.2 TÊNIS 
+1- Se um(a) jogador(a) declarar derrota antes do início do jogo ou se os organizadores declararem o encerramento do torneio por qualquer motivo, a ODD 1 será atribuída. 
+2- No caso de desistência ou desclassificação de um jogador, todas as apostas não decididas serão invalidadas, exceto nos casos em que o resultado final não tiver influenciado o resultado da aposta. 
+3- Em caso de atrasos (chuva, falta de energia etc.), todas as apostas permanecerão não decididas até que o jogo continue. 
+4- Se um ponto de penalidade for concedido pelo árbitro, todas as apostas permanecerão válidas. 
+5- Se um jogo acabar antes de certos Pontos/Games terminarem, todas as apostas nos Pontos/Games afetados serão invalidadas. 
+6- Em jogos de Simples em que na regra da partida não se joga o terceiro set após o empate em 1x1 em sets, são jogados Tie-Breaks ou Super Tie-Breaks para decisão do vencedor. Nesses casos, o Tie-Break ou Super Tie Break serão considerados como um set (nesse caso, o terceiro da partida) 
+7- Todos os Tie-breaks ou super Tie-breaks são considerados como 1 Game. 
+8- Caso o tipo de quadra for alterado antes ou durante o evento/torneio, a ODD 1 não será atribuída. 
+9- Para partidas de tênis em duplas, que são jogados em 2/3 sets, o terceiro set, conhecido como Super Tie-break, é levado em consideração durante a aprovação das apostas, como um set normal. 
+6.3 HÓQUEI NO GELO 
+1- Para partidas que também incluem prorrogação e/ou cobranças de pênaltis, se uma partida for decidida nos pênaltis, um gol será adicionado à pontuação das equipes vencedoras e ao total. Essa regra não se aplica às apostas que são decididas no tempo regulamentar do jogo. 
+2- Se a aposta permanecer em aberto depois que ocorrerem eventos como gols e pênaltis, reservamo-nos o direito de invalidar a aposta 
+3- Se as odds forem oferecidas com um tempo de jogo incorreto (mais de 2 minutos), reservamo-nos o direito de invalidar a aposta. 
+4- Se for exibido um placar incorreto, temos o direito de invalidar a aposta dentro desse tempo. 
+5- No caso das opções de aposta “Marcar a qualquer momento” e “O jogador marca um ponto”: 
+a) Todos os jogadores ativos são listados. 
+b) Se um jogador não listado marcar um gol ou der uma assistência, todas as apostas nos jogadores listados permanecerão válidas. 
+c) Todas as apostas em jogadores listados que deixaram o campo antes do final do jogo (lesões, eliminações) permanecem válidas. 
+d) Somente os gols e as assistências durante o tempo regulamentar de jogo serão levados em conta nas apostas. Se, após o tempo regulamentar, o placar for 0-0, todas as apostas serão consideradas perdidas. 
+e) As apostas serão liquidadas com base nas estatísticas e informações exibidas na TV pelas Autoridades Oficiais, a menos que haja evidência clara de que essas estatísticas não estejam corretas. 
+6- O método de marcar o próximo gol: 
+a) Even strength: Os gols são considerados “even strength” ou formação 5 sobre 5 (uma linha com três jogadores e uma linha com dois jogadores) quando as equipes têm o mesmo número de jogadores em campo. 
+b) Power-play: Um gol é considerado em “power-play” (ou seja, quando pelo menos um jogador da equipe adversária estiver fora do rinque cumprindo uma penalidade e a equipe tiver uma vantagem numérica no gelo) quando a equipe com mais jogadores em campo estiver pontuando. 
+c) Desfalque: Um gol é considerado “short-handed” (desfalcado) quando a equipe com menos jogadores em campo marca. 
+d) Pênalti: Um pênalti é considerado um gol se for marcado. 
+e) Gol sem goleiro ou com a rede vazia: Um gol é considerado de “rede vazia” se o time que está sendo liderado substituir o goleiro por um jogador de campo e o time que está liderando estiver marcando. Nas situações de “power-play”/“short-handed” e “rede vazia”, ao definir as apostas, qualquer gol será sempre considerado um gol de “rede vazia”. 
+f) Sem gol. 
+7- Para os mercados das Competições de Goleiros da NHL, se o jogador não estiver no começo do jogo, a aposta será invalidada. 
+8- Para os mercados das Competições de Jogadores da NHL (por exemplo: Total de gols do Jogador X, Total de pontos do Jogador X, Total de assistências do Jogador X etc.) as apostas são invalidadas em jogos adiados, cancelados ou abandonados. O jogo deve ser disputado na data originalmente programada. 
+9- Para mercados específicos de jogadores (por exemplo: Primeiro goleador, Último goleador, Total de gols do Jogador X, Total de pontos do Jogador X, Total de assistências do Jogador X etc.), se os jogadores não participarem da partida, as apostas serão invalidadas. 
+6.4 BASQUETEBOL 
+1- Se as odds forem oferecidas com um tempo de jogo incorreto (mais de 2 minutos), reservamo-nos o direito de invalidar a aposta. 
+2- Se um evento não terminar empatado, mas a prorrogação ocorrer para fins de qualificação, todas as apostas serão liquidadas de acordo com o resultado registrado no final do tempo regulamentar do jogo. 
+3- O tipo de aposta “Haverá prorrogação no jogo?” será liquidada com “sim” se a partida terminar empatada, independentemente de se a prorrogação do jogo ocorre ou não. 
+4- Para a competição da NBA - Mercados de jogadores (por exemplo: Total de pontos do Jogador X, Total de rebotes do Jogador X, Primeiro a marcar ponto Jogador X etc.) as apostas são invalidadas em jogos adiados, cancelados ou abandonados. O jogo deve ser disputado na data originalmente programada. 
+6.5 HANDEBALL 
+1- Se as odds forem oferecidas com um tempo de jogo incorreto (mais de 3 minutos), reservamo-nos o direito de invalidar a aposta. 
+2- Todas as apostas (com exceção de: Apostas nas metades de jogo, “quem marcará o ponto X” e “qual equipe vencerá a corrida para X pontos”) são consideradas apenas para o tempo de jogo regulamentar. 
+3- Se forem realizados arremessos de 7 metros, os tipos de apostas “Quem marcará o ponto X?” e “Qual equipe alcançará X pontos primeiro?” serão invalidadas. 
+6.6 FUTEBOL AMERICANO 
+1- Se as odds forem oferecidas com um tempo de jogo incorreto (mais de 89 segundos), reservamo-nos o direito de invalidar a aposta. 
+2- Se um placar incorreto for exibido, reservamo-nos o direito de invalidar a aposta, dentro desse espaço de tempo. 
+3- Se um jogo for cancelado ou adiado, todas as apostas serão invalidadas, a menos que o jogo continue de acordo com a programação semanal da NFL (quinta à quarta-feira, horário local). 
+4- Em caso de atrasos (chuva, falta de energia...), todas as apostas permanecerão não decididas até que o jogo continue. 
+5- Todos os jogadores ativos estão listados. 
+6- Ao liquidar as apostas, os jogadores que não estiverem listados fazem parte da opção “Equipe 1 outro jogador” ou “Equipe 2 outro jogador”. Os jogadores que estão listados, mas que não têm odds disponíveis, não são incluídos. 
+7- Os “Jogadores da defesa” ou “Equipe especial” são considerados “Jogadores da Equipe de defesa 1/Equipe especial (D/ST)” “Jogadores da Equipe de defesa 2/Equipe especial (D/ST)” ao liquidar apostas, mesmo que o jogador estiver listado como uma opção dedicada. 
+8- Margem de vitória (incluindo prorrogação)" - Um resultado positivo é considerado como a vitória do time da casa, ao passo que um resultado negativo é a vitória do time visitante <-13, -13 a -7, -6 a -1, 0, 1 a 6,7 até em 13, >13. 
+9- Para a competição da NFL - Mercados de jogadores (por exemplo: Total de jardas corridas do Jogador X, Total de jardas recebidas do Jogador X, Primeiras recepções do Jogador X etc.) as apostas são invalidadas em jogos adiados, cancelados ou abandonados. O jogo deve ser disputado na data originalmente programada. 
+6.7 VÔLEI 
+1- As deduções oficiais de pontos serão levadas em conta para todas as apostas não decididas. Para apostas que já foram decididas, as deduções de pontos não serão levadas em conta. 
+2- O set de ouro não é levado em conta em nenhum tipo de aposta. 
+6.8 VÔLEI DE PRAIA 
+1- As deduções oficiais de pontos serão levadas em conta para todas as apostas não decididas. Para apostas que já foram decididas, as deduções de pontos não serão levadas em conta. 
+2- O set de ouro não é levado em conta em nenhum tipo de aposta. 
+3- Se uma equipe se retirar da partida, todas as apostas não decididas serão invalidadas. 
+6.9 BEISEBOL 
+1- Para as apostas pré-partida, todas as apostas serão liquidadas levando-se em conta quaisquer entradas extras, se houver. Se o jogo terminar empatado e não houver prorrogação ou se a situação de empate for mantida mesmo após a prorrogação, o ORGANIZADOR invalidou a aposta em relação à aposta no “Resultado Final”, o restante das apostas (handicap, total de pontos etc.) serão liquidadas de acordo com o resultado registrado após o final do jogo (durante o tempo regulamentar ou após a prorrogação, se aplicável). 
+2- Para as apostas Ao vivo, todas as apostas serão liquidadas de acordo com o resultado final após 9 entradas (8 e 1/2 entradas se o time da casa liderar até esse ponto), a menos que especificado de outra forma. 
+3- Se duas equipes jogarem duas partidas uma contra a outra no mesmo dia, é possível que pelo menos um dos jogos seja disputado no formato de 7 entradas. Nessa situação, o resultado obtido ao final das 7 entradas será considerado como final e a liquidação será devidamente realizada. 
+4- Se um jogo for interrompido ou cancelado e não for retomado no mesmo dia, todas as apostas não decididas serão invalidadas. 
+5- Possíveis entradas extras são considerados apenas no caso de apostas "Quem marca o ponto X? " e "Qual equipe vencerá a corrida para X pontos? " ou outras especificações. 
+6- Os nomes das apostas não refletem os termos atuais usados no beisebol. Consulte a legenda para obter os termos atuais usados no beisebol: 
+       
+NOME DA APOSTA	GLOSSÁRIO DE TERMOS USADOS NO BEISEBOL
+Meio tempo	Ciclo
+Prorrogação do jogo (overtime)	Ciclo extra
+Pontos	Corridas
+Tempo de pausa	Resultado após o ciclo de 9 e 1/2
+7- Para a aposta “Como o jogo será decidido?”, ele será decidido como “Qualquer entrada extra” se, ao final do tempo regulamentar (após 9 entradas completas), a partida terminar empatada, independentemente de haver ou não prorrogação (entradas extras). 
+8- Para a aposta “Haverá prorrogação?”, será decidido como “Sim” se, ao final do tempo regulamentar (após 9 entradas completas ), a partida terminar empatada, independentemente de as entradas extras serem jogadas ou não. 
+9- Para a aposta “O jogador rebaterá em X tempo”, se for observada uma “caminhada intencional”, será decidido como “aparição na base” e a aposta será invalidada. 
+10- Para a aposta "Eliminação direta do batedor (strike out) por X vezes“pelo tempo X”, se ocorrer uma “caminhada intencional”, ela será decidida como uma “aparição na base” e a aposta será invalidada. 
+11- Para apostas do tipo 1 minuto - de x a y: 
+a) Se uma rebatida e um erro ocorrerem na mesma fase do jogo, ao decidir a aposta, será considerado como um rebatida. 
+b) Se um jogador não chegar à “base”, mas tiverem sido oferecidas opções de apostas relacionadas a esse jogador, todas as opções não decididas serão consideradas NULAS. 
+c) Ao apostar, uma “bola de falta” será considerada uma rebatida. 
+12- No caso de apostas de jogadores pré-partida (por exemplo, rebatidas do jogador, home runs do jogador, strikeouts do arremessador, etc.), se os jogadores não estiverem incluídos nas escalações iniciais oficiais (titulares), será concedido ODD 1 (ANULADA). 
+13- No caso de apostas pré-partida de jogadores (por exemplo, mercados de Pitcher/arremessador), o jogador tem de começar o jogo (titular) e, para contabilizar uma vitória deve jogar pelo menos 5 innings/entradas. 
+14- No caso de apostas de jogadores AO VIVO (por exemplo, Hits do Jogador, Home Runs do Jogador, Strikeouts do Arremessador, etc.), se os jogadores não participarem ativamente da partida, será concedido ODD 1. 
+6.10 FUTSAL 
+1- Se a aposta permanecer em aberto após a ocorrência dos seguintes eventos: gols, cartões vermelhos ou amarelos e pênaltis, reservamo-nos o direito de invalidar a aposta. 
+2- Se a aposta tiver sido aberta com um cartão ausente ou incorreto, reservamo-nos o direito de invalidar a aposta. 
+3- Se as odds tiverem sido oferecidas com um tempo de jogo incorreto (mais de 2 minutos), reservamo-nos o direito de invalidar a aposta. 
+4- Se uma pontuação incorreta for inserida, todas as apostas serão canceladas para o período em que a pontuação errada tiver sido exibida. 
+6.11 UNIÃO E LIGA DE RUGBY 
+1- Se a aposta permanecer em aberto depois que o placar for alterado ou houver cartões vermelhos, reservamo-nos o direito de invalidar a aposta. 
+2- Se a aposta tiver sido aberta com um cartão ausente ou incorreto, reservamo-nos o direito de invalidar a aposta. 
+3- Se as odds tiverem sido oferecidas com um tempo de jogo incorreto (mais de 2 minutos), reservamo-nos o direito de invalidar a aposta. 
+4- As apostas se baseiam no resultado ao final dos 80 minutos de jogo, salvo indicação em contrário. Os minutos de prorrogação devido a acidentes ou interrupções também serão incluídos, mas não incluirão a prorrogação da metade do jogo, o tempo das cobranças de pênaltis ou morte súbita. 
+6.12 RUGBY SEVENS 
+1- Se a aposta permanecer em aberto depois que o placar for alterado ou houver cartões vermelhos, reservamo-nos o direito de invalidar a aposta. 
+2- Se a aposta tiver sido aberta com um cartão ausente ou incorreto, reservamo-nos o direito de invalidar a aposta. 
+3- Se as odds foram oferecidas com um tempo de jogo incorreto (mais de 1 minuto), reservamo-nos o direito de invalidar a aposta. 
+4- As apostas se baseiam no resultado ao final dos 14/20 minutos de jogo, salvo indicação em contrário. Os minutos de prorrogação devido a acidentes ou interrupções também serão incluídos, mas não incluirão a prorrogação da metade do jogo, o tempo das cobranças de pênaltis ou morte súbita. 
+6.13 SINUCA 
+1- Se um jogo não for concluído, todas as apostas não decididas serão invalidadas. 
+2- Se um jogador se retirar ou for desclassificado, todas as apostas não decididas serão invalidadas. 
+3- No caso de um reposicionamento, a decisão permanecerá válida se o resultado tiver sido decidido antes do reposicionamento. 
+4- Faltas e bolas livres não são levadas em consideração ao decidir qualquer aposta em bolas coloridas. 
+5- Se um jogo (frame) for iniciado, mas não for concluído, todas as apostas nos jogos serão canceladas, a menos que o resultado já tiver sido decidido. 
+6.14 DARDOS 
+1- Se um jogo não for concluído, todas as apostas não decididas serão invalidadas. 
+2- “Bullseye” é o nome dado ao ponto de check out (círculo) vermelho no alvo. 
+3- Se os 2 competidores alcançarem o mesmo valor para fechamento e/ou 180s (empate), as apostas combinadas contendo seleções de fechamento mais alto e/ou mais 180s serão liquidadas como perdidas. 
+6.15 CRÍQUETE 
+1- Se um jogo for cancelado antes de seu início, todos os tipos de apostas serão invalidados se o jogo não for retomado até às 23:59 Horas do dia seguinte após o horário oficial de início da partida (fuso horário do local onde o jogo é disputado). 
+2- Se o jogo for um jogo empatado e as regras oficiais da competição não decidirem um vencedor ou se as regras da competição decidirem o vencedor por meio do lançamento de uma moeda ou sorteio, todos os tipos de apostas não decididas serão atribuídas como ODD 1. 
+3- Se um arremesso não for completado, todos os tipos de apostas não decididas nesse over (número superior) serão invalidadas, a menos que as entradas tenham chegado à sua conclusão natural, por exemplo: “statement”, “team all out”, etc. 
+4- Nenhum tipo de aposta leva em conta o período de “super over”, a menos que especificado de outra forma. 
+5- Corridas de punição não são consideradas para nenhum tipo de aposta em arremessos ou em arremessos (tipos de apostas em múltiplos arremessos (ou overs) não são considerados para essa regra). 
+6- Vinte 20, ODI: pelo menos 90% de todas as entradas devem ter sido jogados quando a aposta foi feita, para que os tipos de apostas sejam decididos, a menos que as entradas tenham chegado à sua conclusão natural. 
+7- No caso da aposta “Vencedor do jogo (incl. Super over)”, todas as apostas são decididas de acordo com as regras oficiais da competição. Se o evento for afetado por pelo tempo, as apostas serão decididas de acordo com o resultado oficial. 
+6.16 TÊNIS DE MESA 
+1- Se um jogo não for concluído, todas as apostas não decididas serão invalidadas. 
+2- Se um jogador se retirar, todas as apostas não decididas serão invalidadas. 
+3- As deduções oficiais de pontos serão levadas em conta para todas as apostas não decididas. Para apostas que já foram decididas, as deduções de pontos não serão levadas em conta. 
+6.17 BADMINTON 
+1- Se um jogador/equipe se retirar, todas as apostas não decididas serão invalidadas. 
+2- As deduções oficiais de pontos serão levadas em conta para todas as apostas não decididas. Para apostas que já foram decididas, as deduções de pontos não serão levadas em conta. 
+3- Se um jogo não for concluído, todas as apostas não decididas serão invalidadas. 
+6.18 FUTEBOL AUSTRALIANO (Regras australianas) 
+1- Se houver opções de apostas oferecidas para um evento que tenha um tempo de jogo incorreto (mais de 2 minutos), reservamo-nos o direito de invalidar a aposta. 
+2- Se um jogo for interrompido e retomado até às 23:59 Horas do dia seguinte após a interrupção (fuso horário local da partida), todas as apostas abertas serão liquidadas com base no resultado final. Caso contrário, todas as apostas não decididas serão consideradas ANULADAS. 
+3- O resultado final é considerado aquele registrado no final do tempo regulamentar do jogo, incluindo os minutos de prorrogação atribuídos pela arbitragem, para as interrupções normais do jogo, a menos que haja outras especificações. O tempo regulamentar de jogo é de 80 minutos. As metades adicionas de prorrogação não são levadas em consideração. 
+6.19 SQUASH 
+1- Se um jogo não for concluído, todas as apostas não decididas serão invalidadas. 
+2- Se um jogador se retirar, abandonar o jogo ou for desclassificado, todas as apostas não decididas serão invalidadas. 
+3- As deduções oficiais de pontos serão levadas em conta para todas as apostas não decididas. Para apostas que já foram decididas, as deduções de pontos não serão levadas em conta. 
+4- Se os pontos de pênalti forem concedidos pelo árbitro, todas as apostas nesse jogo serão válidas. 
+6.20 E-SPORTS 
+1- Se um jogo ou mapa não for concluído, todas as apostas não decididas serão invalidadas. 
+2- As apostas feitas em jogos listados incorretamente serão invalidadas. 
+3- Se um jogo ou mapa for reproduzido devido a problemas técnicos ou desconexão do site sem relação com os jogadores, todas as apostas não decididas serão inválidas/NULAS. O jogo ou mapa a ser reproduzido serão considerados entidades separadas. 
+4- Se uma equipe abandonar ou se retirar, todas as apostas não decididas serão NULAS. 
+5- Se o número regular de mapas mudar ou diferir daqueles declarados na Oferta, reservamo-nos o direito de invalidar as apostas. 
+6- Para apostas no Counter Strike (CS2): 
+a) A aposta “Mapa X - A bomba será desativada na rodada X?” será invalidada se a bomba não for colocada na rodada especificada. 
+b) Se o jogo começar com uma vantagem de mapa para uma das equipes, o primeiro mapa será considerado vencedor com uma pontuação de 13:0 para a equipe em vantagem. 
+c) De acordo com as regras oficiais do jogo CS2, os suicídios e os assassinatos resultantes após um fogo amigo (morte de um colega de equipe) serão pontuados como "-1" no total de mortes da equipe que as cometeu. 
+d) Para fins de liquidação dos mercados de "Assistência", as Damage Assists e Flash Assists são contabilizadas no resultado final da aposta.
+7- Para apostas no Dota 2: 
+a) A aposta “Mapa X - Quem obterá a Égide número X” é decidida com base na equipe que obtiver a Égide do Imortal, e não em quem matar Roshan. 
+b) A aposta “Mapa X - Quem destruirá a torre número X” - ao definir o resultado, qualquer método de destruição da torre será levado em consideração (Oponente e Creep; destruição por negação). 
+c) A aposta “Mapa X - Quem destruirá as Barracas número X” - ao definir o resultado, qualquer método de destruição das barracas será levado em consideração (Oponente e Creep; destruição por negação). 
+d) A aposta “Mapa X - Primeiro no Patrimônio líquido X” - Patrimônio líquido = ouro atual + o valor dos itens do herói 
+8- Para apostas na League of Legends: 
+a) A aposta “Mapa X - Quem destruirá a torre número X” - ao definir o resultado, qualquer método de destruição da torre será levado em consideração.
+b) A aposta “Mapa X - Quem destruirá o Inibidor número X” - ao definir o resultado, qualquer método de destruição do Inibidor será levado em consideração. Se o inibido que ja foi destruído ressurgir e for destruído novamente, não será contabilizado para a contagem final de Inibidores destruídos da partida/mapa.
+9- Para apostas de futebol do eSports (FIFA e/ou PES): 
+O tempo regulamentar de jogo levado em consideração é representado pelas seguintes variantes: 2 tempos X 4 minutos, 2 tempos X 5 minutos, 2 tempos X 6 minutos, 2 tempos X 7 minutos, 2 tempos X 8 minutos, exceto para aqueles especificados de outra forma. 
+6.21 ATLETISMO 
+1- No atletismo, a classificação estabelecida pelos primeiros anúncios oficiais é sempre levada em consideração. Nenhuma outra alteração ou decisão, individual ou coletiva, será considerada. 
+2- Se algum dos atletas for desclassificado ou abandonar o evento durante o mesmo, ele será considerado como participante da competição e receberá o resultado de acordo com o pódio estabelecido pelo Organizador. 
+3- Se o local do evento for alterado, sem que isso seja anunciado pelo Organizador, a aposta será nula e será atribuída a ODD 1 a todos os tipos de apostas. 
+4- Para apostas do tipo “duelo”, o vencedor será considerado o participante que tiver dado o maior número de voltas. 
+5- Se os participantes do duelo abandonarem na mesma volta, as apostas no duelo serão invalidadas. 
+6- Se um atleta não se classificar para a final ou não estiver participando dessa final, mas tiver participado de pelo menos uma de suas etapas anteriores, as apostas em “Vencedor”, “Ranking”, “Pódio” etc. serão consideradas perdidas. 
+6.22 ESPORTES DE INVERNO 
+1- Para esportes de inverno, a classificação estabelecida pelos primeiros anúncios oficiais é sempre levada em consideração. Nenhuma outra alteração ou decisão, individual ou coletiva, será considerada. 
+2- Se algum dos atletas for desclassificado ou abandonar durante o evento, considera-se que ele participou da competição e receberá o resultado de acordo com o pódio estabelecido pelo Organizador. 
+3- Se o local do evento for alterado, sem que isso seja anunciado pelo organizador, a aposta será invalidada. 
+4- Para apostas do tipo “duelo”, o vencedor será considerado o participante que tiver dado o maior número de voltas. 
+5- Se os participantes do duelo abandonarem na mesma volta, as apostas no duelo serão invalidadas. 
+6- Se um atleta não se classificar para a final ou não estiver participando dessa final, mas tiver participado de pelo menos uma de suas etapas anteriores, as apostas em “Vencedor”, “Ranking”, “Pódio” etc. serão consideradas perdidas. 
+6.23 NATAÇÃO 
+1- Na a natação, a classificação estabelecida pelos primeiros anúncios oficiais é sempre levada em conta. Nenhuma outra alteração ou decisão, individual ou coletiva, será considerada. 
+2- Se algum dos atletas for desclassificado ou abandonar durante o evento, considera-se que ele participou da competição e receberá o resultado de acordo com o pódio estabelecido pelo Organizador. 
+3- Se o local do evento for alterado, sem que isso seja anunciado pelo organizador, a aposta será invalidada. 
+4- Para apostas do tipo “duelo”, o vencedor será considerado o participante que tiver dado o maior número de voltas. 
+5- Se os participantes do duelo abandonarem na mesma volta, as apostas no duelo serão invalidadas. 
+6- Se um atleta não se classificar para a final ou não estiver participando dessa final, mas tiver participado de pelo menos uma de suas etapas anteriores, as apostas em “Vencedor”, “Ranking”, “Pódio” etc. serão consideradas perdidas. 
+6.24 FÓRMULA 1 
+1- O resultado final é considerado aquele registrado na apresentação do pódio, se especificado de outra forma, e a LIQUIDAÇÃO dos resultados será devidamente executada. 
+2- Eventos que tenham sido interrompidos devido a condições climáticas ou outras circunstâncias, mas com resultados oficiais declarados pelas Associações Oficiais, serão devidamente liquidados. 
+3- Se uma corrida tiver sido adiada para outro dia (a ser determinado), todas as apostas serão invalidadas. 
+4- Se o número de vencedores de uma opção de aposta exceder o número de opções de apostas oferecidas, para calcular a vitória, a regra “Dead Heat” será aplicada. 
+5- Se for necessário que um ou mais pilotos iniciem a corrida a partir do pit stop, a fim de liquidar as apostas, ele/ela será classificado(a) no final do grid de largada. 
+6- Se os participantes (com opções de apostas específicas) desistirem/abandonarem em voltas diferentes, o número de voltas completadas por cada um deles será levado em conta para a liquidação das apostas. Portanto, o vencedor será o participante que tiver completado a maior parte das voltas. 
+7- Para o tipo de aposta Duelo e vencedor do Grupo 
+a) Se os participantes (com opções de apostas específicas) abandonarem na mesma volta, as apostas serão invalidadas. 
+b) Se um dos participantes abandonar antes ou durante a volta de aquecimento, essas apostas específicas serão invalidadas. 
+8- Para o tipo de aposta de Rodada mais rápida: 
+a) O piloto que tiver feito o melhor tempo na volta especificada, no grupo de voltas especificado ou na corrida inteira será o vencedor 
+b) Para liquidar a aposta, a cronometragem do tempo da volta em milissegundos será levado em consideração. 
+9- Para opções de apostas nas Equipes: 
+a) As opções de aposta “Vencedora (equipes)”, “Top X (equipes)”, “Duelo (equipes)” serão liquidadas de acordo com a equipe com o carro mais bem posicionado no final da corrida. 
+b) A opção de aposta “Primeiro abandono (equipes)” será definida para a equipe que tiver o primeiro carro abandonado na corrida. 
+OBSERVAÇÃO: As regras específicas de liquidação para apostas no pit stop serão levadas em consideração. 
+c) A opção de aposta “A primeira entrada nos pit stops (equipes)” será liquidada para a equipe com o primeiro carro no pit stop. 
+OBSERVAÇÃO: As regras específicas de liquidação para apostas nos pit stops serão levadas em consideração. 
+d) A opção de aposta “Total de ultrapassagens/travessias (equipe)” será liquidada com base no número total de ultrapassagens/passagens feitas por ambos os carros da equipe especificada. 
+OBSERVAÇÃO: As regras de liquidação específicas para ultrapassagens serão levadas em consideração. 
+10- Para as opções de apostas em Ultrapassagem/Travessia/Invasão: 
+a) Uma Invasão/Travessia deve ser mantida até o final da volta para ser levada em conta na liquidação das apostas. 
+b) Invasão/passagens desde a primeira volta da corrida não são levadas em conta na liquidação das apostas. 
+c) Invasões/passagens sobre pilotos que entram ou saem dos pit stops nana volta especificada não são levadas em consideração ao liquidar as apostas. 
+d) Invasões/passagens sobre os pilotos que abandonam a corrida na volta especificada não são levadas em consideração ao liquidar as apostas. 
+e) “Dar voltas completas no circuito” (lapping) e “Voltar à pista à frente do líder” (unlapping) não são consideradas manobras de ultrapassagem/travessia. 
+11- Para opções de apostas em Abandono/Desistência: 
+a) Ao liquidar as apostas, considera-se como abandono quando um carro não cruza a linha de chegada quando a corrida é dada como terminada, a menos em caso de desclassificação. 
+b) Se 2 ou mais participantes abandonarem na mesma volta, quando ocorrer o primeiro abandono, para calcular a vitória, será aplicada a regra do item 12, capítulo 6 - Regras gerais de liquidação. 
+c) Se um carro abandonar no pit stop ou na pista dos boxes, a última volta iniciada será levada em conta na liquidação do resultado. 
+12- Para opções de apostas na entrada no pit stop: 
+a) O primeiro carro que entrar na pista do pit stop será considerado o vencedor. 
+b) Se um carro entrar na pista do pit stop e abandonar, sem realmente chegar ao pit stop, ele será considerado como já estando na pista dos boxes. 
+13- Para apostas em “Número de pilotos classificados”, um piloto é considerado classificado se completar 90% da corrida. 
+14- Para a opção de aposta “Carro de segurança na corrida”, o Carro de segurança virtual não será levado em consideração. Se o Carro de Segurança aparecer antes do início da corrida, não será levado em consideração. Se uma corrida for iniciada/reiniciada com o Carro de segurança em vez de uma partida/reinício normal, o Carro de segurança não será levado em consideração. 
+15) Se um piloto não se classificar para a corrida (Grid de Largada) ou não participar da largada do Grande Prêmio, mas tiver participado de pelo menos uma das sessões anteriores (por exemplo, Qualificação), as apostas nos mercados de "Vencedor", "Top 10 (Pontuação)" ou "Classificação Final" serão liquidadas como Perdidas.
+
+Exemplo prático: No GP de Interlagos, o usuário aposta no mercado Top 10 de Gabriel Bortoleto na corrida. O piloto participa normalmente do Treino Livre e da Qualificação, mas sofre um acidente no Q3 que o impede de largar na corrida de domingo. Como Bortoleto participou de fases oficiais do evento (sessões classificatórias), a aposta é considerada válida e liquidada como Perdida.
+6.25 MOTO GP 
+1- Para o tipo de aposta “Duelo”, o vencedor é considerado o participante que realizou a maior parte das voltas. 
+2- Caso os participantes do Duelo desistam/abandonem na mesma volta, as apostas serão invalidadas. 
+6.26 BOXING 
+1- Se um lutador abandonar antes do início do embate, será atribuída ODD 1 para esse evento. 
+2- Se os lutadores tiverem terminado a luta antes do final do tempo regulamentar porque um deles a abandonou, o participante remanescente é considerado o vencedor e a LIQUIDAÇÃO será feita de acordo com a ODD recebido. 
+3- Para as apostas “Vencedor na Rodada” e “Vencedor no Intervalo da Rodada”: 
+a) Se um lutador não puder iniciar um round, seu oponente será considerado o vencedor do round anterior. 
+b) Se o evento terminar por Decisão Técnica (antes do final de todos os rounds) ou por Decisão (após o final de todos os rounds), as seleções “lutador x vence por decisão” serão liquidadas como vencedoras; as seleções para “lutador x vence no round y” serão liquidadas como não vencedoras. 
+4- No caso das apostas “Total de rounds”: 
+a) a duração do round atual determinará a opção de aposta vencedora (abaixo/acima) 
+Por exemplo: Total de rounds - Menos de 1,5 rounds: a luta terminará antes da metade do 2º round. Se terminar exatamente na metade do round ou depois desse momento, a opção vencedora será o Total de rounds - Mais de 1,5 rounds 
+b) se a luta terminar exatamente na metade do round, a opção “Mais de X rounds” será liquidada como a opção vencedora. 
+6.27 UFC 
+1- Se um lutador abandonar a luta antes de seu início, as apostas serão invalidadas. 
+2- Se os lutadores encerrarem a luta antes do final do tempo regulamentar porque um deles a abandonou, o participante que restar na competição será considerado o vencedor e a liquidação será feita de acordo com a ODD atribuída. 
+3- Para as apostas “Vencedor no round”: 
+a) Se um jogador não puder iniciar um round, seu oponente será considerado o vencedor do round anterior. 
+b) Se o evento terminar por Decisão Técnica (antes do final de todos os rounds) ou por Decisão (após o final de todos os rounds), as seleções “lutador x vence por decisão” serão liquidadas como vencedoras; as seleções para “lutador x vence no round y” serão liquidadas como não vencedoras. 
+4- No caso das apostas “Total de rounds”: 
+a) a duração do round atual determinará a opção de aposta vencedora (abaixo/acima) 
+Por exemplo: Total de rounds - Menos de 1,5 rounds: a luta terminará antes da metade do 2º round. Se terminar exatamente na metade do round ou depois desse momento, a opção vencedora será o Total de rounds - Mais de 1,5 rounds 
+b) se a luta terminar exatamente na metade do round, a opção “Mais de X rounds” será liquidada como a opção vencedora. 
+5- A aposta “Vencer por decisão dividida” se refere à forma como os juízes determinam o vencedor da luta, ou seja, quando dois dos três juízes marcam o lutador X como vencedor, enquanto o terceiro juiz marca a favor do lutador Y. 
+6- A aposta “Vencer por decisão unânime” se refere à maneira como os juízes determinam o vencedor da luta, ou seja, quando todos os três juízes determinam que o vencedor da luta é o mesmo lutador. 
+6.28 K-1 
+1- Se um lutador abandonar antes do início da luta, as apostas serão invalidadas. 
+2- Se os lutadores tiverem terminado a competição antes do final do tempo regulamentar porque um deles abandonou, o participante remanescente na luta é considerado o vencedor e a LIQUIDAÇÃO será feita de acordo com a ODD atribuída. 
+6.29 MMA 
+1- Se um lutador abandonar antes do início da luta, as apostas serão invalidadas. 
+2- Se os lutadores tiverem terminado a competição antes do final do tempo regulamentar porque um deles abandonou, o participante remanescente na luta é considerado o vencedor e a LIQUIDAÇÃO será feita de acordo com a ODD atribuída. 
+3- Para as apostas “Vencedor no round”: 
+a) Se um lutador não puder iniciar um round, seu rival será considerado o vencedor do round anterior. 
+b) Se o evento terminar por Decisão Técnica (antes do final de todos os rounds) ou por Decisão (após o final de todas os rounds), as seleções “lutador x vence por decisão” serão consideradas vencedoras e as seleções para “lutador x vence no round y” serão consideradas perdidas. 
+4- No caso de apostas “Total de rounds”: 
+a) a duração do round atual determinará a opção de aposta vencedora (abaixo/acima) 
+Por exemplo: Total de rounds - Menos de 1,5 rounds: a luta terminará antes da metade do 2º round. Se terminar exatamente na metade do round ou depois desse momento, a opção vencedora será o Total de rounds - Mais de 1,5 rounds 
+b) se a luta terminar exatamente na metade do round, a opção “Mais de X rounds” será liquidada como a opção vencedora. 
+5- A aposta “Vencer por decisão dividida” se refere à forma como os juízes determinam o vencedor da luta, ou seja, quando dois dos três juízes marcam o lutador X como vencedor, enquanto o terceiro juiz marca a favor do lutador Y. 
+6- A aposta “Vencer por decisão unânime” se refere à maneira como os juízes determinam o vencedor da luta, ou seja, quando todos os três juízes determinam que o vencedor da luta é o mesmo lutador. 
+6.30 APOSTAS FUTURAS - APOSTAS DE LONGO PRAZO 
+1- As apostas de longo prazo (apostas futuras) se referem a eventos baseados em partes da competição ou em competições inteiras. As apostas futuras podem ser feitas antes do início de uma competição, bem como durante a mesma. Sem se limitar a isso, o ORGANIZADOR poderá oferecer os seguintes tipos de apostas de longo prazo, em referência a: equipes vencedoras, jogadores, rebaixamento, qualificação, estatísticas, artilheiros, posição no ranking, totais (pontos, gols, cartões, impedimentos, faltas, escanteios etc.), diferenças/handicaps (pontos, posição, gols etc.), entre outras. 
+2- Para a LIQUIDAÇÃO, a classificação oficial, disponível após o final do último jogo da competição, será levada em consideração. Ela também incluirá quaisquer pontos de penalidades recebidos antes do final da competição. Qualquer penalidade ou decisão que ocorra após o final da competição e que possa afetar qualquer situação estabelecida com base em resultados anteriores, não será levada em consideração. 
+3- Para o tipo de aposta “Vencedor - a equipe vence o campeonato”, o jogo decisivo (“playoff”) também é levado em consideração. 
+4- Para o tipo de aposta “Rebaixamento - o time será rebaixado/desclassificado para uma liga inferior”, o jogo decisivo para o rebaixamento/a ascensão também será levado em consideração. 
+5- Para o tipo de aposta “Melhor Artilheiro - o jogador que marcará a maior parte dos gols”, os gols marcados no Jogo decisivo (playoff)/Jogo de morte (playout) também serão levados em conta. 
+6- Se um campeonato for interrompido e terminar antes de todos os jogos programados: 
+a) para A LIQUIDAÇÃO das apostas em relação ao campeão/equipe vencedora da competição, a posição no ranking, o melhor artilheiro, o melhor jogador etc. -será levada em conta a decisão de cada federação/liga. 
+b) dependendo da situação, se nenhuma hierarquia for estabelecida, nenhuma equipe for rebaixada, nenhuma equipe for declarada campeã ou nenhum jogador puder ser considerado o melhor artilheiro, as apostas específicas referentes a tal categoria serão invalidadas 
+c) Para as apostas em totais de pontos, gols, cartões, escanteios etc. e, em geral, para apostas que envolvam valores quantificáveis, será atribuída ODD 1, a menos que as apostas já estejam decididas no momento da interrupção, ou que o jogo futuro da competição não afete mais seu resultado. 
+7- Para situações não abrangidas pelos REGULAMENTOS se, durante uma competição houver mudanças em sua estrutura (por exemplo, menos equipes rebaixadas) que possam afetar o resultado de alguns eventos da OFERTA, o ORGANIZADOR terá o direito de estabelecer como resolvê-las, de maneira justa, de acordo com decisões internas ou de cancelar as apostas, invalidando-as 
+8- No caso de apostas futuras em futebol, as partidas de ascensão ou rebaixamento não são levadas em consideração em nenhum tipo de aposta, exceto aquelas do tipo “Ascender” ou “Rebaixar” e aquelas em que algo mais é especificado na opção de aposta. 
+9- No caso de apostas futuras do tipo “Total de gols do jogador” dedicadas a competições nacionais, se o jogador não jogar em pelo menos 10 partidas pelo time especificado, independentemente do número de minutos jogados na partida, as apostas serão invalidadas. 
+10- No caso de apostas futuras em tênis, se o jogador não tiver jogado nenhuma partida no torneio, as apostas serão invalidadas. Se o jogador tiver jogado, independentemente do quanto e abandonar ou for desclassificado, as apostas permanecerão válidas. 
+11- No caso das apostas de Longo Prazo, como "Próximo clube do jogador X", os empréstimos não são considerados. O jogador deve ser transferido permanentemente para que a aposta seja ganha. 
+12- No caso de apostas de longo prazo como "Próximo treinador da equipe X", apenas o treinador permanente é considerado. Se um treinador interino ficar no cargo de treinador durante pelo menos 10 jogos oficiais consecutivos, então é considerado o treinador permanente e a aposta é validada como vencedora. 
+6.31 SPEEDWAY 
+1- Nas competições de Speedway, os jokers e os pontos de bônus não são incluídos nos cálculos das apostas em pontos. 
+2- O número de baterias levadas em consideração para o cálculo de pontos será especificado na oferta de apostas para cada competição. 
+3- No caso de um jogador aparecer no início de qualquer bateria da competição, as apostas que o envolvem serão válidas independentemente dos eventos subsequentes. Situações como exclusões (por exemplo, cartão vermelho) ou lesões não resultam no cancelamento da aposta. 
+6.32 XADREZ 
+O desempate em uma partida clássica que termina em empate é a aposta “Vencedora (Armageddon)”. Um jogador joga com as peças brancas e tem 5 minutos à sua disposição, ao passo que seu oponente com as peças pretas tem apenas 4 minutos. Como o jogador com as peças pretas tem menos tempo, ele também ganha em caso de empate. 
+6.33 CICLISMO 
+1- No ciclismo, a classificação estabelecida pelos primeiros anúncios oficiais é sempre levada em consideração. Nenhuma outra alteração ou decisão, individual ou coletiva, será considerada. 
+2- Se algum dos atletas for desclassificado ou abandonar durante o evento, considera-se que ele participou da competição e receberá o resultado de acordo com o pódio estabelecido pelo Organizador. 
+3- Se o local do evento for alterado, sem que isso seja anunciado pelo Organizador, a aposta será nula e será atribuída a ODD 1 a todos os tipos de apostas. 
+4- Para apostas do tipo “duelo”, o vencedor será considerado o participante que tiver dado o maior número de voltas. 
+5- Se os participantes do duelo abandonarem na mesma volta, as apostas no duelo serão invalidadas. 
+6- Se um atleta não se classificar para a final ou não estiver participando dessa final, mas tiver participado de pelo menos uma de suas etapas anteriores, as apostas em “Vencedor”, “Ranking”, “Pódio” etc. serão consideradas perdidas. 
+6.34 KINGS LEAGUE BRASIL
+1- Toda Oferta é relacionada a Kings League Brasil - Split 2, que se inicia no dia 9/03/2026 e termina no dia 18/05/2026
+2- Todas as apostas são liquidadas apenas com base no tempo regulamentar (36 minutos + Match Ball*) - shootout não incluso a menos que especificado no mercado
+*Match Ball (Minuto 36)
+Caso o placar esteja empatado no minuto 36:00, será realizada uma disputa de shootout - fim do tempo regulamentar. Não contando para settlement e estabelecendo o empate da partida.
+Caso uma das equipes esteja em vantagem no minuto 36:00, aplicar-se-á o seguinte:- A equipe em vantagem deverá marcar 1 (um) gol adicional para ser declarada vencedora da partida;- Por outro lado, o time que está perdendo também tem a oportunidade de vencer a partida, se conseguir reverter a situação e marcar um gol a mais que o adversário no placar geral.
+3- Se uma partida for interrompida e retomada até as 23:59 (horário local) do mesmo dia da data original do evento, todas as apostas abertas serão liquidadas com base no resultado final. Caso contrário, todas as apostas não decididas serão ANULADAS (VOID). 
+4- Os gols duplos são contabilizados normalmente para o pagamento das apostas. Exemplo: O Time A está vencendo por 3x1 do Time B. O Gol Duplo se inicia e o Time B marca o gol, empatando o jogo em 3x3 e o jogo é finalizado, assim, para liquidação das apostas será pago o Empate e 6 gols.
+5- Apostas dos jogos e longo prazo serão liquidadas com base nos dados oficiais fornecidas pela Kings League Brasil.
+6- Tirando o mercado de Vencedor, que será liquidado ao time que vencer a Grande Final, todos os outros mercados de longo prazo serão liquidados dentro da fase de grupos, não contando a Fase de Play-In e Play-Offs.
+REGRAS DE JOGOS VIRTUAIS
+1 - O Futebol Virtual é uma simulação gerada computacionalmente, sem qualquer vínculo com partidas ou campeonatos esportivos reais. Todos os resultados são produzidos de forma totalmente aleatória.
+2 - São aceitas apenas apostas pré-partida. Apostas múltiplas são permitidas exclusivamente entre eventos da categoria Virtuais, não sendo permitida a combinação com outros esportes ou categorias.
+3 - Todas as apostas são liquidadas com base nos registros internos da plataforma, fornecidos pelo provedor oficial. Em caso de inconsistência, a Superbet pode suspender temporariamente a liquidação para investigação, comunicando o usuário afetado.
+4 - Uma vez registrado nos sistemas da Superbet, o resultado é considerado oficial e definitivo, independentemente de eventuais problemas de transmissão, streaming ou conectividade do usuário.
+5 - A Superbet reserva-se o direito de alterar ou encerrar a oferta do produto a qualquer momento. Dúvidas devem ser direcionadas ao Suporte ao Cliente pelos canais oficiais. Estes termos complementam as Regras Gerais da Superbet, que prevalecem em caso de conflito.
+REGRAS DE JOGOS DE CASINO
+Versão 1.0 
+SPRBT INTERACTIVE BRASIL LTDA, uma sociedade de responsabilidade limitada, registrada com o CNPJ/MF de N° 54.071.596/0001-40, com sede na Capital do Estado de São Paulo, em Alameda Rio Claro, nº 241, 11º Andar, Sala 11-101, Bela Vista, CEP 01332-907 (referido adiante como a “Operadora”, “Superbet”, “Empresa”, ou “nós”), licenciada e regulada pela Secretaria de Prêmios e Apostas (SPA), divulga as presentes Regras de jogo relacionadas com a licença de cassino. 
+1 INTRODUÇÃO 
+1.1. Estas regras regem os Termos e Condições gerais de participação em jogos de azar em mesas de cassinos interativos online (no contexto destas regras, doravante referidos como: Jogos de cassino). 
+1.2. Por suas características, a empresa concorda que os prêmios e obrigações para com os jogadores deverão ser creditados ao jogador, desde que todas as condições estabelecidas por estas regras tenham sido cumpridas. 
+1.3. As pessoas com menos de 18 (dezoito) anos de idade estão proibidas de participar em jogos de mesa de cassino e máquinas caça-níqueis de cassino através de canais interativos de jogos online. 
+1.4. Com isto, você reconhece que alguns jogos podem ter seus próprios Termos e Condições e, portanto, você deve verificar as regras de um determinado jogo antes de jogar. 
+1.5. Reconhece, ainda, que alguns jogos podem ter um limite máximo de pagamento; portanto, você deve verificar as regras de um determinado jogo antes de jogar. 
+2 ESPECIFICAÇÕES DO JOGO 
+2.1 Jogos de cassino 
+2.1.1 Estes tipos de jogos incluem: os Jogos de cassino que representam a simulação de jogos em que os Jogadores jogam contra o cassino ou contra outros jogadores em mesas de jogos com bolas, cartas ou dados, de acordo com as regras internacionais. Em cada jogo de cassino, o jogador receberá a opção de jogar o jogo real ou um jogo de teste (demo). No jogo real, o jogador pode ganhar o montante declarado, ao passo que no jogo de teste o jogador não recebe os prêmios declarados. Jogar o jogo de teste não será considerado como participação no jogo de cassino específico. 
+2.1.2 Cada jogo de cassino inclui informações relevantes referentes à descrição do jogo, instruções sobre o modo de jogar e outros detalhes relevantes. 
+2.1.3 A empresa deve especificar a faixa de preço para participação em um jogo. O jogador deve selecionar o preço do jogo específico dentro da faixa de preços oferecida. 
+2.1.4 A apostar em um único jogo, o jogador coloca as fichas, de acordo com as denominações especificadas. 
+2.1.5 A exibição gráfica de cada jogo de cassino deve incluir um esquema das combinações vencedoras. O resultado de cada jogo é exibido no seu visor gráfico. 
+2.1.6 O jogador terá direito a uma vitória depois de ter ganho uma das combinações vencedoras estabelecidas no esquema de combinação vencedora. Os prêmios obtidos pelo jogador no jogo de cassino são creditados à sua conta virtual (I-account). 
+2.1.7 Em caso de falha técnica do sistema, todo e qualquer pagamento referente aos jogos em andamento será cancelado. Em caso de ganhos obtidos com base em falhas técnicas, a empresa se reserva o direito de não pagar por eles, nem de reembolsar o valor investido para o jogador. 
+2.1.8 A empresa não deverá ser responsabilizada por perdas ou danos sofridos pelo jogador em decorrência de falha do sistema, de comunicação ou de equipamento fora do sistema de vigilância da empresa (Força maior). 
+2.1.1.1 Blackjack (21) 
+O objetivo do jogo é ganhar do crupiê. Se a sua mão estiver mais próxima de 21 do que a do clube, você ganha. Se a mão do crupiê for superior a 21, você ganha novamente. Note que você perde automaticamente se a sua mão exceder 21. 
+OBJETIVO 
+O objetivo do jogo é ganhar do crupiê. Se a sua mão estiver mais próxima de 21 do que a do clube, você ganha. Se a mão do crupiê for superior a 21, você ganha novamente. Note que você perde automaticamente se a sua mão exceder 21. 
+INSTRUÇÕES DO JOGO 
+Quando o jogo carregar, você deve selecionar um assento, clicando em um dos assentos livres. Os lugares são numerados de 1 a 7 no salão e o lugar escolhido é guardado no seu histórico de jogo. 
+Para fazer uma aposta, selecione uma ficha do valor apropriado e, em seguida, pressione diretamente sobre a mesa em frente ao seu assento. 
+Se o jogo já tiver começado, você precisa esperar que o próximo comece para entrar. 
+Quando o jogo começa, são distribuídas duas cartas para cada jogador, viradas para cima. Mais duas para o crupiê, uma delas virada para cima e a outra virada para baixo. 
+REGRAS DO JOGO 
+Valor da carta - Todas as cartas numeradas de 1 a 9 têm o valor correspondente ao número escrito em sua face. Ao passo que Reis, Rainhas e Valetes têm um valor de 10. Um Ás pode valer 1 ou 11 pontos, assumindo o valor que forma a melhor mão. Se as duas primeiras cartas distribuídas totalizarem 21 (Ás e dez), você tem um blackjack. O Blackjack paga 3:2 da aposta inicial do jogador, a menos que o crupiê e o jogador tenham um blackjack, resultando em um empate. Outros prêmios são pagos 1:1. Quando você faz blackjack (Ás e uma carta de 10), o valor vencedor de 21, o qual é coletado na compra de uma carta, ao dobrar (double) o valor do jogo ou dividir (split) as cartas. 
+Quando chega sua vez, você pode tomar as seguintes ações: 
+•	Passar (Pass)- o jogador não toma nenhuma ação e permanece com sua mão de cartas. 
+•	Comprar (Draw) - o jogador compra uma carta adicional para melhorar o valor da sua mão. Essa opção pode ser utilizada várias vezes numa rodada.
+•	Dobrar (Double) - o jogador dobra o valor de sua aposta e recebe apenas mais uma carta. 
+•	Dividir (Split) - se as duas primeiras cartas tiverem o mesmo valor, você tem a opção de dividir as cartas, dobrando a sua aposta e recebendo mais duas cartas. Assim, você terá duas mãos para jogar. Observação: Se você quiser dividir os Ases, receberá apenas mais uma carta para cada um e não poderá comprar mais. Se você receber uma carta que vale 10 para um dos Ases, a mão não será considerada 21 (blackjack) porque foi formada após a divisão, não na primeira distribuição. Neste caso, o pagamento será de 1:1 e não de 3:2. Você só pode dividir as mãos uma vez. Se a carta aberta pelo crupiê for um Ás, todos os jogadores, exceto os que fizeram Blackjack, terão a seguinte opção: 
+•	Aposta de seguro - Esta aposta tem metade do valor da aposta inicial do jogador. Caso o crupiê tenha um 21 (blackjack), a aposta é paga a 2:1 e, caso não tenha um blackjack, os jogadores perdem apenas a aposta do seguro e o jogo continua com a aposta original. 
+•	Cancelar - o jogador recebe metade do valor da aposta sem continuar a jogar. 
+•	Nada - o jogo continua como de costume 
+Uma conexão fraca com a internet ou equipamento técnico ruim podem causar dificuldades durante o jogo e você não poderá fazer sua jogada a tempo. Na ausência de uma decisão, o sistema seleciona automaticamente o Passar (Pass) e “Não” (No) para o seguro. 
+Depois que a vez de cada jogador tiver passado, o crupiê deverá abrir sua carta. Se o valor da mão for inferior a 16, são distribuídas cartas adicionais até que a mão atinja um valor de pelo menos 17. Quando o crupiê tem um valor de mão entre 17 e 21, os jogadores com mãos mais próximas de e 21 do que ele ganham a rodada. Se o jogador e o crupiê tiverem um número igual de pontos, a mão é considerada empatada e o jogador não perde sua aposta. Se o crupiê extrapola ("burns out" ou "busts"), todos os jogadores recebem prêmios, exceto quando também eles extrapolarem o valor de 21. 
+Esta versão do 21 (blackjack) é jogada com 8 baralhos divididos ao meio. O crupiê embaralha as cartas ao final de cada rodada em que distribui a carta vermelha que divide o baralho. 
+Número de baralhos - Oito 
+O crupiê escolhe entre comprar ou desistir numa mão suave de 17 pontos (Ás, 6) - Passar 
+Um jogador pode dobrar após uma divisão? - Sim 
+O jogador pode dobrar? - Quaisquer duas cartas 
+O jogador pode fazer outra divisão? - Duas mãos 
+O jogador pode fazer novamente uma divisão de Ases? - Sim 
+O jogador pode pedir uma carta após um par de Ases? - Não 
+Apenas a primeira aposta é perdida no jogo de Crupiê para Blackjack (21)? - Não 
+É permitido fazer um cancelamento posterior? - Não 
+Blackjack (21) paga - 3:2 
+APOSTAS PARALELAS NO BLACKJACK (21) 
+Este tipo de blackjack envolve a seleção entre duas apostas paralelas - par perfeito e 21 + 3 e, por vezes, uma aposta. As apostas paralelas só podem ser feitas após uma aposta principal. Os prêmios desse tipo de aposta não dependem do resultado da mão normal. 
+PAR PERFEITO 
+Somente ao distribuir as duas primeiras cartas é possível obter um par perfeito vencedor. Existem três tipos possíveis de pares. 
+Par perfeito - Pares iguais do mesmo naipe. Por exemplo: dois Ases de espadas. 
+Par de mesmo naipe - Um par do mesmo naipe e outro par do mesmo naipe. Por exemplo: Par de cartas + Par de Copas. 
+Pares mistos - Cartas diferentes do mesmo naipe. Por exemplo: 10 de Copas e 10 de Espadas. 
+Cada par tem um pagamento diferente. 
+21+3 
+A aposta 21 + 3 permite a você ganhar se as suas duas primeiras cartas + a carta que o crupiê abre formarem uma das seguintes combinações (semelhantes às do pôquer). 
+Trios do mesmo naipe - Um trio da mesma cor. Por exemplo, 3 Damas de Copas. 
+Straight Flush - Uma combinação de três cartas consecutivas do mesmo naipe. Por exemplo: 10, Valete e Rainha de Ouros. 
+Trinca - Três cartas do mesmo valor, independente do naipe. Por exemplo: 3 Reis diferentes. 
+Straight - Três cartas consecutivas de naipes diferentes: Por exemplo: 2 de Espadas + 3 de Copas + 4 de Ouros. 
+Flush - Três cartas do mesmo naipe. Por exemplo: 2, 6 e 10 de Copas. 
+Os pagamentos são determinados em função da combinação e são definidos nos termos e condições de cada jogo. 
+2.1.1.2 Bacará 
+Depois que as apostas são feitas, duas mãos de duas cartas são distribuídas - uma mão para o “banco” (crupiê ou “cassino”) e uma mão para o jogador. O objetivo do jogo é chegar o mais próximo possível de nove pontos com um máximo de três cartas. O valor das cartas é o seguinte: 
+Pontos Do Mapa 
+Ás: 1 
+2-9: 2-9, o valor nominal é considerado 
+10/Valete/Rainha/Rei 0 
+Apenas o segundo dígito do resultado é analisado se o valor da mão exceder 9. Por exemplo, uma mão de 7+5+2 é igual a 14, o que equivale a um resultado de 4. 
+Os jogadores podem apostar em um dos três resultados possíveis: o jogador ganha (pagando o mesmo que apostou, ou seja, 1:1), a banca ganha (pagamento em odds de 1:1, menos comissão de 5%, por exemplo, uma aposta de 100 tem retorno líquido de 195) ou há um empate (pagamento em odds de 8:1). 
+No Bacará, as mãos são jogadas de acordo com regras fixas. 
+Para a mão do jogador, estas são as regras: 
+Se o jogador (ou a banca) recebe um 8 ou 9 nas duas primeiras cartas, essa mão é um “natural” e ganha (ou um empate se a mão adversária possuir o mesmo número de pontos). Segue-se uma nova distribuição. Um 9 natural bate um 8 natural. 
+Se as duas primeiras cartas do jogador tiverem uma pontuação de 1 a 5, o jogador deve comprar uma terceira carta. Se as duas primeiras cartas do jogador forem iguais a 6 ou 7, o jogador não poderá comprar uma terceira carta e a banca comprará em uma pontuação de 0 a 5. 
+A banca também faz retiradas de acordo com critérios fixos: 
+Pontos das duas cartas da banca: A banca compra uma terceira carta: 
+0-2 Automático 
+3 Se o jogador comprar qualquer terceira carta (a menos que seja uma 8) 
+4 Se o jogador comprar uma terceira carta entre 2 e 7 
+5 Se o jogador comprar uma terceira carta entre 4 e 7 
+6 Se o jogador comprar uma terceira carta entre 6 e 7 
+7-9 Não compra 
+A banca sempre compra cartas de acordo com estas regras, mesmo que ganhe, permanecendo com as suas duas cartas. 
+Apostas paralelas - Tipo de Aposta - Pagamento (lucro) - Descrição 
+Par do jogador, 11:1 - Uma aposta paralela que ganha se as duas primeiras cartas distribuídas ao jogador formarem um par. 
+Par da banca, 11:1 - Uma aposta paralela que ganha se as duas primeiras cartas distribuídas para a banca formarem um par. 
+2.1.1.3 Pôquer 
+Apenas um baralho (52 cartas) é utilizado em todos os jogos de pôquer. O pôquer é um jogo em que os jogadores enfrentam o crupiê, mas não uns aos outros. O objetivo de cada jogador é ter uma combinação de cartas mais forte que a do crupiê. Na rodada, qualquer jogador que tenha uma combinação mais forte do que a do crupiê ganha. Mais informações sobre como você pode jogar um determinado jogo de pôquer podem ser encontradas em sua respectiva descrição. 
+2.1.1.4 Roleta 
+OBJETIVO 
+O objetivo do jogo é adivinhar em que número a bola irá parar, fazendo uma ou mais apostas cobrindo o número correspondente. 
+REGRAS DO JOGO 
+A roleta tem 37 setores separados de números. Os números na roda vão de 1 a 36, coloridos em vermelho ou preto, e o 0 em verde. O objetivo é adivinhar em qual dos 37 números a bola vai parar. O crupiê gira a roda e deixa cair a bola. Quando a bola cai em um dos setores, o crupiê anuncia o número vencedor e todas as apostas são liquidadas automaticamente. O cronômetro começará a contagem regressiva novamente até o início do novo jogo. 
+OPÇÕES DE APOSTA 
+Na roleta, existem vários tipos de apostas que podem ser feitas com base na distribuição de fichas na mesa. As apostas são divididas em internas e externas, sendo as apostas internas colocadas na área numérica da mesa e as externas as feitas nas outras áreas. 
+APOSTAS INTERNAS 
+Número - Uma aposta feita num único número. O tipo mais simples de aposta, com o maior lucro. Esta aposta paga 35:1 + aposta inicial. 
+Dividida - Esta aposta abrange dois números adjacentes. Por exemplo, 24 e 27. Esta aposta paga 17:1 + aposta original. 
+Triplicada - Esta aposta é colocada no final da linha de números. Por exemplo, abrange 13, 14, 15. Esta aposta paga 11:1 + aposta original. 
+Quatros - Uma aposta feita no canto onde 4 números se encontram. Por exemplo, abrange 8, 9, 11 e 12. Esta aposta paga 8:1 + aposta original. 
+Coluna (6) - A aposta é feita na linha que separa duas linhas adjacentes, abrangendo, por exemplo, 31, 32, 33, 34, 35 e 36. Este tipo de aposta paga 5:1 + aposta inicial. 
+APOSTAS EXTERNAS 
+Apostas especiais - um conjunto de apostas múltiplas que são padrão para o jogo. Cada aposta abrange um conjunto diferente de números, com apostas realizadas a partir do botão “Apostas especiais”. Os pagamentos variam conforme as apostas. 
+Coluna (12) - Esta aposta cobre todos os 12 números na coluna correspondente e paga 2:1 + valor da aposta. 
+Dúzia - Esta aposta envolve novamente 12 números. Os jogadores podem escolher entre os primeiros 12 números (cobrindo de 1 a 12), a segunda dúzia (de 13 a 24) ou a terceira dúzia (de 25 a 36). Mais uma vez, esta aposta paga 2:1 + aposta original. 
+Preto/Vermelho - Uma aposta de 18 números que cobre todos os números vermelhos e pretos. Este tipo de aposta paga 1:1 + aposta original. 
+Par/Ímpar - Uma aposta é feita em 18 números pares ou ímpares, com a aposta pagando 1:1 + aposta original. Observe que os números pares não incluem o 0. 
+Baixo/Alto - A aposta cobre novamente 18 números de 1 a 18 ou de 19 a 36, pagando 1:1 + aposta original. 
+Números combinados - um conjunto de várias apostas com base na distribuição de números na roda e outros padrões especiais. Para fazer uma aposta de números combinados, você seleciona a opção pressionando o botão “Números combinados” e faz o tipo de aposta desejado na janela que se abre. 
+Os números combinados incluem: 
+Voisins du zero, também conhecido como vizinhos de zero - Esta aposta é feita com 9 fichas em 17 números entre 22 e 25 inclusive, com um 0 no meio. Uma aposta cada no Split (divisão) 4/7, 12/15, 18/21, 19/22 e 32/35. Aposta dupla em Triplicada 0/2/3 e Quadruplicadas 25/26/28/29. 
+Voisins du Nombre, também conhecido como aposta de números adjacentes é semelhante à aposta numérica, pois a aposta é feita diretamente em 5 números. A aposta correspondente pode ser feita a cada 5 números consecutivos de acordo com a roleta. 
+Camadas - com 6 fichas apostadas em 12 números que estiverem localizados mais longe de zero. Abrange os números entre 27 e 33-27, 13, 36, 11, 30, 8, 23, 10, 5, 24, 16, 33. 
+Orphelins, também conhecidos como órfãos, pois são feitas nos 8 últimos números que não estiverem incluídos nas apostas acima mencionadas. A jogada é feita com 5 fichas, com os números posicionados entre Níveis e Voisins du zero. As apostas são feitas da seguinte forma: Número apostado em 1, aposta dividida em 6/9, 14/17, 17/20 e 31/34. 
+Uma aposta dividida no vermelho é feita a partir de 4 apostas divididas em que uma divisão é feita apenas em vermelho. As apostas em 9/12, 16/19, 18/21 e 27/30 estão incluídas. 
+Uma aposta dividida em preto é feita a partir de 7 apostas divididas apenas em preto. Apostas em 8/11, 10/11, 10/13, 17/20, 26/29, 28/29 e 28/31 estão incluídos. 
+INSTRUÇÕES PARA APOSTAS 
+Para fazer uma aposta, selecione uma ficha com o valor correspondente escolhido e clique diretamente na área da mesa onde deseja fazer a sua aposta. Cada clique aumenta o número de fichas com as quais você jogará. Se você quiser remover uma ficha, clique sobre ela. Caso queira remover todas as fichas da mesa, clique no botão “Limpar”. Todas as apostas devem ser feitas antes do tempo expirar. 
+Os pagamentos são definidos nos termos e condições de cada jogo. 
+2.2 Caça-níqueis 
+2.2.1 Quando os jogos online simulam os caça-níqueis, a simulação deve ser idêntica ao funcionamento esperado de uma máquina caça-níqueis real. 
+2.2.2 Para cada jogo de cassino, o jogador terá a opção de jogar o jogo real ou de teste (demo). No jogo real, o jogador pode ganhar o montante declarado, ao passo que no jogo de teste o jogador não recebe os prêmios declarados. Jogar o jogo de teste não será considerado como participação no jogo de cassino específico. 
+2.2.3 Cada jogo de cassino inclui informações relevantes referentes à descrição do jogo, instruções sobre o modo de jogar e outros detalhes relevantes. 
+2.2.4 A empresa deverá especificar a faixa de preços para a participação num jogo. O jogador deve selecionar o preço do jogo específico dentro da faixa de preços oferecida. A aposta num único jogo pode ser feita através da troca do dinheiro por pontos, moedas, linhas, créditos e outros, dependendo do jogo e de acordo com as relações e denominações sugeridas. 
+2.2.5 A exibição gráfica de cada jogo de cassino deve incluir um esquema das combinações vencedoras. O resultado de cada jogo é exibido no seu visor gráfico. 
+2.2.6 O jogador terá direito a uma vitória depois de ter ganho uma das combinações vencedoras estabelecidas no esquema de combinação vencedora. Os prêmios obtidos pelo jogador no jogo de cassino são creditados na conta virtual do jogador (I-account). O valor dos prêmios obtidos nas máquinas caça-níqueis não deve ser inferior a 80% do valor dos pagamentos para participação nos jogos. 
+2.2.7 Em caso de falha técnica do sistema, os depósitos e pagamentos relacionados aos jogos em andamento serão cancelados. Em caso de ganhos obtidos com base em falhas técnicas, a empresa se reserva o direito de não pagá-los e de reembolsar o dinheiro investido ao jogador. 2.2.8 A empresa não será responsabilizada por perdas ou dados sofridos pelo jogador em decorrência de falhas do sistema, de comunicação ou de equipamento fora do sistema de vigilância da empresa (Força maior). 
+2.3 Prêmios do jackpot 
+2.3.1. A Empresa se reserva o direito de especificar vários tipos de jackpots (por exemplo, jackpot garantido, progressivo, de grupo etc.) 
+3 Eventos virtuais 
+3.1. Eventos virtuais sugerem a visualização de uma série de resultados de sorteios totalmente aleatórios, produzidos por um Gerador de Números Aleatórios (RNG). 
+3.2. As mesmas regras se aplicam às apostas em odds pré-determinadas nos eventos desportivos reais e, quando aplicável, às apostas em eventos virtuais. 
+3.3. Mais informações sobre as regras de apostas virtuais podem ser encontradas em Regras de apostas, disponíveis no nosso site. 
+4 Disposições finais 
+4.1. A empresa deverá publicar estas regras, bem como quaisquer alterações e emendas futuras no site da empresa. 
+4.2 As alterações e emendas deverão entrar em vigor a partir da data de sua publicação no site da empresa e se tornarão efetivas sem demora. O jogador deverá ser considerado como tendo sido notificado sobre as alterações e emendas a partir do momento de sua publicação na página web da empresa. Além disso, a empresa se reserva o direito de informar o jogador sobre essas alterações e emendas por outros meios apropriados (por exemplo, notificações por e-mail ou pela página web). 
+4.3 Em caso de discordância com as alterações às regras, o jogador estará obrigado a sair sem demora do sistema de eventos e solicitar o encerramento de sua conta. Caso o jogador se conectar ao sistema de jogos e/ou participar nos jogos de cassino, depois que tais alterações e emendas entrarem em vigor, as alterações e emendas serão consideradas como aceitas pelo jogador. 
+4.4 Apenas os dados registrados nos servidores do sistema de preparação da empresa são relevantes para apurar os fatos e resolver disputas. 
+Estas regras e os Termos e Condições Gerais deverão ser lidos em conjunto. 
+
